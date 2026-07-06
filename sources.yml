@@ -1,0 +1,66 @@
+# ============================================================
+# ロボットニュース収集 設定ファイル
+# このファイルを編集すれば、収集対象を自由に増減できます。
+# GitHubのWeb画面から直接編集 → コミットでOK（次回実行から反映）
+# ============================================================
+
+# ---- 専門メディアのRSSフィード ----
+rss_feeds:
+  - name: ロボスタ
+    url: https://robotstart.info/feed
+  - name: The Robot Report
+    url: https://www.therobotreport.com/feed/
+
+# ---- Google News キーワード検索（日本語） ----
+# 1行1キーワード。OR検索可。ここが収集の主力ネットです。
+google_news_queries:
+  - 清掃ロボット
+  - 床洗浄ロボット OR 床清掃ロボット
+  - 業務用清掃ロボット
+  - サービスロボット
+  - 配膳ロボット OR 案内ロボット OR 警備ロボット
+  - ビルメンテナンス ロボット
+  - ビルクリーニング ロボット
+  - ヒューマノイドロボット   # ロボット全般枠。大きなニュースのみAIが採用判定
+
+# ---- YouTubeチャンネル監視 ----
+# channel_id（UCで始まるID）または handle（@名）で指定。
+# handleは実行時にIDへ自動解決します（解決できない場合はスキップしてログに出ます）。
+# チャンネルIDの調べ方：チャンネルページ → 概要 → 「チャンネルを共有」→「チャンネルIDをコピー」
+youtube_channels:
+  - name: ロボスタ
+    handle: robotstart
+  - name: Pudu Robotics
+    handle: PuduRobotics
+  - name: Gausium
+    handle: GausiumRobotics
+  # - name: 例）チャンネルIDで指定する場合
+  #   channel_id: UCxxxxxxxxxxxxxxxxxxxxxx
+
+# ---- 有識者リンク集（サイトの「有識者」タブに表示） ----
+# X（Twitter）は自動収集できないため、手動チェック用のリンク集として表示します。
+# rss を指定すると（note・ブログ・Bluesky等）、その人の投稿も自動収集対象になります。
+# ※ 初期エントリは例です。実際にフォローしたい方に差し替えてください。
+experts:
+  - name: ロボスタ 公式X（例・アカウント名要確認）
+    x_url: https://x.com/robotstart_info
+    note: ロボット業界ニュース速報
+  - name: 例）note併用の有識者
+    x_url: https://x.com/USERNAME
+    rss: https://note.com/USERNAME/rss
+    note: rssを書くと投稿が自動収集されます
+
+# ---- 分類の指針（AIへの指示に使われます） ----
+classification:
+  # cleaning: 清掃ロボット・清掃技術に直接関係
+  # adjacent: 業務用サービスロボット（配膳・警備・案内・配送等）、ビルメンテナンスDX
+  # general:  ロボット全般のうち業界の話題になる大きなニュースのみ（資金調達・大手参入・技術ブレイクスルー等）
+  # skip:     上記いずれでもない（家庭用掃除機の単純なセール情報、ロボット無関係等）
+  max_summary_chars: 120
+
+# ---- 動作設定 ----
+settings:
+  max_items_per_feed: 20        # 1フィードあたり1回で取り込む最大件数
+  max_new_items_per_run: 60     # 1回の実行で処理する新規記事の上限（AI無料枠保護）
+  request_timeout_sec: 15
+  lookback_days: 4              # 何日前までの記事を新規として扱うか（取りこぼし保険）

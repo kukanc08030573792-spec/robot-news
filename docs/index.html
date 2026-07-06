@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ロボットニュース | 清掃ロボットを中心に毎朝自動収集</title>
+<meta name="description" content="清掃ロボット・業務用サービスロボットを中心としたロボット関連ニュースを毎朝自動収集・AI要約">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml">
+<style>
+:root{
+  --green:#25C16F; --navy:#0B3B61; --bg:#f5f7f6; --card:#fff;
+  --text:#1a2b28; --muted:#68807a; --border:#e2e9e6;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:"Noto Sans JP","Hiragino Sans","Yu Gothic",sans-serif;background:var(--bg);color:var(--text);line-height:1.6}
+header{background:var(--navy);color:#fff;padding:18px 16px 0}
+.hwrap{max-width:1100px;margin:0 auto}
+h1{font-size:1.25rem;font-weight:700;display:flex;align-items:center;gap:8px}
+h1 .dot{width:12px;height:12px;border-radius:50%;background:var(--green);display:inline-block}
+.sub{font-size:.78rem;opacity:.75;margin:4px 0 10px}
+.sub a{color:#9fd8bc}
+nav{display:flex;gap:4px;overflow-x:auto;padding-bottom:0;-webkit-overflow-scrolling:touch}
+nav button{flex:none;background:transparent;border:none;color:#cfe0da;padding:9px 13px;font-size:.86rem;cursor:pointer;border-radius:8px 8px 0 0;font-family:inherit}
+nav button.active{background:var(--bg);color:var(--navy);font-weight:700}
+.toolbar{max-width:1100px;margin:14px auto 0;padding:0 16px;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+#q{flex:1;min-width:200px;padding:9px 14px;border:1px solid var(--border);border-radius:20px;font-size:.9rem;font-family:inherit;background:var(--card)}
+#status{font-size:.75rem;color:var(--muted)}
+main{max-width:1100px;margin:14px auto 60px;padding:0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:box-shadow .15s}
+.card:hover{box-shadow:0 4px 14px rgba(11,59,97,.12)}
+.thumb{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#dfeee7,#c3e2d2);display:flex;align-items:center;justify-content:center;overflow:hidden}
+.thumb img{width:100%;height:100%;object-fit:cover}
+.thumb .ph{font-size:2rem;opacity:.45}
+.thumb .vid{position:absolute;left:8px;bottom:8px;background:rgba(0,0,0,.72);color:#fff;font-size:.68rem;padding:2px 8px;border-radius:10px}
+.body{padding:12px 14px 10px;display:flex;flex-direction:column;gap:7px;flex:1}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-size:.66rem;padding:2px 9px;border-radius:10px;font-weight:600}
+.chip.cleaning{background:#e3f7ec;color:#0e7a41}
+.chip.adjacent{background:#e8f0f8;color:var(--navy)}
+.chip.general{background:#f1eee6;color:#8a6d1d}
+.chip.expert{background:#fbe9f1;color:#a3255f}
+.title{font-size:.95rem;font-weight:700;line-height:1.45}
+.title a{color:var(--text);text-decoration:none}
+.title a:hover{color:var(--navy);text-decoration:underline}
+.summary{font-size:.8rem;color:#42544f}
+.foot{margin-top:auto;display:flex;justify-content:space-between;align-items:center;gap:8px;padding-top:6px;border-top:1px dashed var(--border)}
+.src{font-size:.7rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bm{flex:none;font-size:.74rem;text-decoration:none;border:1px solid var(--border);border-radius:14px;padding:3px 11px;color:var(--muted);background:#fff}
+.bm:hover{border-color:var(--green);color:var(--green)}
+.bm.on{background:var(--green);border-color:var(--green);color:#fff}
+.months{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.months button{padding:7px 14px;border:1px solid var(--border);background:var(--card);border-radius:16px;cursor:pointer;font-size:.82rem;font-family:inherit}
+.months button.active{background:var(--navy);color:#fff;border-color:var(--navy)}
+.experts{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.ex{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px}
+.ex .name{font-weight:700;font-size:.92rem}
+.ex .note{font-size:.78rem;color:var(--muted);margin:4px 0 8px}
+.ex a{font-size:.8rem;color:var(--navy)}
+.empty{padding:60px 0;text-align:center;color:var(--muted);font-size:.9rem;grid-column:1/-1}
+.more{display:block;margin:22px auto 0;padding:10px 34px;border:1px solid var(--border);background:var(--card);border-radius:22px;cursor:pointer;font-size:.88rem;font-family:inherit}
+.more:hover{border-color:var(--green);color:var(--green)}
+.notice{background:#fff8e6;border:1px solid #f0e2b6;border-radius:10px;padding:10px 14px;font-size:.78rem;color:#7a5d10;margin-bottom:14px}
+footer{text-align:center;font-size:.72rem;color:var(--muted);padding:20px}
+</style>
+</head>
+<body>
+<header>
+  <div class="hwrap">
+    <h1><span class="dot"></span>ロボットニュース</h1>
+    <p class="sub">清掃ロボットを中心に毎朝6時（JST）自動収集・AI要約 ｜ <span id="updated"></span> ｜ <a href="feed.xml">RSS</a></p>
+    <nav id="tabs"></nav>
+  </div>
+</header>
+
+<div class="toolbar">
+  <input id="q" type="search" placeholder="キーワード検索（タイトル・要約）">
+  <span id="status"></span>
+</div>
+
+<main>
+  <div id="notice"></div>
+  <div id="months" class="months" style="display:none"></div>
+  <div id="grid" class="grid"></div>
+  <button id="more" class="more" style="display:none">もっと見る</button>
+</main>
+
+<footer>自動収集のため、記事の内容は必ずリンク先の原文をご確認ください。</footer>
+
+<script>
+"use strict";
+const TABS = [
+  {id:"all", label:"すべて"},
+  {id:"cleaning", label:"清掃ロボット"},
+  {id:"adjacent", label:"隣接領域"},
+  {id:"general", label:"全般トピック"},
+  {id:"video", label:"動画"},
+  {id:"bookmarks", label:"★ブックマーク"},
+  {id:"experts", label:"有識者"},
+  {id:"archive", label:"アーカイブ"},
+];
+const CAT_LABEL = {cleaning:"清掃", adjacent:"隣接", general:"全般"};
+const PAGE = 30;
+
+let meta = {repo:"OWNER/REPO", experts:[], archive_months:[]};
+let items = [], bookmarks = [], bmIds = new Set();
+let tab = localStorage.getItem("tab") || "all";
+let query = "", shown = PAGE;
+let archiveMonth = null, archiveItems = [];
+
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+async function boot(){
+  try{
+    const [a, b] = await Promise.all([
+      fetch("data/articles.json").then(r => r.json()),
+      fetch("data/bookmarks.json").then(r => r.ok ? r.json() : []).catch(() => []),
+    ]);
+    meta = a.meta || meta;
+    items = a.items || [];
+    bookmarks = Array.isArray(b) ? b : [];
+    bmIds = new Set(bookmarks.map(x => x.id));
+    $("updated").textContent = meta.last_updated ? "最終更新 " + meta.last_updated.replace("T"," ").slice(0,16) : "";
+    if(meta.repo === "OWNER/REPO"){
+      $("notice").innerHTML = '<div class="notice">まだ初回収集が実行されていません。GitHubのActionsタブから「collect-news」を手動実行（Run workflow）してください。</div>';
+    }
+  }catch(e){
+    $("notice").innerHTML = '<div class="notice">データの読み込みに失敗しました。初回収集が未実行の可能性があります。</div>';
+  }
+  renderTabs(); render();
+  $("q").addEventListener("input", ev => { query = ev.target.value.trim().toLowerCase(); shown = PAGE; render(); });
+  $("more").addEventListener("click", () => { shown += PAGE; render(); });
+}
+
+function renderTabs(){
+  $("tabs").innerHTML = TABS.map(t =>
+    `<button data-t="${t.id}" class="${t.id===tab?"active":""}">${t.label}</button>`).join("");
+  $("tabs").querySelectorAll("button").forEach(btn =>
+    btn.addEventListener("click", () => { tab = btn.dataset.t; localStorage.setItem("tab", tab); shown = PAGE; render(); }));
+}
+
+function filtered(){
+  let pool;
+  if(tab === "bookmarks") pool = bookmarks;
+  else if(tab === "archive") pool = archiveItems;
+  else if(tab === "video") pool = items.filter(x => x.type === "video");
+  else if(tab === "all") pool = items;
+  else pool = items.filter(x => x.category === tab);
+  if(query) pool = pool.filter(x =>
+    (x.title + " " + (x.summary||"") + " " + (x.source||"")).toLowerCase().includes(query));
+  return pool;
+}
+
+function issueUrl(it, remove){
+  const t = encodeURIComponent((remove ? "[BM削除] " : "[BM] ") + it.title.slice(0,80));
+  const b = encodeURIComponent(`ID: ${it.id}\nURL: ${it.url}\n\n（このIssueはブックマーク${remove?"削除":"登録"}用です。送信後、自動で処理・クローズされます）`);
+  return `https://github.com/${meta.repo}/issues/new?title=${t}&body=${b}`;
+}
+
+function card(it){
+  const bm = bmIds.has(it.id);
+  const chips = [
+    it.category ? `<span class="chip ${esc(it.category)}">${CAT_LABEL[it.category]||esc(it.category)}</span>` : "",
+    it.expert ? '<span class="chip expert">有識者</span>' : "",
+  ].join("");
+  const thumb = it.thumbnail
+    ? `<img src="${esc(it.thumbnail)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
+    : "";
+  const date = (it.published||"").slice(0,10);
+  return `<article class="card">
+    <a class="thumb" href="${esc(it.url)}" target="_blank" rel="noopener">
+      <span class="ph">${it.type==="video"?"▶":"📰"}</span>${thumb}
+      ${it.type==="video"?'<span class="vid">▶ 動画</span>':""}
+    </a>
+    <div class="body">
+      <div class="chips">${chips}</div>
+      <h2 class="title"><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
+      <p class="summary">${esc(it.summary||"")}</p>
+      <div class="foot">
+        <span class="src">${esc(it.source||"")}｜${esc(date)}</span>
+        <a class="bm ${bm?"on":""}" target="_blank" rel="noopener"
+           href="${issueUrl(it, bm)}"
+           title="${bm?"ブックマークを削除（Issue経由・反映1〜2分）":"ブックマークに追加（Issue経由・反映1〜2分）"}">${bm?"★済み":"☆ 保存"}</a>
+      </div>
+    </div>
+  </article>`;
+}
+
+function render(){
+  $("months").style.display = tab === "archive" ? "flex" : "none";
+  if(tab === "experts"){ renderExperts(); return; }
+  if(tab === "archive") renderMonths();
+  const pool = filtered();
+  const page = pool.slice(0, shown);
+  $("grid").className = "grid";
+  $("grid").innerHTML = page.length
+    ? page.map(card).join("")
+    : `<div class="empty">${emptyText()}</div>`;
+  $("more").style.display = pool.length > shown ? "block" : "none";
+  $("status").textContent = pool.length ? `${pool.length}件` : "";
+}
+
+function emptyText(){
+  if(tab === "bookmarks") return "ブックマークはまだありません。記事の「☆ 保存」から追加できます（リポジトリ所有者のみ）。";
+  if(tab === "archive") return archiveMonth ? "この月の記事はありません。" : "上の月ボタンを選んでください。";
+  return "該当する記事がありません。";
+}
+
+function renderMonths(){
+  $("months").innerHTML = (meta.archive_months||[]).map(m =>
+    `<button data-m="${m}" class="${m===archiveMonth?"active":""}">${m}</button>`).join("") ||
+    '<span style="font-size:.8rem;color:var(--muted)">アーカイブはまだありません。</span>';
+  $("months").querySelectorAll("button").forEach(btn =>
+    btn.addEventListener("click", async () => {
+      archiveMonth = btn.dataset.m; shown = PAGE;
+      try{ archiveItems = await fetch(`data/archive/${archiveMonth}.json`).then(r => r.json()); }
+      catch(e){ archiveItems = []; }
+      render();
+    }));
+}
+
+function renderExperts(){
+  const ex = meta.experts || [];
+  $("grid").className = "experts";
+  $("grid").innerHTML = ex.length ? ex.map(e => `
+    <div class="ex">
+      <div class="name">${esc(e.name)}</div>
+      <div class="note">${esc(e.note||"")}</div>
+      ${e.x_url ? `<a href="${esc(e.x_url)}" target="_blank" rel="noopener">X（Twitter）を見る →</a>` : ""}
+    </div>`).join("")
+    : '<div class="empty">有識者はまだ登録されていません。sources.yml の experts に追加してください。</div>';
+  $("more").style.display = "none";
+  $("status").textContent = "";
+  $("months").style.display = "none";
+}
+
+boot();
+</script>
+</body>
+</html>
