@@ -3,7 +3,11 @@
 RSS / Google News / YouTubeチャンネルRSS から記事を収集し、
 GitHub Models で要約・分類して docs/data/ に出力する。
 GitHub Actions から毎朝実行される想定（ローカル実行も可）。
+
+v2: Google NewsリダイレクトURLの実URL復号（サムネイル取得対応）、
+    タイトルベースの重複排除（配信先違いの同一記事）を追加。
 """
+import base64
 import hashlib
 import html
 import json
@@ -69,6 +73,13 @@ def item_id(url):
     return hashlib.sha1(normalize_url(url).encode("utf-8")).hexdigest()[:12]
 
 
+def title_key(title):
+    """タイトルの実質重複を検出するための正規化キー"""
+    t = re.sub(r"[\s　]+", "", str(title).lower())
+    t = re.sub(r"[^0-9a-zA-Zぁ-んァ-ヶ一-龠ー]", "", t)
+    return t[:60]
+
+
 def entry_datetime(entry):
     for key in ("published_parsed", "updated_parsed"):
         t = entry.get(key)
@@ -83,6 +94,10 @@ def strip_tags(text, limit=300):
     text = re.sub(r"<[^>]+>", " ", text)
     text = html.unescape(re.sub(r"\s+", " ", text)).strip()
     return text[:limit]
+
+
+def is_gnews(url):
+    return "news.google.com" in urllib.parse.urlsplit(url).netloc
 
 
 # ---------------- ソース収集 ----------------
@@ -187,14 +202,63 @@ def collect_candidates(cfg):
     return candidates
 
 
+# ---------------- Google News URL復号 ----------------
+
+def _gnews_id(url):
+    m = re.search(r"news\.google\.com/(?:rss/)?(?:articles|read)/([^?/&]+)", url)
+    return m.group(1) if m else None
+
+
+def decode_gnews_url(url, timeout):
+    """Google NewsリダイレクトURL → 実記事URL（失敗時はNone）"""
+    gid = _gnews_id(url)
+    if not gid:
+        return None
+    # 旧形式: base64内に実URLが直接埋まっている
+    try:
+        raw = base64.urlsafe_b64decode(gid + "=" * (-len(gid) % 4))
+        m = re.search(rb'https?://[^\x00-\x20"\\]+', raw)
+        if m and b"news.google.com" not in m.group(0):
+            return m.group(0).decode("utf-8", "ignore")
+    except Exception:  # noqa: BLE001
+        pass
+    # 新形式: 内部API（batchexecute）で復号
+    try:
+        page = requests.get(f"https://news.google.com/rss/articles/{gid}",
+                            headers=UA, timeout=timeout)
+        soup = BeautifulSoup(page.text, "html.parser")
+        div = soup.select_one("c-wiz > div[data-n-a-sg][data-n-a-ts]")
+        if not div:
+            return None
+        sg, ts = div["data-n-a-sg"], div["data-n-a-ts"]
+        inner = (
+            '["garturlreq",[["X","X",["X","X"],null,null,1,1,"JP:ja",null,1,'
+            'null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],'
+            f'"{gid}",{ts},"{sg}"]'
+        )
+        body = "f.req=" + urllib.parse.quote(json.dumps([[["Fbv4je", inner, None, "generic"]]]))
+        r = requests.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers={**UA, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
+            data=body, timeout=timeout)
+        r.raise_for_status()
+        chunk = json.loads(r.text.split("\n\n")[1])
+        real = json.loads(chunk[0][2])[1]
+        if isinstance(real, str) and real.startswith("http"):
+            return real
+    except Exception as e:  # noqa: BLE001
+        log(f"GoogleNews復号失敗 {gid[:24]}…: {e}")
+    return None
+
+
 # ---------------- サムネイル・本文情報（OGP） ----------------
 
 def fetch_ogp(url, timeout):
-    """og:image / og:description を取得（Google Newsリダイレクトも解決）"""
+    """og:image / og:description を取得"""
     try:
         r = requests.get(url, headers=UA, timeout=timeout, allow_redirects=True)
         final = r.url
-        if "news.google.com" in urllib.parse.urlsplit(final).netloc:
+        if is_gnews(final):
             return None, None, url  # 解決できず
         soup = BeautifulSoup(r.text, "html.parser")
 
@@ -312,24 +376,72 @@ def main():
     now = datetime.now(timezone.utc)
 
     seen = set(load_json(DATA / "seen_ids.json", []))
+    processed = set()  # 今回の実行で処理した全ID（不採用も含め、再処理を防ぐ）
     candidates = collect_candidates(cfg)
     log(f"候補 {len(candidates)}件")
 
-    # 重複・期間外を除外
-    fresh, batch_seen = [], set()
+    # 1) URLベースの重複・期間外を除外
+    fresh, batch_ids = [], set()
     for it in candidates:
         it["id"] = item_id(it["url"])
-        if it["id"] in seen or it["id"] in batch_seen:
+        if it["id"] in seen or it["id"] in batch_ids:
             continue
         if it["published"] and now - it["published"] > lookback:
             continue
-        batch_seen.add(it["id"])
+        batch_ids.add(it["id"])
         fresh.append(it)
     fresh.sort(key=lambda x: x["published"] or now, reverse=True)
     fresh = fresh[:max_new]
+    processed.update(it["id"] for it in fresh)
     log(f"新規 {len(fresh)}件")
 
-    # OGP（サムネ・要約元）取得 ※動画はサムネ取得済み
+    # 2) Google NewsリダイレクトURLを実URLへ復号
+    for it in fresh:
+        if is_gnews(it["url"]):
+            real = decode_gnews_url(it["url"], timeout)
+            if real:
+                it["url"] = real
+                it["id"] = item_id(real)
+                processed.add(it["id"])
+            time.sleep(1)  # Google側への配慮
+
+    # 3) 復号後URLでの再重複チェック
+    deduped, ids2 = [], set()
+    for it in fresh:
+        if it["id"] in seen or it["id"] in ids2:
+            continue
+        ids2.add(it["id"])
+        deduped.append(it)
+    fresh = deduped
+
+    # 4) タイトルの実質重複を排除（配信先違いの同一記事）
+    existing_titles = {
+        title_key(a.get("title", ""))
+        for a in load_json(DATA / "articles.json", {}).get("items", [])
+    }
+
+    def better(a, b):
+        """同一タイトルの場合、実URL（非Google News）＞サムネイル有り を優先"""
+        def score(x):
+            return (not is_gnews(x["url"]), bool(x.get("thumbnail")))
+        return a if score(a) >= score(b) else b
+
+    no_key, by_title = [], {}
+    for it in fresh:
+        k = title_key(it["title"])
+        if not k:
+            no_key.append(it)
+        elif k in existing_titles:
+            continue  # 過去に掲載済みの同一タイトル
+        elif k in by_title:
+            by_title[k] = better(by_title[k], it)
+        else:
+            by_title[k] = it
+    fresh = no_key + list(by_title.values())
+    fresh.sort(key=lambda x: x["published"] or now, reverse=True)
+    log(f"重複排除後 {len(fresh)}件")
+
+    # 5) OGP（サムネ・説明文）取得 ※動画はサムネ取得済み
     for it in fresh:
         if it["type"] == "article":
             img, desc, final_url = fetch_ogp(it["url"], timeout)
@@ -337,15 +449,20 @@ def main():
                 it["thumbnail"] = img
             if desc and len(desc) > len(it["description"]):
                 it["description"] = desc[:300]
-            if final_url != it["url"]:
+            if final_url != it["url"] and not is_gnews(final_url):
                 it["url"] = final_url
-                new_id = item_id(final_url)
-                if new_id in seen:
-                    it["id"] = None  # リダイレクト解決後に既知だった
-                    continue
-                it["id"] = new_id
-    fresh = [it for it in fresh if it["id"]]
+                it["id"] = item_id(final_url)
+                processed.add(it["id"])
+    # 最終URLでの再重複チェック
+    final, ids3 = [], set()
+    for it in fresh:
+        if it["id"] in seen or it["id"] in ids3:
+            continue
+        ids3.add(it["id"])
+        final.append(it)
+    fresh = final
 
+    # 6) AI要約・分類
     kept = classify_and_summarize(fresh, cfg)
     log(f"採用 {len(kept)}件（skip除外 {len(fresh) - len(kept)}件）")
 
@@ -386,9 +503,8 @@ def main():
     recent.sort(key=lambda x: x["published"], reverse=True)
     recent = recent[:RECENT_LIMIT]
 
-    # 既知ID更新
-    seen.update(p["id"] for p in packed)
-    seen.update(it["id"] for it in fresh)  # skip判定分も再処理しない
+    # 既知ID更新（不採用・重複分も含め再処理しない）
+    seen.update(processed)
     save_json(DATA / "seen_ids.json", sorted(seen))
 
     repo = os.environ.get("GITHUB_REPOSITORY", "OWNER/REPO")
