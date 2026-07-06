@@ -1,0 +1,39 @@
+name: collect-news
+
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 21:00 UTC = 翌朝 6:00 JST
+  workflow_dispatch:        # 手動実行（Actionsタブの Run workflow ボタン）
+
+permissions:
+  contents: write
+  models: read              # GitHub Models（無料AI要約）を使うために必要
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 pyyaml
+
+      - name: Collect and summarize
+        run: python scripts/collect.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit results
+        run: |
+          git config user.name "robot-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || { git commit -m "chore: collect news $(date -u +%Y-%m-%d)"; git push; }
