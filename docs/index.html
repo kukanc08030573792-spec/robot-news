@@ -137,7 +137,14 @@ function renderTabs(){
   $("tabs").innerHTML = TABS.map(t =>
     `<button data-t="${t.id}" class="${t.id===tab?"active":""}">${t.label}</button>`).join("");
   $("tabs").querySelectorAll("button").forEach(btn =>
-    btn.addEventListener("click", () => { tab = btn.dataset.t; localStorage.setItem("tab", tab); shown = PAGE; render(); }));
+    btn.addEventListener("click", () => {
+      tab = btn.dataset.t;
+      localStorage.setItem("tab", tab);
+      $("tabs").querySelectorAll("button").forEach(b =>
+        b.classList.toggle("active", b.dataset.t === tab));
+      shown = PAGE;
+      render();
+    }));
 }
 
 function filtered(){
