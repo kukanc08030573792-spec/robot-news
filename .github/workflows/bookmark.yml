@@ -1,0 +1,45 @@
+name: bookmark
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: bookmark
+  cancel-in-progress: false
+
+jobs:
+  bookmark:
+    if: startsWith(github.event.issue.title, '[BM')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Process bookmark
+        run: python scripts/bookmark.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          REPO_OWNER: ${{ github.repository_owner }}
+
+      - name: Commit results
+        run: |
+          git config user.name "robot-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase || true
+          git add docs/
+          git diff --cached --quiet || { git commit -m "bookmark: update"; git push; }
