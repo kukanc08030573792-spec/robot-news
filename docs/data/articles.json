@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-07T10:06+09:00",
+  "last_updated": "2026-07-07T10:28+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -10,10 +10,51 @@
     "name": "ロボットスタート（ロボスタ）公式X",
     "x_url": "https://x.com/robotstart",
     "note": "ロボット業界ニュース速報"
+   },
+   {
+    "name": "ソフトバンクロボティクス公式X",
+    "x_url": "https://x.com/sbr_corp",
+    "note": "Whiz等・国内清掃ロボ最大手の製品・事例情報"
+   },
+   {
+    "name": "Pudu Robotics Japan公式X",
+    "x_url": "https://x.com/Pudu__Japan",
+    "note": "清掃・配膳ロボ大手（中国系）の日本法人"
+   },
+   {
+    "name": "DFA Robotics公式X",
+    "x_url": "https://x.com/DFAroboticsInc",
+    "note": "配膳・清掃ロボの国内大手代理店。導入事例が豊富"
    }
   ]
  },
  "items": [
+  {
+   "id": "bf60bf62b56d",
+   "url": "https://www.vietnam.vn/ja/robot-hut-bui-the-he-moi-co-gi-khac-vi-sao-ngay-cang-nhieu-gia-dinh-chon",
+   "title": "新世代のロボット掃除機は、従来と何が違うのでしょうか？なぜますます多くの家庭がロボット掃除機を選ぶようになっているのでしょうか？",
+   "summary": "Roborock Qrevo 2 Proの発売により、ロボット掃除機市場での選択基準が変化。従来の吸引力や消費電力重視から、他の要素が重視されるようになった。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/07/1783386182164_1-17833284563701462460898-348-0-1420-2048-crop-17833289434662042113064.jpeg",
+   "published": "2026-07-07T10:23+09:00",
+   "collected": "2026-07-07T10:28+09:00"
+  },
+  {
+   "id": "547bf61e62ef",
+   "url": "https://www.moomoo.com/ja/community/feed/bmw-group-deploys-figure-03-humanoid-after-tests-with-previous-116875983520150",
+   "title": "BMWグループ、前バージョンのテストを経てFigure 03ヒューマノイドを導入",
+   "summary": "BMWグループがFigure.AIのヒューマノイドロボットFigure 03を導入。スパータンバーグ工場での成功を受け、同社はさらなるロボット導入を進める。",
+   "source": "Moomoo",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://sgsnsimg.moomoo.com/sns_client_feed/102079252/20260707/web-1783371029098-Cf6EYeIqJS.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+   "published": "2026-07-07T09:59+09:00",
+   "collected": "2026-07-07T10:28+09:00"
+  },
   {
    "id": "ac0cca44980e",
    "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2121131.html",
@@ -182,7 +223,7 @@
    "thumbnail": null,
    "published": "2026-07-06T13:30+09:00",
    "collected": "2026-07-07T10:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "45be35cb0801",
@@ -300,7 +341,7 @@
    "thumbnail": null,
    "published": "2026-07-05T07:57+09:00",
    "collected": "2026-07-06T14:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9070dd2684d6",
@@ -366,7 +407,7 @@
    "thumbnail": null,
    "published": "2026-07-03T20:18+09:00",
    "collected": "2026-07-06T14:40+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "324ba13aa221",
