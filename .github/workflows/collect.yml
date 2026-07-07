@@ -2,7 +2,8 @@ name: collect-news
 
 on:
   schedule:
-    - cron: '0 21 * * *'   # 21:00 UTC = 翌朝 6:00 JST
+    - cron: '7 21 * * *'    # 06:07 JST
+    - cron: '37 22 * * *'   # 07:37 JST（1回目が飛んだ場合の保険）
   workflow_dispatch:        # 手動実行（Actionsタブの Run workflow ボタン）
 
 permissions:
