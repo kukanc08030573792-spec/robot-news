@@ -25,37 +25,34 @@ google_news_queries:
 
 # ---- YouTubeチャンネル監視 ----
 # channel_id（UCで始まるID）または handle（@名）で指定。
-# handleは実行時にIDへ自動解決します（解決できない場合はスキップしてログに出ます）。
-# チャンネルIDの調べ方：チャンネルページ → 概要 → 「チャンネルを共有」→「チャンネルIDをコピー」
 youtube_channels:
   - name: ロボスタ
-    handle: robotstart
+    channel_id: UClhI_701H52xh38IlX8P5zw
   - name: Pudu Robotics
-    handle: PuduRobotics
+    channel_id: UCyLr5trvV9Y_lWS5AmBQvTw
   - name: Gausium
-    handle: GausiumRobotics
-  # - name: 例）チャンネルIDで指定する場合
-  #   channel_id: UCxxxxxxxxxxxxxxxxxxxxxx
+    channel_id: UCdZ_QJPUya9rLs6tS9ptuKw
+  # - name: 例）ハンドル（@名）で指定する場合
+  #   handle: CHANNELHANDLE
 
 # ---- 有識者リンク集（サイトの「有識者」タブに表示） ----
 # X（Twitter）は自動収集できないため、手動チェック用のリンク集として表示します。
 # rss を指定すると（note・ブログ・Bluesky等）、その人の投稿も自動収集対象になります。
-# ※ 初期エントリは例です。実際にフォローしたい方に差し替えてください。
 experts:
-  - name: ロボスタ 公式X（例・アカウント名要確認）
-    x_url: https://x.com/robotstart_info
+  - name: ロボットスタート（ロボスタ）公式X
+    x_url: https://x.com/robotstart
     note: ロボット業界ニュース速報
-  - name: 例）note併用の有識者
-    x_url: https://x.com/USERNAME
-    rss: https://note.com/USERNAME/rss
-    note: rssを書くと投稿が自動収集されます
+  # - name: 例）note併用の有識者（実際にフォローしたい方に差し替えてください）
+  #   x_url: https://x.com/USERNAME
+  #   rss: https://note.com/USERNAME/rss
+  #   note: rssを書くと投稿が自動収集されます
 
 # ---- 分類の指針（AIへの指示に使われます） ----
 classification:
   # cleaning: 清掃ロボット・清掃技術に直接関係
   # adjacent: 業務用サービスロボット（配膳・警備・案内・配送等）、ビルメンテナンスDX
-  # general:  ロボット全般のうち業界の話題になる大きなニュースのみ（資金調達・大手参入・技術ブレイクスルー等）
-  # skip:     上記いずれでもない（家庭用掃除機の単純なセール情報、ロボット無関係等）
+  # general:  ロボット全般のうち業界の話題になる大きなニュースのみ
+  # skip:     上記いずれでもない
   max_summary_chars: 120
 
 # ---- 動作設定 ----
