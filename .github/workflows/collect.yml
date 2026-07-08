@@ -2,8 +2,13 @@ name: collect-news
 
 on:
   schedule:
+    # GitHubの定期実行(schedule)は高負荷時にスキップ・遅延されやすいため、
+    # 朝の時間帯に複数回仕掛けて「取りこぼし」を防ぐ。
+    # 1本目が動けば以降は seen_ids で重複除外され、無駄な再収集は起きない。
     - cron: '7 21 * * *'    # 06:07 JST
-    - cron: '37 22 * * *'   # 07:37 JST（1回目が飛んだ場合の保険）
+    - cron: '37 21 * * *'   # 06:37 JST（保険1）
+    - cron: '37 22 * * *'   # 07:37 JST（保険2）
+    - cron: '7 23 * * *'    # 08:07 JST（保険3）
   workflow_dispatch:        # 手動実行（Actionsタブの Run workflow ボタン）
 
 permissions:
@@ -36,5 +41,12 @@ jobs:
         run: |
           git config user.name "robot-news-bot"
           git config user.email "actions@users.noreply.github.com"
+          # 複数スロットが接近して走った場合に備え、push前に最新を取り込む
+          git pull --rebase origin ${{ github.ref_name }} || true
           git add docs/
-          git diff --cached --quiet || { git commit -m "chore: collect news $(date -u +%Y-%m-%d)"; git push; }
+          # コミット名の日付はJST基準（UTCだと早朝JSTの実行が前日付になり
+          # 「今日のニュースが無い」ように見えてしまうため）
+          git diff --cached --quiet || {
+            git commit -m "chore: collect news $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push
+          }
