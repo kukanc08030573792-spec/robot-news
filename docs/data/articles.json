@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-07T10:28+09:00",
+  "last_updated": "2026-07-08T09:16+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,123 @@
   ]
  },
  "items": [
+  {
+   "id": "493154182f67",
+   "url": "https://www.therobotreport.com/tesollo-initiates-ipo-process-developing-humanoid-hands/",
+   "title": "Tesollo initiates IPO process while developing humanoid hands",
+   "summary": "韓国のロボットハンド専門企業TesolloがIPO準備を開始。ヒューマノイドハンドの開発も進行中。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/tesollo-hand-featured.jpg",
+   "published": "2026-07-07T22:17+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "4e4e6820e52e",
+   "url": "https://www.youtube.com/shorts/Oj12-6AtQVQ",
+   "title": "The Robot Clears an Entire Ungerground Garage - Solo #cleaningrobot #satisfyingcleaning",
+   "summary": "Gausium Marvelが地下駐車場を清掃。障害物をスムーズに回避し、多様なゴミを効率的に処理する様子を紹介。",
+   "source": "Gausium",
+   "type": "video",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/Oj12-6AtQVQ/hqdefault.jpg",
+   "published": "2026-07-07T20:30+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "384a09a89881",
+   "url": "https://www.prnewswire.com/jp/news-releases/hyundai-motorfifa2026atlas-302819368.html",
+   "title": "Hyundai Motor、FIFAワールドカップ2026™の実際の試合環境にヒューマノイドロボットAtlasを初導入、ロボティクス統合を実現",
+   "summary": "Hyundai MotorがFIFAワールドカップ2026でBoston DynamicsのヒューマノイドロボットAtlasを初導入。ロボティクス統合を実現。",
+   "source": "PR Newswire",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://mmx.prnewswire.com/media/MS1819698/Hyundai-Motor-Company-FIFA-World-Cup-2026-Logo.jpg?id=OA2750526&p=facebook",
+   "published": "2026-07-07T19:50+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "bc03d8c6aa82",
+   "url": "https://www.youtube.com/watch?v=LiW7370sifY",
+   "title": "PUDU BG1 Pro: Underground Garage Cleaning",
+   "summary": "PUDU BG1 Proが地下駐車場をAIを用いて清掃。低照度環境でも自信を持って障害物を避けながら作業。",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/LiW7370sifY/hqdefault.jpg",
+   "published": "2026-07-07T19:00+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "59be046f24fa",
+   "url": "https://robotstart.info/article/2026/07/07/382118.html",
+   "title": "【動画】人間そっくりのヒューマノイド中国UBTECHの「U1 Pro」が驚きのリアリティを実現",
+   "summary": "中国UBTECHがヒューマノイドロボット「U1 Pro」を発表。人間に近いリアリティを実現した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104438.jpg",
+   "published": "2026-07-07T17:00+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "a41cdae9097a",
+   "url": "https://www.lifehacker.jp/article/the-popular-robot-vacuum-dreame-in-europe/",
+   "title": "ロボット掃除機のネクストブレイク枠。ヨーロッパで人気の「Dreame」のデザインと機能性",
+   "summary": "ヨーロッパで人気のロボット掃除機ブランドDreameの機能性とデザイン性を紹介。",
+   "source": "ライフハッカー・ジャパン",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/07/02/17a4b758-e93e-4622-b9b6-531e9c40fd76/original.jpg?w=1200&h=630&f=jpg",
+   "published": "2026-07-07T17:00+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "19752addf6b1",
+   "url": "https://www.therobotreport.com/hive-brings-in-15m-to-build-physical-ai-for-industrial-machines/",
+   "title": "HIVE brings in $15M to build physical AI for industrial machines",
+   "summary": "HIVEが1500万ドルを調達し、産業機械向けの物理AIを構築する計画を発表。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/HIVE_Autonomous_wheeloader-featured.jpg",
+   "published": "2026-07-07T15:55+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "7f280165914e",
+   "url": "https://www.shimotsuke.co.jp/articles/-/1379968",
+   "title": "ヒューマノイドロボットの大手2社が天津経済技術開発区で事業開始へ",
+   "summary": "UBTECHとUnitree Roboticsが天津経済技術開発区に拠点を設立。産業チェーン構築が進展。",
+   "source": "下野新聞社",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.shimotsuke.co.jp/common/soon/images/digital/ogp-image.png",
+   "published": "2026-07-07T12:30+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
+  {
+   "id": "700bfe3df963",
+   "url": "https://www.businessinsider.jp/article/irobot-roomba-2/",
+   "title": "Amazonプライムデーで最大65%OFF。新型ルンバを試したら、仕事を邪魔する“掃除のノイズ”が減った",
+   "summary": "AmazonプライムデーでiRobotの新型ルンバが65%オフ。実機の使用レポートも。",
+   "source": "Business Insider Japan",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/06/24/e4edb92c-884d-41d1-aa19-494cb6cbbb02/original.jpg?w=1200&h=630",
+   "published": "2026-07-07T11:00+09:00",
+   "collected": "2026-07-08T09:16+09:00"
+  },
   {
    "id": "bf60bf62b56d",
    "url": "https://www.vietnam.vn/ja/robot-hut-bui-the-he-moi-co-gi-khac-vi-sao-ngay-cang-nhieu-gia-dinh-chon",
@@ -223,7 +340,7 @@
    "thumbnail": null,
    "published": "2026-07-06T13:30+09:00",
    "collected": "2026-07-07T10:06+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "45be35cb0801",
