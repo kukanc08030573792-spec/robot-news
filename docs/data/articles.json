@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-08T16:42+09:00",
+  "last_updated": "2026-07-09T17:56+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,205 @@
   ]
  },
  "items": [
+  {
+   "id": "a2beeff8b455",
+   "url": "https://japan.cnet.com/article/35250404/",
+   "title": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も",
+   "summary": "清水建設がフィジカルAIを活用したヒューマノイドロボットによる建設現場巡回の実証を開始。",
+   "source": "CNET Japan",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://japan.cnet.com/storage/2026/07/09/6f29b1ba3cfdcf08775f3040cdc0b0e5/2026027_ph01.jpeg",
+   "published": "2026-07-09T17:50+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "6905fcfe16c3",
+   "url": "https://carview.yahoo.co.jp/news/detail/10ff360f5f4c4685ba8249cb0b96b9c225df35e7/",
+   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む",
+   "summary": "三菱自動車とハイランダーズがヒューマノイドロボットの共同開発で基本合意。2027年に1000台の量産を予定。",
+   "source": "carview!",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://autos-pctr.c.yimg.jp/E8AMlYWU4zGKe4isosZ0gb2D0DgzZwi7cGz3rEpAawZjLpGOeoROGR5iRCFl7eseoAeZSL_VSouxlxyBJnAsc17fo4-5S6PZjz_UEy3PITy9DbTFjbB1bsxp5thHQGxNFHx65Vg05YEQf07osMk0Jbc1njNOXrIu7tcAPNqmXudXMDrU5auNTl-RGOC43FZG",
+   "published": "2026-07-09T17:20+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "01856ea09ad6",
+   "url": "https://jp.reuters.com/economy/industry/MUCMY5OSRNN75OG2KT6Q5OYHUU-2026-07-09/",
+   "title": "三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ",
+   "summary": "三菱自動車が東大発ベンチャーと人型ロボット開発で協業し、追加出資を発表。",
+   "source": "ロイター",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-09T16:28+09:00",
+   "collected": "2026-07-09T17:56+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "e62829950cbb",
+   "url": "https://robotstart.info/article/2026/07/09/382127.html",
+   "title": "日常利用を想定したヒューマノイド「UWORLD U1」感情認識でカウンセリングも対応 UBTECHが動画公開",
+   "summary": "UBTECHが感情認識機能を持つヒューマノイド「UWORLD U1」を発表し、生活空間での活用に期待。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104498.jpg",
+   "published": "2026-07-09T14:45+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "12521621e221",
+   "url": "https://note.com/kmoriyama/n/n797d3ca05698",
+   "title": "「ロボットは機械産業ではなく運用産業」 アイリスオーヤマ、清掃ロボット「JILBY」を発売 ハードもソフトも完全内製を実現",
+   "summary": "アイリスオーヤマが内製の清掃ロボット「JILBY」を2026年7月1日から発売。",
+   "source": "note",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/292817803/rectangle_large_type_2_d22d27f1748772cf5581d41611d97607.jpeg?fit=bounds&quality=85&width=1280",
+   "published": "2026-07-09T14:09+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "2bcd806d04ad",
+   "url": "https://robotstart.info/article/img/2026/07/09/382126/104443.html",
+   "title": "フィジカルAI企業1,000社超を調査、注目100社を厳選したカオスマップ公開 Lister 1枚目の写真・画像",
+   "summary": "株式会社ListerがフィジカルAI関連企業1,000社を調査し、注目100社を選定したカオスマップを公開。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104443.jpg",
+   "published": "2026-07-09T11:45+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "be768fe081a5",
+   "url": "https://www.therobotreport.com/tickets-geofences-1m-miles-new-reality-california-av-compliance/",
+   "title": "Tickets, geofences, and 1M miles: The new reality of California AV compliance",
+   "summary": "カリフォルニア州の自動運転車に関する新しい規制について、Guident CEOが解説。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2025/10/guident-auvetech-featured.jpg",
+   "published": "2026-07-09T08:48+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "55cdacf4b5c2",
+   "url": "https://news.yahoo.co.jp/articles/bc74aa7bdff30af776ec62ca219dc5b0a2d06563",
+   "title": "清水建設、AIロボットを現場実装 「Torch Tower」建設で実証（Impress Watch）",
+   "summary": "清水建設がAIロボットの現場実装に向けた取り組みを開始。ヒューマノイドロボットやロボットアームの実証を実施。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000001-impress-000-1-view.jpg?exp=10800",
+   "published": "2026-07-09T08:00+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "a82ff0e3c33f",
+   "url": "https://www.watch.impress.co.jp/docs/news/2123571.html",
+   "title": "清水建設、AIロボットを現場実装 「Torch Tower」建設で実証",
+   "summary": "清水建設がAIロボットの現場実装に向けた取り組みを開始。東京駅前の「Torch Tower」建設現場で実証。",
+   "source": "Impress Watch",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.watch.impress.co.jp/img/ipw/list/2123/571/shimz_00.jpg",
+   "published": "2026-07-09T08:00+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "85480204ad13",
+   "url": "https://www.therobotreport.com/nvidia-hugging-face-bring-new-models-frameworks-lerobot/",
+   "title": "NVIDIA and Hugging Face bring new models and frameworks to LeRobot",
+   "summary": "NVIDIAとHugging FaceがLeRobotに新しいモデルとフレームワークを追加。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/huggingface-nvidia-featured.jpg",
+   "published": "2026-07-09T07:49+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "2b8d6693020f",
+   "url": "https://www.decn.co.jp/?p=185890",
+   "title": "清水建設／フィジカルＡＩ実装へ本腰／ロボット現場巡回・塗装作業など",
+   "summary": "清水建設がフィジカルAIの実装に本腰を入れ、ロボットによる現場巡回や塗装作業を実施。",
+   "source": "日刊建設工業新聞",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.decn.co.jp/inc/uploads/2026/07/202607090301003-1.jpg",
+   "published": "2026-07-09T06:01+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "fe1ee553f02f",
+   "url": "https://www.robot-digest.com/contents/?id=1782736151-946517",
+   "title": "業務用の清掃ロボットを自社開発、サービスロボットのメーカーへ／アイリスオーヤマ",
+   "summary": "アイリスオーヤマが業務用清掃ロボットを自社開発し、サービスロボットメーカーへ転身。",
+   "source": "robot digest",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-09T06:00+09:00",
+   "collected": "2026-07-09T17:56+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "8e53591601a2",
+   "url": "https://www.logi-today.com/974817",
+   "title": "清水建設、AIロボで現場巡回を自律化",
+   "summary": "清水建設がAIロボを用いて現場巡回の自律化を実現",
+   "source": "LOGISTICS TODAY",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-09T04:59+09:00",
+   "collected": "2026-07-09T17:56+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "7b1dcf8565a7",
+   "url": "https://www.logi-today.com/974959",
+   "title": "セキド、清掃ロボ4機種の実演会を新橋で開催",
+   "summary": "セキドが新橋で清掃ロボ4機種の実演会を開催",
+   "source": "LOGISTICS TODAY",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-09T03:00+09:00",
+   "collected": "2026-07-09T17:56+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "935f2bef67fb",
+   "url": "https://www.therobotreport.com/ency-software-staubli-robotics-partner-simplify-robot-programming/",
+   "title": "ENCY Software and Stäubli Robotics partner to simplify robot programming",
+   "summary": "ENCY SoftwareとStäubli Roboticsがロボットプログラミングの簡素化に向けた提携を発表",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Build-Your-Robotic-Cell-Digital-Twin.jpg",
+   "published": "2026-07-09T00:02+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
   {
    "id": "db1b6ae0cc87",
    "url": "https://www.youtube.com/watch?v=tJNZnBFD94Y",
@@ -69,6 +268,19 @@
    "collected": "2026-07-08T16:42+09:00"
   },
   {
+   "id": "bcc79d173013",
+   "url": "https://www.dempa-times.co.jp/event-information/47934/",
+   "title": "世界最大のヒューマノイドロボットとフィジカルAI特化の国際会議 5月28日(木)-29日(金)、東京・高輪にて開催",
+   "summary": "ヒューマノイドロボットとフィジカルAIに関する国際会議が東京で開催予定",
+   "source": "電波タイムズ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.dempa-times.co.jp/wp-content/themes/dempa-times/assets/img/ogp.png",
+   "published": "2026-07-08T14:39+09:00",
+   "collected": "2026-07-09T17:56+09:00"
+  },
+  {
    "id": "a5753e3af8f6",
    "url": "https://ashu-chinastatistics.com/news/307837-941884818030",
    "title": "世界商用サービスロボ市場拡大、中国メーカーが成長牽引",
@@ -80,6 +292,19 @@
    "thumbnail": "https://ashu-chinastatistics.com/img/common/og_image.jpg",
    "published": "2026-07-08T14:33+09:00",
    "collected": "2026-07-08T16:42+09:00"
+  },
+  {
+   "id": "97b0268b3014",
+   "url": "https://www.jiji.com/jc/article?k=20260707961143&g=bw",
+   "title": "UMA、次世代ヒューマノイド・ロボットのビジョンを発表：時事ドットコム",
+   "summary": "UMAが次世代ヒューマノイドロボットのビジョンと新AIアーキテクチャーを発表",
+   "source": "時事ドットコム",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://mms.businesswire.com/media/20260707961143/ja/2846087/4/UMA-Manufacturing-dexterity.jpg",
+   "published": "2026-07-08T14:32+09:00",
+   "collected": "2026-07-09T17:56+09:00"
   },
   {
    "id": "dfef27052887",
@@ -145,7 +370,7 @@
    "thumbnail": null,
    "published": "2026-07-08T10:03+09:00",
    "collected": "2026-07-08T16:42+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9e950fd195de",
