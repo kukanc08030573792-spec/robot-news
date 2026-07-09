@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-09T19:39+09:00",
+  "last_updated": "2026-07-09T19:40+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -171,6 +171,19 @@
    "thumbnail": "https://image.itmedia.co.jp/news/articles/2607/09/cover_news123.jpg",
    "published": "2026-07-09T16:55+09:00",
    "collected": "2026-07-09T19:31+09:00"
+  },
+  {
+   "id": "e5f1bca4f384",
+   "url": "https://s.response.jp/article/img/2026/07/09/413816/2226046.html?from=thumb_under_hero",
+   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 7枚目の写真・画像",
+   "summary": "三菱自動車とハイランダーズがヒューマノイドロボットの共同開発で基本合意。2027年中に1000台の量産を目指す。",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2226046.jpg",
+   "published": "2026-07-09T16:38+09:00",
+   "collected": "2026-07-09T19:40+09:00"
   },
   {
    "id": "6069ded05267",
