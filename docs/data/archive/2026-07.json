@@ -1,5 +1,57 @@
 [
  {
+  "id": "3f8dfbc2a975",
+  "url": "https://www.youtube.com/watch?v=QzaHR_O9uvs",
+  "title": "PUDU D5 & PUDU CC1 Pro: One Brain, Multiple Embodiments. Seamless Collaboration",
+  "summary": "Pudu Roboticsの四足歩行ロボットPUDU D5がゴミを発見し、清掃ロボットPUDU CC1 Proと連携して迅速に清掃を行う様子を紹介。",
+  "source": "Pudu Robotics",
+  "type": "video",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/QzaHR_O9uvs/hqdefault.jpg",
+  "published": "2026-07-09T19:27+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "77ea5ddba61c",
+  "url": "https://news.yahoo.co.jp/articles/2fe100b45bc203393984a62133c9135c1c838a4e",
+  "title": "三菱がAIベンチャーと組んで日本を再びものづくり大国に!! 自動車メーカーが世界で初めて人型ロボットを量産へ（ベストカーWeb）",
+  "summary": "三菱自動車がAIスタートアップと協業し、2027年に国産ヒューマノイドロボットの量産を目指す。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000022-bestcar-000-1-view.jpg?exp=10800",
+  "published": "2026-07-09T19:11+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "3cae1ee0b4c4",
+  "url": "https://article.auone.jp/detail/1/3/6/333_6_r_20260709_1783588529774716",
+  "title": "三菱自動車と東大発スタートアップ協業 国産人型ロボットの量産化へ",
+  "summary": "三菱自動車が東京大学発スタートアップと協業し、国産人型ロボットの量産化を進める。",
+  "source": "au Webポータル",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://portal.st-img.jp/thumb/08b87a38e68d18fb35c78b70b1469820_1783588529_l.jpg",
+  "published": "2026-07-09T18:07+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "8d543f144bf3",
+  "url": "https://car.watch.impress.co.jp/docs/news/2123922.html",
+  "title": "三菱自動車、京都工場でHighlandersのヒューマノイドロボット量産化を検討 2027年の早いタイミングで生産開始へ",
+  "summary": "三菱自動車とHighlandersがヒューマノイドロボットの共同開発を進め、2027年に量産化を検討。",
+  "source": "Car Watch",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2123/922/01.jpg",
+  "published": "2026-07-09T17:52+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
   "id": "a2beeff8b455",
   "url": "https://japan.cnet.com/article/35250404/",
   "title": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も",
@@ -26,6 +78,45 @@
   "collected": "2026-07-09T17:56+09:00"
  },
  {
+  "id": "b630a6598b55",
+  "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
+  "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
+  "summary": "三菱自動車が国産ヒューマノイドロボットの量産を目指し、2027年後半に月産1000台を計画。",
+  "source": "ITmedia",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.itmedia.co.jp/news/articles/2607/09/cover_news123.jpg",
+  "published": "2026-07-09T16:55+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "6069ded05267",
+  "url": "https://news.yahoo.co.jp/articles/cdda80a2c59302297d33d898415512d5cda5cccf?source=rss",
+  "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
+  "summary": "三菱自動車がHighlandersと協業し、2027年中にフィジカルAIを活用したヒューマノイドロボットの量産を見込む。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000020-rps-000-1-view.jpg?exp=10800",
+  "published": "2026-07-09T16:38+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "5941368d5caa",
+  "url": "https://s.response.jp/article/img/2026/07/09/413816/2226048.html?from=thumb_under_hero",
+  "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 1枚目の写真・画像",
+  "summary": "三菱自動車とHighlandersがヒューマノイドロボットの共同開発を進め、京都工場での量産化を協議。",
+  "source": "レスポンス（Response.jp）",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://response.jp/imgs/ogp_f/2226048.jpg",
+  "published": "2026-07-09T16:38+09:00",
+  "collected": "2026-07-09T19:31+09:00"
+ },
+ {
   "id": "01856ea09ad6",
   "url": "https://jp.reuters.com/economy/industry/MUCMY5OSRNN75OG2KT6Q5OYHUU-2026-07-09/",
   "title": "三菱自、東大発ベンチャーと人型ロボット開発で協業 追加出資へ",
@@ -37,7 +128,7 @@
   "thumbnail": null,
   "published": "2026-07-09T16:28+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e62829950cbb",
@@ -155,7 +246,7 @@
   "thumbnail": null,
   "published": "2026-07-09T06:00+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "8e53591601a2",
@@ -169,7 +260,7 @@
   "thumbnail": null,
   "published": "2026-07-09T04:59+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7b1dcf8565a7",
@@ -183,7 +274,7 @@
   "thumbnail": null,
   "published": "2026-07-09T03:00+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "935f2bef67fb",
@@ -340,7 +431,7 @@
   "thumbnail": null,
   "published": "2026-07-08T10:03+09:00",
   "collected": "2026-07-08T16:42+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9e950fd195de",
