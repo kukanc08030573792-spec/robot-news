@@ -1,5 +1,31 @@
 [
  {
+  "id": "87892d444301",
+  "url": "https://news.yahoo.co.jp/articles/5fa35b3f82190624c7d83b3ed391031f6b7ea627?source=rss",
+  "title": "三菱自動車がヒューマノイドロボットを量産へ 東大発スタートアップと協業 27年度中目指す",
+  "summary": "三菱自動車がスタートアップHighlandersと協業し、2027年度中にヒューマノイドロボットの量産を目指す基本合意書を締結。人とロボットが共に働く新しい産業基盤の構築を目指す。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-01085066-kurumans-000-1-view.jpg?exp=10800",
+  "published": "2026-07-09T19:30+09:00",
+  "collected": "2026-07-09T19:39+09:00"
+ },
+ {
+  "id": "5d741ab1d375",
+  "url": "https://car.watch.impress.co.jp/docs/news/2123949.html",
+  "title": "三菱自動車とHighlandersが共同会見 労働力不足などの解決に向けヒューマノイドロボットを2027年に生産開始",
+  "summary": "三菱自動車とHighlandersが共同会見を行い、ヒューマノイドロボットの共同開発と量産化について協議。2027年に三菱自動車の工場で生産開始を予定。",
+  "source": "Car Watch",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2123/949/015.jpg",
+  "published": "2026-07-09T19:28+09:00",
+  "collected": "2026-07-09T19:39+09:00"
+ },
+ {
   "id": "3f8dfbc2a975",
   "url": "https://www.youtube.com/watch?v=QzaHR_O9uvs",
   "title": "PUDU D5 & PUDU CC1 Pro: One Brain, Multiple Embodiments. Seamless Collaboration",
@@ -24,6 +50,32 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000022-bestcar-000-1-view.jpg?exp=10800",
   "published": "2026-07-09T19:11+09:00",
   "collected": "2026-07-09T19:31+09:00"
+ },
+ {
+  "id": "44b95f343625",
+  "url": "https://bestcarweb.jp/news/1575009",
+  "title": "三菱がAIベンチャーと組んで日本を再びものづくり大国に!! 自動車メーカーが世界で初めて人型ロボットを量産へ",
+  "summary": "三菱自動車とAIスタートアップHighlandersが基本合意を発表。2027年に国産ヒューマノイドロボットの量産を目指し、日本のものづくり大国復活を狙う。",
+  "source": "bestcarweb.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.bestcarweb.jp/wp-content/uploads/2026/07/09161818/copy_22EC11DD-2641-4C3C-82B1-E100DDC4E9B1.jpeg?v=1783581499",
+  "published": "2026-07-09T19:05+09:00",
+  "collected": "2026-07-09T19:39+09:00"
+ },
+ {
+  "id": "5f38733ff273",
+  "url": "https://news.yahoo.co.jp/articles/e0d483cdce394830f5273a1b14db5cdd78fcb3d9",
+  "title": "三菱自動車、京都工場でHighlandersのヒューマノイドロボット量産化を検討 2027年の早いタイミングで生産開始へ（Car Watch）",
+  "summary": "三菱自動車がHighlandersのヒューマノイドロボットの量産化を検討。2027年に生産開始を目指す。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000016-impcaw-000-1-view.jpg?exp=10800",
+  "published": "2026-07-09T18:52+09:00",
+  "collected": "2026-07-09T19:39+09:00"
  },
  {
   "id": "3cae1ee0b4c4",
@@ -128,7 +180,7 @@
   "thumbnail": null,
   "published": "2026-07-09T16:28+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e62829950cbb",
@@ -246,7 +298,7 @@
   "thumbnail": null,
   "published": "2026-07-09T06:00+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8e53591601a2",
@@ -260,7 +312,7 @@
   "thumbnail": null,
   "published": "2026-07-09T04:59+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7b1dcf8565a7",
@@ -274,7 +326,7 @@
   "thumbnail": null,
   "published": "2026-07-09T03:00+09:00",
   "collected": "2026-07-09T17:56+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "935f2bef67fb",
