@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-09T19:40+09:00",
+  "last_updated": "2026-07-10T17:52+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,178 @@
   ]
  },
  "items": [
+  {
+   "id": "3d2367ae848d",
+   "url": "https://note.com/kmoriyama/n/nf629fb961afe",
+   "title": "「Apollo 2」と「Robot Park」から見るApptronikの「データ工場」ヒューマノイド戦略｜森山和道 ライター、書評屋",
+   "summary": "Apptronikが主力ヒューマノイドロボット「Apollo 2」とデータ収集施設「Robot Park」の拡張を発表。統合システムとしての戦略を提示",
+   "source": "Note.com",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/293127502/rectangle_large_type_2_29e5252e632b17680568bc87e31dc3fc.jpeg?fit=bounds&quality=85&width=1280",
+   "published": "2026-07-10T16:06+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "66f79edba6a2",
+   "url": "https://robotstart.info/article/2026/07/10/382132.html",
+   "title": "W杯2026にヒューマノイド「Atlas」・四足歩行「Spot」を投入 ヒョンデとボストン・ダイナミクス",
+   "summary": "ヒョンデがW杯2026にヒューマノイド「Atlas」と四足歩行「Spot」を投入する計画を発表",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104531.jpg",
+   "published": "2026-07-10T14:30+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "612f4e4d58dd",
+   "url": "https://news.nicovideo.jp/watch/nw19530467?news_ref=watch_20_nw18985234",
+   "title": "iPresenceと永和信用金庫、本店にAI搭載自動案内ロボット「temiV3」を導入 ～オリジナルロボットが、店頭案内業務をサポート～",
+   "summary": "iPresenceと永和信用金庫がAI搭載自動案内ロボット「temiV3」を本店に導入",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-10T14:03+09:00",
+   "collected": "2026-07-10T17:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "74a19ce19525",
+   "url": "https://www.jiji.com/jc/article?k=000000124.000061831&g=prt",
+   "title": "すかいらーくホールディングスが導入した配膳ロボット『BellaBot』の「クリアポーチ」をすかいらーくグループの一部店舗で限定数発売開始！",
+   "summary": "すかいらーくホールディングスが配膳ロボット『BellaBot』のクリアポーチを一部店舗で発売開始",
+   "source": "時事ドットコム",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/61831/124/61831-124-5fe6e2bc9f9199c05525a3f2b6d26e05-1920x1280.jpg",
+   "published": "2026-07-10T12:45+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "24e88db8081d",
+   "url": "https://voix.jp/business-cards/hamamatsu-service-robot-grant-application/",
+   "title": "浜松市の中小企業向けサービスロボット導入支援補助金の募集開始",
+   "summary": "浜松市が中小企業向けのサービスロボット導入支援補助金の募集を開始",
+   "source": "ニュースメディアVOIX",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-10T12:28+09:00",
+   "collected": "2026-07-10T17:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "3c9e8de02753",
+   "url": "https://www.projectdesign.jp/articles/news/610d36c3-d23a-43b2-b8ff-68c14bb82ecc",
+   "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
+   "summary": "三菱自動車とHighlandersがヒューマノイドロボットの量産化に向け基本合意。2027年早期に京都工場での生産を検討。",
+   "source": "projectdesign.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://cdn.projectdesign.jp/uploads/2026/07/10/IoFfAxcn4na1jAimAATf4yR02OMJikvaQv9SzIkD.jpg",
+   "published": "2026-07-10T11:01+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "4ce8f0cd82bf",
+   "url": "https://www.lifehacker.jp/article/2607-tplink-taporv50proomni-review/",
+   "title": "ロボット掃除機の「メンテ面倒すぎ」問題。TP-Linkの“全自動”なら床掃除がラクに習慣化できた【今日のライフハックツール】",
+   "summary": "TP-Linkのロボット掃除機「Tapo RV50 Pro Omni」がメンテナンスの手間を軽減し、床掃除を習慣化できると紹介。",
+   "source": "ライフハッカー・ジャパン",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/07/01/b0b57322-d484-4337-9c54-85cff4b3ec25/original.jpg?w=1200&h=630&f=jpg",
+   "published": "2026-07-10T11:00+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "36d46ea64067",
+   "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-10-49248-542/",
+   "title": "浜松市中小事業者等サービスロボット導入支援事業費補助金の募集について",
+   "summary": "浜松市が中小事業者向けにサービスロボット導入支援事業費補助金の募集を開始。",
+   "source": "Excite エキサイト",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-10T10:45+09:00",
+   "collected": "2026-07-10T17:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "ddf5930481aa",
+   "url": "https://news.mynavi.jp/techplus/article/20260710-4684364/",
+   "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
+   "summary": "清水建設がAIロボットの研究開発を進め、ヒューマノイドロボットによる建設現場巡回の実証を開始。",
+   "source": "マイナビニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://news.mynavi.jp/techplus/article/20260710-4684364/ogp_images/ogp.jpg",
+   "published": "2026-07-10T10:08+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "043755afcf8b",
+   "url": "https://news.yahoo.co.jp/articles/d704a9b6e91ace1397c044722fb1a9e8ffa337a6/images/000",
+   "title": "三菱がヒューマノイドロボット事業にサプライズ参入！ スタートアップ『ハイランダーズ』と基本合意 来年後半から月1000台量産へ",
+   "summary": "三菱がヒューマノイドロボット事業に参入し、スタートアップ『ハイランダーズ』と基本合意。来年後半から月1000台の量産を予定。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDO5G29CtR_7ESnCNe7XaxnSyWq5W71sudw2zyG34ye4BH0gU54FsPl2QGEmgkpwtqehdJ5fqcyy301Mhtm74TwsgHNI_QUTz9tBorFTs1mPXO8o26zw_2mUGD3QFBDmPg==",
+   "published": "2026-07-10T08:34+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "dc24931165db",
+   "url": "https://www.therobotreport.com/beyond-da-vinci-why-versatile-humanoid-robots-are-next-frontier-surgery/",
+   "title": "Beyond da Vinci: Why versatile humanoid robots are the next frontier in surgery",
+   "summary": "UCサンディエゴの前臨床試験で、テレオペレートされたヒューマノイドロボットが手術を成功させた。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/humanoid-surgery-featured.jpg",
+   "published": "2026-07-09T21:30+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "1d3482f30df6",
+   "url": "https://news.yahoo.co.jp/pickup/6587337",
+   "title": "国産人型ロボ 三菱自動車が量産へ",
+   "summary": "三菱自動車がAI搭載の人型ロボットの量産化を目指す取り組みを開始。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://news-pctr.c.yimg.jp/t/news-topics/images/tpc/2026/7/9/109704d11751786af6c0e62106d7f72b40142d3e25f8236db6425d0c28e9a14b.jpg",
+   "published": "2026-07-09T20:18+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "70ef4bdc69a4",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/kurumanews/trend/kurumanews-1085066",
+   "title": "三菱自動車が「”国産”ヒューマノイドロボット」量産へ!? 東大発スタートアップ「Highlanders」と共に“人とロボットが働く未来”を目指す",
+   "summary": "三菱自動車が東大発スタートアップと共に国産ヒューマノイドロボットの量産を目指す。",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/kurumanews/m_kurumanews-1085066.jpg",
+   "published": "2026-07-09T19:30+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
   {
    "id": "87892d444301",
    "url": "https://news.yahoo.co.jp/articles/5fa35b3f82190624c7d83b3ed391031f6b7ea627?source=rss",
@@ -173,6 +345,19 @@
    "collected": "2026-07-09T19:31+09:00"
   },
   {
+   "id": "fabc9882d29e",
+   "url": "https://www.nikkei.com/article/DGXZQOUC066YP0W6A700C2000000/",
+   "title": "三菱自動車がヒト型ロボット参入 東大発新興と国内生産、外販視野",
+   "summary": "三菱自動車が国内工場でヒューマノイドロボットの量産を開始し、将来的な外販も検討。",
+   "source": "日本経済新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3288414009072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.13&fp-y=0.31&h=630&w=1200&s=9bab8fec81907fe8c6740b3cc307941e",
+   "published": "2026-07-09T16:38+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
    "id": "e5f1bca4f384",
    "url": "https://s.response.jp/article/img/2026/07/09/413816/2226046.html?from=thumb_under_hero",
    "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 7枚目の写真・画像",
@@ -226,6 +411,19 @@
    "_thumb_tries": 3
   },
   {
+   "id": "408d492797c1",
+   "url": "https://robotstart.info/article/img/2026/07/09/382127/104498.html",
+   "title": "【人間そっくり】日常利用を想定したヒューマノイド「UWORLD U1」感情認識でカウンセリング UBTECHが動画公開 1枚目の写真・画像",
+   "summary": "UBTECHが感情認識機能を持つヒューマノイド「UWORLD U1」を発表。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104498.jpg",
+   "published": "2026-07-09T14:45+09:00",
+   "collected": "2026-07-10T17:52+09:00"
+  },
+  {
    "id": "e62829950cbb",
    "url": "https://robotstart.info/article/2026/07/09/382127.html",
    "title": "日常利用を想定したヒューマノイド「UWORLD U1」感情認識でカウンセリングも対応 UBTECHが動画公開",
@@ -250,6 +448,19 @@
    "thumbnail": "https://assets.st-note.com/production/uploads/images/292817803/rectangle_large_type_2_d22d27f1748772cf5581d41611d97607.jpeg?fit=bounds&quality=85&width=1280",
    "published": "2026-07-09T14:09+09:00",
    "collected": "2026-07-09T17:56+09:00"
+  },
+  {
+   "id": "287c15bf9cc6",
+   "url": "https://newscast.jp/news/9649875",
+   "title": "車輪付きプール清掃ロボットの世界市場（2026年～2032年）、市場規模（有線、コードレス）・分析レポートを発表",
+   "summary": "車輪付きプール清掃ロボットの市場規模に関する分析レポートを発表。",
+   "source": "newscast.jp",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/AO5qJLntANBCFPYuZA6x.png",
+   "published": "2026-07-09T12:00+09:00",
+   "collected": "2026-07-10T17:52+09:00"
   },
   {
    "id": "2bcd806d04ad",
