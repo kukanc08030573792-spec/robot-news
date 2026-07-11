@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-11T15:04+09:00",
+  "last_updated": "2026-07-11T15:38+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -80,6 +80,19 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/a12-robot-hero-featured.jpg",
    "published": "2026-07-11T04:44+09:00",
    "collected": "2026-07-11T09:14+09:00"
+  },
+  {
+   "id": "5f15fd62b6bc",
+   "url": "https://www.sbbit.jp/article/st/186076",
+   "title": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ",
+   "summary": "三菱自動車と東京大学発スタートアップHighlandersが協業し、ヒューマノイドロボットの月産1000台体制を目指す。2027年後半に量産化を予定。自動車メーカーとロボット開発企業の協業は初の事例。",
+   "source": "ビジネス+IT",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.sbbit.jp/article/image/186076/OGP_bit202607110057218664.jpg",
+   "published": "2026-07-10T22:00+09:00",
+   "collected": "2026-07-11T15:38+09:00"
   },
   {
    "id": "0dc386d47ef7",
@@ -278,7 +291,7 @@
    "thumbnail": null,
    "published": "2026-07-10T02:37+09:00",
    "collected": "2026-07-11T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "dc24931165db",
