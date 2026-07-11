@@ -1,5 +1,70 @@
 [
  {
+  "id": "62fd2245ba1f",
+  "url": "https://dxmagazine.jp/news/ykmt262509/",
+  "title": "建設現場をAIロボットが歩き回る時代へ!? 人型ロボットの実力とは",
+  "summary": "清水建設がAIロボットを建設現場に導入する取り組みを開始。ヒューマノイドロボットによる巡回とロボットアームによる塗装作業の実証を実施中。",
+  "source": "DXマガジン",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/07/11-2.png",
+  "published": "2026-07-11T09:06+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
+  "id": "dd0bd0768744",
+  "url": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
+  "title": "XTEND secures U.S. patent for autonomous navigation technology",
+  "summary": "XTENDが自律ナビゲーション技術に関する米国特許を取得。これにより、運用支援やミッション実行のポートフォリオが拡大。",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Xtend_drone-copy.jpg",
+  "published": "2026-07-11T06:31+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
+  "id": "5d6426d074e2",
+  "url": "https://japan.cnet.com/article/35250447/",
+  "title": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも",
+  "summary": "戸建て住宅向けのロボット掃除機5選を紹介。階段を上れないモデルの運搬や設置の工夫を提案。",
+  "source": "CNET Japan",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://japan.cnet.com/storage/2026/07/11/899a7c662def296394496f7663e41466/2026-07-11_6.02の画像.jpeg",
+  "published": "2026-07-11T06:08+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
+  "id": "3d42ea382f04",
+  "url": "https://www.therobotreport.com/ai%C2%B2-robotics-raises-735m-3b-valuation-wheeled-humanoid-robots/",
+  "title": "AI² Robotics raises $735M at $3B valuation for wheeled humanoid robots",
+  "summary": "Ai2 Roboticsが735百万ドルを調達し、評価額は30億ドルに達する。ヒューマノイドロボットの開発を進める。",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/a12-robot-hero-featured.jpg",
+  "published": "2026-07-11T04:44+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
+  "id": "0dc386d47ef7",
+  "url": "https://finance.biggo.jp/news/8f832207-00e6-4027-896c-e49c075a32e1",
+  "title": "優必選（UBTECH）、6年で56億元の巨額赤字 仿生ロボットに活路、宇樹科技など新興勢の包囲網を突破できるか",
+  "summary": "UBTECHが超仿生ヒューマノイドロボット「U1」シリーズを発表。市場開拓を狙うが、バッテリーや倫理面での課題が残る。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/oPEHsh6XIybylP4Dp7Ee-REOi9Ep-44LJ0_9shI57-U/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzhmODMyMjA3LTAwZTYtNDAyNy04OTZjLWU0OWMwNzVhMzJlMV8xNzgzNjg2MDE4X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-07-10T21:06+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
   "id": "714a6e6a9383",
   "url": "https://carview.yahoo.co.jp/article/detail/fedf8b5b73b8b7a4e46519c4cfc68a1439f3051c/",
   "title": "【なぜ三菱がロボットを？】自動車工場で「人型ロボット」を量産へ。スタートアップと組んで海外ビッグテックに挑む国産AIの勝算",
@@ -24,7 +89,7 @@
   "thumbnail": null,
   "published": "2026-07-10T18:18+09:00",
   "collected": "2026-07-10T19:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "68f07b0a8fbe",
@@ -170,6 +235,20 @@
   "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDO5G29CtR_7ESnCNe7XaxnSyWq5W71sudw2zyG34ye4BH0gU54FsPl2QGEmgkpwtqehdJ5fqcyy301Mhtm74TwsgHNI_QUTz9tBorFTs1mPXO8o26zw_2mUGD3QFBDmPg==",
   "published": "2026-07-10T08:34+09:00",
   "collected": "2026-07-10T17:52+09:00"
+ },
+ {
+  "id": "5a39f4265829",
+  "url": "https://www.richardajkeys.com/dp/70bf184207005",
+  "title": "猫 ロボット 配膳 値段 ネコ型配膳ロボット BellaBot が手のひらサイズのふわふわ手触りマスコットになって登場 予約受付開始 バンダイナムコヌイ - ロボット・AI情報WEBマガジン",
+  "summary": "ネコ型配膳ロボットBellaBotが手のひらサイズのマスコットとして登場。予約受付を開始。",
+  "source": "richardajkeys.com",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-10T02:37+09:00",
+  "collected": "2026-07-11T09:14+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "dc24931165db",
@@ -341,6 +420,19 @@
   "collected": "2026-07-09T17:56+09:00"
  },
  {
+  "id": "5531e7c17729",
+  "url": "https://weekly.ascii.jp/elem/000/004/418/4418039/",
+  "title": "水拭き対応「ルンバ」が5万円の衝撃！プライムデー先行セールで超お買い得に",
+  "summary": "水拭き対応の掃除ロボット「ルンバ」がプライムデー先行セールで4万9800円に。58％オフの特価。",
+  "source": "週刊アスキー",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://ascii.jp/img/2026/07/09/4497811/l/b3b5b5ba6d71fdf0.jpg",
+  "published": "2026-07-09T17:00+09:00",
+  "collected": "2026-07-11T09:14+09:00"
+ },
+ {
   "id": "b630a6598b55",
   "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
   "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
@@ -431,6 +523,19 @@
   "thumbnail": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/img/20260709_1_01.jpg",
   "published": "2026-07-09T16:24+09:00",
   "collected": "2026-07-10T19:35+09:00"
+ },
+ {
+  "id": "90fd83b03921",
+  "url": "https://getnavi.jp/appliances/1107801/",
+  "title": "プライムセールで33％オフ！エコバックスの全自動ロボット掃除機がAmazonでお買い得",
+  "summary": "エコバックスの全自動ロボット掃除機がプライムセールで33％オフ。期間は7月10日から13日まで。",
+  "source": "GetNavi web",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://getnavi.jp/wp-content/uploads/2026/07/51NE5pZDU8L._AC_SL1000_.jpg",
+  "published": "2026-07-09T16:05+09:00",
+  "collected": "2026-07-11T09:14+09:00"
  },
  {
   "id": "e62829950cbb",
