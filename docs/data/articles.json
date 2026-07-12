@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-11T16:18+09:00",
+  "last_updated": "2026-07-12T09:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,45 @@
   ]
  },
  "items": [
+  {
+   "id": "48b7c337790d",
+   "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
+   "title": "Are suppliers ready for new robot safety standards?",
+   "summary": "ロボット安全基準の変更に備えたサプライヤーが市場アクセスを維持できる一方、準備不足の企業は影響を受ける可能性がある。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/kuka-automation-in-the-industry-featured.jpg",
+   "published": "2026-07-11T22:30+09:00",
+   "collected": "2026-07-12T09:15+09:00"
+  },
+  {
+   "id": "96a88a01ce0b",
+   "url": "https://www.therobotreport.com/why-robotics-teams-need-virtual-gyms-before-deployment/",
+   "title": "Why robotics teams need virtual gyms before deployment",
+   "summary": "ロボットの環境やタスクの変動に対応するため、シミュレーションから現実へのギャップを埋める「バーチャルジム」の必要性が指摘される。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/humanoids_softserve-1024x574.png",
+   "published": "2026-07-11T21:36+09:00",
+   "collected": "2026-07-12T09:15+09:00"
+  },
+  {
+   "id": "f7f09b5c0f00",
+   "url": "https://ure.pia.co.jp/articles/-/3350909",
+   "title": "掃除機がけも水拭きも、使ったモップの洗浄まで。「ルンバ」の進化がすごかった",
+   "summary": "アイロボットのルンバが掃除機がけや水拭き、モップの洗浄機能を進化させた。",
+   "source": "ウレぴあ総研",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://urepia.ismcdn.jp/mwimgs/9/2/1200w/img_929257d065da8bfb7b834e74d27f5ae1434960.png",
+   "published": "2026-07-11T15:40+09:00",
+   "collected": "2026-07-12T09:15+09:00"
+  },
   {
    "id": "62fd2245ba1f",
    "url": "https://dxmagazine.jp/news/ykmt262509/",
@@ -278,6 +317,19 @@
    "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RDO5G29CtR_7ESnCNe7XaxnSyWq5W71sudw2zyG34ye4BH0gU54FsPl2QGEmgkpwtqehdJ5fqcyy301Mhtm74TwsgHNI_QUTz9tBorFTs1mPXO8o26zw_2mUGD3QFBDmPg==",
    "published": "2026-07-10T08:34+09:00",
    "collected": "2026-07-10T17:52+09:00"
+  },
+  {
+   "id": "d943f0e903f4",
+   "url": "https://36kr.jp/497543/",
+   "title": "ロボットハンドの心臓部に商機 中国新興、超小型モーターで「業界初」の構成",
+   "summary": "中国の人型ロボット産業の成長に伴い、ロボットハンドや関節モジュールに投資が集まっている。",
+   "source": "36Kr Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36krjp-1316517779.cos.ap-tokyo.myqcloud.com/uploads/2026/06/20260609164014v2_cc34291750304e46bee88985c80cc626@6221844_oswg502136oswg1080oswg607_img_000379.jpeg",
+   "published": "2026-07-10T08:00+09:00",
+   "collected": "2026-07-12T09:15+09:00"
   },
   {
    "id": "5a39f4265829",
