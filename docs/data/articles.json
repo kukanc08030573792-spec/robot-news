@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-13T19:40+09:00",
+  "last_updated": "2026-07-13T19:42+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -298,10 +298,9 @@
    "type": "article",
    "category": "adjacent",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://news.walkerplus.com/article/1176443/12565642_615.jpg",
    "published": "2026-07-12T15:37+09:00",
-   "collected": "2026-07-13T19:40+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-07-13T19:40+09:00"
   },
   {
    "id": "48b7c337790d",
