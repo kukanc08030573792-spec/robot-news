@@ -1,5 +1,44 @@
 [
  {
+  "id": "7181a1bc126c",
+  "url": "https://www.vietnam.vn/ja/dai-hoc-my-thuc-hien-ca-mo-bang-robot-trung-quoc",
+  "title": "アメリカの大学が中国製のロボット手術装置を用いて手術を実施。",
+  "summary": "アメリカの大学が中国製ロボット手術装置を用い、豚の胆嚢摘出手術を成功させた。医療分野での応用可能性を示す。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/13/1783899195709_chinese_robot_operation.jpeg",
+  "published": "2026-07-13T08:40+09:00",
+  "collected": "2026-07-13T09:14+09:00"
+ },
+ {
+  "id": "9275b303e965",
+  "url": "https://www.roomie.jp/2026/07/1807237/",
+  "title": "「ロボット掃除機のゴミ箱付き」は、我が家にはデカすぎる。コンパクトな一台を求めてこれにしました",
+  "summary": "コンパクトなロボット掃除機「Roomba Mini Slim」を選択。省スペースで水拭き機能も搭載。",
+  "source": "ROOMIE（ルーミー）",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://media.loom-app.com/roomie/dist/images/2026/07/Roomba-Slim-top.png?w=1200",
+  "published": "2026-07-12T20:30+09:00",
+  "collected": "2026-07-13T09:14+09:00"
+ },
+ {
+  "id": "7070c37b0602",
+  "url": "https://ascii.jp/elem/000/004/418/4418613/",
+  "title": "日本市場向けに46％小型化＆34％オフ！最新ルンバRoomba Plus 575 Comboが11万円台に 【Amazonプライムデー】",
+  "summary": "最新ルンバ「Plus 575 Combo」が日本市場向けに46％小型化し、約3割引きで販売。",
+  "source": "ASCII.jp",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://ascii.jp/img/2026/05/29/4474678/xl/fa3853af9fd3c9c5.jpg?20200122",
+  "published": "2026-07-12T18:00+09:00",
+  "collected": "2026-07-13T09:14+09:00"
+ },
+ {
   "id": "48b7c337790d",
   "url": "https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/",
   "title": "Are suppliers ready for new robot safety standards?",
@@ -24,6 +63,19 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/humanoids_softserve-1024x574.png",
   "published": "2026-07-11T21:36+09:00",
   "collected": "2026-07-12T09:15+09:00"
+ },
+ {
+  "id": "af7c44dfe11c",
+  "url": "https://carview.yahoo.co.jp/news/detail/c48b60c80a433d4d95a07bd9a2243cb3a8b1520d/",
+  "title": "三菱自動車がスタートアップ企業と提携して「人型ロボット」を生産！ 自動車メーカーがロボットを作る「超合理的」な理由",
+  "summary": "三菱自動車がスタートアップと提携し、人型ロボットの共同開発を開始。2027年から月産1000台を目指す。",
+  "source": "carview!",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://autos-pctr.c.yimg.jp/E8AMlYWU4zGKe4isosZ0gb2D0DgzZwi7cGz3rEpAawZW10G-2qILT2bb6ilcC5z3dtA6n3KjOKM3AAQFWBSUF0BOxAs3U_p16Z6XUNgC6CKYL9i8-9wSjU5XJI94NVLanGt83_uiStNyrv-J0z8lKL3tl2TrfLsih5eORV_PnIsmN8xXyIalcEL7jwtnnYwd6Y9Fo4_kFVR-ccJ4lOSyng==",
+  "published": "2026-07-11T18:32+09:00",
+  "collected": "2026-07-13T09:14+09:00"
  },
  {
   "id": "f7f09b5c0f00",
@@ -157,6 +209,19 @@
   "collected": "2026-07-10T19:35+09:00"
  },
  {
+  "id": "ec417f0c1194",
+  "url": "https://robotstart.info/article/img/2026/07/10/382134/104539.html",
+  "title": "ヒューマノイドvs人類？格闘大会予告動画の反響を紹介 Unitree「CMG 2026 Humanoid Robot Combat Competition」 1枚目の写真・画像",
+  "summary": "Unitreeがヒューマノイドロボットによる格闘技大会「CMG 2026」を予告。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/104539.jpg",
+  "published": "2026-07-10T17:00+09:00",
+  "collected": "2026-07-13T09:14+09:00"
+ },
+ {
   "id": "3d2367ae848d",
   "url": "https://note.com/kmoriyama/n/nf629fb961afe",
   "title": "「Apollo 2」と「Robot Park」から見るApptronikの「データ工場」ヒューマノイド戦略｜森山和道 ライター、書評屋",
@@ -222,6 +287,19 @@
   "published": "2026-07-10T12:28+09:00",
   "collected": "2026-07-10T17:52+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "6993b9971354",
+  "url": "https://36kr.jp/498729/",
+  "title": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増",
+  "summary": "モルガン・スタンレーが中国の人型ロボット市場の出荷予測を倍増。2026年に5万台を見込む。",
+  "source": "36Kr Japan",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://36krjp-1316517779.cos.ap-tokyo.myqcloud.com/uploads/2026/07/202607081521031c59fec4-eed3-4d46-a29c-88a283079a66678.png",
+  "published": "2026-07-10T11:31+09:00",
+  "collected": "2026-07-13T09:14+09:00"
  },
  {
   "id": "3c9e8de02753",
@@ -300,6 +378,19 @@
   "thumbnail": "https://36krjp-1316517779.cos.ap-tokyo.myqcloud.com/uploads/2026/06/20260609164014v2_cc34291750304e46bee88985c80cc626@6221844_oswg502136oswg1080oswg607_img_000379.jpeg",
   "published": "2026-07-10T08:00+09:00",
   "collected": "2026-07-12T09:15+09:00"
+ },
+ {
+  "id": "5f3d21c66c0e",
+  "url": "https://www.yomiuri.co.jp/economy/20260710-GYT1T00004/",
+  "title": "人型ロボ、三菱自が工場導入を視野に量産へ…将来の人手不足を補う期待・米中勢が先行",
+  "summary": "三菱自動車が2027年前半にAI搭載の人型ロボットを自社工場で量産予定。人手不足を補う期待。",
+  "source": "読売新聞",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.yomiuri.co.jp/media/2026/07/20260710-GYT1I00006-1.jpg?type=ogp",
+  "published": "2026-07-10T05:00+09:00",
+  "collected": "2026-07-13T09:14+09:00"
  },
  {
   "id": "5a39f4265829",
