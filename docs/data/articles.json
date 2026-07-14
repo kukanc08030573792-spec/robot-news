@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-14T09:09+09:00",
+  "last_updated": "2026-07-14T14:58+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -30,6 +30,97 @@
  },
  "items": [
   {
+   "id": "85b6ef70ce03",
+   "url": "https://ashu-chinastatistics.com/news/300047-241460812330",
+   "title": "中国サービスロボは本当に儲かるのか、出荷増の裏にある課題",
+   "summary": "中国のサービスロボット市場の出荷増加の裏には、収益性や課題が存在する。",
+   "source": "ashu-chinastatistics.com",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ashu-chinastatistics.com/img/common/og_image.jpg",
+   "published": "2026-07-14T14:14+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "30437798c2e4",
+   "url": "https://robotstart.info/article/2026/07/14/382144.html",
+   "title": "ロボカップ世界大会2026 現地レポート【前編】ヒューマノイドとフィジカルAIが変えるロボット競技の未来",
+   "summary": "ロボカップ2026では、商用ヒューマノイドの登場によりロボット競技の未来が変わる可能性がある。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104619.jpg",
+   "published": "2026-07-14T13:30+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "82899041af12",
+   "url": "https://mainichi.jp/articles/20260714/pr2/00m/020/449000c",
+   "title": "プレスリリース：［介護施設で実証］MOVAロボット掃除機で「清掃時間の大幅削減」実感100%。削減された時間は「利用者対応・記録業務」に活用。（PR TIMES）",
+   "summary": "介護施設でのMOVAロボット掃除機の実証結果、清掃時間を大幅に削減し、利用者対応に活用。",
+   "source": "毎日新聞",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://cdn.mainichi.jp/vol1/2026/07/14/20260714pr200m020449000p/0.png?2",
+   "published": "2026-07-14T12:51+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "a550aefb2b41",
+   "url": "https://prtimes.jp/main/html/rd/p/000000007.000089851.html",
+   "title": "HuRoC EXPO 2026 7/17 開催｜人とロボットが共生する未来を大田区から！",
+   "summary": "老舗商社『萬代』が人型ロボット開発向けに軸受の選定・調達相談を開始。",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/89851/7/89851-7-1c9798a41a02bf083512550c34b64644-2000x750.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-07-14T12:09+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "8c50eba948b6",
+   "url": "https://www.nnn.co.jp/articles/-/766907",
+   "title": "創業86年、神戸・島根の老舗ものづくり商社『萬代』が、\"人型ロボット\"開発の現場へ──開発者向け『軸受の選定・調達相談』を開始",
+   "summary": "株式会社萬代国内外 約500社のメーカーを横断する調達力で、軸受の選定から少量・試作調達までを、構想・試作段階から支援します。神戸・島根の軸受専門商社・萬代が提供する、ロボット開発者向け軸受選定・少…",
+   "source": "nnn.co.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://nihonkai.ismcdn.jp/mwimgs/3/3/-/img_33036b70b35a4533e3e7b9cafdbc05fe96174.jpg",
+   "published": "2026-07-14T11:55+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "21cfad458dbc",
+   "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10634986",
+   "title": "配膳ロボットについて学ぼう！ロボットカフェ体験！",
+   "summary": "配膳ロボットを体験するロボカフェの夏休み特別イベント。",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/eventbank/m_eventbank-10634986.jpg",
+   "published": "2026-07-14T10:00+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "a983879ebd7b",
+   "url": "https://prtimes.jp/main/html/rd/p/000000008.000036809.html",
+   "title": "未来機械、経済産業省「グローバルサウス未来志向型共創等事業費補助金」に採択",
+   "summary": "未来機械が経済産業省の補助金に採択され、グローバルサウス向けの事業を推進。",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/36809/8/36809-8-e7bfc0a8cf73be789c01f7677273c956-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-07-14T09:50+09:00",
+   "collected": "2026-07-14T14:58+09:00"
+  },
+  {
    "id": "1e06a43b8607",
    "url": "https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/",
    "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
@@ -51,10 +142,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://wirelesswire.jp/wp-content/uploads/2026/07/p20260709_unsplash1.jpg",
    "published": "2026-07-14T06:03+09:00",
-   "collected": "2026-07-14T09:09+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-07-14T09:09+09:00"
   },
   {
    "id": "44de644ca3cf",
@@ -81,7 +171,7 @@
    "thumbnail": null,
    "published": "2026-07-14T00:26+09:00",
    "collected": "2026-07-14T09:09+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "af55f572faf3",
@@ -147,6 +237,19 @@
    "thumbnail": "https://korben.info/ce-robot-humanoide-va-faire-votre-menage-mais-il-y-a-un-gros-probleme/ce-robot-humanoide-va-faire-votre-menage-mais-il-y-a-un-gros-probleme-1.jpg",
    "published": "2026-07-13T17:36+09:00",
    "collected": "2026-07-14T09:09+09:00"
+  },
+  {
+   "id": "a37a59fd2dd5",
+   "url": "https://gigazine.net/news/20260713-neo-hands/",
+   "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
+   "summary": "1X Technologiesの家事ロボット「NEO」向けに、25自由度の新型ハンド「NEO's Hands」が発表。人間と同等の器用さと安全性を実現。",
+   "source": "GIGAZINE",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.gzn.jp/img/2026/07/13/neo-hands/00.jpg",
+   "published": "2026-07-13T17:16+09:00",
+   "collected": "2026-07-14T14:58+09:00"
   },
   {
    "id": "7000cfd8e7d9",
@@ -277,6 +380,19 @@
    "thumbnail": "https://afpbb.ismcdn.jp/mwimgs/d/3/1000x/img_d3cd37ca66111961cc21cda97ed4b558135522.jpg",
    "published": "2026-07-13T11:20+09:00",
    "collected": "2026-07-13T17:36+09:00"
+  },
+  {
+   "id": "f0909656c5ef",
+   "url": "https://topics.smt.docomo.ne.jp/article/trafficnews/trend/trafficnews-686732",
+   "title": "三菱が自動車工場で「人型ロボット」を量産へ！ 遊休施設を活用！ 国産ヒューマノイド開発に新展開！",
+   "summary": "三菱が自動車工場で人型ロボットを量産予定。遊休施設を活用し、国産ヒューマノイド開発に新たな展開。",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/trafficnews/m_trafficnews-686732.jpg",
+   "published": "2026-07-13T11:12+09:00",
+   "collected": "2026-07-14T14:58+09:00"
   },
   {
    "id": "235ba30956ea",
