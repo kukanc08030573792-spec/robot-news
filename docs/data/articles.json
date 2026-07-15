@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-15T09:06+09:00",
+  "last_updated": "2026-07-15T15:02+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -30,6 +30,46 @@
  },
  "items": [
   {
+   "id": "00449bd4e2fe",
+   "url": "https://robotstart.info/article/2026/07/15/382149.html",
+   "title": "矢崎総業、フィジカルAI・ヒューマノイドを活用する新拠点「Innovation Hub – REN(錬)」始動",
+   "summary": "矢崎総業が静岡県裾野市にフィジカルAIとヒューマノイドを活用した次世代スマートファクトリーの拠点「Innovation Hub – REN」を設置し、自働化の検証や産学連携による研究開発を開始。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/104666.jpg",
+   "published": "2026-07-15T13:45+09:00",
+   "collected": "2026-07-15T15:02+09:00"
+  },
+  {
+   "id": "2116593ac60f",
+   "url": "https://nikkantb.com/metal/374523/",
+   "title": "未来機械、太陽光パネル清掃ロボで実証事業",
+   "summary": "未来機械が太陽光パネル清掃ロボットの実証事業を開始。",
+   "source": "日刊タイビジネス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-15T07:03+09:00",
+   "collected": "2026-07-15T15:02+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "d60e1350887d",
+   "url": "https://www.businessinsider.jp/article/2607-humanoid-robot-hand-1x/",
+   "title": "お茶汲み、USB挿入、ジッパー開閉までこなす。1Xの「人間レベルの器用さ」を持つ新型ロボットハンドの全貌",
+   "summary": "1Xが新型ロボットハンドを発表。お茶汲みやUSB挿入、ジッパー開閉など人間レベルの器用さを実現。",
+   "source": "Business Insider Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/07/13/7490f479-f8f4-46f8-afb3-3cfcc5fda33c/original.jpg?w=1200&h=630",
+   "published": "2026-07-15T07:00+09:00",
+   "collected": "2026-07-15T15:02+09:00"
+  },
+  {
    "id": "890bd93e0a19",
    "url": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
    "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
@@ -41,7 +81,7 @@
    "thumbnail": null,
    "published": "2026-07-15T06:38+09:00",
    "collected": "2026-07-15T09:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "de660726134e",
@@ -81,7 +121,7 @@
    "thumbnail": null,
    "published": "2026-07-14T18:04+09:00",
    "collected": "2026-07-15T09:06+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "24543d69acb0",
@@ -303,6 +343,19 @@
    "thumbnail": "https://d1uzk9o9cg136f.cloudfront.net/f/16783662/rc/2026/07/13/0d8d2e6486120057bec6d61c16b680b550290c50_xlarge.jpg",
    "published": "2026-07-14T06:00+09:00",
    "collected": "2026-07-14T09:09+09:00"
+  },
+  {
+   "id": "f8cc981d65ee",
+   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071000003/",
+   "title": "三菱自動車、人型ロボ量産でフィジカルAI銘柄へ 協業の理由は「スピード」",
+   "summary": "三菱自動車が国内初のヒューマノイドロボットの量産を開始。開発スピードが他社と異なる点が協業の理由。",
+   "source": "日経クロステック",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/column/18/03688/071000003/topm.jpg?20220512",
+   "published": "2026-07-14T05:00+09:00",
+   "collected": "2026-07-15T15:02+09:00"
   },
   {
    "id": "b6eb1412e8be",
