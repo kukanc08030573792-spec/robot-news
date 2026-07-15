@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-15T15:37+09:00",
+  "last_updated": "2026-07-15T16:23+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,20 @@
   ]
  },
  "items": [
+  {
+   "id": "2b216ed2b3c3",
+   "url": "https://finance.biggo.jp/news/b97a7e6a-753e-4c8e-ae6c-1eb1afe55fb2",
+   "title": "Roborock、ライブコマース取引額330億ウォン突破…Samsung Electronicsの6倍の効率で「圧倒的1位」",
+   "summary": "Roborockがライブコマース取引額330億ウォンを突破し、Samsung Electronicsの6倍の効率で圧倒的1位を達成。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-15T15:27+09:00",
+   "collected": "2026-07-15T16:23+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "255281f1981b",
    "url": "https://www.atpress.ne.jp/news/3199013",
@@ -67,7 +81,7 @@
    "thumbnail": null,
    "published": "2026-07-15T07:03+09:00",
    "collected": "2026-07-15T15:02+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d60e1350887d",
