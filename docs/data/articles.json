@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-14T15:38+09:00",
+  "last_updated": "2026-07-15T09:06+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -30,6 +30,86 @@
  },
  "items": [
   {
+   "id": "890bd93e0a19",
+   "url": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
+   "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
+   "summary": "Murata Power Solutionsがロボットの電力管理について解説。バッテリーからアクチュエーターへの電力供給の重要性を強調。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-15T06:38+09:00",
+   "collected": "2026-07-15T09:06+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "de660726134e",
+   "url": "https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/",
+   "title": "NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment",
+   "summary": "NVIDIAが一般的なロボットポリシーの評価方法を発表。オープンソースのシミュレーションフレームワークを利用。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/nvidiastory-featured.jpg",
+   "published": "2026-07-15T05:08+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
+   "id": "c62502cf00c2",
+   "url": "https://built.itmedia.co.jp/bt/articles/2607/14/news106.html",
+   "title": "日本の住宅環境を研究し、清掃の死角ゼロへ 吸引力3倍と強力な拭き取り能力の新ルンバ：製品動向",
+   "summary": "新型ルンバが吸引力3倍と強力な拭き取り能力を持ち、日本の住宅環境に対応。",
+   "source": "ITmedia",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://image.itmedia.co.jp/bt/articles/2607/14/l_is202600629irobot044.jpg",
+   "published": "2026-07-14T18:15+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
+   "id": "e78e6b307180",
+   "url": "https://www.startyourengines.net/pressrelease/438100/",
+   "title": "自律走行ロボットなど8種類のソリューション、TOYOROBOが紹介へ…TECHNO‐FRONTIER 2026",
+   "summary": "TOYOROBOが自律走行ロボットなど8種類のソリューションをTECHNO‐FRONTIER 2026で紹介予定。",
+   "source": "startyourengines.net",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-14T18:04+09:00",
+   "collected": "2026-07-15T09:06+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "24543d69acb0",
+   "url": "https://finance.biggo.jp/news/4a46cd91-ea99-4bb8-9c94-db87a56a01e5",
+   "title": "サムスン・LGが参戦、ロボット掃除機市場は「春秋戦国時代」へ…100万ウォン台の多機能製品が主流に",
+   "summary": "サムスンとLGが韓国のロボット掃除機市場に参入。Roborockの影響力に変化が生じる。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/SEy6KzO449oizOH5OZF1CE-c7gsJKJDo1AIo-S5uQ0c/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzRhNDZjZDkxLWVhOTktNGJiOC05Yzk0LWRiODdhNTZhMDFlNV8xNzg0MDMwNjUzX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-07-14T17:26+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
+   "id": "05499f808bec",
+   "url": "https://businessnetwork.jp/article/35880/",
+   "title": "孫正義氏が予言「2040年に100兆個のAIエージェントと10億台のヒューマノイドロボットが稼働」",
+   "summary": "孫正義氏が2040年に100兆のAIエージェントと10億台のヒューマノイドロボットが稼働すると予測。",
+   "source": "ビジネスネットワーク",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://businessnetwork.jp/wp-content/uploads/2026/07/1-16.jpg",
+   "published": "2026-07-14T16:52+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
    "id": "d4cd85759009",
    "url": "https://robotstart.info/article/2026/07/14/382146.html",
    "title": "ヒューマノイドの社会実装めざす共創拠点「HuRoC」始動・7/17に大田区でEXPO開催 AMX",
@@ -43,6 +123,19 @@
    "collected": "2026-07-14T15:36+09:00"
   },
   {
+   "id": "f091b7b7ca85",
+   "url": "https://news.yahoo.co.jp/articles/77614e0f12081167b5dfa081c9bc4c7688465eba?page=2",
+   "title": "ロボットに「記憶」を持たせる──ロボティクスの次なるフロンティア",
+   "summary": "ロボットに記憶を持たせる技術が注目されている。倉庫ロボットが障害物を記憶することで、効率的な動作が可能になる。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260714-00100480-forbes-000-1-view.jpg?exp=10800",
+   "published": "2026-07-14T15:00+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
    "id": "85b6ef70ce03",
    "url": "https://ashu-chinastatistics.com/news/300047-241460812330",
    "title": "中国サービスロボは本当に儲かるのか、出荷増の裏にある課題",
@@ -54,6 +147,19 @@
    "thumbnail": "https://ashu-chinastatistics.com/img/common/og_image.jpg",
    "published": "2026-07-14T14:14+09:00",
    "collected": "2026-07-14T14:58+09:00"
+  },
+  {
+   "id": "848fb0433c78",
+   "url": "https://finance.biggo.jp/news/3a9e92c2-6461-4953-9115-f7570711caef",
+   "title": "中国ヒューマノイドロボット、IPOラッシュ…資金は「頭脳」へ集中",
+   "summary": "中国のヒューマノイドロボットスタートアップがIPO市場に参入し、資金調達競争が激化。Unitree、Leju Robot、DeepRobotが注目される。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/DMcjteHH7lSAD1rQJ2duuf3d2YDWlQm1uEnHgHb1djw/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzNhOWU5MmMyLTY0NjEtNDk1My05MTE1LWY3NTcwNzExY2FlZl8xNzg0MDI5NDY1X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-07-14T13:55+09:00",
+   "collected": "2026-07-15T09:06+09:00"
   },
   {
    "id": "30437798c2e4",
@@ -108,6 +214,19 @@
    "collected": "2026-07-14T14:58+09:00"
   },
   {
+   "id": "217c1ebb5d71",
+   "url": "https://prtimes.jp/main/html/rd/p/000000027.000162722.html",
+   "title": "【介護施設で実証】MOVAロボット掃除機で「清掃時間の大幅削減」実感100%。削減された時間は「利用者対応・記録業務」に活用。",
+   "summary": "介護施設でMOVAロボット掃除機を使用し、清掃時間を大幅に削減。削減された時間は利用者対応や記録業務に活用される。",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/162722/27/162722-27-1cc271c865f2f3e1a53327c3ba2ed1ba-1080x455.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-07-14T11:00+09:00",
+   "collected": "2026-07-15T09:06+09:00"
+  },
+  {
    "id": "21cfad458dbc",
    "url": "https://topics.smt.docomo.ne.jp/article/eventbank/region/eventbank-10634986",
    "title": "配膳ロボットについて学ぼう！ロボットカフェ体験！",
@@ -158,6 +277,19 @@
    "thumbnail": "https://wirelesswire.jp/wp-content/uploads/2026/07/p20260709_unsplash1.jpg",
    "published": "2026-07-14T06:03+09:00",
    "collected": "2026-07-14T09:09+09:00"
+  },
+  {
+   "id": "e02a440d1247",
+   "url": "https://smart-mobility.jp/_ct/17852156",
+   "title": "三菱自と東大発スタートアップ、国産人型ロボットを2027年に量産開始へ。三菱自京都工場で月産1000台を目指す",
+   "summary": "三菱自動車と東京大学発スタートアップが国産人型ロボットの共同開発を発表。2027年に月産1000台を目指す。",
+   "source": "スマートモビリティJP",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://d1uzk9o9cg136f.cloudfront.net/f/16783662/rc/2026/07/13/0d8d2e6486120057bec6d61c16b680b550290c50_xlarge.jpg",
+   "published": "2026-07-14T06:00+09:00",
+   "collected": "2026-07-15T09:06+09:00"
   },
   {
    "id": "44de644ca3cf",
