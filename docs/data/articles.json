@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-17T07:34+09:00",
+  "last_updated": "2026-07-17T08:33+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,19 @@
   ]
  },
  "items": [
+  {
+   "id": "4e8bdf23f57d",
+   "url": "https://finance.biggo.jp/news/de25e5dc-4c69-4e7c-bdef-539b1ad0545a",
+   "title": "190cmの人型ロボ「Atlas」に反発、Hyundai Motor労組が史上初のストライキ突入",
+   "summary": "Hyundai Motorの労働組合がBoston Dynamicsの人型ロボ「Atlas」の導入に反発し、史上初のストライキを実施。自動車業界でのヒューマノイドロボット導入に対する抗議活動。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/HMkRb8eYZsJ_5EnixqJ7c0Pgu6SQYZWK9HwrG4bcxE8/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2RlMjVlNWRjLTRjNjktNGU3Yy1iZGVmLTUzOWIxYWQwNTQ1YV8xNzg0MjQwMTIwX2RlZmF1bHQuanBn.webp",
+   "published": "2026-07-17T08:02+09:00",
+   "collected": "2026-07-17T08:33+09:00"
+  },
   {
    "id": "7afdd3f577cf",
    "url": "https://courrier.jp/news/archives/452622/",
@@ -67,7 +80,7 @@
    "thumbnail": null,
    "published": "2026-07-17T02:48+09:00",
    "collected": "2026-07-17T07:34+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "41a4e23482c1",
@@ -185,7 +198,7 @@
    "thumbnail": null,
    "published": "2026-07-16T17:30+09:00",
    "collected": "2026-07-17T07:34+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "af3d75b39f32",
