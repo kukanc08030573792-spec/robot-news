@@ -24,7 +24,7 @@
   "thumbnail": null,
   "published": "2026-07-18T03:58+09:00",
   "collected": "2026-07-18T07:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "64a4043564d1",
@@ -38,7 +38,7 @@
   "thumbnail": null,
   "published": "2026-07-18T03:45+09:00",
   "collected": "2026-07-18T07:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "073f029c6beb",
@@ -195,7 +195,7 @@
   "thumbnail": null,
   "published": "2026-07-17T12:51+09:00",
   "collected": "2026-07-17T15:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3f9aa6d8903c",
@@ -248,7 +248,7 @@
   "thumbnail": null,
   "published": "2026-07-17T11:03+09:00",
   "collected": "2026-07-17T15:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b9e205b3d3c0",
@@ -393,7 +393,7 @@
   "thumbnail": null,
   "published": "2026-07-17T04:00+09:00",
   "collected": "2026-07-17T15:04+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "95159e8cb8e6",
