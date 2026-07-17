@@ -1,5 +1,98 @@
 [
  {
+  "id": "de5d89ac172f",
+  "url": "https://news.yahoo.co.jp/articles/3ccc2df3ccf5733f449686b5e18513dcdcb6465e",
+  "title": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場 通常モデル比で4倍の力強さ（ITmedia PC USER）",
+  "summary": "吸引力重視のロボット掃除機「Roomba Max 715 Vac／775 Combo」登場。通常モデル比で4倍の吸引力を実現。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-00000042-zdn_pc-000-1-view.jpg?exp=10800",
+  "published": "2026-07-17T14:33+09:00",
+  "collected": "2026-07-17T15:04+09:00"
+ },
+ {
+  "id": "d5a96f4a491e",
+  "url": "https://news.nicovideo.jp/watch/nw19556624?news_ref=20_20",
+  "title": "アイロボットジャパン、ルンバ史上最高の吸引力に進化したフラッグシップモデル「Roomba(R) Max 775",
+  "summary": "アイロボットジャパンがルンバ史上最高の吸引力を持つフラッグシップモデル「Roomba(R) Max 775」を発表。",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-17T12:51+09:00",
+  "collected": "2026-07-17T15:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "3f9aa6d8903c",
+  "url": "https://article.auone.jp/detail/1/3/7/48_7_r_20260717_1784257512415848",
+  "title": "韓国の大手自動車メーカー・ヒョンデの労働者がストライキを実施、人型ロボットの大量導入計画が理由か",
+  "summary": "韓国の自動車メーカー・ヒョンデで労働者がストライキ。人型ロボットの大量導入計画が原因とされる。",
+  "source": "au Webポータル",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://portal.st-img.jp/thumb/3cb85eeb627597b4f24bacd6abb59f06_1784257512_l.jpg",
+  "published": "2026-07-17T12:02+09:00",
+  "collected": "2026-07-17T15:04+09:00"
+ },
+ {
+  "id": "e8f686182936",
+  "url": "https://news.yahoo.co.jp/articles/bf566c0cab1b067d5fe5c00aeec8d329136cd824",
+  "title": "ストライキの理由は「人型ロボット導入」 韓国の工場で表面化した対立（クーリエ・ジャポン）",
+  "summary": "韓国の現代自動車で人型ロボット導入を巡る労働者の不安が表面化し、ストライキが発生。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-00000001-courrier-000-1-view.jpg?exp=10800",
+  "published": "2026-07-17T11:45+09:00",
+  "collected": "2026-07-17T15:04+09:00"
+ },
+ {
+  "id": "b35650d81899",
+  "url": "https://news.nicovideo.jp/watch/nw19556057?news_ref=watch_20_nw19234677",
+  "title": "プールクリーニングロボット市場分析レポート：2026年1134百万米ドル規模、成長率8.0%推移",
+  "summary": "プールクリーニングロボット市場は2026年に1134百万米ドル規模に達し、成長率は8.0%と予測。",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-17T11:03+09:00",
+  "collected": "2026-07-17T15:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "b9e205b3d3c0",
+  "url": "https://www.vietnam.vn/ja/trung-quoc-mo-them-27-nganh-hoc-moi-don-dau-lan-song-ai-va-robot-hinh-nguoi",
+  "title": "中国は、AIとヒューマノイドロボットの波を見据え、新たに27の学術分野を開設した。",
+  "summary": "中国がAIとヒューマノイドロボットに関連する27の新たな学術分野を開設。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/17/1784250932918_china-edu.png",
+  "published": "2026-07-17T11:00+09:00",
+  "collected": "2026-07-17T15:04+09:00"
+ },
+ {
+  "id": "5d0c8de5fabc",
+  "url": "https://voix.jp/sdgs/sdgs/86522/",
+  "title": "OceanBlue Technologiesが自律走行型海岸清掃ロボット1号機を完成、福岡県宗像市での実証成功",
+  "summary": "OceanBlue Technologiesが自律走行型海岸清掃ロボット1号機を完成し、福岡県宗像市で実証運転に成功。",
+  "source": "ニュースメディアVOIX",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://voix.jp/sdgs/wp-content/uploads/sites/10/2026/07/featured_image-30-1.jpg",
+  "published": "2026-07-17T09:44+09:00",
+  "collected": "2026-07-17T15:04+09:00"
+ },
+ {
   "id": "da0ad27b8e19",
   "url": "https://prtimes.jp/main/html/rd/p/000000001.000187390.html",
   "title": "海岸清掃ロボット1号機が完成、福岡県宗像市の海岸で自律走行とごみ回収の実証に成功",
@@ -37,7 +130,7 @@
   "thumbnail": null,
   "published": "2026-07-17T08:22+09:00",
   "collected": "2026-07-17T09:06+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "4e8bdf23f57d",
@@ -66,6 +159,20 @@
   "collected": "2026-07-17T07:34+09:00"
  },
  {
+  "id": "538d5e46492d",
+  "url": "https://www.logi-today.com/977960",
+  "title": "矢崎総業、AI・ロボティクス活用の新拠点始動",
+  "summary": "矢崎総業がAI・ロボティクスを活用した新拠点を始動。物流業界における技術革新を目指す。",
+  "source": "LOGISTICS TODAY",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-17T04:00+09:00",
+  "collected": "2026-07-17T15:04+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "95159e8cb8e6",
   "url": "https://www.therobotreport.com/terrafirma-raises-115m-build-robotic-infrastructure-construction/",
   "title": "TerraFirma raises $115M to build robotic infrastructure for construction",
@@ -91,6 +198,19 @@
   "published": "2026-07-17T02:48+09:00",
   "collected": "2026-07-17T07:34+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "9893de12ae35",
+  "url": "https://finance.biggo.jp/news/a9b31ff6-df89-4f8c-a71f-0197a284d029",
+  "title": "黄志芳氏：AIがロボット革命に火をつける、台湾と日本が手を組み兆円規模のビジネスチャンスを狙う",
+  "summary": "台湾貿易センターの黄志芳氏が訪日し、AI技術の成長と人手不足を背景に日本と台湾のロボットビジネスの可能性を語る。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/SEfNICXLKGCx8h3BkgEDB2rSAYgnlJyhhkf1cT2de1k/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2E5YjMxZmY2LWRmODktNGY4Yy1hNzFmLTAxOTdhMjg0ZDAyOV8xNzg0MjIzNzI1X2RlZmF1bHQuanBn.webp",
+  "published": "2026-07-17T02:40+09:00",
+  "collected": "2026-07-17T15:04+09:00"
  },
  {
   "id": "41a4e23482c1",
