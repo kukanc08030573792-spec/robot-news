@@ -1,5 +1,18 @@
 [
  {
+  "id": "c15da7f1e960",
+  "url": "https://kunisawa.net/car/car_latest-information/%E4%B8%89%E8%8F%B1%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%8C%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%92%E6%B1%BA%E5%AE%9A%E3%80%82%E4%BB%8A%E3%81%AE%E3%81%BE/",
+  "title": "三菱自動車が人型ロボットの生産を決定。今のままだと中国ロボットに席巻されてしまうと思う",
+  "summary": "三菱自動車が人型ロボットの生産を決定。中国ロボットの台頭に対抗するための措置。",
+  "source": "自動車評論家 国沢光宏",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i0.wp.com/kunisawa.net/wp-content/uploads/2026/07/37180.webp?fit=450%2C338&ssl=1",
+  "published": "2026-07-18T07:57+09:00",
+  "collected": "2026-07-18T08:31+09:00"
+ },
+ {
   "id": "077736b54bc5",
   "url": "https://www.therobotreport.com/transforming-solar-construction-through-robotics-deise-yumi-asami-maximo/",
   "title": "Founder of Maximo discusses how robotics is accelerating solar construction",
@@ -24,7 +37,7 @@
   "thumbnail": null,
   "published": "2026-07-18T03:58+09:00",
   "collected": "2026-07-18T07:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "64a4043564d1",
@@ -38,7 +51,7 @@
   "thumbnail": null,
   "published": "2026-07-18T03:45+09:00",
   "collected": "2026-07-18T07:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "073f029c6beb",
