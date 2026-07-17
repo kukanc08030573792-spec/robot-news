@@ -1,5 +1,45 @@
 [
  {
+  "id": "da0ad27b8e19",
+  "url": "https://prtimes.jp/main/html/rd/p/000000001.000187390.html",
+  "title": "海岸清掃ロボット1号機が完成、福岡県宗像市の海岸で自律走行とごみ回収の実証に成功",
+  "summary": "海岸清掃ロボット1号機が完成し、福岡県宗像市で自律走行とごみ回収の実証に成功",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/187390/1/187390-1-46bc4bb3134162d6748e081d966f615d-3840x2160.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-07-17T09:00+09:00",
+  "collected": "2026-07-17T09:06+09:00"
+ },
+ {
+  "id": "7e1e1d3696b9",
+  "url": "https://kabushiki.jp/news/758315",
+  "title": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」発売 速報",
+  "summary": "アマノが業務用ロボット掃除機「ＲＡＰｉｉＴＴ」を発売、清掃ロボットの導入を進める",
+  "source": "kabushiki.jp",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://kabushiki.jp/ogp.png",
+  "published": "2026-07-17T08:42+09:00",
+  "collected": "2026-07-17T09:06+09:00"
+ },
+ {
+  "id": "05d177dfbc81",
+  "url": "https://kabu-ir.com/article/521152188.html",
+  "title": "アマノ、業務用ロボット掃除機「ＲＡＰｉｉＴＴ」を発売、複数フロアを自律清掃",
+  "summary": "アマノが業務用ロボット掃除機「ＲＡＰｉｉＴＴ」を発売、複数フロアを自律清掃可能",
+  "source": "kabu-ir.com",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-17T08:22+09:00",
+  "collected": "2026-07-17T09:06+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "4e8bdf23f57d",
   "url": "https://finance.biggo.jp/news/de25e5dc-4c69-4e7c-bdef-539b1ad0545a",
   "title": "190cmの人型ロボ「Atlas」に反発、Hyundai Motor労組が史上初のストライキ突入",
@@ -50,7 +90,7 @@
   "thumbnail": null,
   "published": "2026-07-17T02:48+09:00",
   "collected": "2026-07-17T07:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "41a4e23482c1",
@@ -168,7 +208,7 @@
   "thumbnail": null,
   "published": "2026-07-16T17:30+09:00",
   "collected": "2026-07-17T07:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "af3d75b39f32",
