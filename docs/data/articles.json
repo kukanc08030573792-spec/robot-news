@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-18T08:59+09:00",
+  "last_updated": "2026-07-19T06:58+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,32 @@
   ]
  },
  "items": [
+  {
+   "id": "e4506edc6e0b",
+   "url": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
+   "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
+   "summary": "Palm Garden AIが人間とロボットの相互作用のためのハードウェア非依存ソフトウェア層「Coherence Guard」を開発中。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/AdobeStock_2037738508-copy.jpg",
+   "published": "2026-07-18T21:30+09:00",
+   "collected": "2026-07-19T06:58+09:00"
+  },
+  {
+   "id": "dde757b57dc4",
+   "url": "https://www.atpress.ne.jp/news/3928017",
+   "title": "掃除機・清掃ロボット用バッテリーの世界市場（2026年～2032年）、市場規模（リチウムイオン、ニッケル水素）・分析レポートを発表",
+   "summary": "掃除機・清掃ロボット用バッテリーの市場規模に関する分析レポートが発表され、2026年から2032年の見通しを示す。",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/FEcpwRwZKGP72wjUmvDo.png",
+   "published": "2026-07-18T10:30+09:00",
+   "collected": "2026-07-19T06:58+09:00"
+  },
   {
    "id": "c15da7f1e960",
    "url": "https://kunisawa.net/car/car_latest-information/%E4%B8%89%E8%8F%B1%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%8C%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%92%E6%B1%BA%E5%AE%9A%E3%80%82%E4%BB%8A%E3%81%AE%E3%81%BE/",
@@ -95,6 +121,19 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/weave-isaac-1-featured.jpg",
    "published": "2026-07-18T02:35+09:00",
    "collected": "2026-07-18T07:01+09:00"
+  },
+  {
+   "id": "badecbe0ceaf",
+   "url": "https://japanese.cri.cn/2026/07/18/ARTI1784358698150435",
+   "title": "国家・地方共同設立のヒューマノイドロボット・イノベーションセンターの試作・試験用公共サービスプラットフォームが稼働開始",
+   "summary": "国家・地方共同設立のヒューマノイドロボット・イノベーションセンターが公共サービスプラットフォームの稼働を開始。",
+   "source": "CGTN Japanese",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://38picres.cgtn.com/photoAlbum/page/performance/img/2026/7/18/1784368554892_932.jpg",
+   "published": "2026-07-18T01:21+09:00",
+   "collected": "2026-07-19T06:58+09:00"
   },
   {
    "id": "62c7fedebb2a",
@@ -318,6 +357,19 @@
    "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RLtvctIw3yQ6qe4GwDV8jITZYJWIGfgm0F-ljx6T20nNj8KT0vDBzdOwp620Y2G0Sz9LDZMkqpeuRXSqJjyHlUumjczgp9mY6Yg17vcahGR-",
    "published": "2026-07-17T10:16+09:00",
    "collected": "2026-07-18T07:01+09:00"
+  },
+  {
+   "id": "facd23d2c485",
+   "url": "https://ascii.jp/elem/000/004/420/4420369/",
+   "title": "吸引力4倍の最強のロボット掃除機「Roomba Max」発表!!＝水拭きあり/なしの2モデル",
+   "summary": "吸引力が4倍のロボット掃除機「Roomba Max」が発表され、水拭きモデルも含む2種類が登場。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://ascii.jp/img/2026/07/16/4501879/xl/5a715023542194ef.jpg?20200122",
+   "published": "2026-07-17T10:01+09:00",
+   "collected": "2026-07-19T06:58+09:00"
   },
   {
    "id": "032f30f0933e",
@@ -739,7 +791,7 @@
    "thumbnail": null,
    "published": "2026-07-16T11:29+09:00",
    "collected": "2026-07-18T08:59+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "48688344b5e8",
