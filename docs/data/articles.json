@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-20T07:01+09:00",
+  "last_updated": "2026-07-20T07:31+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -54,7 +54,7 @@
    "thumbnail": null,
    "published": "2026-07-19T20:30+09:00",
    "collected": "2026-07-20T07:01+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "76bcc0f27410",
@@ -107,7 +107,7 @@
    "thumbnail": null,
    "published": "2026-07-18T15:00+09:00",
    "collected": "2026-07-19T09:01+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "dde757b57dc4",
