@@ -1,5 +1,58 @@
 [
  {
+  "id": "934b6f0cb32a",
+  "url": "https://s.response.jp/article/2026/07/20/414225.html",
+  "title": "ヒューマノイドの社会実装を競う「Humanoid Hack Tokyo 2」 フィジカルAI活用の災害救助ロボットが優勝",
+  "summary": "ヒューマノイドハッカソン「Humanoid Hack Tokyo 2」で災害救助ロボットが優勝。参加者はフィジカルAI技術を活用し、ロボットの社会実装を競った。",
+  "source": "レスポンス（Response.jp）",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://response.jp/imgs/ogp_f/2228874.jpg",
+  "published": "2026-07-20T06:30+09:00",
+  "collected": "2026-07-20T07:01+09:00"
+ },
+ {
+  "id": "e202f9af7384",
+  "url": "https://mezha.net/jp/bukvy/9d522228_china_invests_billions/",
+  "title": "中国が人型ロボットに巨額投資し実用化と商業化を加速",
+  "summary": "中国が人型ロボットに巨額投資し、実用化と商業化を加速中。",
+  "source": "Межа. Новини України.",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-19T20:30+09:00",
+  "collected": "2026-07-20T07:01+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "76bcc0f27410",
+  "url": "https://news.yahoo.co.jp/articles/b2dbc828731722d00d27436d8c0ec717883ffcdf/images/000",
+  "title": "ヒューマノイドロボット競争でも、テスラを打ち負かす──BYDの大胆な計画",
+  "summary": "BYDがテスラを打ち負かす計画を発表。ヒューマノイドロボット競争に参入。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RAQGn0BvOxEt1V4hiUhevVHoILxzRCp1bVUIC2chcjQ6qK8mWCBURuB1Pcwq0nlZASk6jsEHSZa3xR0s5bRy6t4UqvbrTOmm0jujf6sm6QGy5VFKPChLgxpK2DPJAH1i4w==",
+  "published": "2026-07-19T20:28+09:00",
+  "collected": "2026-07-20T07:01+09:00"
+ },
+ {
+  "id": "732f1fe11274",
+  "url": "https://finance.biggo.jp/news/bc5f65d1-d400-42ea-9ea7-6c90d79fd77a",
+  "title": "KEENON、WAIC 2026で人型ロボットとサービスロボットの連携を披露、ホテル・小売の実業務フローを実演",
+  "summary": "KEENONがWAIC 2026で人型ロボットとサービスロボットの連携を実演。ホテル・小売業務フローを紹介。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/Ukb35weeAq6BNXVWIu0KzrJZ0UCN4Lt8QocFv8cStL0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2JjNWY2NWQxLWQ0MDAtNDJlYS05ZWE3LTZjOTBkNzlmZDc3YV8xNzg0NDI1MTU4X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-07-19T10:35+09:00",
+  "collected": "2026-07-20T07:01+09:00"
+ },
+ {
   "id": "e4506edc6e0b",
   "url": "https://www.therobotreport.com/palm-garden-ai-develops-coherence-guard-relational-decision-layer-human-facing-robots/",
   "title": "Palm Garden AI develops Coherence Guard relational decision layer for human-facing robots",
@@ -24,7 +77,7 @@
   "thumbnail": null,
   "published": "2026-07-18T15:00+09:00",
   "collected": "2026-07-19T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "dde757b57dc4",
@@ -183,6 +236,19 @@
   "thumbnail": "https://www.bcnretail.com/files/topics/644785_ext_05_0.jpg",
   "published": "2026-07-17T19:00+09:00",
   "collected": "2026-07-18T07:01+09:00"
+ },
+ {
+  "id": "0e4f0b25eb3d",
+  "url": "https://mainichi.jp/articles/20260717/pr2/00m/020/791000c",
+  "title": "プレスリリース：IDC調査で世界No.1を2冠獲得Gausium（高仙ロボット）、グローバル規模での横展開フェーズへ（PR TIMES）",
+  "summary": "Gausiumが業務用清掃ロボットの世界シェア首位を維持。売上高・出荷台数ともにトップを獲得。",
+  "source": "毎日新聞",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://cdn.mainichi.jp/vol1/2026/07/17/20260717pr200m020791000p/0c10.jpg?5",
+  "published": "2026-07-17T17:51+09:00",
+  "collected": "2026-07-20T07:01+09:00"
  },
  {
   "id": "16e83abc9e36",
