@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-19T08:33+09:00",
+  "last_updated": "2026-07-19T09:01+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -41,6 +41,20 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/AdobeStock_2037738508-copy.jpg",
    "published": "2026-07-18T21:30+09:00",
    "collected": "2026-07-19T06:58+09:00"
+  },
+  {
+   "id": "29038595ec68",
+   "url": "https://www.moomoo.com/ja/news/post/73165866",
+   "title": "WAICを直撃｜清掃ロボット、AIオフィス用ヘッドセット、アップグレード版「帝王蟹」…ネットイースの複数のAI成果が公開",
+   "summary": "WAICで清掃ロボットやAIオフィス用ヘッドセット、アップグレード版「帝王蟹」などネットイースのAI成果が公開された。",
+   "source": "Moomoo",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-18T15:00+09:00",
+   "collected": "2026-07-19T09:01+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "dde757b57dc4",
