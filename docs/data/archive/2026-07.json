@@ -1,5 +1,31 @@
 [
  {
+  "id": "d182533711ff",
+  "url": "https://ledge.ai/articles/unitree_h2_humanoid_robot_combat_competition",
+  "title": "Unitree、全長1.82mのヒト型ロボット「H2」で格闘大会へ フルサイズ機が公開対戦する「CMG 2026」を告知",
+  "summary": "Unitreeが全長1.82mのヒト型ロボット「H2」を発表し、格闘大会「CMG 2026」に参加予定。",
+  "source": "Ledge.ai",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/the_2026_Humanoid_Robot_Combat_Competition_73033b116e/the_2026_Humanoid_Robot_Combat_Competition_73033b116e.jpg",
+  "published": "2026-07-20T11:56+09:00",
+  "collected": "2026-07-20T12:06+09:00"
+ },
+ {
+  "id": "6fb74073e8ad",
+  "url": "https://forbesjapan.com/articles/detail/101235",
+  "title": "話題はヒューマノイドでも、市場を制するのは「タスク特化型ロボット」か",
+  "summary": "ヒューマノイドロボットの話題が多い中、タスク特化型ロボットが市場を制する可能性について言及。",
+  "source": "Forbes JAPAN",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.forbesjapan.com/media/article/101235/images/main_image_148e678ee90438d9fe935e99156d9def39828af8.jpg",
+  "published": "2026-07-20T08:46+09:00",
+  "collected": "2026-07-20T12:06+09:00"
+ },
+ {
   "id": "934b6f0cb32a",
   "url": "https://s.response.jp/article/2026/07/20/414225.html",
   "title": "ヒューマノイドの社会実装を競う「Humanoid Hack Tokyo 2」 フィジカルAI活用の災害救助ロボットが優勝",
@@ -13,6 +39,19 @@
   "collected": "2026-07-20T07:01+09:00"
  },
  {
+  "id": "a44107dbaa93",
+  "url": "https://jetstream.blog/2026/07/19/switchbot-robot-vacuum-cleaner-k11-pro-review/",
+  "title": "吸引力大幅向上！「SwitchBot ロボット掃除機 K11+ Pro」【PR】",
+  "summary": "新型ロボット掃除機「SwitchBot ロボット掃除機 K11+ Pro」が吸引力を大幅に向上させて発表。",
+  "source": "jetstream.blog",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://jetstream.blog/wp-content/uploads/2026/07/switchbot-robot-vacuum-cleaner-k11-pro-2.jpg",
+  "published": "2026-07-19T23:34+09:00",
+  "collected": "2026-07-20T12:06+09:00"
+ },
+ {
   "id": "e202f9af7384",
   "url": "https://mezha.net/jp/bukvy/9d522228_china_invests_billions/",
   "title": "中国が人型ロボットに巨額投資し実用化と商業化を加速",
@@ -24,7 +63,7 @@
   "thumbnail": null,
   "published": "2026-07-19T20:30+09:00",
   "collected": "2026-07-20T07:01+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "76bcc0f27410",
