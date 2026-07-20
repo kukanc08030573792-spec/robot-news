@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-20T12:06+09:00",
+  "last_updated": "2026-07-21T07:08+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,151 @@
   ]
  },
  "items": [
+  {
+   "id": "c6cb57c69542",
+   "url": "https://www.robot-digest.com/contents/?id=1784190574-975228",
+   "title": "エレベーターと連携可能な清掃ロボットを発売／アマノ",
+   "summary": "アマノがエレベーターと連携可能な清掃ロボットを発売。",
+   "source": "robot digest",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-21T06:00+09:00",
+   "collected": "2026-07-21T07:08+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "4e4883929ac3",
+   "url": "https://dcross.impress.co.jp/docs/column/column20170918-1/004748.html",
+   "title": "製造業へのロボット／AI活用で躍進する中国【第106回】",
+   "summary": "中国の製造業におけるロボットとAI活用の進展。人型ロボットの必要性が強調される。",
+   "source": "デジタルクロス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://dcross.impress.co.jp/img/dx/list/004/748/rss.jpg",
+   "published": "2026-07-21T06:00+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "f891bd2e1b16",
+   "url": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+   "title": "Building robots for unpredictable, infrastructure-free environments",
+   "summary": "インフラに依存しない環境でのロボット開発の重要性が述べられる。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/burro-sood-article-featured.jpg",
+   "published": "2026-07-21T03:39+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "9a6862ba68df",
+   "url": "https://www.therobotreport.com/brainco-demonstrates-brain-controlled-robot-ai-platform/",
+   "title": "BrainCo demonstrates brain-controlled robot AI platform",
+   "summary": "BrainCoが脳波で制御するロボットアームのデモを実施。精密な作業を遂行。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/BrainCo-featured.jpg",
+   "published": "2026-07-21T03:14+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "c8d969902c6f",
+   "url": "https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/",
+   "title": "Boston Dynamics to discuss the art behind human-robot interaction",
+   "summary": "Boston Dynamicsが人間とロボットの安全な相互作用についてのウェビナーを開催。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/BD_webinar.jpg",
+   "published": "2026-07-21T02:53+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "2a9726b225e7",
+   "url": "https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/",
+   "title": "AGIBOT unveils four embodied AI products for real-world operations at WAIC",
+   "summary": "AGIBOTがWAICで実世界での運用向けの4つの具現化AI製品を発表。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/AGIBOT-G2-for-Subway-Guidance-copy.jpg",
+   "published": "2026-07-21T00:18+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "bc12566b452e",
+   "url": "https://news.yahoo.co.jp/articles/66df60aca17996a6083625ab8e0fd3cb90842a5d",
+   "title": "ウクライナで自律人型ロボット兵士、2027年までに試験投入か（ビジネス＋IT）",
+   "summary": "米国企業Foundationがウクライナでの自律人型ロボット兵士の試験投入計画を発表。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260720-00186168-biz_plus-000-1-view.jpg?exp=10800",
+   "published": "2026-07-20T19:55+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "a5bdd6d8611c",
+   "url": "https://finance.biggo.jp/news/7e99548b-bfcb-4837-8df4-e0138ef46d8b",
+   "title": "雲迹科技、「世界価値モデル」を発表：ロボットは指示実行から価値判断の時代へ",
+   "summary": "雲迹科技がWAICで「人機共生世界価値モデル」を発表。ロボットの価値判断能力の進化を示唆。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/1yr1kxlow8sDkLwGJ4-OHhz7KxKE7RxxELG2RQOJq5E/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzdlOTk1NDhiLWJmY2ItNDgzNy04ZGY0LWUwMTM4ZWY0NmQ4Yl8xNzg0NTQ0MjM5X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-07-20T19:35+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "2fbdbde117ca",
+   "url": "https://www.sbbit.jp/article/cont1/186168",
+   "title": "ウクライナで自律人型ロボット兵士、2027年までに試験投入か",
+   "summary": "米国企業Foundationが開発中のヒューマノイドロボット「Phantom」の武装用途テストを2027年に開始予定。米国防総省関連の契約を獲得し、軍事利用を視野に入れた開発を加速。",
+   "source": "ビジネス+IT",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.sbbit.jp/article/image/186168/OGP_bit202607201724476134.jpg",
+   "published": "2026-07-20T19:00+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "1cda2efe9a14",
+   "url": "https://finance.biggo.jp/news/c994cbbe-fd64-47ca-9a39-045372a6a400",
+   "title": "海外メディア、現代自ストに「ヒューマノイド時代初の労使衝突」と集中報道",
+   "summary": "現代自動車労組のストライキがAIとロボット時代における初の労使衝突として海外メディアで報道。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/GpPqHNCC5ixCD8X7LQfeBMujwDOU11W8Y6poUmVSSYA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2M5OTRjYmJlLWZkNjQtNDdjYS05YTM5LTA0NTM3MmE2YTQwMF8xNzg0NTM1Mzk5X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-07-20T17:06+09:00",
+   "collected": "2026-07-21T07:08+09:00"
+  },
+  {
+   "id": "88d03699095b",
+   "url": "https://chinanews.jp/archives/35463",
+   "title": "人型ロボットは「実際に働いてこそ価値」 擎朗智能、商業化への現実路線を提示",
+   "summary": "擎朗智能が人型ロボットの商業化に向けた現実路線を提示。「実際に働いてこそ価値」との見解。",
+   "source": "中国経済新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-20T16:30+09:00",
+   "collected": "2026-07-21T07:08+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "d182533711ff",
    "url": "https://ledge.ai/articles/unitree_h2_humanoid_robot_combat_competition",
@@ -120,6 +265,19 @@
    "thumbnail": "https://img.biggo.com/Ukb35weeAq6BNXVWIu0KzrJZ0UCN4Lt8QocFv8cStL0/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2JjNWY2NWQxLWQ0MDAtNDJlYS05ZWE3LTZjOTBkNzlmZDc3YV8xNzg0NDI1MTU4X2RlZmF1bHQuanBn.jpg",
    "published": "2026-07-19T10:35+09:00",
    "collected": "2026-07-20T07:01+09:00"
+  },
+  {
+   "id": "100202ccfcd1",
+   "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-tung-cu-da-vao-dau-ha-guc-doi-thu-o-trung-quoc",
+   "title": "中国で人型ロボットが頭部へのキックを繰り出し、相手をノックアウトした。",
+   "summary": "中国で初のヒューマノイドロボット総合格闘技トーナメントが開催され、ロボットが相手をノックアウト。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/19/1784415807982_robot-hinh-nguoi-tung-cu-da-vao-dau-ha-guc-doi-thu-o-trung-quoc-1412.gif",
+   "published": "2026-07-19T08:16+09:00",
+   "collected": "2026-07-21T07:08+09:00"
   },
   {
    "id": "e4506edc6e0b",
@@ -253,6 +411,19 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Monumental-featured.jpg",
    "published": "2026-07-17T21:30+09:00",
    "collected": "2026-07-18T07:01+09:00"
+  },
+  {
+   "id": "67fae4ea0ab4",
+   "url": "https://www.vietnam.vn/ja/trung-quoc-khai-mac-giai-mma-dau-tien-tren-the-gioi-cho-robot-hinh-nguoi",
+   "title": "中国が世界初となる人型ロボットによる総合格闘技トーナメントを開催。",
+   "summary": "中国が世界初の人型ロボットによる総合格闘技トーナメントを開催。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vjs.vietnam.vn/assets/images/favicon.ico",
+   "published": "2026-07-17T21:00+09:00",
+   "collected": "2026-07-21T07:08+09:00"
   },
   {
    "id": "196dadca0666",
