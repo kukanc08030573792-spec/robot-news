@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-22T07:32+09:00",
+  "last_updated": "2026-07-22T08:36+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -30,6 +30,19 @@
  },
  "items": [
   {
+   "id": "3ff7acc9d2b5",
+   "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_345036",
+   "title": "中国 世界AI大会 新興企業開発のKimi K3 注目高まり新規利用ストップも",
+   "summary": "中国の「世界AI大会」で新型AIモデル「Kimi K3」が発表され、注目を集める。性能はアメリカの最上位モデルに迫るとされ、利用が急増中。",
+   "source": "テレ東BIZ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/you/20260720_ys_ns04_46aa82cc7456630_9.jpg",
+   "published": "2026-07-22T07:56+09:00",
+   "collected": "2026-07-22T08:36+09:00"
+  },
+  {
    "id": "659cbf367d1d",
    "url": "https://dempa-digital.com/article/720953",
    "title": "ルンバ最上位2機種発売 吸引力4倍、仕上がり性能も向上 アイロボット",
@@ -54,6 +67,19 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/generativebionics-featured.jpg",
    "published": "2026-07-22T04:44+09:00",
    "collected": "2026-07-22T07:09+09:00"
+  },
+  {
+   "id": "86a69c0c3ccd",
+   "url": "https://finance.biggo.jp/news/7d3730e1-19dc-47c6-bdea-07dacacbb7f6",
+   "title": "北京、上半期GDP5.4%増：ロボット生産2倍超、ハードテック投資が急拡大",
+   "summary": "2026年上半期の北京GDPが前年同期比5.4%増。ロボット生産が2倍超に増加し、ハードテック投資が急拡大。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/-1UwKVZ6PeyNDu15Hujmpk--4e5jWH2G4GUWAqfK-6o/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzdkMzczMGUxLTE5ZGMtNDdjNi1iZGVhLTA3ZGFjYWNiYjdmNl8xNzg0NjQ4ODkzX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-07-22T00:35+09:00",
+   "collected": "2026-07-22T08:36+09:00"
   },
   {
    "id": "c8c84590e5ed",
@@ -145,7 +171,7 @@
    "thumbnail": null,
    "published": "2026-07-21T14:58+09:00",
    "collected": "2026-07-22T07:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "fc2c64ce1cc6",
@@ -211,7 +237,7 @@
    "thumbnail": null,
    "published": "2026-07-21T12:03+09:00",
    "collected": "2026-07-22T07:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "675a81f08d4d",
@@ -251,7 +277,7 @@
    "thumbnail": null,
    "published": "2026-07-21T10:16+09:00",
    "collected": "2026-07-22T07:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2845e697395c",
