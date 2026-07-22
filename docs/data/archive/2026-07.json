@@ -1,5 +1,18 @@
 [
  {
+  "id": "c81f55db6825",
+  "url": "https://finance.biggo.jp/news/1ff1e1c2-49a5-4c3b-a570-ffec444156f2",
+  "title": "Samsung Electro-MechanicsとLG Innotek、「ロボットの目」カメラモジュール市場で正面対決",
+  "summary": "Samsung Electro-MechanicsとLG Innotekが、ヒューマノイドロボット向けカメラモジュール市場で競争を展開。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/YrKcnn8XRan792ZXO90TawlJPIZDhCGy6gcJ2nfPJWg/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzFmZjFlMWMyLTQ5YTUtNGMzYi1hNTcwLWZmZWM0NDQxNTZmMl8xNzg0NzU5OTI4X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-07-23T07:28+09:00",
+  "collected": "2026-07-23T08:36+09:00"
+ },
+ {
   "id": "d1902e4d5296",
   "url": "https://jbpress.ismedia.jp/articles/-/95905",
   "title": "生成AIで出遅れた日本、フィジカルAIでは勝てるのか",
@@ -50,7 +63,7 @@
   "thumbnail": null,
   "published": "2026-07-23T01:16+09:00",
   "collected": "2026-07-23T07:12+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2eb7e699b311",
@@ -194,7 +207,7 @@
   "thumbnail": null,
   "published": "2026-07-22T09:10+09:00",
   "collected": "2026-07-23T07:12+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "576c82050ff2",
