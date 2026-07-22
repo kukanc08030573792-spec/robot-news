@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-22T08:36+09:00",
+  "last_updated": "2026-07-22T09:00+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,19 @@
   ]
  },
  "items": [
+  {
+   "id": "32981ae5910a",
+   "url": "https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/",
+   "title": "Vicarious Surgical officially shutting down",
+   "summary": "Vicarious Surgicalが正式に事業を終了。2021年にSPAC合併で約3億ドルを調達した。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/vicarious-surgical.jpg",
+   "published": "2026-07-22T08:12+09:00",
+   "collected": "2026-07-22T09:00+09:00"
+  },
   {
    "id": "3ff7acc9d2b5",
    "url": "https://txbiz.tv-tokyo.co.jp/you/news/post_345036",
