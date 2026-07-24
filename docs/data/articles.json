@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-25T07:39+09:00",
+  "last_updated": "2026-07-25T08:39+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,19 @@
   ]
  },
  "items": [
+  {
+   "id": "a7492967498e",
+   "url": "https://www.donga.com/jp/article/all/20260725/6321163/1",
+   "title": "「針路変更完了」 ヒューマノイドが軍艦操舵に挑戦 韓国海軍が初の実験",
+   "summary": "韓国海軍がヒューマノイドロボットによる軍艦操舵の実験を実施。操艦訓練場での初の試みで、舵を左へ10度、針路110度の指示を行った。",
+   "source": "동아일보",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://dimg.donga.com/ugc/CDB/JAPANESE/Article/6a/63/f6/7e/6a63f67e08dbd273823e.jpg",
+   "published": "2026-07-25T08:34+09:00",
+   "collected": "2026-07-25T08:39+09:00"
+  },
   {
    "id": "7e6f2c7e5361",
    "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
@@ -67,7 +80,7 @@
    "thumbnail": null,
    "published": "2026-07-25T00:28+09:00",
    "collected": "2026-07-25T07:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "094e65a478fa",
