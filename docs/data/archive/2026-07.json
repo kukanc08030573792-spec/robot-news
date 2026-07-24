@@ -1,5 +1,32 @@
 [
  {
+  "id": "6c97bd154f90",
+  "url": "https://carview.yahoo.co.jp/article/detail/24fa1fdc2fbc245a613ea4488e02757c7095376d/",
+  "title": "【人手不足が限界突破】三菱自動車が自社工場で使う人型ロボットを2027年から自ら量産する未来",
+  "summary": "三菱自動車が東京大学発スタートアップと共同で、自動車工場向けヒューマノイドロボットの開発・生産を2027年から開始予定。人手不足への対応を目指す。",
+  "source": "carview!",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://autos-pctr.c.yimg.jp/dzF9o7ZTfctyx6yoKaI7920a7hYlH3KG4SxO-qR_X1-AaXW7K3OAOohCoTxMcNhaZnPIaDf4QKI35-72xha6soPvyEqL9HTdS6hvGoWEmAGzEBM-948g0hhr8PWyms4DU-xfQUA_oS9aYjzBV2070zQZeB5nNXoZQ07gvSlLQaTO28TcbS8c2JlElBmv0FV7",
+  "published": "2026-07-24T08:00+09:00",
+  "collected": "2026-07-24T09:06+09:00"
+ },
+ {
+  "id": "e1ba7a4e321b",
+  "url": "https://finance.biggo.jp/news/f0d83bde-5ac5-4ee4-9533-835940ca3ce2",
+  "title": "Samsung Electronics、ロボット事業統括組織「RX事業推進室」新設で韓国ロボット関連株が一斉反発",
+  "summary": "Samsung Electronicsがロボット事業統括組織「RX事業推進室」を新設。これにより韓国のロボット関連株が反発。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-07-24T07:05+09:00",
+  "collected": "2026-07-24T09:06+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "1178f5c0a773",
   "url": "https://www.mk.co.kr/jp/world/12106260",
   "title": "AI(人工知能)ソフトウェアの革新は、フィジカルAI、ヒューマノイドへと進化している。特に製造業の工場が産業の主力である韓国は、世界のヒューマノイド市場で最も重要なテストベッドとして浮上している。特化..",
