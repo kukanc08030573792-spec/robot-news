@@ -1,5 +1,31 @@
 [
  {
+  "id": "24a84633595e",
+  "url": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
+  "title": "Photos: First look at J&J’s Ottava surgical robot",
+  "summary": "J&Jが新型手術ロボット「Ottava」を発表。従来のシステムより30-50%小型化され、手術室のスペースを節約。",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/JNJ-Ottava-table-scaled-1-e1784926373916.jpg",
+  "published": "2026-07-25T23:00+09:00",
+  "collected": "2026-07-26T07:02+09:00"
+ },
+ {
+  "id": "01eccee372d7",
+  "url": "https://note.com/zhenren63/n/n66588643d36b",
+  "title": "米国が中国製ヒューマノイドロボットを警戒し始めた理由~「動くAI端末」になったロボット産業の新局面~",
+  "summary": "米国が中国製ヒューマノイドロボットに警戒を強める。2027年度国防権限法案により、調達や使用が制限される可能性。",
+  "source": "note",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/297449612/rectangle_large_type_2_aac19b14822580a2dfe95e01fd00c102.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-07-25T19:18+09:00",
+  "collected": "2026-07-26T07:02+09:00"
+ },
+ {
   "id": "a7492967498e",
   "url": "https://www.donga.com/jp/article/all/20260725/6321163/1",
   "title": "「針路変更完了」 ヒューマノイドが軍艦操舵に挑戦 韓国海軍が初の実験",
@@ -11,6 +37,19 @@
   "thumbnail": "https://dimg.donga.com/ugc/CDB/JAPANESE/Article/6a/63/f6/7e/6a63f67e08dbd273823e.jpg",
   "published": "2026-07-25T08:34+09:00",
   "collected": "2026-07-25T08:39+09:00"
+ },
+ {
+  "id": "71463192d09c",
+  "url": "https://news.yahoo.co.jp/articles/e1d79c70d316a4542a99b6227be5d767179205e4?page=2",
+  "title": "【人手不足が限界突破】三菱自動車が自社工場で使う人型ロボットを2027年から自ら量産する未来（carview！）",
+  "summary": "三菱自動車が2027年から自社工場で人型ロボットを量産予定。海外ではテスラやBMWも開発を進めている。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00010001-carv-000-1-view.jpg?exp=10800",
+  "published": "2026-07-25T08:03+09:00",
+  "collected": "2026-07-26T07:02+09:00"
  },
  {
   "id": "7e6f2c7e5361",
@@ -92,6 +131,19 @@
   "collected": "2026-07-25T07:14+09:00"
  },
  {
+  "id": "31f648a6272a",
+  "url": "https://www.jiji.com/jc/article?k=000000001.000187244&g=prt",
+  "title": "【開催レポート】Humanoid Hack Tokyo 2 : 事前登録236名、Unitree G1 を使ったヒューマノイド/フィジカルAIハッカソン第2回完走",
+  "summary": "Humanoid Hack Tokyo 2が開催。最優秀賞は災害レスキュー支援の「Rescue G1」シミュレーション。",
+  "source": "時事ドットコム",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/187244/1/187244-1-fa34c7a4bff16b738ce4dc9bf6833537-3900x2194.jpg",
+  "published": "2026-07-24T18:16+09:00",
+  "collected": "2026-07-26T07:02+09:00"
+ },
+ {
   "id": "fc10b76a273a",
   "url": "https://finance.biggo.jp/news/499d162c-1bd9-4121-9a10-82e991d82aca",
   "title": "モービルアイ創業者アムノン・シャシュア氏、CEO退任 ヒューマノイドロボット事業に軸足",
@@ -131,6 +183,19 @@
   "collected": "2026-07-25T07:14+09:00"
  },
  {
+  "id": "e1bc495eda16",
+  "url": "https://jp.yna.co.kr/view/PYH20260724085200882",
+  "title": "韓国海軍初の「ロボット乗組員」実験",
+  "summary": "韓国海軍が初のロボット乗組員の実験を実施。",
+  "source": "聯合ニュース",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://img4.yna.co.kr/photo/yna/YH/2026/07/24/PYH2026072408520088200_P4.jpg",
+  "published": "2026-07-24T14:06+09:00",
+  "collected": "2026-07-26T07:02+09:00"
+ },
+ {
   "id": "04c691f1ed3a",
   "url": "https://robotstart.info/article/2026/07/24/382191.html",
   "title": "【オンラインセミナー#25 先着50名無料】「AIロボティクス立国」実現へ ロボット議連が示すフィジカルAI時代の国家戦略",
@@ -142,6 +207,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/105009.jpg",
   "published": "2026-07-24T13:55+09:00",
   "collected": "2026-07-25T07:14+09:00"
+ },
+ {
+  "id": "bff93db1cd4e",
+  "url": "https://finance.biggo.jp/news/72d3243d-51e3-4c05-8441-d95365caf3d5",
+  "title": "Roborock、新型ロボット掃除機とスチーム水拭きクリーナーを発表…韓国ホームショッピングで初公開へ",
+  "summary": "Roborockが新型ロボット掃除機「Qrevo 2 Pro」とスチームクリーナー「F25 Steam」を発表。",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/_tcwXFrPUb8n5cLZKSCG9813e7gU8GlY73SEad45G9w/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzcyZDMyNDNkLTUxZTMtNGMwNS04NDQxLWQ5NTM2NWNhZjNkNV8xNzg0ODYxMTMwX2RlZmF1bHQuanBn.jpg",
+  "published": "2026-07-24T11:26+09:00",
+  "collected": "2026-07-26T07:02+09:00"
  },
  {
   "id": "6c97bd154f90",
@@ -286,6 +364,19 @@
   "thumbnail": "https://assets.st-note.com/production/uploads/images/294669391/rectangle_large_type_2_8f83c3ea2c44bf7b512d06f803b92f60.png?fit=bounds&quality=85&width=1280",
   "published": "2026-07-23T15:31+09:00",
   "collected": "2026-07-24T07:11+09:00"
+ },
+ {
+  "id": "ab3ddc8a6db4",
+  "url": "https://news.yahoo.co.jp/articles/64cc34e9ea31e8b796f88b77353eb4ec0bda376b",
+  "title": "世界初、ヒューマノイドロボットの「労働」をめぐり人間がストライキを起こした",
+  "summary": "現代自動車がヒューマノイドロボット「Atlas」を工場に導入しようとするも、従業員がストライキを起こす。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260723-00101207-forbes-000-1-view.jpg?exp=10800",
+  "published": "2026-07-23T15:00+09:00",
+  "collected": "2026-07-26T07:02+09:00"
  },
  {
   "id": "8569f984eaa4",
