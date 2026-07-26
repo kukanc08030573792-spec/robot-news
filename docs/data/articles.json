@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-26T09:07+09:00",
+  "last_updated": "2026-07-27T07:07+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,125 @@
   ]
  },
  "items": [
+  {
+   "id": "ef6b446e804a",
+   "url": "https://www.vietnam.vn/ja/my-tranh-cai-khi-robot-hinh-nguoi-ho-tro-giang-day-trong-lop-hoc",
+   "title": "米国：人型ロボットが授業を支援する中で、論争が勃発。",
+   "summary": "米国ニューヨーク州で教育支援のための人型ロボット導入が開始され、物議を醸している。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/27/1785094152109_robot-myafp-cropped-1785069646636.jpeg",
+   "published": "2026-07-27T05:14+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "0bffdcad231f",
+   "url": "https://www.zaikei.co.jp/article/20260726/862857.html",
+   "title": "ヒューマノイドロボットが工場へ IEEE Humanoids 2026、労働者の代替を主要テーマに",
+   "summary": "Humanoids 2026でヒューマノイドロボットの労働者代替が主要テーマに。",
+   "source": "財経新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "http://www.zaikei.co.jp/files/general/20260726235643pix0big.jpg",
+   "published": "2026-07-26T23:56+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "db95c69ab705",
+   "url": "https://voi.id/ja/teknologi/586660",
+   "title": "ロボットヒューマノイドがクラスに入ると、ニューヨークの教師は不適切だと言います",
+   "summary": "ニューヨークの教師がロボットヒューマノイドのクラス導入を不適切と指摘。",
+   "source": "VOI.ID",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-26T23:49+09:00",
+   "collected": "2026-07-27T07:07+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "c2ca3df16804",
+   "url": "https://note.com/zhenren63/n/ne2c69b033a22",
+   "title": "Xiaomiロボット「工場実習4か月で98%」が示す、フィジカルAIの本当の争点｜吉川真人＠中国テックトレンドニュース",
+   "summary": "Xiaomiのヒューマノイドロボットが自動車工場で物流作業を開始し、成功率90%。",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/297789586/rectangle_large_type_2_360fbf9e55fd8b2dcb5a0d91c2736783.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-07-26T21:45+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "4be588484e05",
+   "url": "https://forbesjapan.com/articles/detail/101685",
+   "title": "フィジカルAIはどこから来て、どこへ向かうのか",
+   "summary": "ヒューマノイドロボットの進化とフィジカルAIの到来についての考察。",
+   "source": "Forbes JAPAN",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.forbesjapan.com/media/article/101685/images/main_image_d75edbfd8dbf4cb70f60d543f5b19a7e30eac733.jpg",
+   "published": "2026-07-26T21:28+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "e2f9e8e5bb77",
+   "url": "https://news.nicovideo.jp/watch/nw19585517?news_ref=watch_60_nw19240508",
+   "title": "ヒューマノイド教師とAIアバター助手がニューヨーク州の公立学校に試験導入予定",
+   "summary": "ニューヨーク州の公立学校にヒューマノイド教師とAIアバター助手が試験導入予定。",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-26T18:00+09:00",
+   "collected": "2026-07-27T07:07+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "54ca9b2533ac",
+   "url": "https://www.zaikei.co.jp/article/20260726/862825.html",
+   "title": "英ロボット新興Humanoidが約249億円調達、Boschらが製造・導入で強力タッグ",
+   "summary": "英ロボット新興Humanoidが約249億円調達、Boschと強力タッグを組む。",
+   "source": "財経新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "http://www.zaikei.co.jp/files/general/20260726142838fFj0big.png",
+   "published": "2026-07-26T14:28+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "294721c1a624",
+   "url": "https://news.yahoo.co.jp/articles/78a71e9453c832e2645c84d17bc51f3d2181672e/images/000",
+   "title": "ヒューマノイドロボットが工場にやって来る──ただし、あなたが思っている形ではない",
+   "summary": "ヒューマノイドロボットが工場に導入されるが、従来の形状とは異なる可能性がある。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RLQrz-6FTWil2deR1wDwwWC-yB-0IsVizJyAOiqB9y445t3vI7uzoFtvXw7h7wNOJpzHp9LPzz9F0T9hRglNgMq98FgaJ10YjDJWiefFytPYkBndzwFwgHs3iiATV4pj6w==",
+   "published": "2026-07-26T12:51+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
+  {
+   "id": "8703a9339115",
+   "url": "https://36kr.jp/499240/",
+   "title": "中国ロボット、1～5月の輸出台数が1000万台を突破 EUとASEANが主要市場に",
+   "summary": "中国のロボット輸出が1～5月で1000万台を超え、EUとASEANが主要市場となっている。",
+   "source": "36Kr Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36krjp-1316517779.cos.ap-tokyo.myqcloud.com/uploads/2026/07/20260713075212WechatIMG1564503.jpg",
+   "published": "2026-07-26T11:35+09:00",
+   "collected": "2026-07-27T07:07+09:00"
+  },
   {
    "id": "24a84633595e",
    "url": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
