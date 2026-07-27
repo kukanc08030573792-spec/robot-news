@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-27T09:08+09:00",
+  "last_updated": "2026-07-28T07:14+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -29,6 +29,127 @@
   ]
  },
  "items": [
+  {
+   "id": "4213ebb4d0a8",
+   "url": "https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/",
+   "title": "Kraken Technology raises Series B funding for autonomous vessels",
+   "summary": "Kraken Technologyが自律型船舶の開発のためにシリーズB資金調達を実施。",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Kraken_tech.jpg",
+   "published": "2026-07-27T23:02+09:00",
+   "collected": "2026-07-28T07:14+09:00"
+  },
+  {
+   "id": "d3325f14f4d4",
+   "url": "https://note.com/zhenren63/n/nad5f19f0b520",
+   "title": "中国製ヒューマノイドは、いま世界中で分解されている─Unitree G1分解報道が示す本当の争点",
+   "summary": "中国製ヒューマノイドUnitree G1が分解され、技術者にとって学ぶ価値があると評価される。",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/298083717/rectangle_large_type_2_76e342b7bed2254c3d0d3963fbeea487.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-07-27T21:20+09:00",
+   "collected": "2026-07-28T07:14+09:00"
+  },
+  {
+   "id": "0393f9dc5901",
+   "url": "https://article.auone.jp/detail/1/3/6/177_6_r_20260727_1785150268356519",
+   "title": "「結局、自分で掃除し直してる…」をゼロに！ 従来比4倍の史上最強吸引力＆温水水拭きで“極上の床”を作る新型ルンバ",
+   "summary": "新型ルンバが従来比4倍の吸引力と温水水拭き機能を搭載し、掃除の手間を軽減。",
+   "source": "au Webポータル",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://portal.st-img.jp/thumb/1012147a77098c93f73fc74e1b84ea36_1785150268_l.jpg",
+   "published": "2026-07-27T20:00+09:00",
+   "collected": "2026-07-28T07:14+09:00"
+  },
+  {
+   "id": "8db840bbcc99",
+   "url": "https://news.nicovideo.jp/watch/nw19589081?news_ref=watch_20_nw19240499",
+   "title": "ロボット72台が順次稼働へ、北京の市立公園でスマート管理の新たなモデルが始動―中国",
+   "summary": "北京の市立公園で72台のロボットが稼働し、スマート管理モデルが始動。",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-27T18:33+09:00",
+   "collected": "2026-07-28T07:14+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "cb19afc330d5",
+   "url": "https://news.nicovideo.jp/watch/nw19588351?news_ref=30_30",
+   "title": "ヒューマノイドロボットを遠隔操作、生きたブタの手術に成功（世界初）",
+   "summary": "ヒューマノイドロボットによる生きたブタの手術が世界初で成功。",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-27T16:00+09:00",
+   "collected": "2026-07-28T07:14+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "2df114612054",
+   "url": "https://ascii.jp/elem/000/004/422/4422459/",
+   "title": "【世界初】ファームウェアレスIoTで建物制御の国際規格に接続。obniz NowがKNXnet/IP・DALI・BACnetに1台で対応 - 建物全体のクラウド自動化・24時間監視を実現",
+   "summary": "obniz Nowが国際規格に接続し、建物全体のクラウド自動化を実現。",
+   "source": "ASCII.jp",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://ascii.jp/img/2019/05/13/1510511/xl/5e76a3dd2752b473.jpg?20200122",
+   "published": "2026-07-27T14:24+09:00",
+   "collected": "2026-07-28T07:14+09:00"
+  },
+  {
+   "id": "06e7046f0731",
+   "url": "https://www.jiji.com/jc/article?k=000000012.000126401&g=prt",
+   "title": "ベッド掃除を「する」から「任せる」へ。全自動ベッド掃除ロボット「BOT X1」、二子玉川 蔦屋家電にて先行販売を開始",
+   "summary": "全自動ベッド掃除ロボット「BOT X1」が二子玉川 蔦屋家電で先行販売開始。",
+   "source": "時事ドットコム",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/126401/12/126401-12-ae9052de876f53c4f57be41cf4a8fea9-1672x941.png?width=536&quality=85%2C75&format=jpeg",
+   "published": "2026-07-27T12:46+09:00",
+   "collected": "2026-07-28T07:14+09:00"
+  },
+  {
+   "id": "a3e27cec5e0c",
+   "url": "https://news.nicovideo.jp/watch/nw19586573?news_ref=watch_20_nw19496832",
+   "title": "競技会場から日常生活シーンへ、急速に活躍の場を広げる中国製ロボット",
+   "summary": "中国製ロボットが競技会場から日常生活シーンへ急速に活躍の場を広げている。",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-27T09:03+09:00",
+   "collected": "2026-07-28T07:14+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "13d6ef99fbc4",
+   "url": "https://ligare.news/story/shimz-0727/",
+   "title": "清水建設、AIロボットの現場実装を開始 ヒューマノイドによる巡回を実証 ソニーなどと連携",
+   "summary": "清水建設がAIロボットの現場実装を開始し、ヒューマノイドによる巡回を実証。ソニーと連携。",
+   "source": "LIGARE（リガーレ）",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-07-27T08:30+09:00",
+   "collected": "2026-07-28T07:14+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "ef6b446e804a",
    "url": "https://www.vietnam.vn/ja/my-tranh-cai-khi-robot-hinh-nguoi-ho-tro-giang-day-trong-lop-hoc",
