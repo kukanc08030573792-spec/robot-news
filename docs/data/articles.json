@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-07-31T07:43+09:00",
+  "last_updated": "2026-07-31T08:38+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-07"
@@ -30,6 +30,19 @@
  },
  "items": [
   {
+   "id": "1c11f7ae39db",
+   "url": "https://news.yahoo.co.jp/articles/259579bf1e2859a14834bfc6eba47303aef45918",
+   "title": "BYD、8月に初の人型ロボット発表へ 店舗2〜3台配置が目標",
+   "summary": "電気自動車（EV）大手の比亜迪（BYD）は7月28日、自社初の人型ロボット（ヒューマノイド）を8月に正式発表することを明らかにした。中国メディアの財聯社が報じた。これに先立ち、BYDのブランド体験型",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00010000-krjapan-000-1-view.jpg?exp=10800",
+   "published": "2026-07-31T08:20+09:00",
+   "collected": "2026-07-31T08:38+09:00"
+  },
+  {
    "id": "ec6d97043c68",
    "url": "https://news.yahoo.co.jp/articles/c4b80ebbe96d328f40b7f7d652b8b7dde7b6214a",
    "title": "ヒューマノイドロボットへ、いまから投資する方法。約800兆円規模の潜在市場（海外）（BUSINESS INSIDER JAPAN）",
@@ -54,7 +67,7 @@
    "thumbnail": null,
    "published": "2026-07-31T07:02+09:00",
    "collected": "2026-07-31T07:15+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "51f6efb620f1",
@@ -146,7 +159,7 @@
    "thumbnail": null,
    "published": "2026-07-30T17:45+09:00",
    "collected": "2026-07-31T07:15+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5f873ebb8354",
