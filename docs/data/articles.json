@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-01T07:39+09:00",
+  "last_updated": "2026-08-01T08:38+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,32 @@
   ]
  },
  "items": [
+  {
+   "id": "55e9f79ecdf4",
+   "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-15-000-usd-cuoc-dua-5-000-ty-usd-dinh-hinh-the-gioi-tuong-lai",
+   "title": "1万5000ドルのヒューマノイドロボット：未来の世界を形作る5兆ドル規模の競争",
+   "summary": "米中対立は新たな局面を迎えている。それは人型ロボットだ。中国がロボットに対する統制を強化しようとする背景には、国家安全保障の問題だけでなく、数兆ドル規模のAI経済をリードしようとする競争も存在する。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/01/1785537159930_robot-15000-usd-cuoc-dua-5-3137.png",
+   "published": "2026-08-01T07:48+09:00",
+   "collected": "2026-08-01T08:38+09:00"
+  },
+  {
+   "id": "99e6f70295fe",
+   "url": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
+   "title": "FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
+   "summary": "OSARO’s Derek Pridmore says warehouse robots are advancing, but real-world safety and reliability still depend on specia",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/episode-255-featured.jpg",
+   "published": "2026-08-01T07:41+09:00",
+   "collected": "2026-08-01T08:38+09:00"
+  },
   {
    "id": "ec0863f918a1",
    "url": "https://www.therobotreport.com/kuka-deploys-automation-management-platform-north-american-automakers/",
