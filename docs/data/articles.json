@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-02T09:04+09:00",
+  "last_updated": "2026-08-03T07:03+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,71 @@
   ]
  },
  "items": [
+  {
+   "id": "c20d22d7bce7",
+   "url": "https://www.recordchina.co.jp/b988475-s6-c20-d0189.html",
+   "title": "家事代行サービスロボット「麗陽小当家」、間もなく英国で「勤務」スタート―中国",
+   "summary": "家事代行サービスロボット「麗陽小当家」、間もなく英国で「勤務」スタート―中国    Record China",
+   "source": "Record China",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://assets.recordchina.co.jp/newRc/m1200/20260731/c50ad326f7f704760fd190c1c047bc25.jpg",
+   "published": "2026-08-02T23:10+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
+  {
+   "id": "0f12badb3e7a",
+   "url": "https://www.therobotreport.com/google-deepmind-says-gemini-robotics-2-enables-full-body-control/",
+   "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
+   "summary": "Gemini Robotics 2 enables robots to reason through every movement, unlocking a broad range of tasks, DeepMind said. The ",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/geminirobotics2-featured.jpg",
+   "published": "2026-08-02T21:31+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
+  {
+   "id": "90e2910d2e82",
+   "url": "https://finance.biggo.jp/news/cad61121-b8e8-4568-949f-24375185f47e",
+   "title": "配膳ロボット撤去しWi-Fi刷新…50年レストランチェーン、株価500%高騰",
+   "summary": "米国の50年続くファミリーレストランチェーン、Chili'sがAIブームに逆行し、配膳ロボットを全店舗から撤去し、基礎ITインフラに投資した結果、親会社Brinker…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/vALoMJwrXlAsJv372w-Zi1hd37SSkP9gOmD68a0eSnk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2NhZDYxMTIxLWI4ZTgtNDU2OC05NDlmLTI0Mzc1MTg1ZjQ3ZV8xNzg1NjY3MjkxX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-08-02T19:35+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
+  {
+   "id": "be9df2d248b5",
+   "url": "https://news.yahoo.co.jp/articles/b6a70d3e82e029f906bd4f3c49518068cfa4cd67?page=2",
+   "title": "NVIDIAフアンCEOが明かすトヨタ・富士通とのフィジカルAI革命「日本の限界は『想像力』のみになる」",
+   "summary": "――日本は産業用ロボティクスに強みを持つ一方、ヒューマノイド（人型ロボット）の分野では、開発を先行させる米国や中国のスタートアップに後れを取っています。日本が追いつくためには何が必要でしょうか。また",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260802-00000014-zdn_mkt-000-1-view.jpg?exp=10800",
+   "published": "2026-08-02T18:25+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
+  {
+   "id": "2321466e11d2",
+   "url": "https://www.atpress.ne.jp/news/7188232",
+   "title": "清掃ロボットの世界市場（2026年～2032年）、市場規模（150米ドル未満、150米ドル～300米ドル、300米ドル～500米ドル、500米ドル超）・分析レポートを発表 | 株式会社マーケットリサーチセンター",
+   "summary": "清掃ロボットの世界市場（2026年～2032年）、市場規模（150米ドル未満、150米ドル～300米ドル、300米ドル～500米ドル、500米ドル超）・分析レポートを発表 | 株式会社マーケットリサーチセンター    atpress.ne.",
+   "source": "atpress.ne.jp",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/jsP1kUwpQO0LDZZIYxYu.png",
+   "published": "2026-08-02T11:30+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
   {
    "id": "b8d937d9f6f4",
    "url": "https://news.livedoor.com/article/detail/31967477/",
@@ -330,6 +395,19 @@
    "collected": "2026-08-01T07:12+09:00"
   },
   {
+   "id": "5e1da150f8d1",
+   "url": "https://www.zaikei.co.jp/article/20260731/863837.html",
+   "title": "言葉だけでなく「声のトーン」も理解、KDDIがGemini搭載の接客ロボット",
+   "summary": "KDDIã¨AVITAã¯ãå£°ã®ãã¼ã³ãææããªã¢ã«ã¿ã¤ã ã«çè§£ãããGeminiãæ­è¼ã®æ¥å®¢ç¨ãã¥ã¼ã",
+   "source": "財経新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "http://www.zaikei.co.jp/files/general/20260731124412KvM0big.png",
+   "published": "2026-07-31T12:44+09:00",
+   "collected": "2026-08-03T07:03+09:00"
+  },
+  {
    "id": "b8397417666f",
    "url": "https://robotstart.info/article/img/2026/07/31/382219/105177.html",
    "title": "Teslaのヒューマノイド「Optimus」量産への現在地 フリーモント工場とGen3開発の最新情報まとめ 1枚目の写真・画像",
@@ -341,6 +419,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/105177.jpg",
    "published": "2026-07-31T12:41+09:00",
    "collected": "2026-08-01T07:12+09:00"
+  },
+  {
+   "id": "63ce147a46ba",
+   "url": "https://robotstart.info/article/img/2026/07/31/382218/105166.html",
+   "title": "歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレード、日本製バッテリー搭載で安全性・保守性を強化 1枚目の写真・画像",
+   "summary": "ロボットバンク株式会社は、追従型搬送ロボット「STARWALK」を日本市場向けに全面アップグレードし、日本製バッテリーを標準搭載した新モデルの提供を開始した。  歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレー",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105166.jpg",
+   "published": "2026-07-31T11:00+09:00",
+   "collected": "2026-08-03T07:03+09:00"
   },
   {
    "id": "0a270a5437f7",
