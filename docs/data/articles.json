@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-03T07:34+09:00",
+  "last_updated": "2026-08-03T08:37+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,33 @@
   ]
  },
  "items": [
+  {
+   "id": "c60df0057aa0",
+   "url": "https://enterprisezine.jp/news/detail/24796",
+   "title": "ミスミグループ、データセンター／ヒューマノイドロボット需要の拡大に対し約46億円を新たに投資",
+   "summary": "ミスミグループ、データセンター／ヒューマノイドロボット需要の拡大に対し約46億円を新たに投資    EnterpriseZine",
+   "source": "EnterpriseZine",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-03T08:13+09:00",
+   "collected": "2026-08-03T08:37+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "488ccc94c5dc",
+   "url": "https://mag.executive.itmedia.co.jp/executive/article/2608/03/2000000339/",
+   "title": "画面の中だけで満足してない？ AIが「現実世界（フィジカル）」を動かし始めた衝撃",
+   "summary": "失敗の取り消しがきかない「フィジカルAI」。導入が加速する今、不可欠な「責任の事前設計」とマネジメントの全体像に迫る全4回の連載。第1回",
+   "source": "ITmedia エグゼクティブ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://mag.executive.itmedia.co.jp/executive/article/ogp/2608/03/2000000339/10001654/2048",
+   "published": "2026-08-03T08:00+09:00",
+   "collected": "2026-08-03T08:37+09:00"
+  },
   {
    "id": "e4742a737c16",
    "url": "https://www.kdrm.kr/news/articleView.html?idxno=603359",
