@@ -154,7 +154,7 @@
   "thumbnail": null,
   "published": "2026-08-03T14:19+09:00",
   "collected": "2026-08-04T07:14+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1a7f748f7040",
@@ -181,6 +181,19 @@
   "thumbnail": "https://www.zaikei.co.jp/files/general/20260803124051W6y0big.png",
   "published": "2026-08-03T12:40+09:00",
   "collected": "2026-08-04T07:14+09:00"
+ },
+ {
+  "id": "cf67b3dcd20d",
+  "url": "https://japan.ajunews.com/view/20260803120470774",
+  "title": "中国のヒューマノイドロボット産業、8月に大規模イベントを控え存在感を強化",
+  "summary": "8月、中国のヒューマノイド産業は大規模なイベントを次々と控え、存在感を強めている。ユニットリ（宇樹科技）とエジボット（智元）の企業公開（IPO）、中国最大の電気自動車企業比亜迪のヒューマノイドロボット公開、そして中国での世界ロボット運動会の",
+  "source": "jp.ajunews.com",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.ajunews.com/content/image/2026/08/02/20260802165653737425.jpg",
+  "published": "2026-08-03T12:04+09:00",
+  "collected": "2026-08-04T07:37+09:00"
  },
  {
   "id": "0c4df10a8843",
