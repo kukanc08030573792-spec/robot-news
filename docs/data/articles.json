@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-04T07:37+09:00",
+  "last_updated": "2026-08-04T08:43+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "06c12adadb0f",
+   "url": "https://biz.chosun.com/jp/jp-finance/2026/08/04/Z2HO5LY2J5AIJBLGBVGTRCBRBQ/",
+   "title": "米中ロボット規制でLGイノテックに追い風見込む - CHOSUNBIZ",
+   "summary": "米中ロボット規制でLGイノテックに追い風見込む - CHOSUNBIZ    Chosunbiz",
+   "source": "Chosunbiz",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://biz.chosun.com/resizer/v2/CFLPN45B2ZV77L6KFHCSM64RII.jpg?auth=a8f6b2f284296e0f55729520d8881b6bfdab2e5a1764dafa8198a431b24c4959&width=1200&height=630&smart=true",
+   "published": "2026-08-04T08:28+09:00",
+   "collected": "2026-08-04T08:43+09:00"
+  },
   {
    "id": "019aee522c54",
    "url": "https://www.technologyreview.jp/s/386963/trumps-ai-protectionism-has-come-for-robotics/",
@@ -185,7 +198,7 @@
    "thumbnail": null,
    "published": "2026-08-03T14:19+09:00",
    "collected": "2026-08-04T07:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1a7f748f7040",
@@ -6566,20 +6579,6 @@
    "thumbnail": "https://contents.newspicks.com/topics/365/posts/4/thumbnail?updatedAt=20260704000010",
    "published": "2026-07-04T09:00+09:00",
    "collected": "2026-07-06T14:25+09:00"
-  },
-  {
-   "id": "4cfc83b7e924",
-   "url": "https://news.nicovideo.jp/watch/nw19504211",
-   "title": "ロボットバンク、AIを中核とした新ドメイン「RobotBank.ai」を本格始動",
-   "summary": "ロボットバンクがAIを中核とした新ドメイン「RobotBank.ai」を本格始動。",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-03T20:18+09:00",
-   "collected": "2026-07-06T14:40+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
