@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-05T07:41+09:00",
+  "last_updated": "2026-08-05T08:39+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -276,6 +276,19 @@
    "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2129/468/00-top.jpg",
    "published": "2026-08-04T10:04+09:00",
    "collected": "2026-08-05T07:19+09:00"
+  },
+  {
+   "id": "b15993d9f030",
+   "url": "https://ledge.ai/articles/google_deepmind_gemini_robotics_2",
+   "title": "Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
+   "summary": "Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応    Ledge.ai",
+   "source": "Ledge.ai",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/gemini_robotics2_f4f76da600/gemini_robotics2_f4f76da600.jpg",
+   "published": "2026-08-04T10:02+09:00",
+   "collected": "2026-08-05T08:39+09:00"
   },
   {
    "id": "c6acb220fd2f",
@@ -6563,19 +6576,6 @@
    "expert": false,
    "thumbnail": "https://dcross.impress.co.jp/img/dx/list/004/732/rss.jpg",
    "published": "2026-07-07T07:00+09:00",
-   "collected": "2026-07-07T10:06+09:00"
-  },
-  {
-   "id": "0331b529b7f3",
-   "url": "https://www.therobotreport.com/kraken-robotics-acquires-covelya-group-for-615m/",
-   "title": "Kraken Robotics acquires Covelya Group for $615M",
-   "summary": "Kraken RoboticsがCovelya Groupを6億1500万ドルで買収。水中技術の製品ラインと市場を拡大。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/krakenrobotics-featured.jpg",
-   "published": "2026-07-07T06:00+09:00",
    "collected": "2026-07-07T10:06+09:00"
   }
  ]
