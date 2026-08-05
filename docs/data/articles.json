@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-06T07:17+09:00",
+  "last_updated": "2026-08-06T07:39+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -146,6 +146,19 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/05/https___news_jp_i_1457699984725574608.jpg",
    "published": "2026-08-05T21:43+09:00",
    "collected": "2026-08-06T07:17+09:00"
+  },
+  {
+   "id": "795d511c7c5d",
+   "url": "https://news.ntv.co.jp/category/economy/4c4e89dc24714e7b93a57b37d4afd2f4",
+   "title": "国産の人型ロボット発表 人手不足深刻化の医療・製造現場などでの活用想定（2026年8月5日掲載）｜日テレNEWS NNN",
+   "summary": "国産の人型ロボット発表 人手不足深刻化の医療・製造現場などでの活用想定（2026年8月5日掲載）｜日テレNEWS NNN    日テレNEWS NNN",
+   "source": "日テレNEWS NNN",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://news.ntv.co.jp/gimage/n24/articles/caa3721a3c894d7ca197cf324cd3057b/6b12586ab1dc14075068b79840e55c62dd34317394e7e0deb258a355edc60cc5.jpg?w=1200",
+   "published": "2026-08-05T20:38+09:00",
+   "collected": "2026-08-06T07:39+09:00"
   },
   {
    "id": "fdf654eb72fc",
@@ -6563,19 +6576,6 @@
    "expert": false,
    "thumbnail": "https://img.biggo.com/s8D1m4vCHWX1jBE01Pyj2lHaZ9huhkWiH__fljfp2Ho/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2NlN2M5NzhjLWEzMmUtNDkxOS1hMTM2LTAyNDkzMzIzZGU3Ml8xNzgzNDYxMjkyX2RlZmF1bHQuanBn.jpg",
    "published": "2026-07-08T05:55+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "df98de179d21",
-   "url": "https://www.kensetsunews.com/sokuho/1257863",
-   "title": "清水建設、人型AIロボットをトーチタワー現場で実証 ソニーら技術協力",
-   "summary": "清水建設がトーチタワー現場でフィジカルAIを活用した人型AIロボットの実証を実施。技術協力はソニー。",
-   "source": "建設通信新聞Digital",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.kensetsunews.com/PB5001H/wp-content/uploads/2026/07/a901bcb322958ae327b25dd7b35bf602-1.jpg",
-   "published": "2026-07-08T04:02+09:00",
    "collected": "2026-07-08T16:42+09:00"
   }
  ]
