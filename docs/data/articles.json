@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-06T07:39+09:00",
+  "last_updated": "2026-08-06T08:34+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -185,6 +185,19 @@
    "thumbnail": "https://image.itmedia.co.jp/bt/articles/2608/05/cover_news094.jpg",
    "published": "2026-08-05T17:00+09:00",
    "collected": "2026-08-06T07:17+09:00"
+  },
+  {
+   "id": "1610bd0706e3",
+   "url": "https://prtimes.jp/main/html/rd/p/000000206.000019209.html",
+   "title": "ジールス、“準国産”コンパクトヒューマノイド「D1」を発表〜年度内に100台量産、人手不足の現場で10,000時間稼働を目指す",
+   "summary": "株式会社ZEALSのプレスリリース（2026年8月5日 16時00分）ジールス、“準国産”コンパクトヒューマノイド「D1」を発表〜年度内に100台量産、人手不足の現場で10,000時間稼働を目指す",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/19209/206/19209-206-69ca6c378796e4cb52639494d97bc6f3-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-08-05T16:00+09:00",
+   "collected": "2026-08-06T08:34+09:00"
   },
   {
    "id": "d40aa90d601e",
@@ -6563,19 +6576,6 @@
    "expert": false,
    "thumbnail": "https://www.dreamnews.jp/press/0000355033/images/bodyimage1/s335",
    "published": "2026-07-08T10:00+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "e9de5df0e2e4",
-   "url": "https://finance.biggo.jp/news/ce7c978c-a32e-4919-a136-02493323de72",
-   "title": "清水建設、2030年までにAI搭載ヒューマノイドロボット導入へ 日本の建設業界の人手不足解消を目指す",
-   "summary": "清水建設が2030年までにAI搭載ヒューマノイドロボットを建設現場に導入予定。人手不足解消を目指す。",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/s8D1m4vCHWX1jBE01Pyj2lHaZ9huhkWiH__fljfp2Ho/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2NlN2M5NzhjLWEzMmUtNDkxOS1hMTM2LTAyNDkzMzIzZGU3Ml8xNzgzNDYxMjkyX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-07-08T05:55+09:00",
    "collected": "2026-07-08T16:42+09:00"
   }
  ]
