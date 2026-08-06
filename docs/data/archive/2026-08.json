@@ -1,5 +1,18 @@
 [
  {
+  "id": "8f400ed640ea",
+  "url": "https://www.watch.impress.co.jp/docs/news/2130881.html",
+  "title": "\"準国産\"セミヒューマノイド「D1」 自社設計・国内組立で500万円から",
+  "summary": "ZEALSは8月5日、準国産ヒューマノイドロボット「D1」を発表した。モーターやバッテリーなどの部品は海外製だが、日本国内で設計・組立を行なった。日本特有の狭い通路や段差、混雑した動線などの環境で活躍できるコンパクトな\"準国産\"ヒューマノイ",
+  "source": "Impress Watch",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.watch.impress.co.jp/img/ipw/list/2130/881/IMG_20260805_153158.jpg",
+  "published": "2026-08-06T09:00+09:00",
+  "collected": "2026-08-06T09:06+09:00"
+ },
+ {
   "id": "6b5860cf7d96",
   "url": "https://www.therobotreport.com/avnet-and-weston-robot-partner-to-launch-edge-ai-inspection-platform/",
   "title": "Avnet and Weston Robot partner to launch edge AI inspection platform",
@@ -115,6 +128,19 @@
   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/05/https___news_jp_i_1457699984725574608.jpg",
   "published": "2026-08-05T21:43+09:00",
   "collected": "2026-08-06T07:17+09:00"
+ },
+ {
+  "id": "053e6319fc31",
+  "url": "https://innovatopia.jp/robot/robot-news/115098/",
+  "title": "Figure 03、はしごを完全自律で登る｜ヒューマノイドロボットは工場の外へ進めるか",
+  "summary": "Figure 03がAIシステム「Helix」を使い、短いはしごを完全自律で登る実演を公開した。視覚情報と全身制御を組み合わせ、人間向けの立体環境へ適応する可能性を示す。一方、成功率や試験条件は未公開だ。工場から建設・保守現場へ用途を広げる",
+  "source": "innovaTopia",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://innovatopia.jp/wp-content/uploads/2026/08/figure-03-autonomous-ladder-climb-helix_R.jpg",
+  "published": "2026-08-05T21:40+09:00",
+  "collected": "2026-08-06T09:06+09:00"
  },
  {
   "id": "fdf654eb72fc",
