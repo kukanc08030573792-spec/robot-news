@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-08T07:16+09:00",
+  "last_updated": "2026-08-08T08:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "47be07eaa4d8",
+   "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
+   "title": "Building robots that survive the warehouse",
+   "summary": "Nomagic says its real moat is production data, because the messiness of real warehouses is where robots either prove the",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-256.jpg",
+   "published": "2026-08-08T07:01+09:00",
+   "collected": "2026-08-08T08:15+09:00"
+  },
   {
    "id": "229797cb64ef",
    "url": "https://www.therobotreport.com/tacta-systems-takes-aim-high-skilled-manufacturing-work-tactabot/",
@@ -81,7 +94,7 @@
    "thumbnail": null,
    "published": "2026-08-07T23:04+09:00",
    "collected": "2026-08-08T06:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "bd6517e0cb35",
@@ -395,7 +408,7 @@
    "thumbnail": null,
    "published": "2026-08-05T22:05+09:00",
    "collected": "2026-08-08T06:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ee70819d5c30",
@@ -6563,19 +6576,6 @@
    "thumbnail": "https://assets.st-note.com/production/uploads/images/292817803/rectangle_large_type_2_d22d27f1748772cf5581d41611d97607.jpeg?fit=bounds&quality=85&width=1280",
    "published": "2026-07-09T14:09+09:00",
    "collected": "2026-07-09T17:56+09:00"
-  },
-  {
-   "id": "287c15bf9cc6",
-   "url": "https://newscast.jp/news/9649875",
-   "title": "車輪付きプール清掃ロボットの世界市場（2026年～2032年）、市場規模（有線、コードレス）・分析レポートを発表",
-   "summary": "車輪付きプール清掃ロボットの市場規模に関する分析レポートを発表。",
-   "source": "newscast.jp",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/AO5qJLntANBCFPYuZA6x.png",
-   "published": "2026-07-09T12:00+09:00",
-   "collected": "2026-07-10T17:52+09:00"
   }
  ]
 }
