@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-06T09:06+09:00",
+  "last_updated": "2026-08-07T10:01+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,85 @@
   ]
  },
  "items": [
+  {
+   "id": "cbf05650049f",
+   "url": "https://jp.reuters.com/markets/japan/7DEVLK3WPNIFHNXSPZT4ULAW4Q-2026-08-07/",
+   "title": "中国ロボットメーカー宇樹科技、ＩＰＯ価格決定 評価額90億ドル",
+   "summary": "中国ロボットメーカー宇樹科技、ＩＰＯ価格決定 評価額90億ドル    ロイター",
+   "source": "ロイター",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-07T09:20+09:00",
+   "collected": "2026-08-07T10:01+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "6e092d926ceb",
+   "url": "https://monoist.itmedia.co.jp/mn/articles/2608/07/news039.html",
+   "title": "あえて歩かせない――準国産ヒューマノイド「D1」登場、現場稼働で日本の勝ち筋へ：協働ロボット（1/2 ページ）",
+   "summary": "ZEALSÍú{Ì®àÂ«ÉKµ½YÌäÔ^q[}mChuD1vð­\\µ½BãÃâ»¢»êÈÇÀÛÌÒ­ðÊ¶ÄÆ©Ì",
+   "source": "MONOist",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2608/07/cover_news039.jpg",
+   "published": "2026-08-07T06:45+09:00",
+   "collected": "2026-08-07T10:01+09:00"
+  },
+  {
+   "id": "e4df6b1f7844",
+   "url": "https://www.therobotreport.com/hii-signs-up-to-900m-agreement-with-path-robotics-graymatter-robotics/",
+   "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
+   "summary": "The latest agreement expands HII's HYPER Program, which Path Robotics and GrayMatter Robotics joined earlier this year. ",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Path-Robotics-Image-featured.jpg",
+   "published": "2026-08-07T05:19+09:00",
+   "collected": "2026-08-07T10:01+09:00"
+  },
+  {
+   "id": "0026f9139639",
+   "url": "https://www.therobotreport.com/how-robin-robotic-companion-keeps-patients-calm-during-hospital-visits/",
+   "title": "How Robin, the robotic companion, keeps patients calm during hospital visits",
+   "summary": "Robin is deployed across 30 different health systems, and Expper has plans to deploy 10 more in different states. The po",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/robin-expper-featured.jpg",
+   "published": "2026-08-06T23:09+09:00",
+   "collected": "2026-08-07T10:01+09:00"
+  },
+  {
+   "id": "7d690a75b1c3",
+   "url": "https://www.therobotreport.com/report-looks-at-advances-in-autonomous-mobile-robots/",
+   "title": "Report looks at advances in autonomous mobile robots",
+   "summary": "A download looks at examples of advances in autonomous mobile robots in material handling and automated storage applicat",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Hyster_Lift_trucks.jpg",
+   "published": "2026-08-06T21:26+09:00",
+   "collected": "2026-08-07T10:01+09:00"
+  },
+  {
+   "id": "66bd3f646e16",
+   "url": "https://www.dreamnews.jp/press/0000358556",
+   "title": "業務用ロボット掃除機の市場の成長分析と動向予測レポート2026-2032 【GlobalInfoResearch】",
+   "summary": "業務用ロボット掃除機の市場の成長分析と動向予測レポート2026-2032 【GlobalInfoResearch】    ドリームニュース",
+   "source": "ドリームニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.dreamnews.jp/press/0000358556/images/bodyimage1",
+   "published": "2026-08-06T12:30+09:00",
+   "collected": "2026-08-07T10:01+09:00"
+  },
   {
    "id": "8f400ed640ea",
    "url": "https://www.watch.impress.co.jp/docs/news/2130881.html",
@@ -6498,84 +6577,6 @@
    "thumbnail": "https://www.dempa-times.co.jp/wp-content/themes/dempa-times/assets/img/ogp.png",
    "published": "2026-07-08T14:39+09:00",
    "collected": "2026-07-09T17:56+09:00"
-  },
-  {
-   "id": "a5753e3af8f6",
-   "url": "https://ashu-chinastatistics.com/news/307837-941884818030",
-   "title": "世界商用サービスロボ市場拡大、中国メーカーが成長牽引",
-   "summary": "世界商用サービスロボ市場が拡大。中国メーカーが成長を牽引。",
-   "source": "ashu-chinastatistics.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://ashu-chinastatistics.com/img/common/og_image.jpg",
-   "published": "2026-07-08T14:33+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "97b0268b3014",
-   "url": "https://www.jiji.com/jc/article?k=20260707961143&g=bw",
-   "title": "UMA、次世代ヒューマノイド・ロボットのビジョンを発表：時事ドットコム",
-   "summary": "UMAが次世代ヒューマノイドロボットのビジョンと新AIアーキテクチャーを発表",
-   "source": "時事ドットコム",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://mms.businesswire.com/media/20260707961143/ja/2846087/4/UMA-Manufacturing-dexterity.jpg",
-   "published": "2026-07-08T14:32+09:00",
-   "collected": "2026-07-09T17:56+09:00"
-  },
-  {
-   "id": "dfef27052887",
-   "url": "https://www.vietnam.vn/ja/roborock-ra-mat-qrevo-2-pro-dua-trai-nghiem-robot-hut-bui-flagship-den-gan-hon-voi-gia-dinh-viet",
-   "title": "RoborockがQrevo 2 Proを発表：フラッグシップロボット掃除機の体験をベトナムの家庭にさらに身近なものにする。",
-   "summary": "Roborockがベトナム市場にQrevo 2 Proを投入。手頃な価格で自動化された掃除を提供。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/08/1783483470240_unnamed-3-17834755974631450673523-244-0-512-512-crop-17834758413301701093585.png",
-   "published": "2026-07-08T13:51+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "411268e2af36",
-   "url": "https://robotstart.info/article/2026/07/08/382120.html",
-   "title": "NVIDIAとHugging Face、オープンソースのロボット開発基盤「LeRobot」にヒューマノイド向けAIモデル「GR00T 1.7」を統合",
-   "summary": "NVIDIAとHugging Faceがヒューマノイド向けAIモデルをオープンソースのロボット開発基盤に統合。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/104429.jpg",
-   "published": "2026-07-08T11:30+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "61bc03c0e75c",
-   "url": "https://kyodonewsprwire.jp/release/202607072153",
-   "title": "Hyundai Motor、FIFAワールドカップ2026（TM）の実際の試合環境にヒューマノイドロボットAtlasを初導入、ロボティクス統合を実現",
-   "summary": "Hyundai MotorがFIFAワールドカップ2026でBoston DynamicsのヒューマノイドロボットAtlasを導入。スポーツ界でのロボティクス統合を実現。",
-   "source": "共同通信PRワイヤー",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://kyodonewsprwire.jp/prwfile/release/M107864/202607072153/_prw_OI1fl_fLDR5jAg.jpg",
-   "published": "2026-07-08T10:16+09:00",
-   "collected": "2026-07-08T16:42+09:00"
-  },
-  {
-   "id": "6243850d26ca",
-   "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026027.html",
-   "title": "「AIロボット」の研究開発を本格化",
-   "summary": "清水建設が建設現場の労働力不足解消を目指し、AIロボットの研究開発を本格化。生産性と安全性向上を狙う。",
-   "source": "shimz.co.jp",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.shimz.co.jp/company/about/news-release/2026/images/2026027_ph01.jpg",
-   "published": "2026-07-08T10:05+09:00",
-   "collected": "2026-07-08T16:42+09:00"
   }
  ]
 }
