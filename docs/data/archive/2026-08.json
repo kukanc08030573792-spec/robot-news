@@ -1,5 +1,44 @@
 [
  {
+  "id": "99199b6eacf7",
+  "url": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
+  "title": "Experts look ahead at the next 20 years of robotics at RoboBusiness",
+  "summary": "At Robobusiness, leaders in robotics will explore the technologies, opportunities, and challenges that will shape the ne",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/next20years-featured.jpg",
+  "published": "2026-08-08T21:30+09:00",
+  "collected": "2026-08-09T06:39+09:00"
+ },
+ {
+  "id": "194ee17e7f75",
+  "url": "https://topics.smt.docomo.ne.jp/amp/article/huffingtonpost/life/huffingtonpost-6a76d170e4b019e3187d6f82",
+  "title": "ジョナサン＆バーミヤンの猫型ロボが一緒に休憩。実は皆仲良し？「#世界猫の日」",
+  "summary": "写真はイメージです (Photo by Matthias Bein/picture alliance via Getty Images)ファミリーレストランで多…",
+  "source": "ｄメニューニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/huffingtonpost/m_huffingtonpost-6a76d170e4b019e3187d6f82.jpg",
+  "published": "2026-08-08T18:16+09:00",
+  "collected": "2026-08-09T06:39+09:00"
+ },
+ {
+  "id": "dd947638598a",
+  "url": "https://s.response.jp/article/2026/08/08/415087.html",
+  "title": "注目度1位はヒューマノイドの格闘！…『ロボスタ』記事2026年上半期まとめ",
+  "summary": "2026年1月から6月までの半年間、ロボスタでは特にヒューマノイドロボットとフィジカルAIに関する記事を多く扱った。本記事では、この期間に公開した全記事のを集計し、読者がどのニュースに反応したかを振り返る。",
+  "source": "レスポンス（Response.jp）",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://response.jp/imgs/ogp_f/2233501.jpg",
+  "published": "2026-08-08T12:15+09:00",
+  "collected": "2026-08-09T06:39+09:00"
+ },
+ {
   "id": "47be07eaa4d8",
   "url": "https://www.therobotreport.com/building-robots-that-survive-warehouse/",
   "title": "Building robots that survive the warehouse",
@@ -92,6 +131,20 @@
   "collected": "2026-08-08T06:49+09:00"
  },
  {
+  "id": "800a205997e2",
+  "url": "https://news.nicovideo.jp/watch/nw19639505?news_ref=watch_110_nw19567360",
+  "title": "警備ロボットの最適解は一輪走行かもしれない",
+  "summary": "警備ロボットの最適解は一輪走行かもしれない    ニコニコニュース",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-08-07T18:03+09:00",
+  "collected": "2026-08-09T06:39+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "5a958c20fae1",
   "url": "https://prtimes.jp/main/html/rd/p/000000010.000087081.html",
   "title": "清掃現場の人手不足をロボットで支援。株式会社SERT、業務用清掃ロボット「Sveabot S100 Pro M」の全国展開を本格化",
@@ -129,6 +182,19 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/104306/1041/104306-1041-8650af1719742cd71c6727affc5acd10-1075x870.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-08-07T14:00+09:00",
   "collected": "2026-08-08T06:49+09:00"
+ },
+ {
+  "id": "18d694c3edf7",
+  "url": "https://news.yahoo.co.jp/articles/96dffeaf295d6e73813c55b22cff97d3866a2b90",
+  "title": "ヒョンデのヒューマノイド計画が映し出す、フィジカルAIをめぐる混乱",
+  "summary": "労働者は、AIがもたらす技術の変化を、とりわけフィジカルAI（実世界で動くロボットなどに搭載され、物理的に作業をこなすAI）がもたらす変化をどう受け止めているのだろうか。\n\n韓国の労働組合の動きを伝",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00102016-forbes-000-1-view.jpg?exp=10800",
+  "published": "2026-08-07T13:00+09:00",
+  "collected": "2026-08-09T06:39+09:00"
  },
  {
   "id": "3fd3e41ba6ff",
@@ -234,6 +300,19 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Hyster_Lift_trucks.jpg",
   "published": "2026-08-06T21:26+09:00",
   "collected": "2026-08-07T10:01+09:00"
+ },
+ {
+  "id": "83d4a831b0c9",
+  "url": "https://www.sendenkaigi.com/marketing/media/kouhoukaigi/qz3rmty_4m/",
+  "title": "施設清掃業界、唯一の専門誌 ロボやDX、ユニバーサル就労も扱う",
+  "summary": "報道対応を担当するPRパーソンにとって、気になるのがメディアの裏側。企業取材のスタンスや、プロデューサーや編集長の考えに迫ります。",
+  "source": "宣伝会議",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://images.microcms-assets.io/assets/9c883224793c4361bfa991c4e6710e04/8ad6f64bcab64809ad425418e2f80416/066_ogp.jpg",
+  "published": "2026-08-06T16:00+09:00",
+  "collected": "2026-08-09T06:39+09:00"
  },
  {
   "id": "66bd3f646e16",
