@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-10T06:41+09:00",
+  "last_updated": "2026-08-10T07:01+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -107,7 +107,7 @@
    "thumbnail": null,
    "published": "2026-08-09T15:00+09:00",
    "collected": "2026-08-10T06:41+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9853938d00fe",
@@ -279,6 +279,19 @@
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/87081/10/87081-10-f5e42ece74085894fa448ca27fd64305-896x1195.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-08-07T17:40+09:00",
    "collected": "2026-08-08T06:49+09:00"
+  },
+  {
+   "id": "2ca05f33daea",
+   "url": "https://www.moomoo.com/ja/community/feed/unitree-china-s-humanoid-leader-is-set-to-ipo-this-117053301653909",
+   "title": "中国のヒューマノイドロボット大手Unitreeが、今月90億ドルの評価額でIPOを予定しています！（3月の申請時点では当...",
+   "summary": "中国のヒューマノイドロボット大手Unitreeが、今月90億ドルの評価額でIPOを予定しています！（3月の申請時点では当...    Moomoo",
+   "source": "Moomoo",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ussnsimg.moomoo.com/sns_client_feed/76714826/20260807/public/NN-DataMarket/8515/2085644051446108223-photo-05487dfa4d2f039928f93221cb1d298d3.jpg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+   "published": "2026-08-07T17:33+09:00",
+   "collected": "2026-08-10T07:01+09:00"
   },
   {
    "id": "9eec2e8f2e67",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://car.watch.impress.co.jp/img/car/list/2123/922/01.jpg",
    "published": "2026-07-09T17:52+09:00",
    "collected": "2026-07-09T19:31+09:00"
-  },
-  {
-   "id": "a2beeff8b455",
-   "url": "https://japan.cnet.com/article/35250404/",
-   "title": "清水建設、「日本一高いビル」施工現場にフィジカルAI 2足歩行ロボが巡回 LLMで解析も",
-   "summary": "清水建設がフィジカルAIを活用したヒューマノイドロボットによる建設現場巡回の実証を開始。",
-   "source": "CNET Japan",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://japan.cnet.com/storage/2026/07/09/6f29b1ba3cfdcf08775f3040cdc0b0e5/2026027_ph01.jpeg",
-   "published": "2026-07-09T17:50+09:00",
-   "collected": "2026-07-09T17:56+09:00"
   }
  ]
 }
