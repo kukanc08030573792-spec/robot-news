@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-09T08:37+09:00",
+  "last_updated": "2026-08-10T06:41+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,98 @@
   ]
  },
  "items": [
+  {
+   "id": "24cf8f531392",
+   "url": "https://finance.biggo.jp/news/40491517-c6de-4e3b-bd0a-4758c006415f",
+   "title": "韓国バッテリー3社、「ロボットの心臓」全固体電池で新たな活路模索",
+   "summary": "赤字から脱却した韓国バッテリー3社が、次世代成長エンジンとして「ロボット用全固体電池」に注目している。電気自動車（EV）に比べてバッテリー容量が小さいロ…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/E1dqgOb-0-IDW-M2P5a337wYqXee-vBU8Z4sdAcc5kk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzQwNDkxNTE3LWM2ZGUtNGUzYi1iZDBhLTQ3NThjMDA2NDE1Zl8xNzg2Mjc5MzMyX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-08-09T21:35+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
+  {
+   "id": "dbcb8a242610",
+   "url": "https://www.therobotreport.com/analog-devices-returns-strategic-sponsor-aid-massrobotics-startups/",
+   "title": "Analog Devices returns as strategic sponsor to aid MassRobotics startups",
+   "summary": "Analog Devices Inc. is supporting MassRobotics startups with Analog Garage and participating in events including RoboBus",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/image-16.png",
+   "published": "2026-08-09T21:30+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
+  {
+   "id": "3c00b613b9c1",
+   "url": "https://www.miraikan.jst.go.jp/events/202608134687.html",
+   "title": "動くヒューマノイドロボットと人との距離を探る 「未来をつくるラボ」実証実験",
+   "summary": "人のように会話し、二足歩行で動く――。最新技術が生み出したヒューマノイドロボットとのコミュニケーションを体験できるイベントです。現在、社会の...",
+   "source": "miraikan.jst.go.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.miraikan.jst.go.jp/events/assets_c/2026/08/20260813_gmo_ogp02-thumb-1200x630-22662.jpg",
+   "published": "2026-08-09T18:09+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
+  {
+   "id": "5b80255c5bce",
+   "url": "https://note.com/loyal_myrtle1528/n/nb80866f8d45e",
+   "title": "中国発ヒューマノイドロボット「Unitree」がIPOへ――時価総額9000億円、DeepSeekも出資する急成長企業",
+   "summary": "要約（約100  字）  中国のロボットメーカーUnitree Roboticsが上海STAR市場へのIPOを計画。時価総額は約610億元に達し、DeepSeekやTencentなどが戦略投資家として参加。2025年には世界のヒューマノイド",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/2b28f288e0ca8fc8a86cda718750829fe7c69820.png",
+   "published": "2026-08-09T17:30+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
+  {
+   "id": "5f595b938df2",
+   "url": "https://fabscene.com/new/news/drexel-expressive-humanoid-robot-trust-study/?utm_source=rss&utm_medium=rss&utm_campaign=drexel-expressive-humanoid-robot-trust-study",
+   "title": "表情豊かなロボットほどミスで信頼を失う、米ドレクセル大が脳とホルモンで確認",
+   "summary": "米ドレクセル大学を中心とする研究チームが、身ぶりや相づちを返すヒューマノイドほど失敗時に失う信頼が大きいと確認した。成人男性50人が「Pepper」と対話し、脳活動・唾液中のオキシトシン・アンケート・実際の判断を同時に計測。ミス後の影響力は",
+   "source": "FabScene",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://fabscene.com/wp-content/uploads/2026/08/596c9b1db2e5f469dc73f5cc3c5bbf00.webp",
+   "published": "2026-08-09T15:01+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
+  {
+   "id": "25b01c975817",
+   "url": "https://jp.investing.com/news/economy-news/article-1639944",
+   "title": "ヒューマノイドロボットはコンピューティング需要も牽引する 執筆 - Investing.com",
+   "summary": "ヒューマノイドロボットはコンピューティング需要も牽引する 執筆    Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-09T15:00+09:00",
+   "collected": "2026-08-10T06:41+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "9853938d00fe",
+   "url": "https://forbesjapan.com/articles/detail/102528",
+   "title": "ユニツリー創業者の資産約3792億円、上海IPOで中国初の「ヒューマノイド・ビリオネア」に",
+   "summary": "中国のヒューマノイドロボットメーカー、ユニツリー・ロボティクス（Unitree Robotics、宇樹科技）の会長兼CEOであるワン・シンシンが、ビリオネアの仲間入りを果たした。同社は上海市場への上場準備を進めており、中国のヒューマノイドロ",
+   "source": "Forbes JAPAN",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.forbesjapan.com/media/article/102528/images/main_image_57dd88b48b1d33a28fadfe9204ff22fbd49fc94f.jpeg",
+   "published": "2026-08-09T09:00+09:00",
+   "collected": "2026-08-10T06:41+09:00"
+  },
   {
    "id": "99199b6eacf7",
    "url": "https://www.therobotreport.com/experts-look-ahead-at-the-next-20-years-of-robotics-at-robobusiness/",
@@ -6485,97 +6577,6 @@
    "thumbnail": "https://japan.cnet.com/storage/2026/07/09/6f29b1ba3cfdcf08775f3040cdc0b0e5/2026027_ph01.jpeg",
    "published": "2026-07-09T17:50+09:00",
    "collected": "2026-07-09T17:56+09:00"
-  },
-  {
-   "id": "6905fcfe16c3",
-   "url": "https://carview.yahoo.co.jp/news/detail/10ff360f5f4c4685ba8249cb0b96b9c225df35e7/",
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む",
-   "summary": "三菱自動車とハイランダーズがヒューマノイドロボットの共同開発で基本合意。2027年に1000台の量産を予定。",
-   "source": "carview!",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://autos-pctr.c.yimg.jp/E8AMlYWU4zGKe4isosZ0gb2D0DgzZwi7cGz3rEpAawZjLpGOeoROGR5iRCFl7eseoAeZSL_VSouxlxyBJnAsc17fo4-5S6PZjz_UEy3PITy9DbTFjbB1bsxp5thHQGxNFHx65Vg05YEQf07osMk0Jbc1njNOXrIu7tcAPNqmXudXMDrU5auNTl-RGOC43FZG",
-   "published": "2026-07-09T17:20+09:00",
-   "collected": "2026-07-09T17:56+09:00"
-  },
-  {
-   "id": "5531e7c17729",
-   "url": "https://weekly.ascii.jp/elem/000/004/418/4418039/",
-   "title": "水拭き対応「ルンバ」が5万円の衝撃！プライムデー先行セールで超お買い得に",
-   "summary": "水拭き対応の掃除ロボット「ルンバ」がプライムデー先行セールで4万9800円に。58％オフの特価。",
-   "source": "週刊アスキー",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://ascii.jp/img/2026/07/09/4497811/l/b3b5b5ba6d71fdf0.jpg",
-   "published": "2026-07-09T17:00+09:00",
-   "collected": "2026-07-11T09:14+09:00"
-  },
-  {
-   "id": "b630a6598b55",
-   "url": "https://www.itmedia.co.jp/news/articles/2607/09/news123.html",
-   "title": "三菱自動車、国産ヒューマノイド量産へ 東大発スタートアップと合意 27年後半に月産1000台目指す",
-   "summary": "三菱自動車が国産ヒューマノイドロボットの量産を目指し、2027年後半に月産1000台を計画。",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://image.itmedia.co.jp/news/articles/2607/09/cover_news123.jpg",
-   "published": "2026-07-09T16:55+09:00",
-   "collected": "2026-07-09T19:31+09:00"
-  },
-  {
-   "id": "fabc9882d29e",
-   "url": "https://www.nikkei.com/article/DGXZQOUC066YP0W6A700C2000000/",
-   "title": "三菱自動車がヒト型ロボット参入 東大発新興と国内生産、外販視野",
-   "summary": "三菱自動車が国内工場でヒューマノイドロボットの量産を開始し、将来的な外販も検討。",
-   "source": "日本経済新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3288414009072026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.13&fp-y=0.31&h=630&w=1200&s=9bab8fec81907fe8c6740b3cc307941e",
-   "published": "2026-07-09T16:38+09:00",
-   "collected": "2026-07-10T17:52+09:00"
-  },
-  {
-   "id": "e5f1bca4f384",
-   "url": "https://s.response.jp/article/img/2026/07/09/413816/2226046.html?from=thumb_under_hero",
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 7枚目の写真・画像",
-   "summary": "三菱自動車とハイランダーズがヒューマノイドロボットの共同開発で基本合意。2027年中に1000台の量産を目指す。",
-   "source": "レスポンス（Response.jp）",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2226046.jpg",
-   "published": "2026-07-09T16:38+09:00",
-   "collected": "2026-07-09T19:40+09:00"
-  },
-  {
-   "id": "6069ded05267",
-   "url": "https://news.yahoo.co.jp/articles/cdda80a2c59302297d33d898415512d5cda5cccf?source=rss",
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
-   "summary": "三菱自動車がHighlandersと協業し、2027年中にフィジカルAIを活用したヒューマノイドロボットの量産を見込む。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260709-00000020-rps-000-1-view.jpg?exp=10800",
-   "published": "2026-07-09T16:38+09:00",
-   "collected": "2026-07-09T19:31+09:00"
-  },
-  {
-   "id": "5941368d5caa",
-   "url": "https://s.response.jp/article/img/2026/07/09/413816/2226048.html?from=thumb_under_hero",
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 1枚目の写真・画像",
-   "summary": "三菱自動車とHighlandersがヒューマノイドロボットの共同開発を進め、京都工場での量産化を協議。",
-   "source": "レスポンス（Response.jp）",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2226048.jpg",
-   "published": "2026-07-09T16:38+09:00",
-   "collected": "2026-07-09T19:31+09:00"
   }
  ]
 }
