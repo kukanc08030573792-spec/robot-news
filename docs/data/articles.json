@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-11T07:17+09:00",
+  "last_updated": "2026-08-11T08:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -31,6 +31,32 @@
  },
  "items": [
   {
+   "id": "fd78dbb00c24",
+   "url": "https://news.yahoo.co.jp/articles/58be9c43e1c1df32fd4078273917a0944af97ef0",
+   "title": "中国ヒューマノイドロボットの疾走…上半期に世界出荷台数の97％以上占める（中央日報日本語版）",
+   "summary": "中国のロボット企業が上半期に世界のヒューマノイドロボット出荷台数の97％以上を占め、米国の競合企業を大きくリードしていたことがわかった。ヒューマノイドロボット市場で中国企業の影響力が急速に拡大してい",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000011-cnippou-000-1-view.jpg?exp=10800",
+   "published": "2026-08-11T07:58+09:00",
+   "collected": "2026-08-11T08:15+09:00"
+  },
+  {
+   "id": "ba4f98d794a0",
+   "url": "https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/",
+   "title": "Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing",
+   "summary": "The raise values Hadrian at $7.87 billion. It is Hadrian's second funding round this year, following a round in January ",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/hadrian-factory-featured.jpg",
+   "published": "2026-08-11T07:33+09:00",
+   "collected": "2026-08-11T08:15+09:00"
+  },
+  {
    "id": "7f4e9e4e0e92",
    "url": "https://www.logi-today.com/986857",
    "title": "SERT、業務用清掃ロボットを全国展開",
@@ -42,7 +68,7 @@
    "thumbnail": null,
    "published": "2026-08-11T05:26+09:00",
    "collected": "2026-08-11T06:52+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7b05c37d9891",
@@ -6550,32 +6576,6 @@
    "expert": false,
    "thumbnail": "https://cdn.projectdesign.jp/uploads/2026/07/10/IoFfAxcn4na1jAimAATf4yR02OMJikvaQv9SzIkD.jpg",
    "published": "2026-07-10T11:01+09:00",
-   "collected": "2026-07-10T17:52+09:00"
-  },
-  {
-   "id": "4ce8f0cd82bf",
-   "url": "https://www.lifehacker.jp/article/2607-tplink-taporv50proomni-review/",
-   "title": "ロボット掃除機の「メンテ面倒すぎ」問題。TP-Linkの“全自動”なら床掃除がラクに習慣化できた【今日のライフハックツール】",
-   "summary": "TP-Linkのロボット掃除機「Tapo RV50 Pro Omni」がメンテナンスの手間を軽減し、床掃除を習慣化できると紹介。",
-   "source": "ライフハッカー・ジャパン",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://media.loom-app.com/loom/2026/07/01/b0b57322-d484-4337-9c54-85cff4b3ec25/original.jpg?w=1200&h=630&f=jpg",
-   "published": "2026-07-10T11:00+09:00",
-   "collected": "2026-07-10T17:52+09:00"
-  },
-  {
-   "id": "36d46ea64067",
-   "url": "https://www.excite.co.jp/news/article/Prtimes_2026-07-10-49248-542/",
-   "title": "浜松市中小事業者等サービスロボット導入支援事業費補助金の募集について",
-   "summary": "浜松市が中小事業者向けにサービスロボット導入支援事業費補助金の募集を開始。",
-   "source": "Excite エキサイト",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://s.eximg.jp/exnews/feed/Prtimes/89/Prtimes_2026-07-10-49248-542/Prtimes_2026-07-10-49248-542_1.jpg",
-   "published": "2026-07-10T10:45+09:00",
    "collected": "2026-07-10T17:52+09:00"
   }
  ]
