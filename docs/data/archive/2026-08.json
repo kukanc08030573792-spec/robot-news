@@ -52,6 +52,32 @@
   "collected": "2026-08-12T06:57+09:00"
  },
  {
+  "id": "07a72e7d4bbd",
+  "url": "https://news.livedoor.com/topics/detail/32043867/",
+  "title": "中国の人型ロボット最前線 「ヒューマノイド」の訓練センター公開 普及へのカギは学習データ (2026年8月12日掲載)",
+  "summary": "中国・北京で開設されたヒューマノイドの訓練センターが公開されました。中国・北京市で2025年に開設された国内最大規模となるヒューマノイドのデータ訓練センターには、巨大なスペースに「ヒューマノイドロボット」",
+  "source": "ライブドアニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.news.livedoor.com/newsimage/stf/6/9/698d9_1726_f817fe37_fed1918e.jpg",
+  "published": "2026-08-12T01:31+09:00",
+  "collected": "2026-08-12T07:22+09:00"
+ },
+ {
+  "id": "595bf39218e9",
+  "url": "https://article.auone.jp/fd4c921c-9151-405c-b892-c3a81c060b22",
+  "title": "業界のニュースタンダードを担う次世代型掃除機4選【GoodsPress 2026上半期AWARD】",
+  "summary": "年々その進化が止まらないロボット掃除機。技術やAIの進歩を感じつつも、実際に日常で使いやすいのはコンパクトで軽くてメンテナンスがしやすいモデルだったり。ロボット掃除機、コードレスクリーナーともに人気な",
+  "source": "au Webポータル",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/11/https___www_goodspress_jp_features_742824_.jpg",
+  "published": "2026-08-11T23:57+09:00",
+  "collected": "2026-08-12T07:22+09:00"
+ },
+ {
   "id": "92c58744002f",
   "url": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
   "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
@@ -102,7 +128,7 @@
   "thumbnail": null,
   "published": "2026-08-11T15:00+09:00",
   "collected": "2026-08-12T06:57+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ece4bbff1e05",

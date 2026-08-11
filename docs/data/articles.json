@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-12T06:57+09:00",
+  "last_updated": "2026-08-12T07:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -83,6 +83,32 @@
    "collected": "2026-08-12T06:57+09:00"
   },
   {
+   "id": "07a72e7d4bbd",
+   "url": "https://news.livedoor.com/topics/detail/32043867/",
+   "title": "中国の人型ロボット最前線 「ヒューマノイド」の訓練センター公開 普及へのカギは学習データ (2026年8月12日掲載)",
+   "summary": "中国・北京で開設されたヒューマノイドの訓練センターが公開されました。中国・北京市で2025年に開設された国内最大規模となるヒューマノイドのデータ訓練センターには、巨大なスペースに「ヒューマノイドロボット」",
+   "source": "ライブドアニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/6/9/698d9_1726_f817fe37_fed1918e.jpg",
+   "published": "2026-08-12T01:31+09:00",
+   "collected": "2026-08-12T07:22+09:00"
+  },
+  {
+   "id": "595bf39218e9",
+   "url": "https://article.auone.jp/fd4c921c-9151-405c-b892-c3a81c060b22",
+   "title": "業界のニュースタンダードを担う次世代型掃除機4選【GoodsPress 2026上半期AWARD】",
+   "summary": "年々その進化が止まらないロボット掃除機。技術やAIの進歩を感じつつも、実際に日常で使いやすいのはコンパクトで軽くてメンテナンスがしやすいモデルだったり。ロボット掃除機、コードレスクリーナーともに人気な",
+   "source": "au Webポータル",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/11/https___www_goodspress_jp_features_742824_.jpg",
+   "published": "2026-08-11T23:57+09:00",
+   "collected": "2026-08-12T07:22+09:00"
+  },
+  {
    "id": "92c58744002f",
    "url": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
    "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
@@ -133,7 +159,7 @@
    "thumbnail": null,
    "published": "2026-08-11T15:00+09:00",
    "collected": "2026-08-12T06:57+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ece4bbff1e05",
@@ -6548,32 +6574,6 @@
    "expert": false,
    "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/07/11-2.png",
    "published": "2026-07-11T09:06+09:00",
-   "collected": "2026-07-11T09:14+09:00"
-  },
-  {
-   "id": "dd0bd0768744",
-   "url": "https://www.therobotreport.com/xtend-secures-u-s-patent-autonomous-navigation-technology/",
-   "title": "XTEND secures U.S. patent for autonomous navigation technology",
-   "summary": "XTENDが自律ナビゲーション技術に関する米国特許を取得。これにより、運用支援やミッション実行のポートフォリオが拡大。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Xtend_drone-copy.jpg",
-   "published": "2026-07-11T06:31+09:00",
-   "collected": "2026-07-11T09:14+09:00"
-  },
-  {
-   "id": "5d6426d074e2",
-   "url": "https://japan.cnet.com/article/35250447/",
-   "title": "家電ライターが厳選、戸建て住宅に向くロボット掃除機5選 時短＆水拭きも",
-   "summary": "戸建て住宅向けのロボット掃除機5選を紹介。階段を上れないモデルの運搬や設置の工夫を提案。",
-   "source": "CNET Japan",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://japan.cnet.com/storage/2026/07/11/899a7c662def296394496f7663e41466/2026-07-11_6.02の画像.jpeg",
-   "published": "2026-07-11T06:08+09:00",
    "collected": "2026-07-11T09:14+09:00"
   }
  ]
