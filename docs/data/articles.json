@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-13T07:22+09:00",
+  "last_updated": "2026-08-13T08:20+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -31,6 +31,19 @@
  },
  "items": [
   {
+   "id": "f6074a31cc16",
+   "url": "https://wired.jp/article/how-one-startup-built-a-mostly-china-free-robot/",
+   "title": "「中国製部品ほぼゼロ」のロボットをつくった、インドのスタートアップ",
+   "summary": "インドのスタートアップAti Roboticsは、中国製部品への依存を極力抑えたロボットを開発している。米国が中国製ロボットへの規制を強化するなか、その戦略が思わぬ競争優位につながろうとしている。",
+   "source": "WIRED.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.wired.jp/photos/6a72e17df831babef339d974/16:9/w_1280,c_limit/073126_How%20One%20Startup%20Built%20a%20(Mostly)%20China-Free%20Robot.jpg",
+   "published": "2026-08-13T08:00+09:00",
+   "collected": "2026-08-13T08:20+09:00"
+  },
+  {
    "id": "0b3bd9c2a9fb",
    "url": "https://pasqualepillitteri.it/ja/news/10825/byd-xiao-di-humanoid-robot-tenpo",
    "title": "BYD Xiao Di：2026年から全店舗に3体のヒューマノイドロボット",
@@ -42,7 +55,7 @@
    "thumbnail": null,
    "published": "2026-08-13T05:55+09:00",
    "collected": "2026-08-13T06:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "acd4be35dc69",
@@ -160,7 +173,7 @@
    "thumbnail": null,
    "published": "2026-08-12T16:12+09:00",
    "collected": "2026-08-13T06:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "772b902b4753",
@@ -213,7 +226,7 @@
    "thumbnail": null,
    "published": "2026-08-12T13:30+09:00",
    "collected": "2026-08-13T06:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3372c355a7b4",
@@ -6565,19 +6578,6 @@
    "thumbnail": "https://trafficnews.jp/wp-content/uploads/2027/07/00-1.jpg",
    "published": "2026-07-13T11:48+09:00",
    "collected": "2026-07-14T15:38+09:00"
-  },
-  {
-   "id": "e136ccbf487c",
-   "url": "https://www.atpress.ne.jp/news/3574996",
-   "title": "プール用掃除ロボットの世界市場（2026年～2032年）、市場規模（トラック駆動、ホイール駆動、その他）・分析レポートを発表",
-   "summary": "プール用掃除ロボットの世界市場に関する分析レポートを発表。2026年から2032年までの市場規模をトラック駆動、ホイール駆動などで分析。",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/zoEZMiSBJjnVSoUv2O6B.png",
-   "published": "2026-07-13T11:30+09:00",
-   "collected": "2026-07-13T17:36+09:00"
   }
  ]
 }
