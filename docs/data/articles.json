@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-14T07:22+09:00",
+  "last_updated": "2026-08-14T08:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "8b179c0dedd7",
+   "url": "https://finance.biggo.jp/news/9920861c-332c-42a8-820c-9adedccab094",
+   "title": "現代自、ヒューマノイド価格2万ドル目標…200社の協力会社で供給網再編",
+   "summary": "現代自動車グループが2028年のヒューマノイドロボット「Atlas」量産を目標に、韓国国内の1次協力会社約200社から事業計画書を受け付け、ロボット供給網の再構築…",
+   "source": "finance.biggo.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/CX-yd6yoU1S63gP1rvz2237na2l759k5Qq9yXwBzX90/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4Lzk5MjA4NjFjLTMzMmMtNDJhOC04MjBjLTlhZGVkY2NhYjA5NF8xNzg2NjYwMTEzX2RlZmF1bHQud2VicA.jpg",
+   "published": "2026-08-14T07:25+09:00",
+   "collected": "2026-08-14T08:22+09:00"
+  },
   {
    "id": "8599e2c4a6a8",
    "url": "https://news.livedoor.com/article/detail/32062134/",
@@ -513,6 +526,19 @@
    "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygYy0M4AZTGsmc9itECBwf1bPok1d1PiIv1kyC3d0El8XXm9nQ3nyIv4HT5YVk__NVn_3s9HsSwk4DdcudkJ99iZ5uANULvYUYJ3dPbM_wv-ST",
    "published": "2026-08-12T10:49+09:00",
    "collected": "2026-08-13T06:55+09:00"
+  },
+  {
+   "id": "27a7b44bdb89",
+   "url": "https://news.yahoo.co.jp/articles/4de214e2acf534aec100e2bb7cfc14858ccbd72d",
+   "title": "中国新興、ヒューマノイド向け半固体電池投入 稼働時間2～3倍に",
+   "summary": "中国で人型ロボット（ヒューマノイド）の実用化が進むなか、稼働時間の短さが新たな課題として浮上している。現在、量産されているヒューマノイドの連続稼働時間は2～4時間程度にとどまり、多くの工場で一般的な",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00010001-krjapan-000-1-view.jpg?exp=10800",
+   "published": "2026-08-12T09:00+09:00",
+   "collected": "2026-08-14T08:22+09:00"
   },
   {
    "id": "fece341ef5ed",
@@ -6551,32 +6577,6 @@
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/eventbank/m_eventbank-10634986.jpg",
    "published": "2026-07-14T10:00+09:00",
    "collected": "2026-07-14T14:58+09:00"
-  },
-  {
-   "id": "a983879ebd7b",
-   "url": "https://prtimes.jp/main/html/rd/p/000000008.000036809.html",
-   "title": "未来機械、経済産業省「グローバルサウス未来志向型共創等事業費補助金」に採択",
-   "summary": "未来機械が経済産業省の補助金に採択され、グローバルサウス向けの事業を推進。",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/36809/8/36809-8-e7bfc0a8cf73be789c01f7677273c956-1200x630.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-07-14T09:50+09:00",
-   "collected": "2026-07-14T14:58+09:00"
-  },
-  {
-   "id": "1e06a43b8607",
-   "url": "https://www.therobotreport.com/ondas-acquires-dzyne-875-8m-expanding-its-defense-capabilities/",
-   "title": "Ondas acquires DZYNE for $875.8M, expanding its defense capabilities",
-   "summary": "OndasがDZYNEを8億7580万ドルで買収し、防衛能力を拡張。DZYNEは自律航空機や対ドローンシステムを専門とする。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/long-range-hopper-dzyne-featured.jpg",
-   "published": "2026-07-14T07:16+09:00",
-   "collected": "2026-07-14T09:09+09:00"
   }
  ]
 }
