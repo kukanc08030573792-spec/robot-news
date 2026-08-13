@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-14T06:55+09:00",
+  "last_updated": "2026-08-14T07:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "8599e2c4a6a8",
+   "url": "https://news.livedoor.com/article/detail/32062134/",
+   "title": "10兆円規模に急成長する「人型ロボット市場」の未来を決めるたったひとつの重要論点",
+   "summary": "工場や家庭で人と共に働く「ヒューマノイド（人型ロボット）」への期待が高まっている。昨年、エヌヴィディアのジェンスン・フアンCEOが「（ヒューマノイドに搭載される）フィジカルAIが次なるフロンティアだ」と宣",
+   "source": "ライブドアニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/d/a/da0f7_1413_42d9888c_c88fc761.jpg",
+   "published": "2026-08-14T06:00+09:00",
+   "collected": "2026-08-14T07:22+09:00"
+  },
   {
    "id": "6792d11dc65c",
    "url": "https://www.therobotreport.com/mobile-manipulators-and-humanoids/",
@@ -143,10 +156,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://img.biggo.com/2fmmXE0PP1BPhBm8x5Fb3odqxD3sQeB94FIBNfUTi1A/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2NjODFkZWU4LTMzODktNDU5OC04OTFhLWQ5YWY5NWNlNWVhYV8xNzg2NjIwNjU3X2RlZmF1bHQuanBn.jpg",
    "published": "2026-08-13T20:31+09:00",
-   "collected": "2026-08-14T06:55+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-08-14T06:55+09:00"
   },
   {
    "id": "2e349d971641",
@@ -6564,19 +6576,6 @@
    "expert": false,
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/long-range-hopper-dzyne-featured.jpg",
    "published": "2026-07-14T07:16+09:00",
-   "collected": "2026-07-14T09:09+09:00"
-  },
-  {
-   "id": "c87345dc0546",
-   "url": "https://wirelesswire.jp/2026/07/93991/",
-   "title": "NVIDIAやAmazonも出資、欧州フィジカルAI企業「Neura Robotics」が描く実世界とAIの未来",
-   "summary": "NVIDIAとAmazonが出資するNeura Roboticsが、実世界とAIの未来を描く。",
-   "source": "WirelessWire",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://wirelesswire.jp/wp-content/uploads/2026/07/p20260709_unsplash1.jpg",
-   "published": "2026-07-14T06:03+09:00",
    "collected": "2026-07-14T09:09+09:00"
   }
  ]
