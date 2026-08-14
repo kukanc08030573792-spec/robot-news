@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-15T06:55+09:00",
+  "last_updated": "2026-08-15T07:56+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "79b3e0eb7ab1",
+   "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
+   "title": "How Protolabs turns CAD files into parts in under 24 hours",
+   "summary": "Protolabs CTO Marc Kermisch explains how AI, simulation, and design for manufacturing turn CAD files into production par",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-257-featured.jpg",
+   "published": "2026-08-15T07:14+09:00",
+   "collected": "2026-08-15T07:56+09:00"
+  },
   {
    "id": "c39dcf04f238",
    "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/",
@@ -107,7 +120,7 @@
    "thumbnail": null,
    "published": "2026-08-14T18:26+09:00",
    "collected": "2026-08-15T06:34+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "8e1a257523b9",
@@ -6565,19 +6578,6 @@
    "published": "2026-07-14T18:04+09:00",
    "collected": "2026-07-15T09:06+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "24543d69acb0",
-   "url": "https://finance.biggo.jp/news/4a46cd91-ea99-4bb8-9c94-db87a56a01e5",
-   "title": "サムスン・LGが参戦、ロボット掃除機市場は「春秋戦国時代」へ…100万ウォン台の多機能製品が主流に",
-   "summary": "サムスンとLGが韓国のロボット掃除機市場に参入。Roborockの影響力に変化が生じる。",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/SEy6KzO449oizOH5OZF1CE-c7gsJKJDo1AIo-S5uQ0c/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzRhNDZjZDkxLWVhOTktNGJiOC05Yzk0LWRiODdhNTZhMDFlNV8xNzg0MDMwNjUzX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-07-14T17:26+09:00",
-   "collected": "2026-07-15T09:06+09:00"
   }
  ]
 }

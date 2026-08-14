@@ -1,5 +1,18 @@
 [
  {
+  "id": "79b3e0eb7ab1",
+  "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
+  "title": "How Protolabs turns CAD files into parts in under 24 hours",
+  "summary": "Protolabs CTO Marc Kermisch explains how AI, simulation, and design for manufacturing turn CAD files into production par",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-257-featured.jpg",
+  "published": "2026-08-15T07:14+09:00",
+  "collected": "2026-08-15T07:56+09:00"
+ },
+ {
   "id": "c39dcf04f238",
   "url": "https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/",
   "title": "Neros Technologies raises $250M to deploy its defense drones by the end of 2026",
@@ -76,7 +89,7 @@
   "thumbnail": null,
   "published": "2026-08-14T18:26+09:00",
   "collected": "2026-08-15T06:34+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "8e1a257523b9",
