@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-15T06:34+09:00",
+  "last_updated": "2026-08-15T06:55+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -107,7 +107,20 @@
    "thumbnail": null,
    "published": "2026-08-14T18:26+09:00",
    "collected": "2026-08-15T06:34+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "8e1a257523b9",
+   "url": "https://newsdig.tbs.co.jp/articles/gallery/2751184",
+   "title": "ヒューマノイドロボットが“倉敷天領夏祭り”の「代官ばやし」踊りを披露 倉敷市のMASCが4体を導入【岡山】",
+   "summary": "ヒューマノイドロボットが“倉敷天領夏祭り”の「代官ばやし」踊りを披露　倉敷市のMASCが4体を導入【岡山】 | TBS NEWS DIGのフォトギャラリーです。",
+   "source": "TBS NEWS DIG",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/7/0/1200w/img_705f742cc9d4d575b917649525a240ad766828.jpg",
+   "published": "2026-08-14T16:30+09:00",
+   "collected": "2026-08-15T06:55+09:00"
   },
   {
    "id": "0d96829d6eb8",
@@ -6564,19 +6577,6 @@
    "expert": false,
    "thumbnail": "https://img.biggo.com/SEy6KzO449oizOH5OZF1CE-c7gsJKJDo1AIo-S5uQ0c/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzRhNDZjZDkxLWVhOTktNGJiOC05Yzk0LWRiODdhNTZhMDFlNV8xNzg0MDMwNjUzX2RlZmF1bHQuanBn.jpg",
    "published": "2026-07-14T17:26+09:00",
-   "collected": "2026-07-15T09:06+09:00"
-  },
-  {
-   "id": "05499f808bec",
-   "url": "https://businessnetwork.jp/article/35880/",
-   "title": "孫正義氏が予言「2040年に100兆個のAIエージェントと10億台のヒューマノイドロボットが稼働」",
-   "summary": "孫正義氏が2040年に100兆のAIエージェントと10億台のヒューマノイドロボットが稼働すると予測。",
-   "source": "ビジネスネットワーク",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://businessnetwork.jp/wp-content/uploads/2026/07/1-16.jpg",
-   "published": "2026-07-14T16:52+09:00",
    "collected": "2026-07-15T09:06+09:00"
   }
  ]
