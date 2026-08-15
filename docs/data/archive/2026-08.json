@@ -1,5 +1,57 @@
 [
  {
+  "id": "718622aec84a",
+  "url": "https://www.zaikei.co.jp/article/20260815/865953.html",
+  "title": "中国Puduが商用清掃ロボット世界首位、小型「ET1」投入も米FCC規制が米国展開を左右",
+  "summary": "Pudu Roboticsが商用清掃ロボ世界首位となり小型機ET1を発表した一方、米FCCの安保規制リスト追加で米国販売に制限が生じるなど、急成長市場における拡大と地政学リスクが交錯している。",
+  "source": "財経新聞",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "http://www.zaikei.co.jp/files/general/20260815230155C7R0big.png",
+  "published": "2026-08-15T23:01+09:00",
+  "collected": "2026-08-16T06:29+09:00"
+ },
+ {
+  "id": "db840bb60c09",
+  "url": "https://www.zaikei.co.jp/photo/865953.html",
+  "title": "[写真]中国Puduが商用清掃ロボット世界首位、小型「ET1」投入も米FCC規制が米国展開を左右",
+  "summary": "Pudu Roboticsが商用清掃ロボ世界首位となり小型機ET1を発表した一方、米FCCの安保規制リスト追加で米国販売に制限が生じるなど、急成長市場における拡大と地政学リスクが交錯している。",
+  "source": "財経新聞",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://www.zaikei.co.jp/files/general/20260815230155C7R0big.png",
+  "published": "2026-08-15T23:01+09:00",
+  "collected": "2026-08-16T06:29+09:00"
+ },
+ {
+  "id": "bcee69d49cc9",
+  "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+  "title": "Why robots that can’t communicate naturally won’t be adopted",
+  "summary": "Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the import",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/AdobeStock-humanoidrobot-featured.jpg",
+  "published": "2026-08-15T21:20+09:00",
+  "collected": "2026-08-16T06:29+09:00"
+ },
+ {
+  "id": "695a61bd36ee",
+  "url": "https://voi.id/ja/news/589785",
+  "title": "北京は高温の中、清掃から治安パトロールまで、警備ロボットを配備",
+  "summary": "中国の北京当局は、この夏の高温の中、さまざまな場所で14の都市公園にさまざまな能力を持つ72人のロボット「警官」を配置しました。",
+  "source": "VOI.ID",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://imgsrv2.voi.id/ekPKyrLxLGRMQjZqOfFWZpeqA5mUe8q34M6AbO_C7m0/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81ODk3ODUvMjAyNjA4MTUwOTQ2LW1haW4uY3JvcHBlZF8xNzg2NzYxOTg5LmpwZw.jpg",
+  "published": "2026-08-15T17:28+09:00",
+  "collected": "2026-08-16T06:29+09:00"
+ },
+ {
   "id": "79b3e0eb7ab1",
   "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
   "title": "How Protolabs turns CAD files into parts in under 24 hours",
@@ -11,6 +63,20 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-257-featured.jpg",
   "published": "2026-08-15T07:14+09:00",
   "collected": "2026-08-15T07:56+09:00"
+ },
+ {
+  "id": "5c8d02a01433",
+  "url": "https://finance.biggo.jp/news/d39725d6-be24-48c0-9430-96caf44278ac",
+  "title": "NVIDIAとLG、ヒューマノイドロボット・AI工場で「フィジカルAI」提携",
+  "summary": "NVIDIAとLG、ヒューマノイドロボット・AI工場で「フィジカルAI」提携    BigGo ファイナンス",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-08-15T03:15+09:00",
+  "collected": "2026-08-16T06:29+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "c39dcf04f238",
@@ -103,6 +169,19 @@
   "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/7/0/1200w/img_705f742cc9d4d575b917649525a240ad766828.jpg",
   "published": "2026-08-14T16:30+09:00",
   "collected": "2026-08-15T06:55+09:00"
+ },
+ {
+  "id": "721f915a09af",
+  "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L4N44B0CB:0/",
+  "title": "中国のヒューマノイドロボットメーカー「Unitree」、上海での華々しいデビューに向けて準備万端",
+  "summary": "Samuel Shen　Eduardo Baptista中国で最も注目を集めるヒューマノイドロボットメーカーであるUnitree（ (688836.SS)）は、来週上海証券取引所での上場において爆発的なデビューを飾ると広く予想されている。唯",
+  "source": "TradingView",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+  "published": "2026-08-14T14:54+09:00",
+  "collected": "2026-08-16T06:29+09:00"
  },
  {
   "id": "0d96829d6eb8",
@@ -547,6 +626,19 @@
   "published": "2026-08-12T16:12+09:00",
   "collected": "2026-08-13T06:55+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "3601f226438e",
+  "url": "https://dxmagazine.jp/news/2630ko104/",
+  "title": "IPAが「AIロボティクスに関するセーフティ評価観点ガイド」を公開！AIロボットの安全な社会実装を支援",
+  "summary": "AIセーフティ・インスティテュートと独立行政法人情報処理推進機構は、AIロボットの安全な社会実装に向け「AIロボティクスに関するセーフティ評価観点ガイド」を2026年7月23日に公開しました。対象は人と空間を共有し移動や対話、搬送を行うAI",
+  "source": "DXマガジン",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/06/戸田-ニュース-7.png",
+  "published": "2026-08-12T16:00+09:00",
+  "collected": "2026-08-16T06:29+09:00"
  },
  {
   "id": "772b902b4753",

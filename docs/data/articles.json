@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-15T08:29+09:00",
+  "last_updated": "2026-08-16T06:29+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -31,6 +31,58 @@
  },
  "items": [
   {
+   "id": "718622aec84a",
+   "url": "https://www.zaikei.co.jp/article/20260815/865953.html",
+   "title": "中国Puduが商用清掃ロボット世界首位、小型「ET1」投入も米FCC規制が米国展開を左右",
+   "summary": "Pudu Roboticsが商用清掃ロボ世界首位となり小型機ET1を発表した一方、米FCCの安保規制リスト追加で米国販売に制限が生じるなど、急成長市場における拡大と地政学リスクが交錯している。",
+   "source": "財経新聞",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "http://www.zaikei.co.jp/files/general/20260815230155C7R0big.png",
+   "published": "2026-08-15T23:01+09:00",
+   "collected": "2026-08-16T06:29+09:00"
+  },
+  {
+   "id": "db840bb60c09",
+   "url": "https://www.zaikei.co.jp/photo/865953.html",
+   "title": "[写真]中国Puduが商用清掃ロボット世界首位、小型「ET1」投入も米FCC規制が米国展開を左右",
+   "summary": "Pudu Roboticsが商用清掃ロボ世界首位となり小型機ET1を発表した一方、米FCCの安保規制リスト追加で米国販売に制限が生じるなど、急成長市場における拡大と地政学リスクが交錯している。",
+   "source": "財経新聞",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://www.zaikei.co.jp/files/general/20260815230155C7R0big.png",
+   "published": "2026-08-15T23:01+09:00",
+   "collected": "2026-08-16T06:29+09:00"
+  },
+  {
+   "id": "bcee69d49cc9",
+   "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/",
+   "title": "Why robots that can’t communicate naturally won’t be adopted",
+   "summary": "Gunnar Pétur Hauksson, the co-founder and COO at Treble Technologies, says robotics developers can't overlook the import",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/AdobeStock-humanoidrobot-featured.jpg",
+   "published": "2026-08-15T21:20+09:00",
+   "collected": "2026-08-16T06:29+09:00"
+  },
+  {
+   "id": "695a61bd36ee",
+   "url": "https://voi.id/ja/news/589785",
+   "title": "北京は高温の中、清掃から治安パトロールまで、警備ロボットを配備",
+   "summary": "中国の北京当局は、この夏の高温の中、さまざまな場所で14の都市公園にさまざまな能力を持つ72人のロボット「警官」を配置しました。",
+   "source": "VOI.ID",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://imgsrv2.voi.id/ekPKyrLxLGRMQjZqOfFWZpeqA5mUe8q34M6AbO_C7m0/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81ODk3ODUvMjAyNjA4MTUwOTQ2LW1haW4uY3JvcHBlZF8xNzg2NzYxOTg5LmpwZw.jpg",
+   "published": "2026-08-15T17:28+09:00",
+   "collected": "2026-08-16T06:29+09:00"
+  },
+  {
    "id": "79b3e0eb7ab1",
    "url": "https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/",
    "title": "How Protolabs turns CAD files into parts in under 24 hours",
@@ -42,6 +94,20 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-257-featured.jpg",
    "published": "2026-08-15T07:14+09:00",
    "collected": "2026-08-15T07:56+09:00"
+  },
+  {
+   "id": "5c8d02a01433",
+   "url": "https://finance.biggo.jp/news/d39725d6-be24-48c0-9430-96caf44278ac",
+   "title": "NVIDIAとLG、ヒューマノイドロボット・AI工場で「フィジカルAI」提携",
+   "summary": "NVIDIAとLG、ヒューマノイドロボット・AI工場で「フィジカルAI」提携    BigGo ファイナンス",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-15T03:15+09:00",
+   "collected": "2026-08-16T06:29+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "c39dcf04f238",
@@ -134,6 +200,19 @@
    "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/7/0/1200w/img_705f742cc9d4d575b917649525a240ad766828.jpg",
    "published": "2026-08-14T16:30+09:00",
    "collected": "2026-08-15T06:55+09:00"
+  },
+  {
+   "id": "721f915a09af",
+   "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L4N44B0CB:0/",
+   "title": "中国のヒューマノイドロボットメーカー「Unitree」、上海での華々しいデビューに向けて準備万端",
+   "summary": "Samuel Shen　Eduardo Baptista中国で最も注目を集めるヒューマノイドロボットメーカーであるUnitree（ (688836.SS)）は、来週上海証券取引所での上場において爆発的なデビューを飾ると広く予想されている。唯",
+   "source": "TradingView",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "published": "2026-08-14T14:54+09:00",
+   "collected": "2026-08-16T06:29+09:00"
   },
   {
    "id": "0d96829d6eb8",
@@ -578,6 +657,19 @@
    "published": "2026-08-12T16:12+09:00",
    "collected": "2026-08-13T06:55+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "3601f226438e",
+   "url": "https://dxmagazine.jp/news/2630ko104/",
+   "title": "IPAが「AIロボティクスに関するセーフティ評価観点ガイド」を公開！AIロボットの安全な社会実装を支援",
+   "summary": "AIセーフティ・インスティテュートと独立行政法人情報処理推進機構は、AIロボットの安全な社会実装に向け「AIロボティクスに関するセーフティ評価観点ガイド」を2026年7月23日に公開しました。対象は人と空間を共有し移動や対話、搬送を行うAI",
+   "source": "DXマガジン",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/06/戸田-ニュース-7.png",
+   "published": "2026-08-12T16:00+09:00",
+   "collected": "2026-08-16T06:29+09:00"
   },
   {
    "id": "772b902b4753",
@@ -6484,100 +6576,6 @@
    "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
    "published": "2026-07-15T15:06+09:00",
    "collected": "2026-07-15T15:37+09:00"
-  },
-  {
-   "id": "00449bd4e2fe",
-   "url": "https://robotstart.info/article/2026/07/15/382149.html",
-   "title": "矢崎総業、フィジカルAI・ヒューマノイドを活用する新拠点「Innovation Hub – REN(錬)」始動",
-   "summary": "矢崎総業が静岡県裾野市にフィジカルAIとヒューマノイドを活用した次世代スマートファクトリーの拠点「Innovation Hub – REN」を設置し、自働化の検証や産学連携による研究開発を開始。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/104666.jpg",
-   "published": "2026-07-15T13:45+09:00",
-   "collected": "2026-07-15T15:02+09:00"
-  },
-  {
-   "id": "2116593ac60f",
-   "url": "https://nikkantb.com/metal/374523/",
-   "title": "未来機械、太陽光パネル清掃ロボで実証事業",
-   "summary": "未来機械が太陽光パネル清掃ロボットの実証事業を開始。",
-   "source": "日刊タイビジネス",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-15T07:03+09:00",
-   "collected": "2026-07-15T15:02+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "d60e1350887d",
-   "url": "https://www.businessinsider.jp/article/2607-humanoid-robot-hand-1x/",
-   "title": "お茶汲み、USB挿入、ジッパー開閉までこなす。1Xの「人間レベルの器用さ」を持つ新型ロボットハンドの全貌",
-   "summary": "1Xが新型ロボットハンドを発表。お茶汲みやUSB挿入、ジッパー開閉など人間レベルの器用さを実現。",
-   "source": "Business Insider Japan",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.loom-app.com/loom/2026/07/13/7490f479-f8f4-46f8-afb3-3cfcc5fda33c/original.jpg?w=1200&h=630",
-   "published": "2026-07-15T07:00+09:00",
-   "collected": "2026-07-15T15:02+09:00"
-  },
-  {
-   "id": "890bd93e0a19",
-   "url": "https://www.therobotreport.com/key-to-humanoid-progress-managing-the-power-behind-the-robots/",
-   "title": "Key to Humanoid Progress: Managing the Power Behind the Robots",
-   "summary": "Murata Power Solutionsがロボットの電力管理について解説。バッテリーからアクチュエーターへの電力供給の重要性を強調。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-15T06:38+09:00",
-   "collected": "2026-07-15T09:06+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "de660726134e",
-   "url": "https://www.therobotreport.com/nvidia-shares-how-evaluate-general-purpose-robot-policies-real-world-deployment/",
-   "title": "NVIDIA shares how to evaluate general-purpose robot policies for real-world deployment",
-   "summary": "NVIDIAが一般的なロボットポリシーの評価方法を発表。オープンソースのシミュレーションフレームワークを利用。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/nvidiastory-featured.jpg",
-   "published": "2026-07-15T05:08+09:00",
-   "collected": "2026-07-15T09:06+09:00"
-  },
-  {
-   "id": "c62502cf00c2",
-   "url": "https://built.itmedia.co.jp/bt/articles/2607/14/news106.html",
-   "title": "日本の住宅環境を研究し、清掃の死角ゼロへ 吸引力3倍と強力な拭き取り能力の新ルンバ：製品動向",
-   "summary": "新型ルンバが吸引力3倍と強力な拭き取り能力を持ち、日本の住宅環境に対応。",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://image.itmedia.co.jp/bt/articles/2607/14/l_is202600629irobot044.jpg",
-   "published": "2026-07-14T18:15+09:00",
-   "collected": "2026-07-15T09:06+09:00"
-  },
-  {
-   "id": "e78e6b307180",
-   "url": "https://www.startyourengines.net/pressrelease/438100/",
-   "title": "自律走行ロボットなど8種類のソリューション、TOYOROBOが紹介へ…TECHNO‐FRONTIER 2026",
-   "summary": "TOYOROBOが自律走行ロボットなど8種類のソリューションをTECHNO‐FRONTIER 2026で紹介予定。",
-   "source": "startyourengines.net",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-14T18:04+09:00",
-   "collected": "2026-07-15T09:06+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
