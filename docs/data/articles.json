@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-16T08:28+09:00",
+  "last_updated": "2026-08-17T06:28+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,84 @@
   ]
  },
  "items": [
+  {
+   "id": "cd0b50d594bd",
+   "url": "https://txbiz.tv-tokyo.co.jp/original2/vod/post_346140",
+   "title": "ムーンショットAI「Kimi K3」を使ってみた/世界最大級のAI大会を現地ルポ！｜中国発",
+   "summary": "「2026世界人工知能（AI）大会」が7月17～20日に中国・上海市で開催された。9回目の今回は1100社以上が出展し、習近平国家主席が初めて現地入り。注目はこのイベントに合わせて公開されたムーンショットAIの「Kimi K3」。オープンA",
+   "source": "txbiz.tv-tokyo.co.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/original2/20260815_original2_txbizall02_b08de4ff73a22ae3_9.jpg",
+   "published": "2026-08-17T02:24+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
+  {
+   "id": "52f698f1ec5a",
+   "url": "https://note.com/zhenren63/n/ndd3f9bb8f62c",
+   "title": "なぜ中国ではロボットを「4S店」で売るのか。北京・深圳・武漢で広がる“ロボット版ディーラー”",
+   "summary": "なぜ中国ではロボットを「4S店」で売るのか。北京・深圳・武漢で広がる“ロボット版ディーラー”    note.com",
+   "source": "note.com",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/304186958/rectangle_large_type_2_0399ef1c82e1d76e1523bdd4dad9021d.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-08-16T23:53+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
+  {
+   "id": "d6573c7cc21f",
+   "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
+   "title": "How robotics is revolutionizing stroke rehabilitation",
+   "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improv",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/bioixtreme-plaxtreme-featured.jpg",
+   "published": "2026-08-16T21:30+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
+  {
+   "id": "17cef8587687",
+   "url": "https://www.vietnam.vn/ja/robot-hut-bui-the-he-moi-co-the-lam-duoc-nhung-gi",
+   "title": "次世代のロボット掃除機には、どのような機能が搭載されるのでしょうか？",
+   "summary": "多くの新型ロボット掃除機は、従来の日常的な掃除機がけや水拭きといった機能をはるかに超える機能を備えている。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/16/1786871097895_1-17840408937901787064308-22-0-430-780-crop-1784040913052429545236.jpeg",
+   "published": "2026-08-16T19:06+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
+  {
+   "id": "716f991c0f69",
+   "url": "https://news.yahoo.co.jp/articles/a15d9ff21895c7d3b1dc7a7a9a6bf1fb49594df9",
+   "title": "「これではロシアや中国に置いていかれる」 殺人もいとわない「軍用ロボット兵士」の必要性を主張する米企業（クーリエ・ジャポン）",
+   "summary": "AIやロボティクス技術が飛躍的な進化を遂げるなか、戦争の形態は歴史的な転換期を迎えようとしている。かつて映画やSF小説に描かれていた「戦場を闊歩する人型の殺人ロボット兵士」が、現実の軍事戦略の表舞台",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00000010-courrier-000-2-view.jpg?exp=10800",
+   "published": "2026-08-16T18:57+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
+  {
+   "id": "5a9f0772331b",
+   "url": "https://www.atpress.ne.jp/news/9714514",
+   "title": "ヒューマノイドロボット用スプリングの世界市場（2026年～2032年）、市場規模（引張ばね、圧縮ばね、ねじりばね、波ばね、皿ばね、スナップリング）・分析レポートを発表",
+   "summary": "株式会社マーケットリサーチセンターのプレスリリース:ヒューマノイドロボット用スプリングの世界市場（2026年～2032年）、市場規模（引張ばね、圧縮ばね、ねじりばね、波ばね、皿ばね、スナップリング）・分析レポートを発表",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/AO5qJLntANBCFPYuZA6x.png",
+   "published": "2026-08-16T16:30+09:00",
+   "collected": "2026-08-17T06:28+09:00"
+  },
   {
    "id": "718622aec84a",
    "url": "https://www.zaikei.co.jp/article/20260815/865953.html",
@@ -6497,84 +6575,6 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/agilityrobotics-featured.jpg",
    "published": "2026-07-16T03:58+09:00",
    "collected": "2026-07-16T09:14+09:00"
-  },
-  {
-   "id": "c5133fff8244",
-   "url": "https://www.therobotreport.com/vicarious-surgical-board-seeks-to-dissolve-company/",
-   "title": "Vicarious Surgical board seeks to dissolve company",
-   "summary": "Vicarious Surgicalの取締役会が会社の解散を提案。株主総会での承認を求める。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/vicarious-surgical.jpg",
-   "published": "2026-07-16T03:43+09:00",
-   "collected": "2026-07-16T09:14+09:00"
-  },
-  {
-   "id": "68713a479fb4",
-   "url": "https://www.therobotreport.com/icarus-robotics-uses-kulr-technology-to-power-joy-free-flying-space-robot/",
-   "title": "Icarus Robotics uses KULR technology to power JOY free-flying space robot",
-   "summary": "Icarus RoboticsがKULRの技術を使用し、国際宇宙ステーション向けの自由飛行ロボットJOYを開発。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/icarus-featured.jpg",
-   "published": "2026-07-16T03:10+09:00",
-   "collected": "2026-07-16T09:14+09:00"
-  },
-  {
-   "id": "b9bc70c446ac",
-   "url": "https://newsclip.be/thai-news/thai-economy/39540",
-   "title": "ロボット開発の未来機械、タイとシンガポールで太陽光パネル清掃ロボットを実証",
-   "summary": "未来機械がタイとシンガポールで太陽光パネル清掃ロボットの運用モデルを実証。経済産業省の補助金を受ける。",
-   "source": "newsclip.be",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://newsclip.be/wp-content/uploads/2026/07/mirai-20260714-002.jpg",
-   "published": "2026-07-16T00:07+09:00",
-   "collected": "2026-07-16T09:14+09:00"
-  },
-  {
-   "id": "2bbc1915234f",
-   "url": "https://robotstart.info/article/2026/07/15/382154.html",
-   "title": "ヒューマノイド向けAI脳「COSA 0.5」をLimX Dynamicsが公開 遠隔操作なしで完全自律動作する新映像",
-   "summary": "LimX Dynamicsがヒューマノイド向けAI脳「COSA 0.5」を公開。完全自律動作の映像を発表。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/104697.jpg",
-   "published": "2026-07-15T18:30+09:00",
-   "collected": "2026-07-16T09:14+09:00"
-  },
-  {
-   "id": "2b216ed2b3c3",
-   "url": "https://finance.biggo.jp/news/b97a7e6a-753e-4c8e-ae6c-1eb1afe55fb2",
-   "title": "Roborock、ライブコマース取引額330億ウォン突破…Samsung Electronicsの6倍の効率で「圧倒的1位」",
-   "summary": "Roborockがライブコマース取引額330億ウォンを突破し、Samsung Electronicsの6倍の効率で圧倒的1位を達成。",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/9LZne19vgykZ45VfvFvFnb55X48LI1EPLOJ0jf2rYt4/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2I5N2E3ZTZhLTc1M2UtNGM4ZS1hZTZjLTFlYjFhZmU1NWZiMl8xNzg0MDk3NDQyX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-07-15T15:27+09:00",
-   "collected": "2026-07-15T16:23+09:00"
-  },
-  {
-   "id": "255281f1981b",
-   "url": "https://www.atpress.ne.jp/news/3199013",
-   "title": "ヒューマノイドロボット市場：提供形態、動作タイプ、自律性の程度、動力源、用途、販売チャネル別―2026年～2032年の世界市場予測",
-   "summary": "ヒューマノイドロボット市場に関する調査レポートが発表され、2026年から2032年までの市場予測が示された。提供形態、動作タイプ、自律性、動力源、用途、販売チャネル別に分析されている。",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
-   "published": "2026-07-15T15:06+09:00",
-   "collected": "2026-07-15T15:37+09:00"
   }
  ]
 }
