@@ -1,5 +1,18 @@
 [
  {
+  "id": "024059f2be7e",
+  "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
+  "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
+  "summary": "Diligent is now rolling out Moxi 2.0 to health systems including Endeavor Health Edward Hospital and Children’s Hospital",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Moxi-Render-View-featured.jpg",
+  "published": "2026-08-18T06:15+09:00",
+  "collected": "2026-08-18T06:56+09:00"
+ },
+ {
   "id": "38ca6063019d",
   "url": "https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/",
   "title": "Surgeons use da Vinci surgical robot to perform common cardiac surgery",
@@ -63,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-08-17T21:38+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7860cb6a48d7",
@@ -90,7 +103,7 @@
   "thumbnail": null,
   "published": "2026-08-17T19:18+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "18102d265cdc",
@@ -117,6 +130,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/105580.png",
   "published": "2026-08-17T17:48+09:00",
   "collected": "2026-08-18T06:33+09:00"
+ },
+ {
+  "id": "c7df1c06c276",
+  "url": "https://innovatopia.jp/robot/robot-news/116172/",
+  "title": "LG、NVIDIA Isaac GR00T採用の次世代ヒューマノイドを開発｜工場・データ・AI基盤をつなぐPhysical AI戦略",
+  "summary": "LGがNVIDIA Isaac GR00Tを活用した次世代ヒューマノイドを開発します。注目点はロボット本体だけではありません。CLOiDの工場投入、PhysicalWorksによるデータ収集・学習、AI Factoryまでをつなぎ、Phys",
+  "source": "innovatopia.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://innovatopia.jp/wp-content/uploads/2026/08/lg-nvidia-humanoid-physical-ai-factory.jpg",
+  "published": "2026-08-17T17:43+09:00",
+  "collected": "2026-08-18T06:56+09:00"
  },
  {
   "id": "83d8a97d30da",
@@ -156,7 +182,7 @@
   "thumbnail": null,
   "published": "2026-08-17T15:00+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "594fbdf3ed5a",
@@ -183,7 +209,7 @@
   "thumbnail": null,
   "published": "2026-08-17T14:15+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "af33c8c659c5",
@@ -197,7 +223,7 @@
   "thumbnail": null,
   "published": "2026-08-17T13:57+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "eb4485d28771",
@@ -211,7 +237,7 @@
   "thumbnail": null,
   "published": "2026-08-17T12:00+09:00",
   "collected": "2026-08-18T06:33+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "cd0b50d594bd",
@@ -342,6 +368,19 @@
   "thumbnail": "https://imgsrv2.voi.id/ekPKyrLxLGRMQjZqOfFWZpeqA5mUe8q34M6AbO_C7m0/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81ODk3ODUvMjAyNjA4MTUwOTQ2LW1haW4uY3JvcHBlZF8xNzg2NzYxOTg5LmpwZw.jpg",
   "published": "2026-08-15T17:28+09:00",
   "collected": "2026-08-16T06:29+09:00"
+ },
+ {
+  "id": "46248174b039",
+  "url": "https://newscast.jp/news/2755360",
+  "title": "【名城大学】高校生が最先端ロボット研究に触れる 愛知県主催の「サイエンス実践塾体験研究室」で大原教授が講義と研究室を公開",
+  "summary": "【名城大学】高校生が最先端ロボット研究に触れる 愛知県主催の「サイエンス実践塾体験研究室」で大原教授が講義と研究室を公開    Newscast.jp",
+  "source": "Newscast.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.atpress.ne.jp/attachments/iYyx4fBumeYaLqZiewwv.jpg",
+  "published": "2026-08-15T08:00+09:00",
+  "collected": "2026-08-18T06:56+09:00"
  },
  {
   "id": "79b3e0eb7ab1",
