@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-18T07:56+09:00",
+  "last_updated": "2026-08-18T08:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -213,6 +213,19 @@
    "thumbnail": "https://image.news.livedoor.com/newsimage/stf/c/d/cdc14_1863_de1967c1_e5d94860.png",
    "published": "2026-08-17T17:30+09:00",
    "collected": "2026-08-18T06:33+09:00"
+  },
+  {
+   "id": "7476657e5e38",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/",
+   "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も 中国Unitreeが開発中の新モデルを公開",
+   "summary": "ロボット開発企業の中国Unitree Roboticsは、開発中の新型ヒューマノイドのデモ動画を公開した。助走なしで高さ2mのジャンプをしたほか、最高で秒速12.66m（時速45.576km）で走る姿を披露した。（1/2 ページ）",
+   "source": "ITmedia",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/17/2000000567/10002815/2048",
+   "published": "2026-08-17T16:58+09:00",
+   "collected": "2026-08-18T08:30+09:00"
   },
   {
    "id": "06a5509f54d9",
@@ -6564,20 +6577,6 @@
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/newscn/m_newscn-J000168_20260716_CBMFN0.jpg",
    "published": "2026-07-16T18:48+09:00",
    "collected": "2026-07-17T07:34+09:00"
-  },
-  {
-   "id": "cf3f96c99f6a",
-   "url": "https://chinanews.jp/archives/35383",
-   "title": "中国、職業教育に27の新専攻を新設 ヒューマノイドロボットや水素エネルギー分野を強化",
-   "summary": "中国が職業教育に27の新専攻を新設し、ヒューマノイドロボット分野を強化。",
-   "source": "中国経済新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-16T17:30+09:00",
-   "collected": "2026-07-17T07:34+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
