@@ -1,5 +1,18 @@
 [
  {
+  "id": "72caa7c253bb",
+  "url": "https://ascii.jp/elem/000/004/416/4416770/",
+  "title": "ロボットは“空気を読む”ようになれるのか。VivaTechで見たヒューマノイドの進化",
+  "summary": "VivaTech 2026のセッション「AI Gets a Body: The Age of Humanoid Robots」では、中国・上海発のロボティクス企業AgiBotの第2世代ヒューマノイドロボット「Agibot X2」がステージに",
+  "source": "ASCII.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://ascii.jp/img/2026/07/07/4496208/xl/ae4141bcdf10a71b.jpg",
+  "published": "2026-08-19T07:00+09:00",
+  "collected": "2026-08-19T07:57+09:00"
+ },
+ {
   "id": "b6cc35aad30b",
   "url": "https://senken.co.jp/posts/geekplus-260819",
   "title": "物流ロボットのギークプラス 人型ロボット「ジーノ」公開へ",
@@ -37,7 +50,7 @@
   "thumbnail": null,
   "published": "2026-08-19T04:25+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b4d8db3270e8",
@@ -51,7 +64,7 @@
   "thumbnail": null,
   "published": "2026-08-19T04:25+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "04a7a72fea6f",
@@ -208,7 +221,7 @@
   "thumbnail": null,
   "published": "2026-08-18T11:15+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "407fcf7ba7ad",

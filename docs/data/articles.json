@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-19T06:54+09:00",
+  "last_updated": "2026-08-19T07:57+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "72caa7c253bb",
+   "url": "https://ascii.jp/elem/000/004/416/4416770/",
+   "title": "ロボットは“空気を読む”ようになれるのか。VivaTechで見たヒューマノイドの進化",
+   "summary": "VivaTech 2026のセッション「AI Gets a Body: The Age of Humanoid Robots」では、中国・上海発のロボティクス企業AgiBotの第2世代ヒューマノイドロボット「Agibot X2」がステージに",
+   "source": "ASCII.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ascii.jp/img/2026/07/07/4496208/xl/ae4141bcdf10a71b.jpg",
+   "published": "2026-08-19T07:00+09:00",
+   "collected": "2026-08-19T07:57+09:00"
+  },
   {
    "id": "b6cc35aad30b",
    "url": "https://senken.co.jp/posts/geekplus-260819",
@@ -68,7 +81,7 @@
    "thumbnail": null,
    "published": "2026-08-19T04:25+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b4d8db3270e8",
@@ -82,7 +95,7 @@
    "thumbnail": null,
    "published": "2026-08-19T04:25+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "04a7a72fea6f",
@@ -239,7 +252,7 @@
    "thumbnail": null,
    "published": "2026-08-18T11:15+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "407fcf7ba7ad",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RLtvctIw3yQ6qe4GwDV8jITZYJWIGfgm0F-ljx6T20nNj8KT0vDBzdOwp620Y2G0Sz9LDZMkqpeuRXSqJjyHlUumjczgp9mY6Yg17vcahGR-",
    "published": "2026-07-17T10:16+09:00",
    "collected": "2026-07-18T07:01+09:00"
-  },
-  {
-   "id": "facd23d2c485",
-   "url": "https://ascii.jp/elem/000/004/420/4420369/",
-   "title": "吸引力4倍の最強のロボット掃除機「Roomba Max」発表!!＝水拭きあり/なしの2モデル",
-   "summary": "吸引力が4倍のロボット掃除機「Roomba Max」が発表され、水拭きモデルも含む2種類が登場。",
-   "source": "ASCII.jp",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://ascii.jp/img/2026/07/16/4501879/xl/5a715023542194ef.jpg?20200122",
-   "published": "2026-07-17T10:01+09:00",
-   "collected": "2026-07-19T06:58+09:00"
   }
  ]
 }
