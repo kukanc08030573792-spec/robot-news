@@ -37,7 +37,7 @@
   "thumbnail": null,
   "published": "2026-08-19T04:25+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b4d8db3270e8",
@@ -51,7 +51,7 @@
   "thumbnail": null,
   "published": "2026-08-19T04:25+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "04a7a72fea6f",
@@ -132,6 +132,19 @@
   "collected": "2026-08-19T06:32+09:00"
  },
  {
+  "id": "10664f6aad38",
+  "url": "https://note.com/qy_research/n/nd909160fb544",
+  "title": "世界のロボット保険市場規模、2026年187百万米ドルから2032年711百万米ドルへ拡大｜QYResearch",
+  "summary": "QYResearchはロボット保険市場の動向を継続的に追跡しています。産業用ロボット、物流ロボット、医療ロボット、人型ロボット、四足ロボット、サービスロボットの導入が製造、倉庫、医療、商業、公共サービスの各分野で拡大するなか、ロボット保険は",
+  "source": "note",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/304664605/rectangle_large_type_2_25bdf3810a8d10ea195f48c02909dfcd.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-08-18T14:58+09:00",
+  "collected": "2026-08-19T06:54+09:00"
+ },
+ {
   "id": "943e8b310a40",
   "url": "https://www.jiji.com/jc/article?k=000000018.000158245&g=prt",
   "title": "Pudu Robotics、AIネイティブパレット搬送ロボット「PUDU MP2000」を発表：時事ドットコム",
@@ -195,7 +208,7 @@
   "thumbnail": null,
   "published": "2026-08-18T11:15+09:00",
   "collected": "2026-08-19T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "407fcf7ba7ad",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-19T06:32+09:00",
+  "last_updated": "2026-08-19T06:54+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -68,7 +68,7 @@
    "thumbnail": null,
    "published": "2026-08-19T04:25+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b4d8db3270e8",
@@ -82,7 +82,7 @@
    "thumbnail": null,
    "published": "2026-08-19T04:25+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "04a7a72fea6f",
@@ -163,6 +163,19 @@
    "collected": "2026-08-19T06:32+09:00"
   },
   {
+   "id": "10664f6aad38",
+   "url": "https://note.com/qy_research/n/nd909160fb544",
+   "title": "世界のロボット保険市場規模、2026年187百万米ドルから2032年711百万米ドルへ拡大｜QYResearch",
+   "summary": "QYResearchはロボット保険市場の動向を継続的に追跡しています。産業用ロボット、物流ロボット、医療ロボット、人型ロボット、四足ロボット、サービスロボットの導入が製造、倉庫、医療、商業、公共サービスの各分野で拡大するなか、ロボット保険は",
+   "source": "note",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/304664605/rectangle_large_type_2_25bdf3810a8d10ea195f48c02909dfcd.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-08-18T14:58+09:00",
+   "collected": "2026-08-19T06:54+09:00"
+  },
+  {
    "id": "943e8b310a40",
    "url": "https://www.jiji.com/jc/article?k=000000018.000158245&g=prt",
    "title": "Pudu Robotics、AIネイティブパレット搬送ロボット「PUDU MP2000」を発表：時事ドットコム",
@@ -226,7 +239,7 @@
    "thumbnail": null,
    "published": "2026-08-18T11:15+09:00",
    "collected": "2026-08-19T06:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "407fcf7ba7ad",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://ascii.jp/img/2026/07/16/4501879/xl/5a715023542194ef.jpg?20200122",
    "published": "2026-07-17T10:01+09:00",
    "collected": "2026-07-19T06:58+09:00"
-  },
-  {
-   "id": "032f30f0933e",
-   "url": "https://news.yahoo.co.jp/articles/29e66ba3f95a866d3cfde53e57433f29e6f5f3b7",
-   "title": "吸引力4倍の最強のロボット掃除機「Roomba Max」発表!!＝水拭きあり/なしの2モデル（アスキー）",
-   "summary": "アイロボットジャパンがロボット掃除機「Roomba Max 775 Combo」と「Roomba Max 715 Vac」を発表。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260717-00000008-ascii-000-1-view.jpg?exp=10800",
-   "published": "2026-07-17T10:01+09:00",
-   "collected": "2026-07-18T07:01+09:00"
   }
  ]
 }
