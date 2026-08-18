@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-19T07:57+09:00",
+  "last_updated": "2026-08-19T08:29+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "ebda96d3cd25",
+   "url": "https://36kr.jp/500288/",
+   "title": "いきなりヒト型は作らない 「手のあるロボット犬」から攻める中国Vbotの戦略",
+   "summary": "人型ロボットを作る前に、まずロボット犬に「手」をつける。 中国で人型ロボット（ヒューマノイド）への投資が過熱す",
+   "source": "36kr.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36kr.jp/uploads/2026/08/20260810101418641901.webp",
+   "published": "2026-08-19T08:02+09:00",
+   "collected": "2026-08-19T08:29+09:00"
+  },
   {
    "id": "72caa7c253bb",
    "url": "https://ascii.jp/elem/000/004/416/4416770/",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/17/1784250932918_china-edu.png",
    "published": "2026-07-17T11:00+09:00",
    "collected": "2026-07-17T15:04+09:00"
-  },
-  {
-   "id": "4e1efab7cbe0",
-   "url": "https://news.yahoo.co.jp/articles/92385d2a7adaaaf4a913d12c731bd29a4bca9f6f/images/000",
-   "title": "日常適応に入ったロボット…宅配練習をする「Spot」、出勤を準備する「アトラス」 (中央日報日本語版)",
-   "summary": "ロボット「Spot」が宅配練習、「アトラス」が出勤準備を行う日常適応に入った。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3j2Xc-_ypRo_MbDt6ekL9RLtvctIw3yQ6qe4GwDV8jITZYJWIGfgm0F-ljx6T20nNj8KT0vDBzdOwp620Y2G0Sz9LDZMkqpeuRXSqJjyHlUumjczgp9mY6Yg17vcahGR-",
-   "published": "2026-07-17T10:16+09:00",
-   "collected": "2026-07-18T07:01+09:00"
   }
  ]
 }
