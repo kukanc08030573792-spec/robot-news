@@ -1,5 +1,18 @@
 [
  {
+  "id": "41d8f069724c",
+  "url": "https://wired.jp/article/sz-google-gemini-can-control-humanoid-robots/",
+  "title": "Geminiが自律歩行ヒューマノイドになる日",
+  "summary": "「フィジカルAGI」に向けて大きな飛躍を遂げたGoogle DeepMindの最新版AIモデル。だがAIを現実世界に投入することには、リスクも伴う。",
+  "source": "WIRED.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.wired.jp/photos/6a7ff3631cf81a35b8b4ce8c/16:9/w_1280,c_limit/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg",
+  "published": "2026-08-20T07:00+09:00",
+  "collected": "2026-08-20T07:57+09:00"
+ },
+ {
   "id": "e1c1bda750d3",
   "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
   "title": "Kollmorgen to give a joint-by-joint guide to humanoid motion at RoboBusiness",
@@ -89,7 +102,7 @@
   "thumbnail": null,
   "published": "2026-08-19T21:57+09:00",
   "collected": "2026-08-20T06:33+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3bc28eaef20f",
@@ -339,7 +352,7 @@
   "thumbnail": null,
   "published": "2026-08-18T21:45+09:00",
   "collected": "2026-08-20T06:33+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "27691b1b2348",

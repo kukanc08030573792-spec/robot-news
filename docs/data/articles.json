@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-20T06:56+09:00",
+  "last_updated": "2026-08-20T07:57+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "41d8f069724c",
+   "url": "https://wired.jp/article/sz-google-gemini-can-control-humanoid-robots/",
+   "title": "Geminiが自律歩行ヒューマノイドになる日",
+   "summary": "「フィジカルAGI」に向けて大きな飛躍を遂げたGoogle DeepMindの最新版AIモデル。だがAIを現実世界に投入することには、リスクも伴う。",
+   "source": "WIRED.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.wired.jp/photos/6a7ff3631cf81a35b8b4ce8c/16:9/w_1280,c_limit/Google-Trying-to-Bring-AI-Into-Physical-World-Business.jpg",
+   "published": "2026-08-20T07:00+09:00",
+   "collected": "2026-08-20T07:57+09:00"
+  },
   {
    "id": "e1c1bda750d3",
    "url": "https://www.therobotreport.com/kollmorgen-give-joint-by-joint-guide-humanoid-motion-robobusiness/",
@@ -120,7 +133,7 @@
    "thumbnail": null,
    "published": "2026-08-19T21:57+09:00",
    "collected": "2026-08-20T06:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3bc28eaef20f",
@@ -370,7 +383,7 @@
    "thumbnail": null,
    "published": "2026-08-18T21:45+09:00",
    "collected": "2026-08-20T06:33+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "27691b1b2348",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/weave-isaac-1-featured.jpg",
    "published": "2026-07-18T02:35+09:00",
    "collected": "2026-07-18T07:01+09:00"
-  },
-  {
-   "id": "badecbe0ceaf",
-   "url": "https://japanese.cri.cn/2026/07/18/ARTI1784358698150435",
-   "title": "国家・地方共同設立のヒューマノイドロボット・イノベーションセンターの試作・試験用公共サービスプラットフォームが稼働開始",
-   "summary": "国家・地方共同設立のヒューマノイドロボット・イノベーションセンターが公共サービスプラットフォームの稼働を開始。",
-   "source": "CGTN Japanese",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://38picres.cgtn.com/photoAlbum/page/performance/img/2026/7/18/1784368554892_932.jpg",
-   "published": "2026-07-18T01:21+09:00",
-   "collected": "2026-07-19T06:58+09:00"
   }
  ]
 }
