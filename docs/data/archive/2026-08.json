@@ -1,5 +1,18 @@
 [
  {
+  "id": "352832ccbca2",
+  "url": "https://www.therobotreport.com/amazon-plans-expand-prime-air-nearly-500-cities-by-end-2026/",
+  "title": "Amazon plans to expand Prime Air to nearly 500 cities by the end of 2026",
+  "summary": "Amazon said its Prime Air drones can deliver nearly all items 5 lb. or less that can fit in a large shoebox. The post Am",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/amazon-prime-air.jpg",
+  "published": "2026-08-21T06:32+09:00",
+  "collected": "2026-08-21T06:58+09:00"
+ },
+ {
   "id": "f3e29f2ba2ef",
   "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news049.html",
   "title": "NSK、国産ヒューマノイド部品の共同検証／データ収集でスタートアップと提携：FAニュース",
@@ -180,7 +193,7 @@
   "thumbnail": null,
   "published": "2026-08-20T12:30+09:00",
   "collected": "2026-08-21T06:36+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "bb35b8590f13",
