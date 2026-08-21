@@ -102,7 +102,7 @@
   "thumbnail": null,
   "published": "2026-08-21T18:51+09:00",
   "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "fcf7253e5e88",
@@ -113,10 +113,9 @@
   "type": "article",
   "category": "general",
   "expert": false,
-  "thumbnail": null,
+  "thumbnail": "https://img.biggo.com/0jYhgrvn4hD-TI8Uk_8LQwrHWTkBg-7P-Vhhgc18pmA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4Lzk1ZDZlZGJjLTc4ODQtNGQ5NC05NzcyLTRjZGE4ZDllYmQ5N18xNzg3MzA0NzIyX2RlZmF1bHQuanBn.jpg",
   "published": "2026-08-21T18:25+09:00",
-  "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-08-22T06:32+09:00"
  },
  {
   "id": "fc87cee71fdc",
@@ -130,7 +129,7 @@
   "thumbnail": null,
   "published": "2026-08-21T17:45+09:00",
   "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "799015e81a69",
@@ -146,6 +145,19 @@
   "collected": "2026-08-22T06:32+09:00"
  },
  {
+  "id": "4174438c387a",
+  "url": "https://robotstart.info/article/2026/08/21/382303.html",
+  "title": "GMO AIR、北京開催「第2回世界人型ロボット運動会」への出場を発表 駅伝選手の走りを学習したヒューマノイドで世界一目指す",
+  "summary": "GMO AI＆ロボティクス商事は、2026年8月22日から26日に中国・北京で開催される「第2回世界人型ロボット運動会」への出場を発表した。同社は公式SNSアカウントを通じて挑戦の開始を告知し、今後は本番に向けた取り組みを継続的に発信してい",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/105727.jpg",
+  "published": "2026-08-21T16:40+09:00",
+  "collected": "2026-08-22T06:57+09:00"
+ },
+ {
   "id": "77d432cc4d7c",
   "url": "https://finance.biggo.jp/news/76c46227-41d7-485a-8577-1c3e43c678d7",
   "title": "中国Dreame、ロボット掃除機から生活家電へ全方位拡大…韓国データセンターへ移転",
@@ -154,10 +166,9 @@
   "type": "article",
   "category": "general",
   "expert": false,
-  "thumbnail": null,
+  "thumbnail": "https://img.biggo.com/b9ARFns3WRfNJ-tzknrNcpJOg_akCgEPeNC22vHNX_o/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4Lzc2YzQ2MjI3LTQxZDctNDg1YS04NTc3LTFjM2U0M2M2NzhkN18xNzg3Mjk4NDQ0X2RlZmF1bHQuanBn.jpg",
   "published": "2026-08-21T16:36+09:00",
-  "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-08-22T06:32+09:00"
  },
  {
   "id": "54b708f620d5",
@@ -184,7 +195,7 @@
   "thumbnail": null,
   "published": "2026-08-21T16:00+09:00",
   "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6c6435357eb0",
@@ -198,7 +209,7 @@
   "thumbnail": null,
   "published": "2026-08-21T15:31+09:00",
   "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7fc6374aae26",
@@ -225,7 +236,7 @@
   "thumbnail": null,
   "published": "2026-08-21T11:04+09:00",
   "collected": "2026-08-22T06:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1b7661662f0c",
