@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-22T07:57+09:00",
+  "last_updated": "2026-08-22T08:31+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -241,6 +241,19 @@
    "published": "2026-08-21T15:31+09:00",
    "collected": "2026-08-22T06:32+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "c964d156e4ae",
+   "url": "https://article.auone.jp/b5c384f0-aab0-4aea-82e1-19fbb611a49d",
+   "title": "UBTECH、ヒューマノイド4機種を「WRC2026」で披露 接客・物流・製造・生活など場面ごとの活用用途を紹介",
+   "summary": "UBTECH、ヒューマノイド4機種を「WRC2026」で披露 接客・物流・製造・生活など場面ごとの活用用途を紹介UBTECHは2026年8月20日、2026年8月19日から23日にかけて北京亦創国際会",
+   "source": "au Webポータル",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/21/https___news_jp_i_1463402374452740323.jpg",
+   "published": "2026-08-21T15:25+09:00",
+   "collected": "2026-08-22T08:31+09:00"
   },
   {
    "id": "7fc6374aae26",
@@ -6560,19 +6573,6 @@
    "expert": false,
    "thumbnail": "/uploads/article_image/image_with_caption/14550137/20260722_cny_gausium1_w.jpg",
    "published": "2026-07-22T00:00+09:00",
-   "collected": "2026-07-22T07:09+09:00"
-  },
-  {
-   "id": "8db167626c75",
-   "url": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
-   "title": "Friction is key to making better robot world models",
-   "summary": "ロボットシステムにおける世界モデルの展開には、モデル自体よりも重要な条件付けが必要であることが指摘された。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/contactile-featured.jpg",
-   "published": "2026-07-21T21:19+09:00",
    "collected": "2026-07-22T07:09+09:00"
   }
  ]
