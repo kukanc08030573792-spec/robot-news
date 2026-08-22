@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-23T06:29+09:00",
+  "last_updated": "2026-08-23T06:54+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -685,6 +685,19 @@
    "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202608/694275_642144_1049.jpg",
    "published": "2026-08-20T11:33+09:00",
    "collected": "2026-08-21T06:36+09:00"
+  },
+  {
+   "id": "9b1b0441933f",
+   "url": "https://news.yahoo.co.jp/articles/6407ad74e56184bc5586c01be1ce5fbd74683415",
+   "title": "ユニツリー株が上場初日に一時629％高、36歳創業者の純資産が約2.5兆円へ",
+   "summary": "中国の人型ロボットメーカー、ユニツリー・ロボティクス（宇樹科技）が8月19日、上海市場に上場した。株価は取引初日に一時629％上昇した。目を見張る急騰によって、36歳の会長兼最高経営責任者（CEO）",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-00103206-forbes-000-1-view.jpg?exp=10800",
+   "published": "2026-08-20T11:30+09:00",
+   "collected": "2026-08-23T06:54+09:00"
   },
   {
    "id": "f45b3412e294",
@@ -6558,19 +6571,6 @@
    "category": "general",
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/104899.jpg",
-   "published": "2026-07-22T11:30+09:00",
-   "collected": "2026-07-23T07:12+09:00"
-  },
-  {
-   "id": "73a841418488",
-   "url": "https://kuruma-news.jp/post/1089338",
-   "title": "\"人\"を重視しAIやロボットで課題を解決！ 矢崎総業が目指す「未来のものづくり」を探る 新イノベーション施設「Innovation Hub – REN（錬）」開設の理由とは？",
-   "summary": "矢崎総業がAIとロボティクスを活用した次世代スマートファクトリー拠点「Innovation Hub - REN」を公開。",
-   "source": "くるまのニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://kuruma-news.jp/wp-content/uploads/2027/07/20260721_yazaki_ih-ren_56.jpg?v=1784627274",
    "published": "2026-07-22T11:30+09:00",
    "collected": "2026-07-23T07:12+09:00"
   }
