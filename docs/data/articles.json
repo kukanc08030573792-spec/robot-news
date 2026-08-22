@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-23T06:54+09:00",
+  "last_updated": "2026-08-23T07:55+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -42,6 +42,19 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/23/1787422840853_package-media-15965044572999694505713-55033060481344546396065.webp",
    "published": "2026-08-23T04:04+09:00",
    "collected": "2026-08-23T06:29+09:00"
+  },
+  {
+   "id": "610a79df3d7f",
+   "url": "https://finance.biggo.jp/news/a3871b40-827d-45e2-8bcd-5e55c7b57168",
+   "title": "中国のロボット競技会、北京で人類の短距離走・走高跳の記録を更新",
+   "summary": "第2回世界ヒューマノイドロボット競技大会が北京で開幕し、中国製ヒューマノイドロボットが100メートル走と立ち高跳びで人類の世界記録を更新した。中国のX-Huma…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/fYlVxw6GunKYPIDf-_00PU3KuaU0nGZ5sJKzXb78T-E/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2EzODcxYjQwLTgyN2QtNDVlMi04YmNkLTVlNTVjN2I1NzE2OF8xNzg3NDI1MDg4X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-08-23T03:19+09:00",
+   "collected": "2026-08-23T07:55+09:00"
   },
   {
    "id": "809edaaad7ef",
@@ -6559,19 +6572,6 @@
    "expert": false,
    "thumbnail": "https://www.kankyo-business.jp/uploads/2026/07/16/E7i0vCriQmhOF1fiWdpcxCJ5qp6xojhfHkLS4HEQ.webp",
    "published": "2026-07-22T14:57+09:00",
-   "collected": "2026-07-23T07:12+09:00"
-  },
-  {
-   "id": "d8553cfbdf44",
-   "url": "https://robotstart.info/article/2026/07/22/382176.html",
-   "title": "次世代セミヒューマノイド「PUDU D7」世界初披露 上海で開催された「WAIC 2026」に出展",
-   "summary": "Pudu Roboticsが次世代セミヒューマノイド「PUDU D7」を上海で世界初公開。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/104899.jpg",
-   "published": "2026-07-22T11:30+09:00",
    "collected": "2026-07-23T07:12+09:00"
   }
  ]
