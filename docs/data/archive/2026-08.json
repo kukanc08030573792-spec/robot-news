@@ -1,5 +1,96 @@
 [
  {
+  "id": "f75a54f399bc",
+  "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-bolt-gay-chu-y-tai-the-van-hoi-robot",
+  "title": "人型ロボットのボルトは、ロボットオリンピックで注目を集めた。",
+  "summary": "VTV.vn - 秒速11メートルを超える速度を持つ人型ロボット「ボルト」は、第2回世界人型ロボット競技大会で注目を集めているロボットの1つです。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/23/1787422840853_package-media-15965044572999694505713-55033060481344546396065.webp",
+  "published": "2026-08-23T04:04+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "809edaaad7ef",
+  "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
+  "title": "Robots don’t run themselves: The workforce powering physical AI",
+  "summary": "The addition of physical AI to the workforce requires more key performance indicators than throughput, according to the ",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/AdobeStock_2118228182_02.jpg",
+  "published": "2026-08-22T23:30+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "9409691d4c7f",
+  "url": "https://www.therobotreport.com/technology-could-bring-robot-mowers-one-half-american-lawns/",
+  "title": "The technology that could bring robot mowers to one in two American lawns",
+  "summary": "Improvements in AI, satellite navigation, and machine vision are helping robotic lawn mowers spread in the U.S., writes ",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Mowing.jpg",
+  "published": "2026-08-22T21:30+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "600f54f35bca",
+  "url": "https://note.com/zhenren63/n/nb0a92f020635",
+  "title": "人型ロボットで最初にROIが計算できる市場は物流か─WRC 2026で変わった問いの立て方",
+  "summary": "ヒューマノイドロボットの展示会は、どうしても動画映えする瞬間が切り取られます。走る。バク転する。箱を持ち上げる。今年のWRC 2026（世界ロボット大会、8月19〜23日）も、その手の映像はいくらでも撮れました。ただ、今回B館を歩いていて一",
+  "source": "note",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/305864969/rectangle_large_type_2_01465453afa11f292a8a874798fce8f9.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-08-22T18:38+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "d5f06f294335",
+  "url": "https://article.auone.jp/abfe7f9b-99aa-4856-8975-3b3780219b58",
+  "title": "バク転より感動。人型ロボットが階段や丘をスムーズに駆け下りる",
+  "summary": "2026年6月17日の記事を編集して再掲載しています。段差はロボットの「永遠の天敵」でした…これまでは。DEEP Roboticsが6月頭に公開した動画を見てください。人型ロボット「DR02」が、階段",
+  "source": "au Webポータル",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/22/https___www_gizmodo_jp_article_deep_robotics_dr02_.png",
+  "published": "2026-08-22T18:10+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "9617a5c5d23a",
+  "url": "https://www.vietnam.vn/ja/thi-truong-robot-hut-bui-viet-nam-vuot-2-400-ti-dong",
+  "title": "ベトナムのロボット掃除機市場は2兆4000億ベトナムドンを超えている。",
+  "summary": "市場調査会社NIQ GfKの小売データによると、2026年6月までの12か月間で、ベトナムのロボット掃除機市場の総売上高は2兆4000億ベトナムドンに達した。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/22/1787376301005_tnw-img1135-1787366759926213811278-544-0-1884-2560-crop-17873671498101929270954.jpeg",
+  "published": "2026-08-22T16:09+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
+  "id": "1b86f5a1fd1f",
+  "url": "https://www.therobotreport.com/how-software-defined-manufacturing-fits-into-real-factory-operations/",
+  "title": "How software-defined manufacturing fits into real factory operations",
+  "summary": "Roby Lynn explains how R2 Labs bridges PLCs, robots, and AI to unify fragmented manufacturing systems. The post How soft",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-258-featured.jpg",
+  "published": "2026-08-22T09:48+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
   "id": "269ebfdb4701",
   "url": "https://www.therobotreport.com/amazons-bhavana-chandrashekhar-speaks-robobusiness-women-in-robotics-lunch/",
   "title": "Amazon’s Bhavana Chandrashekhar to speak at RoboBusiness’ Women in Robotics Lunch",
@@ -24,6 +115,19 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/schaeffler-strain-wave-gearboxes-featured.jpg",
   "published": "2026-08-22T04:27+09:00",
   "collected": "2026-08-22T06:32+09:00"
+ },
+ {
+  "id": "bffb78f70d54",
+  "url": "https://finance.biggo.jp/news/64250996-7587-4c87-bb58-0fcc94a3f4fc",
+  "title": "ボッシュ、ビュール工場でヒューマノイドロボットの量産開始へ",
+  "summary": "ドイツの産業大手ボッシュは2027年8月から、シュヴァルツヴァルト地方のビュール工場でヒューマノイドロボットの量産を開始する。生産は、ボッシュが今春提携し…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/qbcf18KiycuA_kEr2ymLjEa2UAlrN-rpVFzXvghZ0kk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzY0MjUwOTk2LTc1ODctNGM4Ny1iYjU4LTBmY2M5NGEzZjRmY18xNzg3MzM2NDgzX2RlZmF1bHQuanBn.jpg",
+  "published": "2026-08-22T03:06+09:00",
+  "collected": "2026-08-23T06:29+09:00"
  },
  {
   "id": "454c07563c58",
@@ -103,6 +207,19 @@
   "published": "2026-08-21T18:51+09:00",
   "collected": "2026-08-22T06:32+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "7628aedda2ea",
+  "url": "https://robotstart.info/article/img/2026/08/21/382305/105739.html",
+  "title": "ヒューマノイドがダンスパフォーマンスを披露 中国北京で開催「WRC2026」LimX Dynamics出展の映像 1枚目の写真・画像",
+  "summary": "中国の北京亦創国際会展センターで2026年8月19日から23日にかけて「WRC2026」が開催されている。ロボット企業のLimX Dynamicsは2026年8月19日、初日のブースの様子をまとめた記録映像をYouTubeで公開した。  ヒ",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/105739.jpg",
+  "published": "2026-08-21T18:35+09:00",
+  "collected": "2026-08-23T06:29+09:00"
  },
  {
   "id": "fcf7253e5e88",
@@ -225,6 +342,19 @@
   "collected": "2026-08-22T08:31+09:00"
  },
  {
+  "id": "209e01d7f7d4",
+  "url": "https://robotstart.info/article/img/2026/08/21/382301/105710.html",
+  "title": "UBTECH、ヒューマノイド4機種を「WRC2026」で披露 接客・物流・製造・生活など場面ごとの活用用途を紹介 1枚目の写真・画像",
+  "summary": "UBTECHは2026年8月20日、2026年8月19日から23日にかけて北京亦創国際会展センターで開催されている「WRC2026」に出展している様子の動画をYouTubeで公開した。  UBTECH、ヒューマノイド4機種を「WRC2026",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/105710.jpg",
+  "published": "2026-08-21T14:00+09:00",
+  "collected": "2026-08-23T06:29+09:00"
+ },
+ {
   "id": "7fc6374aae26",
   "url": "https://news.yahoo.co.jp/articles/c92219b75424b895adbf39f5214b82feca6836c2",
   "title": "人型ロボットは「人間超え」 中国Unitree新型機、垂直跳び2メートル・時速45キロ",
@@ -302,6 +432,19 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2608/21/mn0821_nsk_001.jpg",
   "published": "2026-08-21T06:15+09:00",
   "collected": "2026-08-21T06:36+09:00"
+ },
+ {
+  "id": "e86cf1f44b65",
+  "url": "https://finance.biggo.jp/news/6e8c192e-090e-4238-9a8a-005dd27ee2fe",
+  "title": "Movaの1300ドルロボット掃除機、伸縮アームでスツールや椅子の下も清掃",
+  "summary": "Movaは、関節式モップアームが6.7インチ（約17cm）伸び、サイドブラシが約5インチ（約12.7cm）届くロボット掃除機「V70 Ultra Complete」を1300ドル（約20万7000…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/VE0mN4p7EHblRKsvKmiQsLjx5HCX4bjAB-mchJmPl1M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzZlOGMxOTJlLTA5MGUtNDIzOC05YThhLTAwNWRkMjdlZTJmZV8xNzg3MjU1Njk2X2RlZmF1bHQud2VicA.jpg",
+  "published": "2026-08-21T03:57+09:00",
+  "collected": "2026-08-23T06:29+09:00"
  },
  {
   "id": "00387924d361",
