@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-24T07:55+09:00",
+  "last_updated": "2026-08-24T08:28+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "d1a2859a2c61",
+   "url": "http://japan.hani.co.kr/arti/international/56992.html",
+   "title": "【ルポ】ゴミの片づけから料理まで… 「働きぶり」で競い合う中国のロボット運動会 : 日本•国際",
+   "summary": "【ルポ】ゴミの片づけから料理まで… 「働きぶり」で競い合う中国のロボット運動会 : 日本•国際    ハンギョレ新聞",
+   "source": "ハンギョレ新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.hani.co.kr/imgdb/japan/news/resize/2026/0824/178751914399_20260824.JPG",
+   "published": "2026-08-24T06:06+09:00",
+   "collected": "2026-08-24T08:28+09:00"
+  },
   {
    "id": "e40a41983cee",
    "url": "https://www.vietnam.vn/ja/hon-2-000-robot-hinh-nguoi-tranh-tai-tai-bac-kinh",
@@ -94,6 +107,19 @@
    "thumbnail": "https://assets.st-note.com/production/uploads/images/306317509/rectangle_large_type_2_0bb51736ab910c6795165f832c2f04fa.png?fit=bounds&quality=85&width=1280",
    "published": "2026-08-23T20:35+09:00",
    "collected": "2026-08-24T06:29+09:00"
+  },
+  {
+   "id": "cb6cff679906",
+   "url": "https://36kr.jp/500515/",
+   "title": "世界の人型ロボット、「ほぼ中国製」に 出荷シェア97％：SAG統計",
+   "summary": "世界の人型ロボット（ヒューマノイド）出荷で中国メーカーが圧倒的な主導権を握っている。 ブルームバーグが報じたと",
+   "source": "36Kr Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36kr.jp/uploads/2026/03/20260319172256screenshot617.png",
+   "published": "2026-08-23T20:29+09:00",
+   "collected": "2026-08-24T08:28+09:00"
   },
   {
    "id": "2417776f80e6",
@@ -6546,33 +6572,6 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/July-RR-Featured-Image.jpg",
    "published": "2026-07-23T05:48+09:00",
    "collected": "2026-07-23T07:12+09:00"
-  },
-  {
-   "id": "889bf473f862",
-   "url": "https://www.shikoku-np.co.jp/dg/article.aspx?id=K2026072300000002700",
-   "title": "太陽光発電パネル清掃ロボ 自律走行型を新開発 香川大発ベンチャー・未来機械 タイなどで実証事業へ｜四国新聞WEB朝刊",
-   "summary": "香川大発ベンチャーの未来機械が太陽光発電パネルの自動清掃ロボットを開発。タイやシンガポールでの実証事業を開始。",
-   "source": "四国新聞",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.shikoku-np.co.jp/dg/img_article.aspx?path=2026%2f0723%2fP07230010AE0000HO005%2fIHCOLIP260723AE0000038000",
-   "published": "2026-07-23T04:02+09:00",
-   "collected": "2026-07-23T07:12+09:00"
-  },
-  {
-   "id": "c97e5d5458c9",
-   "url": "https://www.sphericalinsights.com/jp/blogs/world-s-top-15-companies-in-commercial-security-robot-market-2025-industry-intelligence-report-by-spherical-insights-2026-2035",
-   "title": "商用セキュリティロボット市場における世界トップ15企業",
-   "summary": "商用セキュリティロボット市場の世界トップ15企業に関する情報が公開。",
-   "source": "Spherical Insights",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-23T01:16+09:00",
-   "collected": "2026-07-23T07:12+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
