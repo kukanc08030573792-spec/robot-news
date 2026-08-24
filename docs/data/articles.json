@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-25T07:58+09:00",
+  "last_updated": "2026-08-25T08:29+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,32 @@
   ]
  },
  "items": [
+  {
+   "id": "fc668d5df179",
+   "url": "https://wired.jp/article/unitree-influencer-4-foot-robot-from-china/",
+   "title": "次にブレイクする大物インフルエンサーは、中国発の小柄なロボットかもしれない",
+   "summary": "「Unitree G1」は、人々を魅了する比較的手ごろなロボットとして、ネット上で人気を集めている。果たして本格的な仕事を任せられるのだろうか？",
+   "source": "WIRED.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.wired.jp/photos/6a83d789941e2a9f64be147e/16:9/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg",
+   "published": "2026-08-25T08:00+09:00",
+   "collected": "2026-08-25T08:29+09:00"
+  },
+  {
+   "id": "b431f95bf725",
+   "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
+   "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
+   "summary": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agt",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Kubota-Agtonomy-featured.jpg",
+   "published": "2026-08-25T07:53+09:00",
+   "collected": "2026-08-25T08:29+09:00"
+  },
   {
    "id": "fe9e2b5522de",
    "url": "https://online.logi-biz.com/149145/",
@@ -708,7 +734,7 @@
    "thumbnail": null,
    "published": "2026-08-22T11:33+09:00",
    "collected": "2026-08-25T06:58+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1b86f5a1fd1f",
@@ -6546,32 +6572,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260725-00010001-carv-000-1-view.jpg?exp=10800",
    "published": "2026-07-25T08:03+09:00",
    "collected": "2026-07-26T07:02+09:00"
-  },
-  {
-   "id": "7e6f2c7e5361",
-   "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/",
-   "title": "Generalist’s GEN-1 foundation model now supports a range of robot end effectors",
-   "summary": "GeneralistのGEN-1基盤モデルが新しいエンドエフェクタに対応し、異なるロボットでのセンサーモーター政策を学習可能に。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/generalist-featured.jpg",
-   "published": "2026-07-25T03:23+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "9714f403698a",
-   "url": "https://www.therobotreport.com/how-time-series-databases-unlock-real-time-data-for-robotics/",
-   "title": "How time series databases unlock real-time data for robotics",
-   "summary": "時系列データベースがロボティクスチームの高容量センサーデータ管理やAIインサイトの提供を支援。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/episode-254-featured.jpg",
-   "published": "2026-07-25T01:28+09:00",
-   "collected": "2026-07-25T07:14+09:00"
   }
  ]
 }
