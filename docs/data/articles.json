@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-25T06:37+09:00",
+  "last_updated": "2026-08-25T06:58+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -185,7 +185,7 @@
    "thumbnail": null,
    "published": "2026-08-24T15:46+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e86e6a5256dc",
@@ -199,7 +199,7 @@
    "thumbnail": null,
    "published": "2026-08-24T15:36+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "6cfa883ecc81",
@@ -228,6 +228,19 @@
    "collected": "2026-08-25T06:37+09:00"
   },
   {
+   "id": "6f498355d4a2",
+   "url": "https://mainichi.jp/articles/20260824/pr2/00m/020/450000c",
+   "title": "プレスリリース：店舗・施設の床清掃を1台で自動化。AI搭載の小型清掃ロボット「PUDU ET1」取扱い開始（PR TIMES）",
+   "summary": "スイープ・床洗浄・吸引・乾拭きの4機能を集約。AIが床材や汚れを認識し、最小50 cm幅の通路にも対応\n\n株式会社セキド（本社：東京都港区、代表取締役：大下貴之）は、Pudu Robotics（プードゥーロボティクス）社製のAI搭載オールイ",
+   "source": "毎日新聞",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://cdn.mainichi.jp/vol1/2026/08/24/20260824pr200m020450000p/0c10.jpg?1",
+   "published": "2026-08-24T13:52+09:00",
+   "collected": "2026-08-25T06:58+09:00"
+  },
+  {
    "id": "d77ac91707ab",
    "url": "https://response.jp/article/2026/08/24/415640.html",
    "title": "NSKとアトム、国産ヒューマノイドAIロボット開発へ…包括的パートナーシップ締結",
@@ -252,6 +265,19 @@
    "thumbnail": "https://news-pctr.c.yimg.jp/uUzvQ3lML_bkIqyakc1vFhNrRI0RUQxg5aFkrX0xDg1_T0wXrbEJjtNGtrf1o9y3h9uiCojScY7SLYgxmEygY984D8krnlRAXlPSfkemWC-YDl0wB_rVNkHLJnKFII84lbfsrwz44Z1q6gP6NkwftzrxuYXeINrxzKGExeN9AMPPf4r0Bf6uhMQJkSJL_iBH",
    "published": "2026-08-24T13:11+09:00",
    "collected": "2026-08-25T06:37+09:00"
+  },
+  {
+   "id": "c064f8d0d404",
+   "url": "https://robotstart.info/article/img/2026/08/24/382308/105756.html",
+   "title": "フィジカルAI清掃ロボット「Loki」の国内オフィスビル実証を開始 日鉄興和不動産×JDSC×ソフトバンクロボティクス 1枚目の写真・画像",
+   "summary": "JDSCは日鉄興和不動産、ソフトバンクロボティクスと連携し、スイスのLoki Robotics製フィジカルAI清掃ロボット「Loki」の国内オフィスビル実証を開始した。  フィジカルAI清掃ロボット「Loki」の国内オフィスビル実証を開始 ",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105756.jpg",
+   "published": "2026-08-24T13:00+09:00",
+   "collected": "2026-08-25T06:58+09:00"
   },
   {
    "id": "048cc74d6ad6",
@@ -332,6 +358,19 @@
    "collected": "2026-08-25T06:37+09:00"
   },
   {
+   "id": "46be8e7ad53c",
+   "url": "https://prtimes.jp/main/html/rd/p/000000610.000001379.html",
+   "title": "国内初、フィジカルAI清掃ロボット「Loki」のオフィスビル実証を開始",
+   "summary": "日鉄興和不動産株式会社のプレスリリース（2026年8月24日 11時00分）国内初、フィジカルAI清掃ロボット「Loki」のオフィスビル実証を開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/1379/610/1379-610-9506977ff24f79ded4fed864ed79a3c0-1489x839.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-08-24T11:00+09:00",
+   "collected": "2026-08-25T06:58+09:00"
+  },
+  {
    "id": "6593f16da1e7",
    "url": "https://prtimes.jp/main/html/rd/p/000001290.000016343.html",
    "title": "店舗・施設の床清掃を1台で自動化。AI搭載の小型清掃ロボット「PUDU ET1」取扱い開始",
@@ -345,6 +384,19 @@
    "collected": "2026-08-25T06:37+09:00"
   },
   {
+   "id": "6ba88efcf461",
+   "url": "https://www.itmedia.co.jp/pcuser/articles/2608/24/news070.html",
+   "title": "部屋の隅やカーペットの奥まで徹底清掃できる「ECOVACS DEEBOT T50S OMNI」が50％オフの5万4799円に - ITmedia PC USER",
+   "summary": "AmazonÌ^CZ[ÅAGRobNXÌ´^ES©®{bg|@uECOVACS DEEBOT T50S OMNIvª¼zÌ54799~ÅÌ",
+   "source": "ITmedia",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2608/24/cover_news070.jpg",
+   "published": "2026-08-24T09:50+09:00",
+   "collected": "2026-08-25T06:58+09:00"
+  },
+  {
    "id": "60ec0c3acd39",
    "url": "https://jp.reuters.com/economy/UQNK3Z4BDVPJFIIQJDIGQ3VQ44-2026-08-24/",
    "title": "中国の人型ロボット、100ｍ走でボルト超え 技術進歩を披露",
@@ -356,7 +408,7 @@
    "thumbnail": null,
    "published": "2026-08-24T09:32+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3bb010203780",
@@ -591,6 +643,20 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/22/1787376301005_tnw-img1135-1787366759926213811278-544-0-1884-2560-crop-17873671498101929270954.jpeg",
    "published": "2026-08-22T16:09+09:00",
    "collected": "2026-08-23T06:29+09:00"
+  },
+  {
+   "id": "f4f3469f5fa3",
+   "url": "https://news.nicovideo.jp/watch/nw19689264?news_ref=watch_50_nw19516298",
+   "title": "面倒で危険な窓掃除はロボットにお任せ 枠の際までブラシが届く、エコバックスの窓拭きロボット最新シリーズ降臨",
+   "summary": "面倒で危険な窓掃除はロボットにお任せ 枠の際までブラシが届く、エコバックスの窓拭きロボット最新シリーズ降臨    ニコニコニュース",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-22T11:33+09:00",
+   "collected": "2026-08-25T06:58+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "1b86f5a1fd1f",
@@ -881,7 +947,7 @@
    "thumbnail": null,
    "published": "2026-08-21T12:49+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "7fc6374aae26",
@@ -6507,71 +6573,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/105021.jpg",
    "published": "2026-07-24T18:40+09:00",
    "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "31f648a6272a",
-   "url": "https://www.jiji.com/jc/article?k=000000001.000187244&g=prt",
-   "title": "【開催レポート】Humanoid Hack Tokyo 2 : 事前登録236名、Unitree G1 を使ったヒューマノイド/フィジカルAIハッカソン第2回完走",
-   "summary": "Humanoid Hack Tokyo 2が開催。最優秀賞は災害レスキュー支援の「Rescue G1」シミュレーション。",
-   "source": "時事ドットコム",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/187244/1/187244-1-fa34c7a4bff16b738ce4dc9bf6833537-3900x2194.jpg",
-   "published": "2026-07-24T18:16+09:00",
-   "collected": "2026-07-26T07:02+09:00"
-  },
-  {
-   "id": "fc10b76a273a",
-   "url": "https://finance.biggo.jp/news/499d162c-1bd9-4121-9a10-82e991d82aca",
-   "title": "モービルアイ創業者アムノン・シャシュア氏、CEO退任 ヒューマノイドロボット事業に軸足",
-   "summary": "モービルアイ創業者アムノン・シャシュア氏がCEOを退任し、ヒューマノイドロボット事業に注力。",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/M5p5A5HiJGbyzQgzfXswMDyDdyTBzOv9552IV-Cncog/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzQ5OWQxNjJjLTFiZDktNDEyMS05YTEwLTgyZTk5MWQ4MmFjYV8xNzg0ODgzMjk2X2RlZmF1bHQuanBn.jpg",
-   "published": "2026-07-24T17:46+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "e0bfa886a7cb",
-   "url": "https://spap.jst.go.jp/china/experiences/science/st_26061.html",
-   "title": "中国製ヒューマノイドロボット、遠隔操作で哺乳動物の腹腔鏡手術を実施",
-   "summary": "中国製ヒューマノイドロボットが遠隔操作で哺乳動物の腹腔鏡手術を実施。",
-   "source": "Science Portal Asia Pacific",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://spap.jst.go.jp/china/experiences/images/share/thumb/img_sum260604_1.jpg",
-   "published": "2026-07-24T15:00+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "a6ca40e48ce9",
-   "url": "https://robotstart.info/article/2026/07/24/382192.html",
-   "title": "ヒューマノイドから車輪型まで統合管理 アリババAmapロボット移動を支援する基盤モデル「ABot」が5種類全面刷新",
-   "summary": "アリババのAmapがエンボディドAI「ABot」を全面刷新し、5モデルを投入。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105004.jpg",
-   "published": "2026-07-24T14:45+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "e1bc495eda16",
-   "url": "https://jp.yna.co.kr/view/PYH20260724085200882",
-   "title": "韓国海軍初の「ロボット乗組員」実験",
-   "summary": "韓国海軍が初のロボット乗組員の実験を実施。",
-   "source": "聯合ニュース",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://img4.yna.co.kr/photo/yna/YH/2026/07/24/PYH2026072408520088200_P4.jpg",
-   "published": "2026-07-24T14:06+09:00",
-   "collected": "2026-07-26T07:02+09:00"
   }
  ]
 }
