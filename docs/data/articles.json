@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-25T06:58+09:00",
+  "last_updated": "2026-08-25T07:58+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,32 @@
   ]
  },
  "items": [
+  {
+   "id": "fe9e2b5522de",
+   "url": "https://online.logi-biz.com/149145/",
+   "title": "日鉄興和不動産とJDSCが国内初、フィジカルAI清掃ロボットのオフィスビル稼働実証を開始",
+   "summary": "日鉄興和不動産とJDSCが国内初、フィジカルAI清掃ロボットのオフィスビル稼働実証を開始    LOGI-BIZ online",
+   "source": "LOGI-BIZ online",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://online.logi-biz.com/wp-content/uploads/2026/08/c-38.jpg",
+   "published": "2026-08-25T06:00+09:00",
+   "collected": "2026-08-25T07:58+09:00"
+  },
+  {
+   "id": "fcb6f43ecdf4",
+   "url": "https://response.jp/article/2026/08/25/415664.html",
+   "title": "旭化成、炭酸リチウムを使ったLiプレドープ技術を開発…EV向けLIBの高エネルギー密度化に貢献",
+   "summary": "旭化成、炭酸リチウムを使ったLiプレドープ技術を開発…EV向けLIBの高エネルギー密度化に貢献    レスポンス（Response.jp）",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2237142.jpg",
+   "published": "2026-08-25T06:00+09:00",
+   "collected": "2026-08-25T07:58+09:00"
+  },
   {
    "id": "9a3f7e6bacf3",
    "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
@@ -185,7 +211,7 @@
    "thumbnail": null,
    "published": "2026-08-24T15:46+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e86e6a5256dc",
@@ -199,7 +225,7 @@
    "thumbnail": null,
    "published": "2026-08-24T15:36+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6cfa883ecc81",
@@ -226,6 +252,19 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/24/https___news_jp_i_1464474123745837707.jpg",
    "published": "2026-08-24T14:27+09:00",
    "collected": "2026-08-25T06:37+09:00"
+  },
+  {
+   "id": "99d1843aadb3",
+   "url": "https://robotstart.info/article/2026/08/24/382309.html",
+   "title": "消防防災向けフィジカルAIの共同研究 四足歩行ロボットやヒューマノイド活用の実証実験をヤマトプロテックとクラスメソッドが実施",
+   "summary": "総合防災メーカーのヤマトプロテックとクラスメソッドが、フィジカルAIロボットによる消防・防災支援の共同研究を開始し、消火実験と捜索救助実験を実施した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105765.jpg",
+   "published": "2026-08-24T14:00+09:00",
+   "collected": "2026-08-25T07:58+09:00"
   },
   {
    "id": "6f498355d4a2",
@@ -408,7 +447,20 @@
    "thumbnail": null,
    "published": "2026-08-24T09:32+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "333ad21455d0",
+   "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/24/news026.html",
+   "title": "ヒューマノイドロボット出荷、2026年上期2.2万台：上位2社でシェア4分の3占める",
+   "summary": "JE^[|CgT[`ÉæêÎA2026Nãúi1`6jÉ¨¯éO[oq[}mCh{bgÌo×äª22000äð",
+   "source": "EE Times Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.itmedia.co.jp/ee/articles/2608/24/cover_news026.jpg",
+   "published": "2026-08-24T09:30+09:00",
+   "collected": "2026-08-25T07:58+09:00"
   },
   {
    "id": "3bb010203780",
@@ -656,7 +708,7 @@
    "thumbnail": null,
    "published": "2026-08-22T11:33+09:00",
    "collected": "2026-08-25T06:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1b86f5a1fd1f",
@@ -947,7 +999,7 @@
    "thumbnail": null,
    "published": "2026-08-21T12:49+09:00",
    "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7fc6374aae26",
@@ -6519,59 +6571,6 @@
    "expert": false,
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/episode-254-featured.jpg",
    "published": "2026-07-25T01:28+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "1d8d310e50df",
-   "url": "https://jp.acrofan.com/detail.php?number=119916",
-   "title": "Shanghai Electric、WAIC 2026において、エンボディド・インテリジェンス・ロボット・マトリックスとAIネイティブ・スマートファクトリー・ソリューションを展示",
-   "summary": "上海電気がWAIC 2026でエンボディド・インテリジェンス・ロボット・マトリックスとAIネイティブ・スマートファクトリーを展示。",
-   "source": "acrofan.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-25T00:28+09:00",
-   "collected": "2026-07-25T07:14+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "094e65a478fa",
-   "url": "https://www.therobotreport.com/neura-robotics-establishes-neura-gym-rwth-aachen-train-physical-ai/",
-   "title": "NEURA Robotics establishes NEURA Gym RWTH Aachen to train physical AI",
-   "summary": "NEURA Roboticsがドイツの大学と提携し、物理AIのトレーニング施設NEURA Gym RWTH Aachenを設立。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/RWTH_Aachen__NEURA.jpg",
-   "published": "2026-07-24T21:30+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "dfcda7128cbf",
-   "url": "https://www.youtube.com/shorts/sxf6_O0ch7w",
-   "title": "Can a Robot Handle a Whole School? | Gausium Omnie in Action #cleaningrobot #satisfyingcleaning",
-   "summary": "GausiumのOmnieが学校環境で障害物を避けながら清掃を行う様子を紹介。",
-   "source": "Gausium",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/sxf6_O0ch7w/hqdefault.jpg",
-   "published": "2026-07-24T20:30+09:00",
-   "collected": "2026-07-25T07:14+09:00"
-  },
-  {
-   "id": "15ebd6be9c75",
-   "url": "https://robotstart.info/article/2026/07/24/382193.html",
-   "title": "【動画】ヒューマノイド「Olie」に搭載されているAI「COSA」が大幅刷新、応答時間50%短縮・11言語対応などを実現 LimX Dynamics",
-   "summary": "LimX Dynamicsがヒューマノイド「Olie」のAI「COSA」を大幅にアップグレードし、対話能力を向上。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105021.jpg",
-   "published": "2026-07-24T18:40+09:00",
    "collected": "2026-07-25T07:14+09:00"
   }
  ]
