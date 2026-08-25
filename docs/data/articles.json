@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-26T07:59+09:00",
+  "last_updated": "2026-08-26T08:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "15c6c980c019",
+   "url": "https://jbpress.ismedia.jp/articles/-/96663?page=3",
+   "title": "中国「ロボット五輪」が示すフィジカルAIのインパクト、「速く走る」だけではなく「ケーブルを挿す」が重要な理由",
+   "summary": "フィジカルAIの現在地を象徴するイベントが、2026年8月22日から26日まで北京で開かれています。イベントの名称は「第2回世界ヒューマノイドロボット競技大会」。世界16カ国から6(3/4)",
+   "source": "JBpress",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://jbpress.ismcdn.jp/mwimgs/f/e/1200mw/img_fee12bc529c8a3b24fa6da849dd503bb1219895.jpg",
+   "published": "2026-08-26T06:00+09:00",
+   "collected": "2026-08-26T08:32+09:00"
+  },
   {
    "id": "5fa027da38b5",
    "url": "https://www.logi-today.com/991643",
@@ -108,6 +121,20 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Jetson-Orin-Nano-2.jpg",
    "published": "2026-08-26T00:00+09:00",
    "collected": "2026-08-26T06:36+09:00"
+  },
+  {
+   "id": "f7f96045b1b8",
+   "url": "https://www.nikkan.co.jp/articles/view/463644?gnr_footer=12010",
+   "title": "シークセンス、警備ロボを来年度商用化 ３次元認識で状況把握",
+   "summary": "シークセンス、警備ロボを来年度商用化 ３次元認識で状況把握    日刊工業新聞",
+   "source": "日刊工業新聞",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-25T21:40+09:00",
+   "collected": "2026-08-26T08:32+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "b32e734dc083",
@@ -6544,32 +6571,6 @@
    "expert": false,
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2110/18/1211018073/627857/2048",
    "published": "2026-07-28T20:23+09:00",
-   "collected": "2026-07-29T07:12+09:00"
-  },
-  {
-   "id": "5ec615ce4439",
-   "url": "https://www.youtube.com/shorts/s92RU9w1k0I",
-   "title": "PUDU BG1: Industrial Application",
-   "summary": "PUDU BG1が工場の清掃を効率的に行う大型スイーパー・スクラバーとして設計され、実際の工場フロアでの運用が紹介された。",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/s92RU9w1k0I/hqdefault.jpg",
-   "published": "2026-07-28T18:13+09:00",
-   "collected": "2026-07-29T07:12+09:00"
-  },
-  {
-   "id": "e254d15647a9",
-   "url": "https://finance.biggo.jp/news/dbfe1f30-9251-4d4b-b146-beb4e0a16038",
-   "title": "現代自、Atlasロボットの米工場実地調査に着手…年内に「第2のメタプラント」立地を確定へ",
-   "summary": "現代自動車が人型ロボット「Atlas」の米国量産工場候補地の実地調査を開始。年内に立地を確定予定。",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/4uu4UX-MgRZEhnt3rtkWNSArBJSEhcC518VoqVTtPlE/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3L2RiZmUxZjMwLTkyNTEtNGQ0Yi1iMTQ2LWJlYjRlMGExNjAzOF8xNzg1MjI2MjEwX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-07-28T17:05+09:00",
    "collected": "2026-07-29T07:12+09:00"
   }
  ]

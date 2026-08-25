@@ -1,5 +1,18 @@
 [
  {
+  "id": "15c6c980c019",
+  "url": "https://jbpress.ismedia.jp/articles/-/96663?page=3",
+  "title": "中国「ロボット五輪」が示すフィジカルAIのインパクト、「速く走る」だけではなく「ケーブルを挿す」が重要な理由",
+  "summary": "フィジカルAIの現在地を象徴するイベントが、2026年8月22日から26日まで北京で開かれています。イベントの名称は「第2回世界ヒューマノイドロボット競技大会」。世界16カ国から6(3/4)",
+  "source": "JBpress",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://jbpress.ismcdn.jp/mwimgs/f/e/1200mw/img_fee12bc529c8a3b24fa6da849dd503bb1219895.jpg",
+  "published": "2026-08-26T06:00+09:00",
+  "collected": "2026-08-26T08:32+09:00"
+ },
+ {
   "id": "5fa027da38b5",
   "url": "https://www.logi-today.com/991643",
   "title": "倉庫床からヤードまで、ケルヒャーが清掃効率化",
@@ -77,6 +90,20 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Jetson-Orin-Nano-2.jpg",
   "published": "2026-08-26T00:00+09:00",
   "collected": "2026-08-26T06:36+09:00"
+ },
+ {
+  "id": "f7f96045b1b8",
+  "url": "https://www.nikkan.co.jp/articles/view/463644?gnr_footer=12010",
+  "title": "シークセンス、警備ロボを来年度商用化 ３次元認識で状況把握",
+  "summary": "シークセンス、警備ロボを来年度商用化 ３次元認識で状況把握    日刊工業新聞",
+  "source": "日刊工業新聞",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-08-25T21:40+09:00",
+  "collected": "2026-08-26T08:32+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "b32e734dc083",
