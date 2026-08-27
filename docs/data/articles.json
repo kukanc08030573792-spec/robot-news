@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-27T09:38+09:00",
+  "last_updated": "2026-08-27T10:02+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -133,7 +133,7 @@
    "thumbnail": null,
    "published": "2026-08-26T15:57+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "56f295695645",
@@ -173,7 +173,20 @@
    "thumbnail": null,
    "published": "2026-08-26T15:19+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "4f5980b30a11",
+   "url": "https://robotstart.info/article/img/2026/08/26/382326/105865.html",
+   "title": "ヒューマノイド「TRON 2」にロボットハンド「Wuji Hand 2」を統合、薬局業務を行うデモ映像 LimX Dynamics・WUJI TECH 1枚目の写真・画像",
+   "summary": "2026年8月25日、ロボット企業LimX Dynamicsのヒューマノイドロボット「TRON 2」にWUJI TECHが開発したロボットハンド「Wuji Hand 2」を統合した機体が、薬局業務をこなす動画がYouTubeで公開された。生",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105865.jpg",
+   "published": "2026-08-26T15:00+09:00",
+   "collected": "2026-08-27T10:02+09:00"
   },
   {
    "id": "e53d9d764580",
@@ -304,7 +317,7 @@
    "thumbnail": null,
    "published": "2026-08-26T06:02+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "15c6c980c019",
@@ -410,7 +423,7 @@
    "thumbnail": null,
    "published": "2026-08-25T21:40+09:00",
    "collected": "2026-08-26T08:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b32e734dc083",
@@ -6561,19 +6574,6 @@
    "expert": false,
    "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/29/news-p.v1.20260729.9e36f03ac1e4457b9114b02750080e0c_R.jpg",
    "published": "2026-07-29T09:24+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "897b7d4d5f48",
-   "url": "https://www.itmedia.co.jp/news/article/limage/2504/02/1250402167/786042",
-   "title": "生成AI活用の「案内ロボット」、万博最寄り・夢洲駅に 4言語で応対可能（画像）（3/3枚目）",
-   "summary": "生成AIを活用した案内ロボットが万博最寄りの夢洲駅に設置。4言語で応対可能。",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2504/02/1250402167/786044/2048",
-   "published": "2026-07-29T09:11+09:00",
    "collected": "2026-07-30T07:07+09:00"
   }
  ]
