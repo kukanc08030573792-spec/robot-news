@@ -13,6 +13,19 @@
   "collected": "2026-08-27T12:32+09:00"
  },
  {
+  "id": "b7afb3a40951",
+  "url": "https://robotstart.info/article/2026/08/27/382331.html",
+  "title": "「AI博覧会」でフィジカルAIに人だかり 全天候型ヒューマノイド国内初披露、Donut RoboticsやAPTOも展示",
+  "summary": "「AI博覧会 Summer 2026」が2026年8月26日、27日の2日間、新宿住友ビル 三角広場で開催されている。会場には80社・約200製品以上が集結し、生成AIやAIエージェント、国産LLMなどさまざまなAI関連製品・サービスが展示",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/105909.jpg",
+  "published": "2026-08-27T12:06+09:00",
+  "collected": "2026-08-27T13:28+09:00"
+ },
+ {
   "id": "85db47c64887",
   "url": "https://k-tai.watch.impress.co.jp/docs/news/2135909.html",
   "title": "シャオミ、「ロボット掃除機 6／6 Max」「コードレス掃除機 4 C」発売 暮らしにあわせて選べる3機種",
@@ -63,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-08-27T11:22+09:00",
   "collected": "2026-08-27T12:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "97b03455b635",
@@ -723,6 +736,19 @@
   "collected": "2026-08-26T06:36+09:00"
  },
  {
+  "id": "180c57886441",
+  "url": "https://wired.jp/article/meet-superman-the-chinese-robot-that-can-jump-2-meters-and-run-faster-than-usain-bolt/",
+  "title": "ウサイン・ボルトより速く走る、中国発ヒューマノイド「Superman」",
+  "summary": "中国のロボット企業Unitreeが、新型ヒューマノイド「Superman」を披露した。パルクールや武術だけでなく、アスリート顔負けの身体能力を見せている。",
+  "source": "WIRED.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.wired.jp/photos/6a8be845cdb1e520e2c59662/16:9/w_1280,c_limit/robotrapido.jpg",
+  "published": "2026-08-25T11:00+09:00",
+  "collected": "2026-08-27T13:28+09:00"
+ },
+ {
   "id": "1ca4802cfdc5",
   "url": "https://prtimes.jp/main/html/rd/p/000000174.000034305.html",
   "title": "AI警備ロボット「ugo Pro」、福岡空港の国内線・国際線旅客ターミナルで次世代警備の実証実験を実施",
@@ -1180,6 +1206,19 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16343/1290/16343-1290-12a9683cbd51a1552f7a84a15dc7dada-1200x795.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-08-24T10:30+09:00",
   "collected": "2026-08-25T06:37+09:00"
+ },
+ {
+  "id": "12f89b596d44",
+  "url": "https://japanese.joins.com/JArticle/353960?sectcode=A00&servcode=A00",
+  "title": "【写真】ワールドヒューマノイドロボットゲーム2026開会式でパレードするロボット",
+  "summary": "【写真】ワールドヒューマノイドロボットゲーム2026開会式でパレードするロボット    中央日報",
+  "source": "中央日報",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "//images.joins.com/ui_joins/japan19/profile_joongang_800.jpg",
+  "published": "2026-08-24T10:00+09:00",
+  "collected": "2026-08-27T13:28+09:00"
  },
  {
   "id": "6ba88efcf461",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-27T12:32+09:00",
+  "last_updated": "2026-08-27T13:28+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -42,6 +42,19 @@
    "thumbnail": "https://i.ytimg.com/vi/OA2h1o5JXFg/hqdefault.jpg",
    "published": "2026-08-27T12:18+09:00",
    "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "b7afb3a40951",
+   "url": "https://robotstart.info/article/2026/08/27/382331.html",
+   "title": "「AI博覧会」でフィジカルAIに人だかり 全天候型ヒューマノイド国内初披露、Donut RoboticsやAPTOも展示",
+   "summary": "「AI博覧会 Summer 2026」が2026年8月26日、27日の2日間、新宿住友ビル 三角広場で開催されている。会場には80社・約200製品以上が集結し、生成AIやAIエージェント、国産LLMなどさまざまなAI関連製品・サービスが展示",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105909.jpg",
+   "published": "2026-08-27T12:06+09:00",
+   "collected": "2026-08-27T13:28+09:00"
   },
   {
    "id": "85db47c64887",
@@ -94,7 +107,7 @@
    "thumbnail": null,
    "published": "2026-08-27T11:22+09:00",
    "collected": "2026-08-27T12:32+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "97b03455b635",
@@ -741,6 +754,19 @@
    "collected": "2026-08-26T06:36+09:00"
   },
   {
+   "id": "180c57886441",
+   "url": "https://wired.jp/article/meet-superman-the-chinese-robot-that-can-jump-2-meters-and-run-faster-than-usain-bolt/",
+   "title": "ウサイン・ボルトより速く走る、中国発ヒューマノイド「Superman」",
+   "summary": "中国のロボット企業Unitreeが、新型ヒューマノイド「Superman」を披露した。パルクールや武術だけでなく、アスリート顔負けの身体能力を見せている。",
+   "source": "WIRED.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.wired.jp/photos/6a8be845cdb1e520e2c59662/16:9/w_1280,c_limit/robotrapido.jpg",
+   "published": "2026-08-25T11:00+09:00",
+   "collected": "2026-08-27T13:28+09:00"
+  },
+  {
    "id": "68f63ae4f003",
    "url": "https://prtimes.jp/main/html/rd/p/000001420.000078149.html",
    "title": "NEC Orchestrating Future Fund、ヒューマノイドロボット「VEGA」及びフィジカルAIプラットフォームを提供する米国Dexmate社へ出資",
@@ -1211,6 +1237,19 @@
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16343/1290/16343-1290-12a9683cbd51a1552f7a84a15dc7dada-1200x795.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-08-24T10:30+09:00",
    "collected": "2026-08-25T06:37+09:00"
+  },
+  {
+   "id": "12f89b596d44",
+   "url": "https://japanese.joins.com/JArticle/353960?sectcode=A00&servcode=A00",
+   "title": "【写真】ワールドヒューマノイドロボットゲーム2026開会式でパレードするロボット",
+   "summary": "【写真】ワールドヒューマノイドロボットゲーム2026開会式でパレードするロボット    中央日報",
+   "source": "中央日報",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "//images.joins.com/ui_joins/japan19/profile_joongang_800.jpg",
+   "published": "2026-08-24T10:00+09:00",
+   "collected": "2026-08-27T13:28+09:00"
   },
   {
    "id": "6ba88efcf461",
@@ -6536,45 +6575,6 @@
    "expert": false,
    "thumbnail": "https://36krjp-1316517779.cos.ap-tokyo.myqcloud.com/uploads/2026/07/20260724201942LimX-Dynamics-Oli-Running-1536x864897-1.jpg",
    "published": "2026-07-29T14:58+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "15ee5ab87ad6",
-   "url": "https://monoist.itmedia.co.jp/mn/articles/2607/29/news068.html",
-   "title": "アマノの複数階清掃に対応した業務用ロボット掃除機に自律移動ソフトが採用：ロボット開発ニュース",
-   "summary": "アマノが複数階清掃に対応した業務用ロボット掃除機に自律移動ソフトを採用。",
-   "source": "MONOist",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2607/29/cover_news068.jpg",
-   "published": "2026-07-29T14:00+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "c1c796f3ac7e",
-   "url": "https://robotstart.info/article/2026/07/29/382208.html",
-   "title": "ヒューマノイドや産業用のロボットハンドでグローバル展開を推進 韓国Tesolloが2027年IPOへ始動",
-   "summary": "韓国TesolloがロボットハンドのIPO準備を開始。2027年上場を目指す。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105108.jpg",
-   "published": "2026-07-29T12:20+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "0aa1dcfffb43",
-   "url": "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2130/id=157836/",
-   "title": "エコバックス、毛絡み防止機能をベーシックモデルに初搭載した床用ロボット掃除機「DEEBOT N50 OMNI」",
-   "summary": "エコバックスが毛絡み防止機能を搭載したロボット掃除機「DEEBOT N50 OMNI」を発売。",
-   "source": "kakaku.com",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026072/20260729114740_502_.jpg",
-   "published": "2026-07-29T12:05+09:00",
    "collected": "2026-07-30T07:07+09:00"
   }
  ]
