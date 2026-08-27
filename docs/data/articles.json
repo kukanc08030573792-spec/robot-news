@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-27T10:02+09:00",
+  "last_updated": "2026-08-27T12:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,111 @@
   ]
  },
  "items": [
+  {
+   "id": "411b5b88139e",
+   "url": "https://sp.m.jiji.com/movie/show/13759",
+   "title": "【動画】【Humanoid AI】ＡＩ博、人型ロボット集結＝まるで人間、腕立て伏せも",
+   "summary": "人工知能（ＡＩ）を活用した最新のサービスや製品などを紹介する「ＡＩ博覧会ＳＵＭＭＥＲ２０２６」が２６、２７の両日、東京都内で開催された。ロボットや機械を自律的に動かす「フィジカルＡＩ」の展示エリアも設置。まるで人間のようにスムーズに歩き回っ",
+   "source": "時事通信ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/OA2h1o5JXFg/hqdefault.jpg",
+   "published": "2026-08-27T12:18+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "85db47c64887",
+   "url": "https://k-tai.watch.impress.co.jp/docs/news/2135909.html",
+   "title": "シャオミ、「ロボット掃除機 6／6 Max」「コードレス掃除機 4 C」発売 暮らしにあわせて選べる3機種",
+   "summary": "シャオミ・ジャパンは、毎日の床掃除を自動化するロボット掃除機「Xiaomi ロボット掃除機 6 Max」「Xiaomi ロボット掃除機 6」と、手軽に部分清掃できる「Mijia コードレス掃除機 4C」の3機種を発売した。",
+   "source": "ケータイ Watch",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://k-tai.watch.impress.co.jp/img/ktw/list/2135/909/6Max.png",
+   "published": "2026-08-27T12:05+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "8634b7d9067d",
+   "url": "https://gadget.phileweb.com/post-131752/",
+   "title": "Xiaomi最高吸引力、ローラーモップ搭載ロボット掃除機「6 Max」。“9万円切り”下位モデルも同時登場",
+   "summary": "シャオミ・ジャパンは、ロボット掃除機「Xiaomi ロボット掃除機 6 Max」と「Xiaomi ロボット掃除機 6」、コードレス掃除機「Mijia コードレス",
+   "source": "Gadget Gate",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://gadget.phileweb.com/wp-content/uploads/2026/08/6c4a4e4ef6133462fa6d9eac8c0c6f85.jpg",
+   "published": "2026-08-27T12:05+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "31495e9370bf",
+   "url": "https://prtimes.jp/main/html/rd/p/000000257.000098799.html",
+   "title": "毎日の床掃除を、もっとラクに。高性能ロボット掃除機2モデルとコードレス掃除機の新製品3機種を発売",
+   "summary": "小米技術日本株式会社のプレスリリース（2026年8月27日 12時00分）毎日の床掃除を、もっとラクに。高性能ロボット掃除機2モデルとコードレス掃除機の新製品3機種を発売",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/98799/257/98799-257-56c71d570bec77cecc54fbfbf623f57b-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-08-27T12:00+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "b20c39e7231c",
+   "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1662446",
+   "title": "ソフトバンク、ヒューマノイドロボット新興企業1Xの過半数株式取得に向け交渉中 執筆 - Investing.com",
+   "summary": "ソフトバンク、ヒューマノイドロボット新興企業1Xの過半数株式取得に向け交渉中 執筆    Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-27T11:22+09:00",
+   "collected": "2026-08-27T12:32+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "97b03455b635",
+   "url": "https://mag.executive.itmedia.co.jp/executive/article/2608/27/2000000834/",
+   "title": "ヒューマノイドが人の動きを学習 民間コンソーシアムが「フィジカルAI」研究拠点を公開",
+   "summary": "ヒューマノイドが人の動きを学習 民間コンソーシアムが「フィジカルAI」研究拠点を公開    ITmedia エグゼクティブ 芙蓉総合リース－4日続伸 ヒューマノイドロボットの社会実装をめざすコンソーシアムへ参画(トレーダーズ・ウェブ)   ",
+   "source": "ITmedia エグゼクティブ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://mag.executive.itmedia.co.jp/executive/article/ogp/2608/27/2000000834/10003983/2048",
+   "published": "2026-08-27T11:21+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "f0151985683b",
+   "url": "https://finance.biggo.jp/news/014a577c-45e1-4d6b-b873-9d0062ea077a",
+   "title": "韓国のMDSテック、Uniqconnと提携…フィジカルAI「接続」技術まで確保",
+   "summary": "韓国のMDSテックが非接触データ転送半導体開発企業Uniqconnと、自動運転・ロボットおよびエッジAI事業拡大のための業務提携（MOU）を締結した。両社はMDSテック…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/XM9sxONMfPVhjFy3659Guw8Bk6Yjh6Jxpl05kIyyYdo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzAxNGE1NzdjLTQ1ZTEtNGQ2Yi1iODczLTlkMDA2MmVhMDc3YV8xNzg3Nzk1MDQ1X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-08-27T10:35+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
+  {
+   "id": "703aa7ac73e4",
+   "url": "https://prtimes.jp/main/html/rd/p/000000020.000083734.html",
+   "title": "セイノー情報サービス ロボット導入の最適解を提案する「物流自動化構想ワンデー診断サービス」を開始",
+   "summary": "株式会社セイノー情報サービスのプレスリリース（2026年8月27日 10時00分）セイノー情報サービス ロボット導入の最適解を提案する「物流自動化構想ワンデー診断サービス」を開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/83734/20/83734-20-7c8b8c18b04c228e93e50098a108572a-1200x500.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-08-27T10:00+09:00",
+   "collected": "2026-08-27T12:32+09:00"
+  },
   {
    "id": "4106792f338f",
    "url": "https://businessnetwork.jp/article/36773/",
@@ -133,7 +238,7 @@
    "thumbnail": null,
    "published": "2026-08-26T15:57+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "56f295695645",
@@ -173,7 +278,7 @@
    "thumbnail": null,
    "published": "2026-08-26T15:19+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4f5980b30a11",
@@ -317,7 +422,7 @@
    "thumbnail": null,
    "published": "2026-08-26T06:02+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "15c6c980c019",
@@ -6470,110 +6575,6 @@
    "expert": false,
    "thumbnail": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026072/20260729114740_502_.jpg",
    "published": "2026-07-29T12:05+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "0dd4d2bf15e1",
-   "url": "https://robotstart.info/article/img/2026/07/29/382207/105096.html",
-   "title": "ソフトバンクロボティクス、Lokiのトイレ清掃ロボットを日本初披露 AI性能向上へ日本でデータ収集 3枚目の写真・画像",
-   "summary": "ソフトバンクロボティクス（SBR）は、スイスの企業 Loki Roboticsのトイレ清掃ロボットを自社の清掃サービスに活用する方向で検討を進めている。7月に開催された「SoftBank World 2026」において、SBRの展示ブースで",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105096.jpg",
-   "published": "2026-07-29T11:07+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "deb98afff2bc",
-   "url": "https://robotstart.info/article/2026/07/29/382207.html",
-   "title": "ソフトバンクロボティクス、Lokiのトイレ清掃ロボットを日本初披露 AI性能向上へ日本でデータ収集",
-   "summary": "ソフトバンクロボティクスがLokiのトイレ清掃ロボットを日本で初披露。2027年春導入予定。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105094.jpg",
-   "published": "2026-07-29T11:07+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "f0b53afb4b71",
-   "url": "https://robotstart.info/article/img/2026/07/29/382207/105099.html",
-   "title": "ソフトバンクロボティクス、Lokiのトイレ清掃ロボットを日本初披露 AI性能向上へ日本でデータ収集 6枚目の写真・画像",
-   "summary": "ソフトバンクロボティクス（SBR）は、スイスの企業 Loki Roboticsのトイレ清掃ロボットを自社の清掃サービスに活用する方向で検討を進めている。7月に開催された「SoftBank World 2026」において、SBRの展示ブースで",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105099.jpg",
-   "published": "2026-07-29T11:07+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "b0766c8be731",
-   "url": "https://www.mk.co.kr/jp/realestate/12110363",
-   "title": "ロッテ建設が建設現場の単純な反復作業を減らすために、自動運転基盤の床掃除ロボットを導入した。",
-   "summary": "ロッテ建設が自動運転基盤の床掃除ロボットを導入し、建設現場の清掃作業を効率化。",
-   "source": "매일경제",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/29/news-p.v1.20260729.4d12598de2e74fdbbf9e7e46d2787c7d_R.jpg",
-   "published": "2026-07-29T11:06+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "08ea7a0af0ba",
-   "url": "https://www.itmedia.co.jp/news/article/limage/1810/16/1181016127/506553",
-   "title": "西武新宿駅に自律型警備ロボット AIカメラで不審者を見つける 11月から（画像）（3/3枚目）",
-   "summary": "西武新宿駅に自律型警備ロボットが導入され、AIカメラで不審者を検知。",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1810/16/1181016127/506554/2048",
-   "published": "2026-07-29T10:14+09:00",
-   "collected": "2026-07-30T07:07+09:00"
-  },
-  {
-   "id": "8319d3deb956",
-   "url": "https://www.itmedia.co.jp/news/article/limage/1803/07/1180307129/554467",
-   "title": "西武鉄道ら、警備ロボットを使った実証実験へ（画像）（1/2枚目）",
-   "summary": "西武鉄道ら、警備ロボットを使った実証実験へ（画像）（1/2枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1803/07/1180307129/554471/2048",
-   "published": "2026-07-29T09:56+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "09aa44c0867c",
-   "url": "https://www.itmedia.co.jp/news/article/limage/2004/15/1200415106/488511",
-   "title": "ソフトバンク、AI清掃ロボットと“清潔度”診断サービスを無償提供 医療や小売店などの生活インフラ支援で（画像）（1/2枚目）",
-   "summary": "ソフトバンク、AI清掃ロボットと“清潔度”診断サービスを無償提供 医療や小売店などの生活インフラ支援で（画像）（1/2枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/2004/15/1200415106/488515/2048",
-   "published": "2026-07-29T09:55+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "ef48fd42bd51",
-   "url": "https://www.mk.co.kr/jp/realestate/12110225",
-   "title": "ロッテ建設がロボット専門企業TXRロボティクスと協業し「自動運転床掃除ロボット」(自動運転掃除ロボット)を建設現場に導入した。ロッテ建設は29日、工事中の仁川暁星地区の都市開発事業共同住宅4ブロックの..",
-   "summary": "ロッテ建設がTXRロボティクスと協業し、自動運転床掃除ロボットを建設現場に導入。仁川暁星地区の工事現場で実運用を開始。",
-   "source": "매일경제",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202607/29/news-p.v1.20260729.9e36f03ac1e4457b9114b02750080e0c_R.jpg",
-   "published": "2026-07-29T09:24+09:00",
    "collected": "2026-07-30T07:07+09:00"
   }
  ]
