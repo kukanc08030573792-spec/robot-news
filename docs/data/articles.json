@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-28T15:18+09:00",
+  "last_updated": "2026-08-28T15:51+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "94ff115c4028",
+   "url": "https://news.yahoo.co.jp/articles/beccff2096516313b0c58f115db1114f7c92bcc9",
+   "title": "踊りはするがネジは締められない…中国ヒューマノイドの実用性（1）（中央日報日本語版）",
+   "summary": "展示会場では踊り、服も畳む。人の言葉を理解し、カップを見つけて手を伸ばす。ところが工場に連れて行き、ネジを締めさせようとすると話が変わる。手が滑り、力加減に失敗する。目標物を前にした最後の数ミリの誤",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00000039-cnippou-000-1-view.jpg?exp=10800",
+   "published": "2026-08-28T15:09+09:00",
+   "collected": "2026-08-28T15:51+09:00"
+  },
   {
    "id": "5d66baa9691c",
    "url": "https://topics.smt.docomo.ne.jp/article/japanesejoins/world/japanesejoins-354236?fm=latestnews",
@@ -6564,19 +6577,6 @@
    "expert": false,
    "thumbnail": "https://i.ytimg.com/vi/4ECQYc2LnBY/hqdefault.jpg",
    "published": "2026-07-30T16:29+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "893d3a9f0684",
-   "url": "https://www.itmedia.co.jp/news/article/limage/0711/26/1071126074/91544",
-   "title": "特定人物を発見・通報する警備ロボット（画像）（1/2枚目）",
-   "summary": "特定人物を発見・通報する警備ロボット（画像）（1/2枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/0711/26/1071126074/91546/2048",
-   "published": "2026-07-30T15:10+09:00",
    "collected": "2026-07-31T07:15+09:00"
   }
  ]
