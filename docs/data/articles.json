@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-28T15:51+09:00",
+  "last_updated": "2026-08-29T12:07+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,97 @@
   ]
  },
  "items": [
+  {
+   "id": "9c7d8a5ea8be",
+   "url": "https://news.yahoo.co.jp/articles/bb4003d24fd6b222c7652d4e37bc2251d86f2d4b",
+   "title": "ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事（朝鮮日報日本語版）",
+   "summary": "19日、中国・北京の世界ロボット大会（WRC）展示場。ロボット関連企業約300社、そのうちヒューマノイド・ロボット企業が50社参加したこの展示場には、サンドイッチを作り、果物や野菜を洗うなど、台所",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260828-00080125-chosun-000-9-view.jpg?exp=10800",
+   "published": "2026-08-29T11:20+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "d1670c1bd6d9",
+   "url": "https://note.com/zhenren63/n/n051ad2fa5b23",
+   "title": "第2回世界人型ロボット運動会2026総括｜2日間現地で見た「壊して直し、また走る」中国ヒューマノイドの現在地",
+   "summary": "2026年8月、WRC 2026に合わせて北京へ行きました。ちょうど同じ時期に第2回世界人型ロボット運動会も開かれていたので、こちらにも2日間参加しました。結果から言えば、行って良かったです。帰るころには「次は子どもを連れて来たいな」と思っ",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/308058271/rectangle_large_type_2_9ec38ad0da5dc708af49d99e641eecfd.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-08-29T10:38+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "ac152822fc36",
+   "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
+   "title": "From teach and repeat to SelfPath AI: The next robotics leap",
+   "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. Th",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-259-featured.jpg",
+   "published": "2026-08-29T08:25+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "95a5c0ec12d1",
+   "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
+   "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
+   "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The pos",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/bernstein-sundberg-reservoir-featured.jpg",
+   "published": "2026-08-29T06:06+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "34c6e090f4df",
+   "url": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
+   "title": "EXL acquires physical AI model developer iMerit",
+   "summary": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with re",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Mark-Liflander-EXL-iMerit-2048x1463-copy.jpg",
+   "published": "2026-08-29T02:36+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "36c36b2fe440",
+   "url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
+   "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+   "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulati",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Locus-Nexera-Box-Angle-Lift-featured.jpg",
+   "published": "2026-08-28T22:29+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
+  {
+   "id": "3643b71ea32f",
+   "url": "https://realsound.jp/tech/2026/08/post-2505479.html",
+   "title": "シャオミがロボット掃除機2機種＆コードレス掃除機を発売 最大35,000Paの吸引力を備えたフラッグシップも",
+   "summary": "シャオミ・ジャパンが、最大35,000Paの吸引力を備えたフラッグシップ『Xiaomi ロボット掃除機 6 Max』を含む新製品3機種を8月27日に発売する。早割キャンペーンも実施される。",
+   "source": "リアルサウンド",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://realsound.jp/wp-content/uploads/2026/08/20260828-xiaomirobot-99.jpg",
+   "published": "2026-08-28T17:30+09:00",
+   "collected": "2026-08-29T12:07+09:00"
+  },
   {
    "id": "94ff115c4028",
    "url": "https://news.yahoo.co.jp/articles/beccff2096516313b0c58f115db1114f7c92bcc9",
@@ -81,6 +172,19 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/28/https___gigazine_net_news_20260828-pollen-robotics-microduck_.jpg",
    "published": "2026-08-28T13:47+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "2fb4d062fb3b",
+   "url": "https://robotstart.info/article/img/2026/08/28/382338/105985.html",
+   "title": "MUSEのストアロボット「Armo」を米国Foodcellar Marketに導入開始 2枚目の写真・画像",
+   "summary": "株式会社MUSEが開発するストアロボット「Armo One」が、米ニューヨーク市クイーンズ区のフードマーケット「Foodcellar Market」に導入された。米国の実店舗での導入は今回が初めてで、店舗内の商品搬送業務を支援する。  MU",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105985.webp",
+   "published": "2026-08-28T13:30+09:00",
+   "collected": "2026-08-29T12:07+09:00"
   },
   {
    "id": "cce8cc5b21c8",
@@ -161,6 +265,19 @@
    "thumbnail": "https://hobby.watch.impress.co.jp/img/hbw/list/2135/442/000.jpg",
    "published": "2026-08-28T09:05+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "fa7c68affea8",
+   "url": "https://newswitch.jp/p/50123",
+   "title": "人型ロボット量産へ…日本精工・アトムが年20万台規模目指す、製造・物流に照準",
+   "summary": "日本精工とアトム（東京都江東区、青木俊介社長）は２６日、共同開発するヒューマノイド（ヒト型）ＡＩ（人工知能）ロボットの量産を２０２７年に始めると発表した。日本精工の精密部品の技術力とアトムのロボット開...",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.newswitch.jp/images/e329e4b8-4cdc-49d9-a86f-a4abf7ea4b98.jpg",
+   "published": "2026-08-28T06:05+09:00",
+   "collected": "2026-08-29T12:07+09:00"
   },
   {
    "id": "0c7e19bf3a61",
@@ -252,6 +369,19 @@
    "thumbnail": "https://www.ehime-np.co.jp/media/images/news/20260828/imgae86a905257c25dd.png",
    "published": "2026-08-27T19:12+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "85337d7f876c",
+   "url": "https://finance.yahoo.co.jp/news/detail/ca80d66242a7287addf892144354672245a53c81",
+   "title": "芙蓉総合リース---ヒューマノイドロボット社会実装目指すコンソーシアム「J-HRTI」へ参画(フィスコ)",
+   "summary": "芙蓉総合リース---ヒューマノイドロボット社会実装目指すコンソーシアム「J-HRTI」へ参画(フィスコ)    Yahoo!ファイナンス 「J-HRTI 関東データファクトリー」稼働に伴い、物流現場におけるヒューマノイドロボット実装活動を本",
+   "source": "Yahoo!ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+   "published": "2026-08-27T16:46+09:00",
+   "collected": "2026-08-29T12:07+09:00"
   },
   {
    "id": "d70310bf9380",
@@ -6447,137 +6577,6 @@
    "published": "2026-07-31T07:02+09:00",
    "collected": "2026-07-31T07:15+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "51f6efb620f1",
-   "url": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/",
-   "title": "5 Physical AI Infrastructure Platforms Shaping Robotics in 2026",
-   "summary": "From accelerated computing and simulation to data operations, open-source tooling, validation engineering, and continuou",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/Lightwheel.png",
-   "published": "2026-07-31T05:01+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "ace9c3206e90",
-   "url": "https://www.therobotreport.com/doordash-gains-faa-certification-to-operate-its-own-drone-delivery-program/",
-   "title": "DoorDash gains FAA certification to operate its own drone delivery program",
-   "summary": "The FAA approval came nearly a year after DoorDash unveiled its delivery robot and reflects its increasing interest in b",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/aircraft_nose-featured.jpg",
-   "published": "2026-07-31T03:06+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "c02d5d162a65",
-   "url": "https://www.therobotreport.com/teradyne-robotics-revenue-rises-33-year-over-year-in-q2/",
-   "title": "Teradyne Robotics revenue rises 33% year over year in Q2",
-   "summary": "Teradyne Robotics said growth in the U.S. and in AI were big drivers for its revenue increase in the second quarter of 2",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/UR-teradyne-featured.jpg",
-   "published": "2026-07-31T02:38+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "be7828c2e539",
-   "url": "https://note.com/zhenren63/n/n462c60260d07",
-   "title": "PaXiniを「ヒューマノイド企業」と呼ぶのは、たぶん少し雑すぎる~深圳の新ショールームで見えた、触覚センサー企業からフィジカルAI基盤企業への変化~｜吉川真人＠中国テックトレンドニュース",
-   "summary": "今回、深圳のロボット企業PaXiniから新しい展示スペースの訪問に招待いただきました。PaXiniは今回、中国国内だけでなく海外の発信者も集めたプロモーションを行っており、私は日本向けに中国ロボット産業を発信する立場として参加した形です。 ",
-   "source": "note",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://assets.st-note.com/production/uploads/images/295686761/rectangle_large_type_2_e24e10f930149ca404ddaabae0700b2f.png?fit=bounds&quality=85&width=1280",
-   "published": "2026-07-31T00:09+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "f85e69647fbb",
-   "url": "https://hobby.watch.impress.co.jp/docs/news/2129220.html",
-   "title": "【Amazonセール】SwitchBotの小型ロボット掃除機「K11+ Pro」がお買い得",
-   "summary": "Amazonにて、SwitchBotのロボット掃除機「K11+ Pro」がセール価格で販売されている。期間は8月10日23時59分まで。",
-   "source": "hobby Watch",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://hobby.watch.impress.co.jp/img/hbw/list/2129/220/001.jpg",
-   "published": "2026-07-31T00:05+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "c6284a770c0a",
-   "url": "https://www.mk.co.kr/jp/it/12112701",
-   "title": "グーグル「ジェミナイロボティクス2」が適用されたロボットがビニール袋の紐を結んでいる。グーグル",
-   "summary": "グーグルディープマインドがヒューマノイドロボットの動きを体全体に拡張した次世代人工知能(AI)モデルを披露した。 腕と手を動かす水準を越えて歩きと移動、繊細な手の動作、色々なロボットの協業も可能になり、汎用ヒューマノイド技術が一段階進化した",
-   "source": "매일경제",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://static.mk.co.kr/facebook_mknews.jpg",
-   "published": "2026-07-31T00:03+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "4734937fe8ea",
-   "url": "https://j.people.com.cn/n3/2026/0730/c94476-20483804.html",
-   "title": "家事代行サービスロボット「麗陽小当家」が間もなく英国で「勤務」スタート",
-   "summary": "家事代行サービスロボット「麗陽小当家」が間もなく英国で「勤務」スタート    人民網日本語版",
-   "source": "人民網日本語版",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-30T17:45+09:00",
-   "collected": "2026-07-31T07:15+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "5f873ebb8354",
-   "url": "https://www.businessinsider.jp/article/2607-humanoid-robotics-stocks-etfs-how-to-invest-koid-labor-manufacturing/",
-   "title": "ヒューマノイドロボットへ、いまから投資する方法。約800兆円規模の潜在市場",
-   "summary": "AIブームにより、人間の労働者に取って代わるロボットの実現が、かつてないほど近づいているかもしれません。ここでは、一部の投資のプロたちが、このトレンドにどのようにいち早く乗り出しているかをご紹介します。",
-   "source": "Business Insider Japan",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.loom-app.com/loom/2026/07/29/7ab2c173-eb5a-4eac-923f-7500405cf4ca/original.jpg?w=1200&h=630",
-   "published": "2026-07-30T17:30+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "18f8446106b2",
-   "url": "https://www.ctiweb.co.jp/2026/07/30/%E3%80%90%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%80%91%E6%97%A5%E6%9C%AC%E8%83%BD%E7%8E%87%E5%8D%94%E4%BC%9A%E7%B7%8F%E5%90%88%E7%A0%94/",
-   "title": "【ヒューマノイドロボット】日本能率協会総合研究所MDB、2030年に2.5兆円規模と推計",
-   "summary": "【ヒューマノイドロボット】日本能率協会総合研究所MDB、2030年に2.5兆円規模と推計    ctiweb.co.jp",
-   "source": "ctiweb.co.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.ctiweb.co.jp/wp-content/uploads/2026/07/image-106.png",
-   "published": "2026-07-30T17:04+09:00",
-   "collected": "2026-07-31T07:15+09:00"
-  },
-  {
-   "id": "7814dade6ec7",
-   "url": "https://www.youtube.com/shorts/4ECQYc2LnBY",
-   "title": "Supermarket Aisle Cleaning | Big Machine. Precision Moves. #cleaningrobot #satisfyingcleaning",
-   "summary": "Supermarkets are one of the toughest environments for autonomous cleaning — tight aisles, constant obstacles, and zero r",
-   "source": "Gausium",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/4ECQYc2LnBY/hqdefault.jpg",
-   "published": "2026-07-30T16:29+09:00",
-   "collected": "2026-07-31T07:15+09:00"
   }
  ]
 }
