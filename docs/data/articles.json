@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-29T12:22+09:00",
+  "last_updated": "2026-08-29T12:50+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -369,6 +369,19 @@
    "thumbnail": "https://www.ehime-np.co.jp/media/images/news/20260828/imgae86a905257c25dd.png",
    "published": "2026-08-27T19:12+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "b3c6af0a6a33",
+   "url": "https://www.youtube.com/watch?v=ZybLmiDMhTw",
+   "title": "PUDU D5: Mapping & Autonomous Patrol Demo",
+   "summary": "Map. Navigate. Patrol. Recharge. Repeat. Built for autonomous patrol across expansive environments, #PUDUD5 combines mob",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/ZybLmiDMhTw/hqdefault.jpg",
+   "published": "2026-08-27T18:36+09:00",
+   "collected": "2026-08-29T12:50+09:00"
   },
   {
    "id": "85337d7f876c",
@@ -6563,20 +6576,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00000006-binsider-000-1-view.jpg?exp=10800",
    "published": "2026-07-31T07:16+09:00",
    "collected": "2026-07-31T07:43+09:00"
-  },
-  {
-   "id": "06f83a6bcf40",
-   "url": "https://kabu-ir.com/article/521247029.html",
-   "title": "ヒーハイスト、２７年３月期は大幅増収・黒字転換で復配予想、ロボット関連需要に注目",
-   "summary": "ヒーハイスト、２７年３月期は大幅増収・黒字転換で復配予想、ロボット関連需要に注目    kabu-ir.com",
-   "source": "kabu-ir.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-07-31T07:02+09:00",
-   "collected": "2026-07-31T07:15+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
