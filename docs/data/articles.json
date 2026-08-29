@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-29T13:06+09:00",
+  "last_updated": "2026-08-30T08:13+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,58 @@
   ]
  },
  "items": [
+  {
+   "id": "d8bc24e79257",
+   "url": "https://toyokeizai.net/articles/-/955940?display=b",
+   "title": "ユニツリーの時価総額は10兆円に！ 中国｢人型ロボット｣産業の現在地 国産化はどこまで進んだのか",
+   "summary": "中国で人型ロボット産業が急成長し､世界的に注目を浴びています。8月19日に上場したユニツリーの初値ベースの時価総額は10兆円を超えました。",
+   "source": "東洋経済オンライン",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://tk.ismcdn.jp/mwimgs/f/e/1200xm/img_fe15cae19fe8ea7a73b32297dd2a61a3211077.jpg",
+   "published": "2026-08-30T05:40+09:00",
+   "collected": "2026-08-30T08:13+09:00"
+  },
+  {
+   "id": "090593095f5b",
+   "url": "https://www.vietnam.vn/ja/dang-chay-cua-robot-trung-quoc-dang-gay-sot-mang-xa-hoi",
+   "title": "中国製のロボットの歩き方がソーシャルメディアで話題になっている。",
+   "summary": "SVO - 400メートル走で優勝した中国のロボットが見せた「恥ずかしそうな」走り方が、ソーシャルメディアで話題になっている。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/30/1788030607525_20260-jpg.webp",
+   "published": "2026-08-30T04:51+09:00",
+   "collected": "2026-08-30T08:13+09:00"
+  },
+  {
+   "id": "17f646a2028a",
+   "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
+   "title": "The differences between decentralized and centralized power in swarm robotics",
+   "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Amazon_fleet.jpg",
+   "published": "2026-08-29T21:25+09:00",
+   "collected": "2026-08-30T08:13+09:00"
+  },
+  {
+   "id": "2711c7a29501",
+   "url": "https://www.chosunonline.com/site/data/html_dir/2026/08/28/2026082880125.html",
+   "title": "ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事",
+   "summary": "ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事    朝鮮日報",
+   "source": "朝鮮日報",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.chosunonline.com/site/data/img_dir/2026/08/28/2026082880121_0.jpg",
+   "published": "2026-08-29T11:20+09:00",
+   "collected": "2026-08-30T08:13+09:00"
+  },
   {
    "id": "9c7d8a5ea8be",
    "url": "https://news.yahoo.co.jp/articles/bb4003d24fd6b222c7652d4e37bc2251d86f2d4b",
@@ -369,6 +421,19 @@
    "thumbnail": "https://www.ehime-np.co.jp/media/images/news/20260828/imgae86a905257c25dd.png",
    "published": "2026-08-27T19:12+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "6502584e8141",
+   "url": "https://www.vietnam.vn/ja/ha-noi-thu-nghiem-xe-buyt-tu-hanh-robotaxi-robot-don-ve-sinh-va-giao-hang",
+   "title": "ハノイでは、自動運転バス、ロボットタクシー、清掃ロボット、配送ロボットの試験運用が行われている。",
+   "summary": "ハノイ市は最近、ある企業に対し、ホアラック市で自律走行バス、ロボットタクシー、清掃ロボット、配送ロボットなどを含むインテリジェント自律交通システムの試験運用を実施することを承認した。試験期間は24ヶ月で、ベトナム企業が開発した自律走行技術の",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/27/1787822267374_edit-ha-noi-17878153265601943375333-32-0-1187-1848-crop-17878153366631925207808.png",
+   "published": "2026-08-27T18:59+09:00",
+   "collected": "2026-08-30T08:13+09:00"
   },
   {
    "id": "b3c6af0a6a33",
@@ -6511,71 +6576,6 @@
    "thumbnail": "https://www.nikkeibp.co.jp/images/bplogo/og-logo.png",
    "published": "2026-07-31T10:04+09:00",
    "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "265b23fad6be",
-   "url": "https://xtech.nikkei.com/atcl/nxt/info/18/00055/073000022/",
-   "title": "約180点の分解写真を収録、「人型ロボット『Unitree G1』徹底分解・分析レポート」",
-   "summary": "日経BPが2026年7月31日に発刊した調査レポート「人型ロボット『Unitree G1』徹底分解・分析レポート」は、中国・米国を中心に世界で開発が加速している汎用ヒューマノイドロボットに着目し、Unitree G1を軸に、激変するフィジカ",
-   "source": "日経クロステック",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://xtech.nikkei.com/atcl/nxt/info/18/00055/073000022/topm.jpg?20220512",
-   "published": "2026-07-31T10:00+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "b62987dd5fde",
-   "url": "https://kunisawa.net/car/car_latest-information/%E4%B8%89%E8%8F%B1%E8%87%AA%E5%8B%95%E8%BB%8A%E3%80%81%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%81%AE%E9%87%8F%E7%94%A3%E3%82%92%E7%99%BA%E8%A1%A8%E3%81%97%E3%81%A6%E6%A0%AA%E4%BE%A1/",
-   "title": "三菱自動車、人型ロボットの量産を発表して株価上昇。中国ロボット、暴れそうで怖い（笑）",
-   "summary": "三菱自動車、人型ロボットの量産を発表して株価上昇。中国ロボット、暴れそうで怖い（笑）    自動車評論家 国沢光宏",
-   "source": "自動車評論家 国沢光宏",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i0.wp.com/kunisawa.net/wp-content/uploads/2026/07/37311.jpg?fit=693%2C759&ssl=1",
-   "published": "2026-07-31T09:57+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "80bf62930d98",
-   "url": "https://prtimes.jp/main/html/rd/p/000000069.000097103.html",
-   "title": "RobotBank、追従型搬送ロボット「STARWALK」を国内市場向けに全面アップグレード",
-   "summary": "ロボットバンク株式会社のプレスリリース（2026年7月31日 09時00分）RobotBank、追従型搬送ロボット「STARWALK」を国内市場向けに全面アップグレード",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/97103/69/97103-69-24cb73fdca84d17223a1af790c6e67a3-1561x1008.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-07-31T09:00+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "1c11f7ae39db",
-   "url": "https://news.yahoo.co.jp/articles/259579bf1e2859a14834bfc6eba47303aef45918",
-   "title": "BYD、8月に初の人型ロボット発表へ 店舗2〜3台配置が目標",
-   "summary": "電気自動車（EV）大手の比亜迪（BYD）は7月28日、自社初の人型ロボット（ヒューマノイド）を8月に正式発表することを明らかにした。中国メディアの財聯社が報じた。これに先立ち、BYDのブランド体験型",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00010000-krjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-07-31T08:20+09:00",
-   "collected": "2026-07-31T08:38+09:00"
-  },
-  {
-   "id": "ec6d97043c68",
-   "url": "https://news.yahoo.co.jp/articles/c4b80ebbe96d328f40b7f7d652b8b7dde7b6214a",
-   "title": "ヒューマノイドロボットへ、いまから投資する方法。約800兆円規模の潜在市場（海外）（BUSINESS INSIDER JAPAN）",
-   "summary": "ヒューマノイドロボティクス（人型ロボット技術）は5兆ドル（約800兆円、1ドル=160円換算：以下同）市場に成長する可能性がある、とモルガン・スタンレーは指摘する。まだ黎明期にあるが、AIがもたらし",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00000006-binsider-000-1-view.jpg?exp=10800",
-   "published": "2026-07-31T07:16+09:00",
-   "collected": "2026-07-31T07:43+09:00"
   }
  ]
 }
