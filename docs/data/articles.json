@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-30T10:11+09:00",
+  "last_updated": "2026-08-31T08:24+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,45 @@
   ]
  },
  "items": [
+  {
+   "id": "8304586348aa",
+   "url": "https://www.chosunonline.com/m/svc/article.html?contid=2026082880172",
+   "title": "ピンセットで豆をつまむ、料理をする…手先の器用さも競う中国のロボット運動会",
+   "summary": "ピンセットで豆をつまむ、料理をする…手先の器用さも競う中国のロボット運動会    朝鮮日報",
+   "source": "朝鮮日報",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.chosunonline.com/site/data/img_dir/2026/08/28/2026082880172_thumb.jpg",
+   "published": "2026-08-31T08:00+09:00",
+   "collected": "2026-08-31T08:24+09:00"
+  },
+  {
+   "id": "9d0db04577a3",
+   "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
+   "title": "The edge AI wall: Why embodied AI requires new mathematics",
+   "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The po",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/The-Edge-AI-Wall-1.1_Page_3_Image_0002.jpg",
+   "published": "2026-08-30T21:45+09:00",
+   "collected": "2026-08-31T08:24+09:00"
+  },
+  {
+   "id": "815b683d3163",
+   "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-trung-quoc-con-sot-cong-nghe-hay-bong-bong-moi",
+   "title": "中国製ヒューマノイドロボット：一過性の技術ブームか、それとも新たなバブルか？",
+   "summary": "中国は人型ロボットに大きな賭けをしており、多くの企業がその生産競争を繰り広げている。しかし、その背景には、市場が本当に数十万台ものロボットを受け入れる準備ができているのか、あるいは業界の生産ペースが実際の需要を上回っているのかという疑問があ",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/30/1788074897493_robot-vo-thuat.png",
+   "published": "2026-08-30T17:12+09:00",
+   "collected": "2026-08-31T08:24+09:00"
+  },
   {
    "id": "845df26dd064",
    "url": "https://robotstart.info/article/2026/08/30/382342.html",
@@ -187,6 +226,19 @@
    "collected": "2026-08-29T12:07+09:00"
   },
   {
+   "id": "25a673ec0f16",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/",
+   "title": "「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過 「ベルトコンベヤーも自作」 アトム（1/2 ページ）",
+   "summary": "アトムが人型ロボットの作業風景を生配信している。ベルトコンベヤーで流れてくる荷物を1つずつ手に取り、ラベルが貼られている面を上に向ける作業を実施中。（1/2 ページ）",
+   "source": "ITmedia",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/28/2000000912/10004300/2048",
+   "published": "2026-08-28T17:11+09:00",
+   "collected": "2026-08-31T08:24+09:00"
+  },
+  {
    "id": "94ff115c4028",
    "url": "https://news.yahoo.co.jp/articles/beccff2096516313b0c58f115db1114f7c92bcc9",
    "title": "踊りはするがネジは締められない…中国ヒューマノイドの実用性（1）（中央日報日本語版）",
@@ -237,6 +289,19 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/28/https___gigazine_net_news_20260828-pollen-robotics-microduck_.jpg",
    "published": "2026-08-28T13:47+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "5603fdc6380f",
+   "url": "https://robotstart.info/article/img/2026/08/28/382338/105875.html",
+   "title": "MUSEのストアロボット「Armo」を米国Foodcellar Marketに導入開始 1枚目の写真・画像",
+   "summary": "株式会社MUSEが開発するストアロボット「Armo One」が、米ニューヨーク市クイーンズ区のフードマーケット「Foodcellar Market」に導入された。米国の実店舗での導入は今回が初めてで、店舗内の商品搬送業務を支援する。  MU",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/105875.jpg",
+   "published": "2026-08-28T13:30+09:00",
+   "collected": "2026-08-31T08:24+09:00"
   },
   {
    "id": "2fb4d062fb3b",
@@ -330,6 +395,32 @@
    "thumbnail": "https://hobby.watch.impress.co.jp/img/hbw/list/2135/442/000.jpg",
    "published": "2026-08-28T09:05+09:00",
    "collected": "2026-08-28T14:17+09:00"
+  },
+  {
+   "id": "18dd38a4ad83",
+   "url": "https://36kr.jp/500294/",
+   "title": "人型ロボットにも「ODM」の波 中国BXI Robotics、完成機を最短6カ月で開発",
+   "summary": "人型ロボットにも「ODM」の波 中国BXI Robotics、完成機を最短6カ月で開発    36Kr Japan",
+   "source": "36Kr Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36kr.jp/uploads/2026/08/20260810102218v2_50b87c3fce99434187077587e61d999f@6221844_oswg477499oswg1202oswg684_img_png822.jpeg",
+   "published": "2026-08-28T07:30+09:00",
+   "collected": "2026-08-31T08:24+09:00"
+  },
+  {
+   "id": "dda70026f7c1",
+   "url": "https://cloud.watch.impress.co.jp/docs/news/2136299.html",
+   "title": "アトムが豊洲にデータ収集拠点「フィジカルAIファウンドリ」を開設 国産ヒューマノイドAIロボットの基幹産業化へ取り組む",
+   "summary": "国産ヒューマノイドAIロボットを開発する株式会社アトムは26日、フィジカルAIのデータ収集センター「アトム フィジカルAIファウンドリ」を、東京・豊洲に開設した。",
+   "source": "クラウド Watch",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://cloud.watch.impress.co.jp/img/clw/list/2136/299/500.jpg",
+   "published": "2026-08-28T06:15+09:00",
+   "collected": "2026-08-31T08:24+09:00"
   },
   {
    "id": "fa7c68affea8",
@@ -460,6 +551,20 @@
    "thumbnail": "https://i.ytimg.com/vi/ZybLmiDMhTw/hqdefault.jpg",
    "published": "2026-08-27T18:36+09:00",
    "collected": "2026-08-29T12:50+09:00"
+  },
+  {
+   "id": "33b28ba1c01c",
+   "url": "https://jp.investing.com/news/stock-market-news/article-1662683",
+   "title": "芙蓉総合リース---ヒューマノイドロボット社会実装目指すコンソーシアム「J-HRTI」へ参画 執筆 - Investing.com",
+   "summary": "芙蓉総合リース---ヒューマノイドロボット社会実装目指すコンソーシアム「J-HRTI」へ参画 執筆    Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-08-27T16:46+09:00",
+   "collected": "2026-08-31T08:24+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "85337d7f876c",
@@ -6471,110 +6576,6 @@
    "expert": false,
    "thumbnail": "https://japan.cnet.com/storage/2026/07/31/2bf25e0b82d8b0c1d4c19c51820c7156/Realbotix-Sally-Image-1_1280x960.jpg",
    "published": "2026-07-31T16:22+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "b4deca58d691",
-   "url": "https://global.toyota/jp/mobility/frontier-research/44665876.html",
-   "title": "ヒューマノイドロボットの音声インタラクション研究 | 未来につながる研究 | モビリティ",
-   "summary": "トヨタ自動車 未来創生センター（以下、トヨタ）では、これまでインタラクションの研究と実証を目的に、小型のマスコットロボットを研究してきました。最近では、トヨタのオウンドメディア「トヨタイムズ」の富川 悠太アナウンサーをモデルにした「トミーく",
-   "source": "トヨタ自動車株式会社 公式企業サイト",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://global.toyota/pages/global_toyota/mobility/frontier-research/2026/07/31/1300/20260731_01_ogp.jpg",
-   "published": "2026-07-31T15:23+09:00",
-   "collected": "2026-08-02T07:03+09:00"
-  },
-  {
-   "id": "0ceb3fd147ac",
-   "url": "https://forbesjapan.com/articles/detail/101991",
-   "title": "ヒト型・四足歩行型ロボ新興の中国Unitreeが上海上場へ、業界初の評価基準を確立",
-   "summary": "米国で最も企業価値の高いヒューマノイドロボット（ヒト型ロボ）のスタートアップは、自社株が取引されないように本格的な努力を払っている。Figureは2025年9月、390億ドル（約6.24兆円。1ドル＝160円換算）の評価額で10億ドル（約1",
-   "source": "forbesjapan.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://images.forbesjapan.com/media/article/101991/images/main_image_daa64dcb8ee727aa05f7c129c3878e2f2b97d14e.jpg",
-   "published": "2026-07-31T15:00+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "3b08fafd0099",
-   "url": "https://robotstart.info/article/2026/07/31/382220.html",
-   "title": "Google DeepMind、ヒューマノイド向けAIモデル「Gemini Robotics 2」発表 全身制御と高度な器用さを実現",
-   "summary": "Google DeepMindは、ヒューマノイドロボット向けAIモデルの最新版「Gemini Robotics 2」を発表した。従来の上半身中心の制御から一歩進み、歩行や屈伸を含む全身制御、高度な手先の器用さ、複数ロボットによる協調作業まで",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105187.jpg",
-   "published": "2026-07-31T13:45+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "5e1da150f8d1",
-   "url": "https://www.zaikei.co.jp/article/20260731/863837.html",
-   "title": "言葉だけでなく「声のトーン」も理解、KDDIがGemini搭載の接客ロボット",
-   "summary": "KDDIã¨AVITAã¯ãå£°ã®ãã¼ã³ãææããªã¢ã«ã¿ã¤ã ã«çè§£ãããGeminiãæ­è¼ã®æ¥å®¢ç¨ãã¥ã¼ã",
-   "source": "財経新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "http://www.zaikei.co.jp/files/general/20260731124412KvM0big.png",
-   "published": "2026-07-31T12:44+09:00",
-   "collected": "2026-08-03T07:03+09:00"
-  },
-  {
-   "id": "b8397417666f",
-   "url": "https://robotstart.info/article/img/2026/07/31/382219/105177.html",
-   "title": "Teslaのヒューマノイド「Optimus」量産への現在地 フリーモント工場とGen3開発の最新情報まとめ 1枚目の写真・画像",
-   "summary": "米Tesla社のヒューマノイド「Optimus」は、発表と同時にロボティクス業界だけでなく、産業界全体に衝撃を与えました。それは2021年のことです。 現在、どのような状況なのでしょうか。有識者やSNSの声を含めてまとめてみましょう。  T",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105177.jpg",
-   "published": "2026-07-31T12:41+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "63ce147a46ba",
-   "url": "https://robotstart.info/article/img/2026/07/31/382218/105166.html",
-   "title": "歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレード、日本製バッテリー搭載で安全性・保守性を強化 1枚目の写真・画像",
-   "summary": "ロボットバンク株式会社は、追従型搬送ロボット「STARWALK」を日本市場向けに全面アップグレードし、日本製バッテリーを標準搭載した新モデルの提供を開始した。  歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレー",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105166.jpg",
-   "published": "2026-07-31T11:00+09:00",
-   "collected": "2026-08-03T07:03+09:00"
-  },
-  {
-   "id": "0a270a5437f7",
-   "url": "https://robotstart.info/article/img/2026/07/31/382218/105165.html",
-   "title": "歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレード、日本製バッテリー搭載で安全性・保守性を強化 2枚目の写真・画像",
-   "summary": "ロボットバンク株式会社は、追従型搬送ロボット「STARWALK」を日本市場向けに全面アップグレードし、日本製バッテリーを標準搭載した新モデルの提供を開始した。  歩くだけで荷物搬送を自動化する追従型ロボット「STARWALK」をアップグレー",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105165.webp",
-   "published": "2026-07-31T11:00+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "c8ab38390442",
-   "url": "https://news.yahoo.co.jp/articles/58008fdccf2106ac13583b9ebea7e7d952cb1050",
-   "title": "Google、ロボット向けAI「Gemini Robotics 2」発表 ヒューマノイドの全身制御や指先作業を実現（ITmedia NEWS）",
-   "summary": "米Googleと同社傘下のGoogle DeepMindは7月30日（現地時間）、ロボット向けAIモデル群「Gemini Robotics 2」を発表した。ヒューマノイドロボットの全身制御、指先を",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00000026-zdn_n-000-1-view.jpg?exp=10800",
-   "published": "2026-07-31T10:28+09:00",
    "collected": "2026-08-01T07:12+09:00"
   }
  ]
