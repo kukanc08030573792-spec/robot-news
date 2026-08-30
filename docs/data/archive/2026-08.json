@@ -1,5 +1,31 @@
 [
  {
+  "id": "e43260613269",
+  "url": "https://news.yahoo.co.jp/articles/ad36efc1a18893d8dc56f846170df0ec0f89816a",
+  "title": "ヒューマノイドは「大規模導入の段階ではない」 上場直後、Unitree創業者が語った現実",
+  "summary": "中国のロボット大手、宇樹科技（Unitree Robotics）の創業者で最高経営責任者（CEO）の王興興氏は、2026世界ロボット大会（WRC 2026）で講演し、人型ロボット（ヒューマノイド）の",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00010001-krjapan-000-1-view.jpg?exp=10800",
+  "published": "2026-08-31T08:30+09:00",
+  "collected": "2026-08-31T08:49+09:00"
+ },
+ {
+  "id": "025b1bd1b28a",
+  "url": "https://ict-enews.net/2026/08/31robotmate-hub/",
+  "title": "「ウイルテック フィジカルAIハッカソン powered by RobotMateHub」参加者募集開始",
+  "summary": "ヤマリキエッジが運営するRobotMateHubは27日、ウイルテックと11月14日～15日に共催する二足歩行型ヒューマノイドロボットを活用したハッカソン「ウイルテック フィジカル […]",
+  "source": "ICT教育ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://ict-enews.net/wp-content/uploads/2026/08/0831-wt-1200x630.webp",
+  "published": "2026-08-31T08:12+09:00",
+  "collected": "2026-08-31T08:49+09:00"
+ },
+ {
   "id": "8304586348aa",
   "url": "https://www.chosunonline.com/m/svc/article.html?contid=2026082880172",
   "title": "ピンセットで豆をつまむ、料理をする…手先の器用さも競う中国のロボット運動会",
@@ -11,6 +37,19 @@
   "thumbnail": "https://www.chosunonline.com/site/data/img_dir/2026/08/28/2026082880172_thumb.jpg",
   "published": "2026-08-31T08:00+09:00",
   "collected": "2026-08-31T08:24+09:00"
+ },
+ {
+  "id": "28df03d25911",
+  "url": "https://kakakumag.com/seikatsu-kaden/?id=22475",
+  "title": "コロコロ vs ハンディクリーナーで「ちょい掃除」の最適解を探ってみた",
+  "summary": "小型のハンディクリーナーなら「コロコロ」の弱点を補って、日常における「ちょい掃除」の主役になってくれるのでは？ と考え、比較・検証してみました。",
+  "source": "価格.comマガジン",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img1.kakaku.k-img.com/images/maga/22475/thumbnail_ogp.jpg?v=20240724",
+  "published": "2026-08-31T07:00+09:00",
+  "collected": "2026-08-31T08:49+09:00"
  },
  {
   "id": "9d0db04577a3",
@@ -546,7 +585,7 @@
   "thumbnail": null,
   "published": "2026-08-27T16:46+09:00",
   "collected": "2026-08-31T08:24+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d70310bf9380",
