@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-30T08:34+09:00",
+  "last_updated": "2026-08-30T09:40+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "845df26dd064",
+   "url": "https://robotstart.info/article/2026/08/30/382342.html",
+   "title": "35台のヒューマノイドがずらり フィジカルAIの学習データはどう作る？ J-HRTIが大規模データファクトリーを開設",
+   "summary": "2026年8月26日、ヒューマノイドロボットの社会実装を推進するコンソーシアム「J-HRTI（ジェイハーティ）」は「J-HRTI関東データファクトリー」の本格稼働を開始した。約1,400平方メートルの施設には35台のヒューマノイドを導入、オ",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106062.jpg",
+   "published": "2026-08-30T09:10+09:00",
+   "collected": "2026-08-30T09:40+09:00"
+  },
   {
    "id": "d8bc24e79257",
    "url": "https://toyokeizai.net/articles/-/955940?display=b",
@@ -6562,19 +6575,6 @@
    "expert": false,
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260731-00000026-zdn_n-000-1-view.jpg?exp=10800",
    "published": "2026-07-31T10:28+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "b670c55f4261",
-   "url": "https://www.nikkeibp.co.jp/atcl/newsrelease/corp/20260731/",
-   "title": "調査レポート「人型ロボット『Unitree G1』徹底分解・分析レポート」発刊、激変するフィジカルAI開発の最前線を明らかに",
-   "summary": "調査レポート「人型ロボット『Unitree G1』徹底分解・分析レポート」発刊、激変するフィジカルAI開発の最前線を明らかに    日経BP",
-   "source": "日経BP",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.nikkeibp.co.jp/images/bplogo/og-logo.png",
-   "published": "2026-07-31T10:04+09:00",
    "collected": "2026-08-01T07:12+09:00"
   }
  ]
