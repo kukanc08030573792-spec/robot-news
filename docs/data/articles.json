@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-31T09:48+09:00",
+  "last_updated": "2026-08-31T10:20+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,32 @@
   ]
  },
  "items": [
+  {
+   "id": "e28765e2e206",
+   "url": "https://robotstart.info/article/img/2026/08/31/382343/106023.html",
+   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装 17枚目の写真・画像",
+   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106023.jpg",
+   "published": "2026-08-31T09:15+09:00",
+   "collected": "2026-08-31T10:20+09:00"
+  },
+  {
+   "id": "27cd4a1efc1b",
+   "url": "https://robotstart.info/article/img/2026/08/31/382343/106011.html",
+   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装 5枚目の写真・画像",
+   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106011.jpg",
+   "published": "2026-08-31T09:15+09:00",
+   "collected": "2026-08-31T10:20+09:00"
+  },
   {
    "id": "8e978cf0f45e",
    "url": "https://robotstart.info/article/2026/08/31/382343.html",
@@ -6551,32 +6577,6 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1711/20/1171120122/298222/2048",
    "published": "2026-07-31T21:21+09:00",
    "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "313048633f89",
-   "url": "https://www.itmedia.co.jp/news/article/limage/1711/20/1171120122/298212",
-   "title": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（2/6枚目）",
-   "summary": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（2/6枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1711/20/1171120122/298222/2048",
-   "published": "2026-07-31T21:20+09:00",
-   "collected": "2026-08-01T07:12+09:00"
-  },
-  {
-   "id": "d0306423f678",
-   "url": "https://www.itmedia.co.jp/news/article/limage/1711/20/1171120122/298220",
-   "title": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（6/6枚目）",
-   "summary": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（6/6枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1711/20/1171120122/298222/2048",
-   "published": "2026-07-31T21:19+09:00",
-   "collected": "2026-08-02T07:03+09:00"
   }
  ]
 }
