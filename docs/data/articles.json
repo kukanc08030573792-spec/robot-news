@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-08-31T08:49+09:00",
+  "last_updated": "2026-08-31T09:48+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-08",
@@ -30,6 +30,19 @@
   ]
  },
  "items": [
+  {
+   "id": "8e978cf0f45e",
+   "url": "https://robotstart.info/article/2026/08/31/382343.html",
+   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装",
+   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106066.jpg",
+   "published": "2026-08-31T09:15+09:00",
+   "collected": "2026-08-31T09:48+09:00"
+  },
   {
    "id": "e43260613269",
    "url": "https://news.yahoo.co.jp/articles/ad36efc1a18893d8dc56f846170df0ec0f89816a",
@@ -603,7 +616,7 @@
    "thumbnail": null,
    "published": "2026-08-27T16:46+09:00",
    "collected": "2026-08-31T08:24+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "85337d7f876c",
@@ -6564,19 +6577,6 @@
    "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1711/20/1171120122/298222/2048",
    "published": "2026-07-31T21:19+09:00",
    "collected": "2026-08-02T07:03+09:00"
-  },
-  {
-   "id": "acb67dd6af04",
-   "url": "https://www.itmedia.co.jp/news/article/limage/1711/20/1171120122/298210",
-   "title": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（1/6枚目）",
-   "summary": "17年は「移動ロボット」に注力 ソフトバンクロボティクス、業務用清掃ロボット事業に参入（画像）（1/6枚目）    ITmedia",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.itmedia.co.jp/news/article/ogp/1711/20/1171120122/298222/2048",
-   "published": "2026-07-31T21:15+09:00",
-   "collected": "2026-08-01T07:12+09:00"
   }
  ]
 }

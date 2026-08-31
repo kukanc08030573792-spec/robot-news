@@ -1,5 +1,18 @@
 [
  {
+  "id": "8e978cf0f45e",
+  "url": "https://robotstart.info/article/2026/08/31/382343.html",
+  "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装",
+  "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/106066.jpg",
+  "published": "2026-08-31T09:15+09:00",
+  "collected": "2026-08-31T09:48+09:00"
+ },
+ {
   "id": "e43260613269",
   "url": "https://news.yahoo.co.jp/articles/ad36efc1a18893d8dc56f846170df0ec0f89816a",
   "title": "ヒューマノイドは「大規模導入の段階ではない」 上場直後、Unitree創業者が語った現実",
@@ -585,7 +598,7 @@
   "thumbnail": null,
   "published": "2026-08-27T16:46+09:00",
   "collected": "2026-08-31T08:24+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "d70310bf9380",
