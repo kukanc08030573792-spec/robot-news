@@ -117,6 +117,19 @@
   "collected": "2026-09-02T08:14+09:00"
  },
  {
+  "id": "f909e0c3b787",
+  "url": "https://news.yahoo.co.jp/articles/7d37dcdc8b090419218671b171a5a154b3d4759a",
+  "title": "転んでも壊れても挑戦 中国のロボット運動会に飛び込んだ日本人エンジニア 「競技で得たノウハウを社会実装に」",
+  "summary": "人型ロボットが、人間の世界記録を上回るスピードでトラックを駆け抜ける。垂直跳びでは、3メートル近く跳び上がる。\n\n8月22日から26日まで中国・北京で開かれた「世界人型ロボット運動会」には、世界16",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-01205501-fnn-000-2-view.jpg?exp=10800",
+  "published": "2026-09-01T19:49+09:00",
+  "collected": "2026-09-02T08:32+09:00"
+ },
+ {
   "id": "2a58708f4d2a",
   "url": "https://www.youtube.com/watch?v=J4HHBd4Yz9I",
   "title": "Introducing PUDU GT5: Commercial Robotic Mower💥",
@@ -180,7 +193,7 @@
   "thumbnail": null,
   "published": "2026-09-01T16:02+09:00",
   "collected": "2026-09-02T08:14+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "efa213bb8853",
@@ -259,7 +272,7 @@
   "thumbnail": null,
   "published": "2026-09-01T10:33+09:00",
   "collected": "2026-09-02T08:14+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "578f54f16d9f",
@@ -299,6 +312,19 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-03650768-clc_korea-000-1-view.jpg?exp=10800",
   "published": "2026-09-01T07:12+09:00",
   "collected": "2026-09-01T09:32+09:00"
+ },
+ {
+  "id": "41e592feaa18",
+  "url": "https://news.infoseek.co.jp/article/koreawave_3650768/",
+  "title": "韓国ROBOTIS、大学生が人型ロボットの高難度動作を開発…「逆立ち」やK-POPダンスも",
+  "summary": "韓国ROBOTIS、大学生が人型ロボットの高難度動作を開発…「逆立ち」やK-POPダンスも    Infoseek",
+  "source": "Infoseek",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_world-1.0.png",
+  "published": "2026-09-01T07:10+09:00",
+  "collected": "2026-09-02T08:32+09:00"
  },
  {
   "id": "f74b8bf6bb96",
