@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-01T10:22+09:00",
+  "last_updated": "2026-09-01T10:46+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -293,6 +293,19 @@
    "published": "2026-08-31T13:21+09:00",
    "collected": "2026-09-01T09:32+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "cb850413812c",
+   "url": "https://news.infoseek.co.jp/article/abcnews_62286/",
+   "title": "大阪メトロで「ヒューマノイド駅員」実証実験 生成ＡＩを搭載、道案内など担う",
+   "summary": "大阪メトロは、生成ＡＩを活用した人型ロボットを設置し、乗り換え案内などの実証実験を始めました。大阪メトロのヒューマ",
+   "source": "Infoseek",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/abcnews/abcnews_62286_0-enlarge.jpg",
+   "published": "2026-08-31T12:22+09:00",
+   "collected": "2026-09-01T10:46+09:00"
   },
   {
    "id": "2c01e1128dae",
@@ -6567,20 +6580,6 @@
    "thumbnail": "https://dempa-digital.com/wp-content/themes/denpashinbunsya/assets/img/thumb_sns.png",
    "published": "2026-08-03T15:27+09:00",
    "collected": "2026-08-04T07:14+09:00"
-  },
-  {
-   "id": "18628197c5d2",
-   "url": "https://mezha.net/jp/bukvy/09aa1613_us_bans_imports/",
-   "title": "米国が中国製ヒューマノイドと四足ロボットの輸入禁止を発表、業界に打撃",
-   "summary": "米国が中国製ヒューマノイドと四足ロボットの輸入禁止を発表、業界に打撃    Межа. Новини України.",
-   "source": "Межа. Новини України.",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-03T14:19+09:00",
-   "collected": "2026-08-04T07:14+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
