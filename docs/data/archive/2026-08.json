@@ -39,6 +39,19 @@
   "collected": "2026-09-01T09:32+09:00"
  },
  {
+  "id": "6f6306756045",
+  "url": "https://www.ktv.jp/news/articles/?id=29256",
+  "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ",
+  "summary": "大阪メトロは生成ＡＩを搭載した人型ロボットによる乗換案内などの、実証実験を行っています。\n\n大阪メトロ御堂筋線「梅田駅」の改札に設置されたのは生成ＡＩ「Ｇｅｍｉｎｉ」が搭載された人型ロボット、ヒューマノイドです。\n\nこのヒューマノイドは駅構",
+  "source": "ktv.jp",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://www.ktv.jp/news/data/images/29256_00.jpg",
+  "published": "2026-08-31T22:18+09:00",
+  "collected": "2026-09-01T09:46+09:00"
+ },
+ {
   "id": "592ae364713a",
   "url": "https://www.youtube.com/shorts/HpI7AHoe1yE",
   "title": "PUDU T-Series: Intelligent material handling across every scenario",
@@ -63,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-08-31T18:36+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "38cf0523bfc1",
@@ -90,7 +103,7 @@
   "thumbnail": null,
   "published": "2026-08-31T16:21+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "7c89148c1e93",
@@ -130,7 +143,7 @@
   "thumbnail": null,
   "published": "2026-08-31T13:21+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2c01e1128dae",
@@ -144,6 +157,19 @@
   "thumbnail": "https://images.forbesjapan.com/media/article/103746/images/main_image_73d5ec0221643f796cfc16b2f5ae5bfec12a73cc.jpeg",
   "published": "2026-08-31T12:00+09:00",
   "collected": "2026-09-01T09:32+09:00"
+ },
+ {
+  "id": "5404b7d02724",
+  "url": "https://news.infoseek.co.jp/article/ytv_2026083102858355/",
+  "title": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応",
+  "summary": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応    news.infoseek.co.jp",
+  "source": "news.infoseek.co.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/ytv/ytv_2026083102858355_0-enlarge.jpg",
+  "published": "2026-08-31T11:59+09:00",
+  "collected": "2026-09-01T09:46+09:00"
  },
  {
   "id": "8e978cf0f45e",
@@ -235,7 +261,7 @@
   "thumbnail": null,
   "published": "2026-08-31T07:44+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "28df03d25911",
