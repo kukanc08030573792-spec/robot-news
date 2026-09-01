@@ -76,7 +76,20 @@
   "thumbnail": null,
   "published": "2026-08-31T18:36+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
+ },
+ {
+  "id": "91b9aa269874",
+  "url": "https://www.sankei.com/article/20260831-ZQIGU5MITZMPBIWI2M6LPP52HI/",
+  "title": "生成AI搭載の人型ロボット「ヒナタ」梅田駅にお目見え、大阪メトロが接客案内の実証実験",
+  "summary": "ロボット駅員登場－。大阪メトロは31日、御堂筋線梅田駅北改札近くの「Metro Opus（メトロオーパス）梅田店」に人型ロボット（ヒューマノイド）を設置し、接…",
+  "source": "sankei.com",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://www.sankei.com/resizer/v2/LLTFE3NY3RP6DPQNDV3H4NQ3ZY.jpg?auth=3706a3c2cb28f102bd1ab436b1f24fdb4212dc0950de5b7280edd24ae1b8b6fa&quality=50&smart=true&width=1200&height=675",
+  "published": "2026-08-31T16:59+09:00",
+  "collected": "2026-09-01T10:22+09:00"
  },
  {
   "id": "38cf0523bfc1",
@@ -103,7 +116,7 @@
   "thumbnail": null,
   "published": "2026-08-31T16:21+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "7c89148c1e93",
@@ -143,7 +156,7 @@
   "thumbnail": null,
   "published": "2026-08-31T13:21+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2c01e1128dae",
@@ -261,7 +274,7 @@
   "thumbnail": null,
   "published": "2026-08-31T07:44+09:00",
   "collected": "2026-09-01T09:32+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "28df03d25911",

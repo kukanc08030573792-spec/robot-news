@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-01T09:46+09:00",
+  "last_updated": "2026-09-01T10:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "578f54f16d9f",
+   "url": "https://prtimes.jp/main/html/rd/p/000000933.000019955.html",
+   "title": "自律移動型警備ロボット「SQ-2」に「変化検知機能」を追加",
+   "summary": "アイリスオーヤマ株式会社のプレスリリース（2026年9月1日 10時04分）自律移動型警備ロボット「SQ-2」に「変化検知機能」を追加",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/19955/933/19955-933-3ea9d55ae2b6ff08f7e77b7124d33447-3900x2925.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-01T10:04+09:00",
+   "collected": "2026-09-01T10:22+09:00"
+  },
   {
    "id": "a5a05631452d",
    "url": "https://www.yakuji.co.jp/entry138636.html",
@@ -199,7 +212,20 @@
    "thumbnail": null,
    "published": "2026-08-31T18:36+09:00",
    "collected": "2026-09-01T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "91b9aa269874",
+   "url": "https://www.sankei.com/article/20260831-ZQIGU5MITZMPBIWI2M6LPP52HI/",
+   "title": "生成AI搭載の人型ロボット「ヒナタ」梅田駅にお目見え、大阪メトロが接客案内の実証実験",
+   "summary": "ロボット駅員登場－。大阪メトロは31日、御堂筋線梅田駅北改札近くの「Metro Opus（メトロオーパス）梅田店」に人型ロボット（ヒューマノイド）を設置し、接…",
+   "source": "sankei.com",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.sankei.com/resizer/v2/LLTFE3NY3RP6DPQNDV3H4NQ3ZY.jpg?auth=3706a3c2cb28f102bd1ab436b1f24fdb4212dc0950de5b7280edd24ae1b8b6fa&quality=50&smart=true&width=1200&height=675",
+   "published": "2026-08-31T16:59+09:00",
+   "collected": "2026-09-01T10:22+09:00"
   },
   {
    "id": "38cf0523bfc1",
@@ -226,7 +252,7 @@
    "thumbnail": null,
    "published": "2026-08-31T16:21+09:00",
    "collected": "2026-09-01T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7c89148c1e93",
@@ -266,7 +292,7 @@
    "thumbnail": null,
    "published": "2026-08-31T13:21+09:00",
    "collected": "2026-09-01T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2c01e1128dae",
@@ -384,7 +410,7 @@
    "thumbnail": null,
    "published": "2026-08-31T07:44+09:00",
    "collected": "2026-09-01T09:32+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "28df03d25911",
@@ -6555,32 +6581,6 @@
    "published": "2026-08-03T14:19+09:00",
    "collected": "2026-08-04T07:14+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "1a7f748f7040",
-   "url": "https://www.zaikei.co.jp/article/20260803/864131.html",
-   "title": "時給30ドルのAI清掃ロボット、その代償は家庭内映像か―Tau Roboticsの仕組みとFCC規制、未修正脆弱性を検証",
-   "summary": "Tau Roboticsã®æ¸æã­ããããå·¡ããFCCè¦å¶ãæªä¿®æ­£ã®èå¼±æ§ãå®¶åº­åæ åã®AIè¨ç·´å©ç¨ãæ¤è",
-   "source": "財経新聞",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "http://www.zaikei.co.jp/files/general/20260803124051W6y0big.png",
-   "published": "2026-08-03T12:40+09:00",
-   "collected": "2026-08-04T07:14+09:00"
-  },
-  {
-   "id": "f069b000ec7c",
-   "url": "https://www.zaikei.co.jp/photo/864131.html",
-   "title": "[写真]時給30ドルのAI清掃ロボット、その代償は家庭内映像か―Tau Roboticsの仕組みとFCC規制、未修正脆弱性を検証",
-   "summary": "[写真]時給30ドルのAI清掃ロボット、その代償は家庭内映像か―Tau Roboticsの仕組みとFCC規制、未修正脆弱性を検証    財経新聞",
-   "source": "財経新聞",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://www.zaikei.co.jp/files/general/20260803124051W6y0big.png",
-   "published": "2026-08-03T12:40+09:00",
-   "collected": "2026-08-04T07:14+09:00"
   }
  ]
 }
