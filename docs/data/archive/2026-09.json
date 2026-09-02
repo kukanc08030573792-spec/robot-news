@@ -193,7 +193,7 @@
   "thumbnail": null,
   "published": "2026-09-01T16:02+09:00",
   "collected": "2026-09-02T08:14+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "efa213bb8853",
@@ -261,6 +261,19 @@
   "collected": "2026-09-02T08:14+09:00"
  },
  {
+  "id": "6e86c982e3f3",
+  "url": "https://robotstart.info/article/img/2026/09/01/382351/106113.html",
+  "title": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別 3枚目の写真・画像",
+  "summary": "アイリスグループのSEQSENSE株式会社は、自律移動型警備ロボット「SQ-2（エスキューツー）」に新たなAI機能「変化検知機能」を正式リリースした。巡回時に指定ポイントの状態を基準状態と自動比較し、不審物や設備異常などの微細な変化を検知・",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/106113.webp",
+  "published": "2026-09-01T12:45+09:00",
+  "collected": "2026-09-02T09:30+09:00"
+ },
+ {
   "id": "446f2e63c175",
   "url": "https://www.irisohyama.co.jp/news/2026/amp/?date=0901",
   "title": "自律移動型警備ロボット「SQ-2」に「変化検知機能」を追加 AIで基準状態と異なる変化を検知し、迅速な警備対応をサポート",
@@ -272,7 +285,7 @@
   "thumbnail": null,
   "published": "2026-09-01T10:33+09:00",
   "collected": "2026-09-02T08:14+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "578f54f16d9f",

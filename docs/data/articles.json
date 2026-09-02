@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-02T08:32+09:00",
+  "last_updated": "2026-09-02T09:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -225,7 +225,7 @@
    "thumbnail": null,
    "published": "2026-09-01T16:02+09:00",
    "collected": "2026-09-02T08:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "efa213bb8853",
@@ -280,6 +280,19 @@
    "collected": "2026-09-02T08:14+09:00"
   },
   {
+   "id": "6e86c982e3f3",
+   "url": "https://robotstart.info/article/img/2026/09/01/382351/106113.html",
+   "title": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別 3枚目の写真・画像",
+   "summary": "アイリスグループのSEQSENSE株式会社は、自律移動型警備ロボット「SQ-2（エスキューツー）」に新たなAI機能「変化検知機能」を正式リリースした。巡回時に指定ポイントの状態を基準状態と自動比較し、不審物や設備異常などの微細な変化を検知・",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106113.webp",
+   "published": "2026-09-01T12:45+09:00",
+   "collected": "2026-09-02T09:30+09:00"
+  },
+  {
    "id": "a8232370746d",
    "url": "https://robotstart.info/article/img/2026/09/01/382351/106115.html",
    "title": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別 1枚目の写真・画像",
@@ -304,7 +317,7 @@
    "thumbnail": null,
    "published": "2026-09-01T10:33+09:00",
    "collected": "2026-09-02T08:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "578f54f16d9f",
@@ -607,6 +620,19 @@
    "thumbnail": "https://images.forbesjapan.com/media/article/103746/images/main_image_73d5ec0221643f796cfc16b2f5ae5bfec12a73cc.jpeg",
    "published": "2026-08-31T12:00+09:00",
    "collected": "2026-09-01T09:32+09:00"
+  },
+  {
+   "id": "29f8ef8f8330",
+   "url": "https://news.yahoo.co.jp/articles/6bc75a126a5b7a47aba18679fc3bf3795d46cf5f",
+   "title": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応（読売テレビ）",
+   "summary": "AIを搭載した人型ロボット・ヒューマノイドが、乗客の道案内などを行う実証実験がきょう（31日）から、大阪メトロ・梅田駅で始まりました。\n\n　葛原寛己記者\n　「なんば駅までの行き方を教えてください」",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-02858355-ytv-000-3-thumb.jpg?exp=10800",
+   "published": "2026-08-31T11:59+09:00",
+   "collected": "2026-09-02T09:30+09:00"
   },
   {
    "id": "5404b7d02724",
@@ -6555,32 +6581,6 @@
    "expert": false,
    "thumbnail": "https://i.ytimg.com/vi/qPd36PJwMQg/hqdefault.jpg",
    "published": "2026-08-04T21:00+09:00",
-   "collected": "2026-08-05T07:19+09:00"
-  },
-  {
-   "id": "dcddd0b503fe",
-   "url": "https://newsdig.tbs.co.jp/articles/gallery/2849709?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=2849709&image=2",
-   "title": "「びっくりした！」園児の前でヒューマノイドロボットが華麗なダンスを披露 山梨・南アルプス市",
-   "summary": "「びっくりした！」園児の前でヒューマノイドロボットが華麗なダンスを披露　山梨・南アルプス市 | TBS NEWS DIGのフォトギャラリーです。",
-   "source": "TBS NEWS DIG",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/f/f/1200w/img_ff97bbab3021f3a8f051f2e72cb154ca562816.jpg",
-   "published": "2026-08-04T20:59+09:00",
-   "collected": "2026-08-05T07:19+09:00"
-  },
-  {
-   "id": "60fa093fa6d4",
-   "url": "https://news.livedoor.com/article/detail/31987594/",
-   "title": "安藤ハザマと神戸高専、AI搭載の人型ロボットで建設機械の自動操作へ",
-   "summary": "安藤ハザマと神戸市立工業高等専門学校が8月4日に共同研究の開始を発表した。フィジカルAIとヒューマノイドロボットを活用し、大型油圧ショベルの自動操作に取り組む。将来的には人が担う一般作業の一部もロボットに置き換える方針だという",
-   "source": "ライブドアニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/d/f/df318_1127_47596cc2_ad659c3c.jpg",
-   "published": "2026-08-04T20:13+09:00",
    "collected": "2026-08-05T07:19+09:00"
   }
  ]
