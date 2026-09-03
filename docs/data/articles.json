@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-04T08:13+09:00",
+  "last_updated": "2026-09-04T08:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -131,10 +131,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "http://www.zaikei.co.jp/files/general/202609032221487Oq0big.jpg",
    "published": "2026-09-03T22:21+09:00",
-   "collected": "2026-09-04T08:13+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-09-04T08:13+09:00"
   },
   {
    "id": "d1809a6d02e8",
@@ -187,6 +186,20 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/office-fremont-trucks.jpg",
    "published": "2026-09-03T19:00+09:00",
    "collected": "2026-09-04T08:13+09:00"
+  },
+  {
+   "id": "5b5d72798963",
+   "url": "https://mezha.net/jp/news/09aa1613_us_bans_imports/",
+   "title": "米国が中国製ヒューマノイドと四足ロボットの輸入禁止を発表、業界に打撃",
+   "summary": "米国が中国製ヒューマノイドと四足ロボットの輸入禁止を発表、業界に打撃    Межа. Новини України.",
+   "source": "Межа. Новини України.",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-03T18:14+09:00",
+   "collected": "2026-09-04T08:30+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "648c4a09ad29",
@@ -343,7 +356,7 @@
    "thumbnail": null,
    "published": "2026-09-03T12:30+09:00",
    "collected": "2026-09-04T08:13+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "89e8f92805b5",
@@ -367,10 +380,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://www.tikgadget.jp/wp-content/uploads/2026/09/robot-vacuum-cleaner-review.jpg",
    "published": "2026-09-03T10:23+09:00",
-   "collected": "2026-09-04T08:13+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-09-04T08:13+09:00"
   },
   {
    "id": "26fec4917458",
@@ -6571,20 +6583,6 @@
    "thumbnail": "https://i.ytimg.com/vi/PFW0zRljibM/hqdefault.jpg",
    "published": "2026-08-07T19:02+09:00",
    "collected": "2026-08-08T06:49+09:00"
-  },
-  {
-   "id": "800a205997e2",
-   "url": "https://news.nicovideo.jp/watch/nw19639505?news_ref=watch_110_nw19567360",
-   "title": "警備ロボットの最適解は一輪走行かもしれない",
-   "summary": "警備ロボットの最適解は一輪走行かもしれない    ニコニコニュース",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-07T18:03+09:00",
-   "collected": "2026-08-09T06:39+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
