@@ -1,5 +1,18 @@
 [
  {
+  "id": "624cc08dc4fc",
+  "url": "https://newswitch.jp/p/50167",
+  "title": "人型ロボットの多指ハンドなどに提案…大阪大学、ワイヤ１本で流体供給",
+  "summary": "大阪大学の池田信吏大学院生と三上玖神研究生、多田隈建二郎教授らは、コーティングワイヤで流体を供給できることを発見した。ロボットの腱駆動の力および、空圧や電気を１本の電線などで伝達できる。従来は空圧と力...",
+  "source": "ニュースイッチ by 日刊工業新聞社",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.newswitch.jp/images/6df6b11a-40a9-410d-89f1-626cb1f898c0.jpg",
+  "published": "2026-09-03T06:01+09:00",
+  "collected": "2026-09-03T09:37+09:00"
+ },
+ {
   "id": "5514cf92781d",
   "url": "https://www.therobotreport.com/nexcobot-discusses-physical-ai-market-hurdles-and-acceleration/",
   "title": "NexCOBOT discusses physical AI market hurdles and acceleration",
@@ -52,6 +65,19 @@
   "collected": "2026-09-03T08:15+09:00"
  },
  {
+  "id": "102539e643bd",
+  "url": "https://robotstart.info/article/2026/09/02/382359.html",
+  "title": "ヒューマノイド向け新アクチュエータ基盤を韓国HIGEN RNMが発表、100ミリ秒未満の局所応答と6種標準関節設計",
+  "summary": "韓国のHIGEN RNMは、ヒューマノイドロボット向けに標準化された関節アクチュエータアーキテクチャ「Human-Friendly Actuator Platform」を発表した。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/106202.jpg",
+  "published": "2026-09-02T16:30+09:00",
+  "collected": "2026-09-03T09:37+09:00"
+ },
+ {
   "id": "2dcb00cc3051",
   "url": "https://www.automation-news.jp/2026/09/108324/",
   "title": "J-HRTI、千葉県習志野市のフィジカルAI学習データの収集拠点が本格稼働ヒューマノイドロボットの社会実装目指す",
@@ -63,7 +89,7 @@
   "thumbnail": null,
   "published": "2026-09-02T16:00+09:00",
   "collected": "2026-09-03T08:15+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "0f06aefaba63",
@@ -338,7 +364,7 @@
   "thumbnail": null,
   "published": "2026-09-01T15:13+09:00",
   "collected": "2026-09-03T08:15+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "efa213bb8853",
