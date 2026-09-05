@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-05T09:49+09:00",
+  "last_updated": "2026-09-06T07:48+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -32,6 +32,110 @@
  },
  "items": [
   {
+   "id": "8db24861e1c4",
+   "url": "https://news.yahoo.co.jp/articles/10c5f617f5d1f9b56188588aab58e5f1f51e4ad1",
+   "title": "フィジカルAI到来。UBSが語る3つの「ツルハシとシャベル」セクター（海外）（BUSINESS INSIDER JAPAN）",
+   "summary": "UBSは、ヒューマノイドロボットの台頭を投資に生かす3つの方法を示した。同行は、アクチュエーターや精密ギア、コンピューティング、電力などの分野を挙げた。「私たちは今、あらかじめプログラムされた自動化",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00000002-binsider-000-1-view.jpg?exp=10800",
+   "published": "2026-09-06T07:10+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "0177df2b2560",
+   "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
+   "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
+   "summary": "Fifteen member organizations will deliver viable working solutions within a two-year timeframe, the ARM Institute said. ",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ARMinstitute-featured.jpg",
+   "published": "2026-09-05T23:22+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "7cb50263726f",
+   "url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
+   "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+   "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusi",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Gen2CollaborativeRobot_ecential.jpg",
+   "published": "2026-09-05T21:30+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "f90ddce293e9",
+   "url": "https://gigazine.net/news/20260905-robot-olympics/",
+   "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+   "summary": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界",
+   "source": "GIGAZINE",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.gzn.jp/img/2026/09/05/robot-olympics/00.jpg",
+   "published": "2026-09-05T21:00+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "c499364dfc4b",
+   "url": "https://kachimai.jp/article/index.php?no=2026090500442",
+   "title": "人型ロボに来場者興奮 帯広コア専門学校の学祭にぎわう",
+   "summary": "帯広コア専門学校（千葉直樹校長）の学校祭「第２９回帯コア祭～４つの色が交わる場所」が５日午前１０時から、同校で開かれた。中国の小型ヒューマノイドロボット（人型ロボット）が登場するなど、約１６０人...",
+   "source": "十勝毎日新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.kachimai.jp/image/20260905/2026090500442.jpg",
+   "published": "2026-09-05T18:27+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "fc28b5a049ec",
+   "url": "https://news.livedoor.com/article/detail/32250283/",
+   "title": "ダイソー「500円ロボット掃除機」は本当に使える？驚きの検証結果と意外な活用法",
+   "summary": "YouTubeの「WASABI CHANNEL」がダイソー550円ロボット掃除機を検証した。吸引式ではなくシートで拭き掃除する仕様で、ゴミが多いと車輪が滑り立ち往生するという。WASABIは「実用性はほぼない」としつつ、ペットのおもちゃへの",
+   "source": "ライブドアニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/0/0/008a7_1845_384b6051_b5a8e1c4.jpg",
+   "published": "2026-09-05T18:00+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "42c7e52c9e97",
+   "url": "https://www.businessinsider.jp/article/2609-ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors/",
+   "title": "フィジカルAI到来。UBSが語る3つの「ツルハシとシャベル」セクター",
+   "summary": "UBSは、AIが物理的自律を獲得する「まさに瀬戸際にあり」、投資家はロボットのヒューマノイド機能に必要な企業に注目せよと語っています。",
+   "source": "Business Insider Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/09/03/8761f23a-0779-4832-8261-1d8faf7edc7a/original.jpg?w=1200&h=630",
+   "published": "2026-09-05T17:30+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
+   "id": "09cc7c0fbbcf",
+   "url": "https://wired.jp/article/i-could-watch-the-robot-games-forever-ai-lab/",
+   "title": "中国のロボット競技大会、驚異の速さより「ピンセットを操る器用さ」に驚いた",
+   "summary": "北京で開催された「世界ヒューマノイドロボット競技大会」では、人型ロボットたちがさまざまな驚異的な技を披露した。最も印象的だったのは、身体能力を競う派手な技よりも、地味な作業のほうだ。",
+   "source": "WIRED.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.wired.jp/photos/6a9923063e58d09e8747fee4/16:9/w_1280,c_limit/AI-Lab-Robot-Games-Business.jpg",
+   "published": "2026-09-05T11:00+09:00",
+   "collected": "2026-09-06T07:48+09:00"
+  },
+  {
    "id": "916db6bdb218",
    "url": "https://www.smartwatchlife.jp/79558/",
    "title": "エコバックスがIFA Berlin 2026に出展｜窓拭きロボットに業界初のパッド自動洗浄「Vortex Wash」、床・窓・芝生・プールの4分野が集結",
@@ -43,7 +147,7 @@
    "thumbnail": null,
    "published": "2026-09-05T09:32+09:00",
    "collected": "2026-09-05T09:49+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "67cea4c73509",
@@ -294,6 +398,19 @@
    "thumbnail": "https://img.cf.47news.jp/public/photo/26d6fdca887741855c112be10de367ee/photo.jpg",
    "published": "2026-09-04T11:09+09:00",
    "collected": "2026-09-05T07:58+09:00"
+  },
+  {
+   "id": "9a43a4102d24",
+   "url": "https://prtimes.jp/main/html/rd/p/000000212.000042335.html",
+   "title": "ダイソン、新たなロボット掃除機シリーズ「Dyson Nurovi™」を発表 | ダイソン株式会社のプレスリリース",
+   "summary": "ダイソン株式会社のプレスリリース（2026年9月4日 11時00分）ダイソン、新たなロボット掃除機シリーズ「Dyson Nurovi™」を発表",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/42335/212/42335-212-fba466422b9b65075d6afa332e732faf-3900x3900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-04T11:00+09:00",
+   "collected": "2026-09-06T07:48+09:00"
   },
   {
    "id": "90325d611805",
@@ -6469,124 +6586,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000011-cnippou-000-1-view.jpg?exp=10800",
    "published": "2026-08-11T07:58+09:00",
    "collected": "2026-08-11T08:15+09:00"
-  },
-  {
-   "id": "ba4f98d794a0",
-   "url": "https://www.therobotreport.com/hadrian-raises-1-37b-accelerate-u-s-manufacturing/",
-   "title": "Hadrian raises $1.37B to accelerate U.S. defense, aerospace manufacturing",
-   "summary": "The raise values Hadrian at $7.87 billion. It is Hadrian's second funding round this year, following a round in January ",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/hadrian-factory-featured.jpg",
-   "published": "2026-08-11T07:33+09:00",
-   "collected": "2026-08-11T08:15+09:00"
-  },
-  {
-   "id": "7f4e9e4e0e92",
-   "url": "https://www.logi-today.com/986857",
-   "title": "SERT、業務用清掃ロボットを全国展開",
-   "summary": "SERT、業務用清掃ロボットを全国展開    LOGISTICS TODAY",
-   "source": "LOGISTICS TODAY",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-11T05:26+09:00",
-   "collected": "2026-08-11T06:52+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "7b05c37d9891",
-   "url": "https://news.yahoo.co.jp/articles/bbdbfc69c31cca8dd9344ceed6e30005cab99053",
-   "title": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流（Wedge（ウェッジ））",
-   "summary": "中国だけでなく、台湾でも将来の人手不足を補う役割としてヒューマノイドロボットの研究開発が急がれている。日本と台湾の両方で、ヒューマノイドロボットの研究に力を注いでいる国立陽明大学准教授の洪 境晨氏",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00140915-wedge-000-1-view.jpg?exp=10800",
-   "published": "2026-08-11T05:02+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "9a608a782736",
-   "url": "https://wedge.ismedia.jp/articles/-/40915",
-   "title": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流",
-   "summary": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流    Wedge ONLINE",
-   "source": "Wedge ONLINE",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://wedge.ismcdn.jp/mwimgs/2/0/1024/img_20956ba5df10f32e7a0fed902d147905627352.jpg",
-   "published": "2026-08-11T05:00+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "f21b149dfd59",
-   "url": "https://www.therobotreport.com/tate-deploys-58-hirebotics-cobot-welders-across-multiple-facilities/",
-   "title": "Tate deploys 58 Hirebotics cobot welders across multiple facilities",
-   "summary": "Tate decided to move from traditional hand welding to an agile, cloud-connected automation network powered by Hirebotics",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Cobot-Welder-31-featured.jpg",
-   "published": "2026-08-11T03:46+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "8e2aaf2c4a7d",
-   "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research/",
-   "title": "VicOne releases free NVIDIA Isaac Sim cybersecurity extension based on DEF CON 34 research",
-   "summary": "VicOne says its free Radeis Extension for NVIDIA Isaac Sim enables developers to test robot cyber safety before deployme",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/VicOne_DefCon.jpg",
-   "published": "2026-08-11T02:07+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "4fc2efebaa60",
-   "url": "https://note.com/zhenren63/n/na5d5b1a69011",
-   "title": "触覚センサーは、ついに「足裏」へ。PaXini×ENGINE AIが示す、人型ロボットの新しい部品市場",
-   "summary": "2026年8月7日、中国・深圳のPaXini（帕西尼感知）が、人型ロボット向けの足裏多次元触覚センサー「PX-FOOTRIX」を発表しました。同じ日にPaXiniの担当者から株式会社ロボットワークスにも連絡があり、深圳の人型ロボット企業EN",
-   "source": "note",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://assets.st-note.com/production/uploads/images/301858059/rectangle_large_type_2_afe66480f8d8643dacee01d0c7c4bc53.png?fit=bounds&quality=85&width=1280",
-   "published": "2026-08-10T21:53+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "d9a32c92f389",
-   "url": "https://www.vietnam.vn/ja/thuong-mai-dich-vu-vao-guong-chuyen-doi-so",
-   "title": "貿易とサービス業は、デジタル変革のサイクルに入りつつある。",
-   "summary": "小売業と経営におけるデジタル変革は、ハイフォン市の貿易・サービス業におけるサービス品質の向上と業務効率の向上に貢献している。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/10/1786348904825_dichvu-2.png",
-   "published": "2026-08-10T17:12+09:00",
-   "collected": "2026-08-11T06:52+09:00"
-  },
-  {
-   "id": "2388781e3d7e",
-   "url": "https://www.agara.co.jp/article/671991?top=oricon",
-   "title": "「モーニング頑張るぞ」ガスト、ジョナサン、しゃぶ葉、バーミヤン4ブランドの“猫社員”setlogが「平和すぎ」",
-   "summary": "ガストとしゃぶ葉の公式Xが、8日に“世界猫の日”にちなみsetlogを公開した。ガストは朝7時のオープン時、しゃぶ葉は昼12時のランチ...",
-   "source": "AGARA紀伊民報",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.agara.co.jp/image/article/size1/d/5/e/b/d5eb6a399062e73b9c2b10a1b62a1126_1.jpg",
-   "published": "2026-08-10T16:40+09:00",
-   "collected": "2026-08-11T06:52+09:00"
   }
  ]
 }
