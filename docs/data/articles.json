@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-06T08:15+09:00",
+  "last_updated": "2026-09-06T09:11+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "4b8e1045ab58",
+   "url": "https://forbesjapan.com/articles/detail/104103",
+   "title": "OpenAIが人型ロボを開発へ──アルトマンCEO、「誰もが自分専用のロボットを持つべき」",
+   "summary": "OpenAIがヒューマノイドロボットを開発している。CEOのサム・アルトマンが認めた。ポッドキャスト「Sources」（編注：58分22秒あたりから）で、同社のロボティクスへの取り組みが目指しているのはヒューマノイドなのか、それともデータセ",
+   "source": "Forbes JAPAN",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.forbesjapan.com/media/article/104103/images/main_image_3b101a6732b08807bf15afb234ca5e5d7bb74ea8.jpg",
+   "published": "2026-09-06T08:15+09:00",
+   "collected": "2026-09-06T09:11+09:00"
+  },
   {
    "id": "8db24861e1c4",
    "url": "https://news.yahoo.co.jp/articles/10c5f617f5d1f9b56188588aab58e5f1f51e4ad1",
@@ -6573,19 +6586,6 @@
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/japanesejoins/m_japanesejoins-353322.jpg",
    "published": "2026-08-11T07:59+09:00",
    "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "fd78dbb00c24",
-   "url": "https://news.yahoo.co.jp/articles/58be9c43e1c1df32fd4078273917a0944af97ef0",
-   "title": "中国ヒューマノイドロボットの疾走…上半期に世界出荷台数の97％以上占める（中央日報日本語版）",
-   "summary": "中国のロボット企業が上半期に世界のヒューマノイドロボット出荷台数の97％以上を占め、米国の競合企業を大きくリードしていたことがわかった。ヒューマノイドロボット市場で中国企業の影響力が急速に拡大してい",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000011-cnippou-000-1-view.jpg?exp=10800",
-   "published": "2026-08-11T07:58+09:00",
-   "collected": "2026-08-11T08:15+09:00"
   }
  ]
 }
