@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-06T09:48+09:00",
+  "last_updated": "2026-09-07T07:51+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,97 @@
   ]
  },
  "items": [
+  {
+   "id": "578c7fe111da",
+   "url": "https://kaden.watch.impress.co.jp/docs/news/2138566.html",
+   "title": "ルンバの中からルンバ!? 2台でひとつのルンバ デュオ登場",
+   "summary": "iRobot(アイロボット)は、ドイツ・ベルリンで9月4日～8日に開催された「IFA 2026」において、iRobot初となる2台構成(デュアルユニット)のロボット掃除機&amp;床拭きシステム「Roomba Duo(ルンバ デュオ)」を披",
+   "source": "家電 Watch",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2138/566/00.JPG",
+   "published": "2026-09-07T07:04+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "ce87affbb871",
+   "url": "https://iotnews.jp/ai/275392/",
+   "title": "フィジカルAIはどこまで来ているのか？導入判断の前に見るべき「現場データ」",
+   "summary": "2つのヒューマノイドロボットを比較することで、フィジカルAIの「配備」と「稼働」の違いを検証。導入判断を左右する現場データの重要性と、製造業が今から備えるべきデータ収集の設計方法を解説する。",
+   "source": "iotnews.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://iotnews.jp/wp-content/uploads/AdobeStock_2167898236-scaled.jpeg",
+   "published": "2026-09-07T06:00+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "2b0155320b6e",
+   "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
+   "title": "Eric Sivertson discusses FPGAs and robot security",
+   "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/sivertson-interview-featured.jpg",
+   "published": "2026-09-06T23:30+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "87dbf9db8ce1",
+   "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
+   "title": "Pressure sensors can help improve robotic gripping accuracy",
+   "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve r",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/05/umi-gripper-with-uskin-sensors.jpg",
+   "published": "2026-09-06T21:30+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "e1d5e06849ef",
+   "url": "https://finance.biggo.jp/news/a6694bf9-7a0e-49aa-a996-57c3fe117871",
+   "title": "IFA 2026ロボット大戦…踊る中国、働くロボットはまだ",
+   "summary": "ドイツ・ベルリンで開催されたIFA 2026で、中国企業が過去最大規模のヒューマノイドロボット展示を披露した。ダンスや太極拳、バク宙など華やかな動作デモで来場…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/9YA3PXqi4kqyXa1cKCNnztkrHkvekOtGItZ1kiuBuRk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2E2Njk0YmY5LTdhMGUtNDlhYS1hOTk2LTU3YzNmZTExNzg3MV8xNzg4NjgzNDAwX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-09-06T17:26+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "ddc3c855944f",
+   "url": "https://news.yahoo.co.jp/articles/7a9e8c87f6fece0a9adfa2586beebd19fd8e425f",
+   "title": "踊って戦って、工場ロボットは「手でハート」…IFA席巻する中国ロボット攻勢［IFA2026］（中央日報日本語版）",
+   "summary": "観覧客が片手でハートの半分を作るとシャオミのヒューマノイドロボット「サイバーワン」が手を伸ばして残りの半分を作った。拳を差し出すと今度は拳を合わせてグータッチであいさつした。4日にドイツのベルリンで",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260906-00000005-cnippou-000-1-view.jpg?exp=10800",
+   "published": "2026-09-06T11:38+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "183058ac7543",
+   "url": "https://japan.ajunews.com/view/20260906110870897",
+   "title": "エコプロ、ヒューマノイドロボット向け三元系・全固体電池の競争力向上",
+   "summary": "エコプロはロボット用バッテリー市場を狙い、関連技術の競争力強化を加速させる。業界によると、エコプロは最近社内コミュニケーションチャンネル「エコトクトク」を通じて「大企業ロボット戦争本格化…勝負の行方は結局バッテリー」というコンテンツを掲載し",
+   "source": "jp.ajunews.com",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.ajunews.com/content/image/2026/09/06/20260906110343844917.png",
+   "published": "2026-09-06T11:08+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
   {
    "id": "4b8e1045ab58",
    "url": "https://forbesjapan.com/articles/detail/104103",
@@ -203,6 +294,19 @@
    "_thumb_tries": 3
   },
   {
+   "id": "698bf8537eb9",
+   "url": "https://finance.biggo.jp/news/49f8d6d1-6c5e-4839-a9aa-b7763bc5be47",
+   "title": "iRobotの「ルンバ デュオ」コンセプト、大型床洗浄機と小型同伴ロボットを組み合わせ",
+   "summary": "iRobotはベルリンで開催中のIFA 2026で、2台構成のロボット掃除システム「ルンバ デュオ」のコンセプトを発表した。大型の床洗浄ユニットと、その上部に搭載され…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/0IJDX4m_wrYGGwvcTCJkzYXUbjmLfoKGflJdhAHftJA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzQ5ZjhkNmQxLTZjNWUtNDgzOS1hOWFhLWI3NzYzYmM1YmU0N18xNzg4NTQ4OTAzX2RlZmF1bHQud2VicA.jpg",
+   "published": "2026-09-05T03:39+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
    "id": "ea26510f3ca6",
    "url": "https://www.vietnam.vn/ja/doc-la-dich-vu-thue-robot-don-nha-gia-30usd-gio",
    "title": "ユニークなサービス：ロボット掃除機を1時間30ドルでレンタルできます。",
@@ -344,6 +448,32 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/04/https___news_jp_i_1468483087076474897.jpg",
    "published": "2026-09-04T15:51+09:00",
    "collected": "2026-09-05T07:58+09:00"
+  },
+  {
+   "id": "13c5c669c3ac",
+   "url": "https://s.response.jp/article/img/2026/09/04/416146/2240371.html?from=thumb_under_hero",
+   "title": "ケルヒャー、搭乗式床洗浄機や自律走行型清掃ロボット展示へ…国際物流総合展2026 1枚目の写真・画像",
+   "summary": "ケルヒャーの日本法人、ケルヒャー ジャパンは、2026年9月8日（火）～9月11日（金）に東京ビッグサイトで開催される「国際物流総合展2026」に出展する。 《写真提供 ケルヒャー ジャパン》 ケルヒャーのブースイメージ 1枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2240371.jpg",
+   "published": "2026-09-04T15:30+09:00",
+   "collected": "2026-09-07T07:51+09:00"
+  },
+  {
+   "id": "98338ae2a038",
+   "url": "https://s.response.jp/article/img/2026/09/04/416146/2240372.html",
+   "title": "ケルヒャー、搭乗式床洗浄機や自律走行型清掃ロボット展示へ…国際物流総合展2026 2枚目の写真・画像",
+   "summary": "ケルヒャーの日本法人、ケルヒャー ジャパンは、2026年9月8日（火）～9月11日（金）に東京ビッグサイトで開催される「国際物流総合展2026」に出展する。 《写真提供 ケルヒャー ジャパン》 ケルヒャーの搭乗式床洗浄機 2枚目の写真・画像",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2240372.jpg",
+   "published": "2026-09-04T15:30+09:00",
+   "collected": "2026-09-07T07:51+09:00"
   },
   {
    "id": "42ff230bfdf5",
@@ -6455,137 +6585,6 @@
    "thumbnail": "https://image.news.livedoor.com/newsimage/stf/6/9/698d9_1726_f817fe37_fed1918e.jpg",
    "published": "2026-08-12T01:31+09:00",
    "collected": "2026-08-12T07:22+09:00"
-  },
-  {
-   "id": "595bf39218e9",
-   "url": "https://article.auone.jp/fd4c921c-9151-405c-b892-c3a81c060b22",
-   "title": "業界のニュースタンダードを担う次世代型掃除機4選【GoodsPress 2026上半期AWARD】",
-   "summary": "年々その進化が止まらないロボット掃除機。技術やAIの進歩を感じつつも、実際に日常で使いやすいのはコンパクトで軽くてメンテナンスがしやすいモデルだったり。ロボット掃除機、コードレスクリーナーともに人気な",
-   "source": "au Webポータル",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/11/https___www_goodspress_jp_features_742824_.jpg",
-   "published": "2026-08-11T23:57+09:00",
-   "collected": "2026-08-12T07:22+09:00"
-  },
-  {
-   "id": "92c58744002f",
-   "url": "https://www.therobotreport.com/webinar-to-discuss-safety-scaling-robot-fleets-warehouse/",
-   "title": "Webinar to discuss safety and scaling robot fleets in the warehouse",
-   "summary": "Industry experts will discuss how to scale mobile robots in the warehouse while maintaining both safety and productivity",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Geekplus_Korber_robots.jpg",
-   "published": "2026-08-11T23:34+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "082736713abb",
-   "url": "https://www.therobotreport.com/the-370-billion-dollar-race-how-integrated-design-can-help-humanoid-manufacturers-succeed-in-a-rapidly-growing-market/",
-   "title": "The 370-billion-dollar race: How integrated design can help humanoid manufacturers succeed in a rapidly growing market",
-   "summary": "The future of humanoid robotics is closer than most people realize. The post The 370-billion-dollar race: How integrated",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/07/siemens-sponsored-featured-image-august2026.jpg",
-   "published": "2026-08-11T23:17+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "7498be3d3f6a",
-   "url": "https://www.vietnam.vn/ja/trung-quoc-chiem-97-luong-robot-hinh-nguoi-toan-cau-nua-dau-nam",
-   "title": "今年上半期、世界のヒューマノイドロボット市場の97％を中国が占めた。",
-   "summary": "中国企業は、完全なサプライチェーン、巨大な国内市場、そして急速な普及率のおかげで、2026年上半期に世界で出荷される人型ロボットの大部分を占めると予想されている。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/11/1786436096507_118agibot.jpeg",
-   "published": "2026-08-11T17:48+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "9a54d2b1b4ed",
-   "url": "https://news.nicovideo.jp/watch/nw19651842?news_ref=watch_20_nw18819551",
-   "title": "歩くAIアバターロボが行政窓口に ファーストローンチのAIアバター「AICO」が静岡市の実証事業に採用",
-   "summary": "歩くAIアバターロボが行政窓口に ファーストローンチのAIアバター「AICO」が静岡市の実証事業に採用    ニコニコニュース",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-11T15:00+09:00",
-   "collected": "2026-08-12T06:57+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "ece4bbff1e05",
-   "url": "https://www.gizmodo.jp/article/limx_cosa_demonstrations/",
-   "title": "THE FIRST TAKE的。ワクワクの人型ロボットお片付け動画",
-   "summary": "人形ロボットの動画って、だいたい早回しなんですよね。2倍速、細かいカット割り、うまくいった数秒だけのつなぎ合わせなどなど。最近は階段や丘をスムーズに駆け下りる動画もありましたけど。それだけみんな、「このロボットほんとうに期待通りの動きをする",
-   "source": "Gizmodo",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.loom-app.com/loom/2026/07/25/db99ef7f-49d4-48b6-998d-c8f129ff83c9/original.png?w=1200&h=630",
-   "published": "2026-08-11T13:00+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "683a8a3353ff",
-   "url": "https://www.sankei.com/article/20260811-BYZUPQEA7BKPHP7EOUNEOIPKO4/",
-   "title": "日本のヒューマノイド型ロボット研究はなぜ欧米や中国の後塵を拝したのか 浅田稔氏に聞く",
-   "summary": "2000年代初頭には、世界の中で研究開発で群を抜き、次期基幹産業への成長も期待されていた日本のヒューマノイド型（自立型）ロボットの開発製造。だが、現状は米欧や…",
-   "source": "産経ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.sankei.com/resizer/v2/V4JDJEI26ZJQBFYMT3DVJMYEFU.jpg?auth=9e02bb59b17e9b214d077a6747f7e726e77806a23e9e7040c219b72d2576e285&quality=50&smart=true&width=1200&height=675",
-   "published": "2026-08-11T09:00+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "61f1639c2740",
-   "url": "https://topics.smt.docomo.ne.jp/article/wedge/business/wedge_40915",
-   "title": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流（Wedge）",
-   "summary": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流（Wedge）    ｄメニューニュース",
-   "source": "ｄメニューニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20260803100341/img/dmenu_service-brand-logo_200x200.png",
-   "published": "2026-08-11T09:00+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "84e341325b1f",
-   "url": "https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/",
-   "title": "RoboStore launches Robo Inc. to help U.S. organizations deploy robots",
-   "summary": "RoboStore, a distributor of Unitree's legged robots, has launched Robo Inc. to serve as a U.S.-based manufacturer and in",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/RoboStore_Robo_Inc_humanoid.jpg",
-   "published": "2026-08-11T08:40+09:00",
-   "collected": "2026-08-12T06:57+09:00"
-  },
-  {
-   "id": "f2919ed943a7",
-   "url": "https://36kr.jp/492696/",
-   "title": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】",
-   "summary": "小型EV1台分が関節ひとつ⋯中国「買えるが維持できない」人型ロボットの現実【再掲】    36Kr Japan",
-   "source": "36Kr Japan",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://36kr.jp/uploads/2026/05/202604231304502026040823345775a25211610551070ca2fd0b6cf49773390760.jpg",
-   "published": "2026-08-11T08:32+09:00",
-   "collected": "2026-08-11T08:44+09:00"
   }
  ]
 }
