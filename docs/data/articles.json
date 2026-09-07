@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-08T08:26+09:00",
+  "last_updated": "2026-09-08T08:44+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -108,7 +108,7 @@
    "thumbnail": null,
    "published": "2026-09-07T19:42+09:00",
    "collected": "2026-09-08T08:26+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "f0e745bcc1e3",
@@ -187,6 +187,19 @@
    "thumbnail": "https://dempa-digital.com/wp-content/themes/denpashinbunsya/assets/img/thumb_sns.png",
    "published": "2026-09-07T12:54+09:00",
    "collected": "2026-09-08T08:26+09:00"
+  },
+  {
+   "id": "070cd792e5b4",
+   "url": "https://prtimes.jp/main/html/rd/p/000000008.000156831.html",
+   "title": "賢くパワフルな国産４足歩行ロボット「HLQ EDGE」を発表。耐荷重60kg、フィジカルAIにより段差・溝地形を走破",
+   "summary": "株式会社Highlandersのプレスリリース（2026年9月7日 11時49分）賢くパワフルな国産４足歩行ロボット「HLQ EDGE」を発表。耐荷重60kg、フィジカルAIにより段差・溝地形を走破",
+   "source": "prtimes.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/156831/8/156831-8-606ca620da4471edf01432baafbf4d04-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-07T11:49+09:00",
+   "collected": "2026-09-08T08:44+09:00"
   },
   {
    "id": "dacfbabef496",
@@ -6572,19 +6585,6 @@
    "published": "2026-08-12T16:12+09:00",
    "collected": "2026-08-13T06:55+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "3601f226438e",
-   "url": "https://dxmagazine.jp/news/2630ko104/",
-   "title": "IPAが「AIロボティクスに関するセーフティ評価観点ガイド」を公開！AIロボットの安全な社会実装を支援",
-   "summary": "AIセーフティ・インスティテュートと独立行政法人情報処理推進機構は、AIロボットの安全な社会実装に向け「AIロボティクスに関するセーフティ評価観点ガイド」を2026年7月23日に公開しました。対象は人と空間を共有し移動や対話、搬送を行うAI",
-   "source": "DXマガジン",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/06/戸田-ニュース-7.png",
-   "published": "2026-08-12T16:00+09:00",
-   "collected": "2026-08-16T06:29+09:00"
   }
  ]
 }

@@ -76,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-09-07T19:42+09:00",
   "collected": "2026-09-08T08:26+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f0e745bcc1e3",
@@ -155,6 +155,19 @@
   "thumbnail": "https://dempa-digital.com/wp-content/themes/denpashinbunsya/assets/img/thumb_sns.png",
   "published": "2026-09-07T12:54+09:00",
   "collected": "2026-09-08T08:26+09:00"
+ },
+ {
+  "id": "070cd792e5b4",
+  "url": "https://prtimes.jp/main/html/rd/p/000000008.000156831.html",
+  "title": "賢くパワフルな国産４足歩行ロボット「HLQ EDGE」を発表。耐荷重60kg、フィジカルAIにより段差・溝地形を走破",
+  "summary": "株式会社Highlandersのプレスリリース（2026年9月7日 11時49分）賢くパワフルな国産４足歩行ロボット「HLQ EDGE」を発表。耐荷重60kg、フィジカルAIにより段差・溝地形を走破",
+  "source": "prtimes.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/156831/8/156831-8-606ca620da4471edf01432baafbf4d04-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-07T11:49+09:00",
+  "collected": "2026-09-08T08:44+09:00"
  },
  {
   "id": "dacfbabef496",
