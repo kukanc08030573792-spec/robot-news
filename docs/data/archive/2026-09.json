@@ -1,5 +1,18 @@
 [
  {
+  "id": "b6bba9ffef0e",
+  "url": "https://note.com/zhenren63/n/n207d8b8dd53f",
+  "title": "美的（Midea）は家そのものをロボット化するのか―AI Agent×家電×家庭ロボットの戦略｜吉川真人＠中国テックトレンドニュース",
+  "summary": "2026年9月5日、ベルリンで開催中のIFA 2026で、中国の家電大手・美的集团（Midea）が「SMART MASTER」と3台の「Midea Robot」を公開しました。  ロボットは食器や食洗機のバスケットを扱い、別の機体はポップコ",
+  "source": "note",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/311401372/rectangle_large_type_2_7bbbc82d3a9fa1d2c66401d4deb6c2c0.png?fit=bounds&quality=85&width=1280",
+  "published": "2026-09-08T02:50+09:00",
+  "collected": "2026-09-08T09:39+09:00"
+ },
+ {
   "id": "ebdc742a08fe",
   "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
   "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
@@ -76,7 +89,7 @@
   "thumbnail": null,
   "published": "2026-09-07T19:42+09:00",
   "collected": "2026-09-08T08:26+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f0e745bcc1e3",
@@ -757,6 +770,19 @@
   "thumbnail": "https://www.mri.co.jp/dia6ou0000016csk-img/og_img.png",
   "published": "2026-09-04T10:07+09:00",
   "collected": "2026-09-05T07:58+09:00"
+ },
+ {
+  "id": "534e689c0015",
+  "url": "https://www.mri.co.jp/knowledge/column/20260904_2.html",
+  "title": "専門人材の共有ハブとしてのロボット・サービスプロバイダー フィジカルAI時代の日本のAIロボティクス戦略（7）",
+  "summary": "専門人材の共有ハブとしてのロボット・サービスプロバイダー フィジカルAI時代の日本のAIロボティクス戦略（7）    mri.co.jp",
+  "source": "mri.co.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.mri.co.jp/dia6ou0000016csk-img/og_img.png",
+  "published": "2026-09-04T10:07+09:00",
+  "collected": "2026-09-08T09:39+09:00"
  },
  {
   "id": "eef2e8b4d79d",

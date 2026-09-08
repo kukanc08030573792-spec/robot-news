@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-08T08:44+09:00",
+  "last_updated": "2026-09-08T09:39+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "b6bba9ffef0e",
+   "url": "https://note.com/zhenren63/n/n207d8b8dd53f",
+   "title": "美的（Midea）は家そのものをロボット化するのか―AI Agent×家電×家庭ロボットの戦略｜吉川真人＠中国テックトレンドニュース",
+   "summary": "2026年9月5日、ベルリンで開催中のIFA 2026で、中国の家電大手・美的集团（Midea）が「SMART MASTER」と3台の「Midea Robot」を公開しました。  ロボットは食器や食洗機のバスケットを扱い、別の機体はポップコ",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/311401372/rectangle_large_type_2_7bbbc82d3a9fa1d2c66401d4deb6c2c0.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-09-08T02:50+09:00",
+   "collected": "2026-09-08T09:39+09:00"
+  },
   {
    "id": "ebdc742a08fe",
    "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
@@ -108,7 +121,7 @@
    "thumbnail": null,
    "published": "2026-09-07T19:42+09:00",
    "collected": "2026-09-08T08:26+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f0e745bcc1e3",
@@ -776,6 +789,19 @@
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/17926/170/17926-170-e5d2bc26c0f5409efd1bae2bb1d145cb-1536x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-09-04T11:00+09:00",
    "collected": "2026-09-05T07:58+09:00"
+  },
+  {
+   "id": "534e689c0015",
+   "url": "https://www.mri.co.jp/knowledge/column/20260904_2.html",
+   "title": "専門人材の共有ハブとしてのロボット・サービスプロバイダー フィジカルAI時代の日本のAIロボティクス戦略（7）",
+   "summary": "専門人材の共有ハブとしてのロボット・サービスプロバイダー フィジカルAI時代の日本のAIロボティクス戦略（7）    mri.co.jp",
+   "source": "mri.co.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.mri.co.jp/dia6ou0000016csk-img/og_img.png",
+   "published": "2026-09-04T10:07+09:00",
+   "collected": "2026-09-08T09:39+09:00"
   },
   {
    "id": "5a3587e7aec6",
@@ -6558,33 +6584,6 @@
    "thumbnail": "https://tsubame104.com/wp-content/uploads/2026/08/ChatGPT-Image-2026年8月7日-15_26_31.jpg",
    "published": "2026-08-12T18:23+09:00",
    "collected": "2026-08-14T06:55+09:00"
-  },
-  {
-   "id": "95d3719bfd53",
-   "url": "https://www.atpress.ne.jp/news/7121553",
-   "title": "ヒューマノイドロボット市場：提供別、動作タイプ別、自律度別、動力源別、用途別、販売チャネル別―2026年～2032年の世界市場予測",
-   "summary": "株式会社グローバルインフォメーションは、市場調査レポート「ヒューマノイドロボット市場：提供別、動作タイプ別、自律度別、動力源別、用途別、販売チャネル別―2026年～2032年の世界市場予測」（360i...",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
-   "published": "2026-08-12T16:18+09:00",
-   "collected": "2026-08-13T06:55+09:00"
-  },
-  {
-   "id": "3e540c83be9e",
-   "url": "https://www.logi-today.com/987083",
-   "title": "モレックス、ヒューマノイド量産向け配線部品",
-   "summary": "モレックス、ヒューマノイド量産向け配線部品    LOGISTICS TODAY",
-   "source": "LOGISTICS TODAY",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-12T16:12+09:00",
-   "collected": "2026-08-13T06:55+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
