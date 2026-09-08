@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-08T09:39+09:00",
+  "last_updated": "2026-09-08T10:06+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,32 @@
   ]
  },
  "items": [
+  {
+   "id": "1c432a0a876c",
+   "url": "https://www.qab.co.jp/quebee/video/000531768/",
+   "title": "新入社員は二足歩行ロボット 老舗企業が「内定」 「人間のように育てる」 – Quebee キュエビー",
+   "summary": "倉庫などを手掛ける創業140年の歴史を持つ老舗企業が内定を出したのが、二足歩行型ヒューマノイドロボットです。  　二足歩行するロボットを総合職の新入社員として迎えるのは、日本の中小企業では初めてです。  カクイチ　上級執行役員\n橋詰昌幸氏…",
+   "source": "QAB 琉球朝日放送",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.qab.co.jp/quebee/wp-content/uploads/000531768_640.jpg",
+   "published": "2026-09-08T09:33+09:00",
+   "collected": "2026-09-08T10:06+09:00"
+  },
+  {
+   "id": "cf1338bf8db9",
+   "url": "https://topics.smt.docomo.ne.jp/article/tvasahinews/business/tvasahinews-000531768",
+   "title": "新入社員は二足歩行ロボット 老舗企業が「内定」 「人間のように育てる」",
+   "summary": "新入社員は二足歩行ロボット 老舗企業が「内定」 「人間のように育てる」    topics.smt.docomo.ne.jp",
+   "source": "topics.smt.docomo.ne.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20260907100436/img/dmenu_service-brand-logo_200x200.png",
+   "published": "2026-09-08T09:33+09:00",
+   "collected": "2026-09-08T10:06+09:00"
+  },
   {
    "id": "b6bba9ffef0e",
    "url": "https://note.com/zhenren63/n/n207d8b8dd53f",
@@ -6558,32 +6584,6 @@
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Einride_DAF_02.jpg",
    "published": "2026-08-12T19:30+09:00",
    "collected": "2026-08-13T06:55+09:00"
-  },
-  {
-   "id": "b99b467ed531",
-   "url": "https://www.youtube.com/watch?v=iTlQSzDBzL4",
-   "title": "Introducing PUDU ET1: AI-Native Compact Scrubber-Dryer Robot",
-   "summary": "💥 Meet the newest innovation in PUDU Clean: 𝐏𝐔𝐃𝐔 𝐄𝐓𝟏. Introducing #PUDUET1, Pudu's new 𝐀𝐈-𝐍𝐚𝐭𝐢𝐯𝐞 𝐂𝐨𝐦𝐩𝐚𝐜𝐭 𝐒𝐜𝐫𝐮𝐛𝐛𝐞𝐫-𝐃𝐫𝐲𝐞𝐫 ",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/iTlQSzDBzL4/hqdefault.jpg",
-   "published": "2026-08-12T19:00+09:00",
-   "collected": "2026-08-13T06:55+09:00"
-  },
-  {
-   "id": "754cab53f079",
-   "url": "https://tsubame104.com/archives/99416",
-   "title": "ファナックはフィジカルAIで成長できるか？決算から読み解く本当の投資ポイント",
-   "summary": "フィジカルAIへの期待から、ファナックに注目する投資家が増えています。 フィジカルAIと聞くと、人間のように考…",
-   "source": "つばめ投資顧問",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://tsubame104.com/wp-content/uploads/2026/08/ChatGPT-Image-2026年8月7日-15_26_31.jpg",
-   "published": "2026-08-12T18:23+09:00",
-   "collected": "2026-08-14T06:55+09:00"
   }
  ]
 }
