@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-09T09:34+09:00",
+  "last_updated": "2026-09-09T10:11+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "e5ebc246a5b1",
+   "url": "https://www.mri.co.jp/knowledge/column/20260909.html",
+   "title": "フィジカルAI搭載ロボットの積極的な活用を進めよう 業界特化型基盤モデルにより、定型作業をロボットへ移す",
+   "summary": "フィジカルAI搭載ロボットの積極的な活用を進めよう 業界特化型基盤モデルにより、定型作業をロボットへ移す    mri.co.jp",
+   "source": "mri.co.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.mri.co.jp/dia6ou0000016csk-img/og_img.png",
+   "published": "2026-09-09T10:02+09:00",
+   "collected": "2026-09-09T10:11+09:00"
+  },
   {
    "id": "a767d9193a6f",
    "url": "https://online.logi-biz.com/150085/",
@@ -305,7 +318,7 @@
    "thumbnail": null,
    "published": "2026-09-08T09:49+09:00",
    "collected": "2026-09-09T09:34+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1c432a0a876c",
@@ -6572,19 +6585,6 @@
    "expert": false,
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/RR-Mobile-Manipulators-Humanoids-Featured-Image.png",
    "published": "2026-08-14T00:06+09:00",
-   "collected": "2026-08-14T06:55+09:00"
-  },
-  {
-   "id": "ee5b750b0d30",
-   "url": "https://hobby.watch.impress.co.jp/docs/news/2132527.html",
-   "title": "【Amazonセール】Roborock、ECOVACSのロボット掃除機がお買い得。薄型ボディのモデル「Saros 10R」などがラインナップ",
-   "summary": "【Amazonセール】Roborock、ECOVACSのロボット掃除機がお買い得。薄型ボディのモデル「Saros 10R」などがラインナップ    hobby Watch",
-   "source": "hobby Watch",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://hobby.watch.impress.co.jp/img/hbw/list/2132/527/026.jpg",
-   "published": "2026-08-14T00:05+09:00",
    "collected": "2026-08-14T06:55+09:00"
   }
  ]
