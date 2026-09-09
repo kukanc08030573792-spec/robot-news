@@ -1,5 +1,31 @@
 [
  {
+  "id": "a767d9193a6f",
+  "url": "https://online.logi-biz.com/150085/",
+  "title": "GMO AI&ロボティクス商事、故障のヒューマノイドに駆け付ける「救急車」など新サービス始動",
+  "summary": "GMO AI&ロボティクス商事、故障のヒューマノイドに駆け付ける「救急車」など新サービス始動    LOGI-BIZ online",
+  "source": "LOGI-BIZ online",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://online.logi-biz.com/wp-content/uploads/2026/09/294914aa153f6c90502be354b39c4433.jpg",
+  "published": "2026-09-09T09:07+09:00",
+  "collected": "2026-09-09T09:34+09:00"
+ },
+ {
+  "id": "bb3a6129029e",
+  "url": "https://www.jiji.com/jc/article?k=000000170.000017926&g=prt",
+  "title": "エコバックス、「IFA Berlin 2026」に出展 窓拭きロボット掃除機に、エコバックス史上初となるクリーニングパッド自動洗浄を搭載、窓・芝生・プール・床の最新ロボットが集結",
+  "summary": "［エコバックスジャパン株式会社］Forbes Chinaにて家庭用ロボットでグローバルNo.1ブランドに選出　ロボット掃除機のグローバルリーダーであるエコバックスは、2026年9月4日から8日までドイツのベルリンにて開催される世界最大規模の",
+  "source": "時事ドットコム",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/17926/170/17926-170-e5d2bc26c0f5409efd1bae2bb1d145cb-1536x1024.png?width=536&quality=85%2C75&format=jpeg",
+  "published": "2026-09-09T06:40+09:00",
+  "collected": "2026-09-09T09:34+09:00"
+ },
+ {
   "id": "f631a5edb4a1",
   "url": "https://gadget.phileweb.com/post-132647/",
   "title": "“触れられる”AIやロボットで活気を取り戻したIFA、来年に向けた課題",
@@ -50,7 +76,7 @@
   "thumbnail": null,
   "published": "2026-09-09T04:18+09:00",
   "collected": "2026-09-09T08:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f2b57783d653",
@@ -155,7 +181,7 @@
   "thumbnail": null,
   "published": "2026-09-08T18:15+09:00",
   "collected": "2026-09-09T08:19+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "5d988766f268",
@@ -234,6 +260,20 @@
   "thumbnail": "https://www.atpress.ne.jp/attachments/3SaJPVhrPfBm0RrkPcwv.png",
   "published": "2026-09-08T11:30+09:00",
   "collected": "2026-09-09T08:19+09:00"
+ },
+ {
+  "id": "ddcbb4bbb02d",
+  "url": "https://mezha.net/jp/news/5558a6fe_samsung_launches_robotics/",
+  "title": "サムスン電子がロボット部門を新設、AI統合で家庭と産業を狙う",
+  "summary": "サムスン電子がロボット部門を新設、AI統合で家庭と産業を狙う    Межа. Новини України.",
+  "source": "Межа. Новини України.",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-09-08T09:49+09:00",
+  "collected": "2026-09-09T09:34+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "1c432a0a876c",
