@@ -1,5 +1,18 @@
 [
  {
+  "id": "c761fe942647",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news040.html",
+  "title": "ギークプラスが双腕3本指ヒューマノイドを国内初公開、2027年度にテスト導入へ：国際物流総合展2026",
+  "summary": "M[NvXÍuÛ¨¬W2026vÉ¨¢ÄA©ÐÌsbLOVXeÆAgµÄ¢ãÌ®S©®»\\[VðÀ»·",
+  "source": "monoist.itmedia.co.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.itmedia.co.jp/mn/articles/2609/10/cover_news040.jpg",
+  "published": "2026-09-10T07:30+09:00",
+  "collected": "2026-09-10T08:29+09:00"
+ },
+ {
   "id": "38a2c083b67d",
   "url": "https://www.newsweekjapan.jp/articles/-/333687",
   "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用",
@@ -167,7 +180,7 @@
   "thumbnail": null,
   "published": "2026-09-09T18:45+09:00",
   "collected": "2026-09-10T08:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "896337c3b699",
@@ -181,6 +194,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/106523.jpg",
   "published": "2026-09-09T18:00+09:00",
   "collected": "2026-09-10T08:08+09:00"
+ },
+ {
+  "id": "cbe5747ba029",
+  "url": "https://news.mynavi.jp/techplus/article/20260909-4941214/",
+  "title": "PFNとPFR、屋内移動ロボット向け基盤モデル「PLaMo-SemGround」の開発を開始 | TECH+（テックプラス）",
+  "summary": "Preferred Networks(PFN)とPreferred Robotics(PFR)は、屋内移動ロボット向け環境高度理解基盤モデル「PLaMo-SemGround」の共同開発を開始した。自然言語、RGB画像、深度情報から走行可能領",
+  "source": "マイナビニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://news.mynavi.jp/techplus/article/20260909-4941214/ogp_images/ogp.jpg",
+  "published": "2026-09-09T17:32+09:00",
+  "collected": "2026-09-10T08:29+09:00"
  },
  {
   "id": "053b9fa9f3dd",
@@ -207,7 +233,7 @@
   "thumbnail": null,
   "published": "2026-09-09T12:03+09:00",
   "collected": "2026-09-10T08:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5de2faf8c919",
@@ -221,7 +247,7 @@
   "thumbnail": null,
   "published": "2026-09-09T11:56+09:00",
   "collected": "2026-09-10T08:08+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "9c722806c4d7",
@@ -523,6 +549,20 @@
   "thumbnail": "https://afpbb.ismcdn.jp/mwimgs/f/c/1000x/img_fc1239ad0121389072929c3383f7d646232984.jpg",
   "published": "2026-09-08T14:02+09:00",
   "collected": "2026-09-09T08:19+09:00"
+ },
+ {
+  "id": "bbedd9741be2",
+  "url": "https://www.sannichi.co.jp/prtimes/others/c16343_r1299",
+  "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
+  "summary": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル    sannichi.co.jp",
+  "source": "sannichi.co.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-09-08T13:50+09:00",
+  "collected": "2026-09-10T08:29+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "c3bcf4699a0f",
