@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-11T08:04+09:00",
+  "last_updated": "2026-09-11T08:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "772d1a23e316",
+   "url": "https://prtimes.jp/main/html/rd/p/000000385.000032175.html",
+   "title": "直径33cmのコンパクトさで、椅子下まで綺麗に！業務用小型清掃ロボット『RACLEBO slim pro 2』発売開始",
+   "summary": "アイグッズ株式会社のプレスリリース（2026年9月11日 08時00分）直径33cmのコンパクトさで、椅子下まで綺麗に！業務用小型清掃ロボット『RACLEBO slim pro 2』発売開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/32175/385/32175-385-3ad8bec4dead224745bfacc13058c78b-1537x1025.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-11T08:00+09:00",
+   "collected": "2026-09-11T08:22+09:00"
+  },
   {
    "id": "eeb892339fcd",
    "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
@@ -95,7 +108,7 @@
    "thumbnail": null,
    "published": "2026-09-10T19:57+09:00",
    "collected": "2026-09-11T08:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "9260dee0cfb3",
@@ -278,7 +291,7 @@
    "thumbnail": null,
    "published": "2026-09-10T07:23+09:00",
    "collected": "2026-09-11T08:04+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e06c3d24b2e4",
@@ -409,7 +422,7 @@
    "thumbnail": null,
    "published": "2026-09-09T23:15+09:00",
    "collected": "2026-09-10T09:58+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "65d7ac772ec7",
@@ -6573,19 +6586,6 @@
    "thumbnail": "https://img.biggo.com/7tmSy_ukh9-doqKhgOO124bLYp6BmPecR3PFyxj5Ip8/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzUzZjMxMGIwLTRjYzAtNDQ3Ni1iMTY3LWI5M2U0MTNmZjI3Yl8xNzg3MDA1NzkyX2RlZmF1bHQuanBn.jpg",
    "published": "2026-08-18T07:25+09:00",
    "collected": "2026-08-18T07:56+09:00"
-  },
-  {
-   "id": "024059f2be7e",
-   "url": "https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/",
-   "title": "Five years of operation shape Diligent Robotics rollout of Moxi 2.0",
-   "summary": "Diligent is now rolling out Moxi 2.0 to health systems including Endeavor Health Edward Hospital and Children’s Hospital",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Moxi-Render-View-featured.jpg",
-   "published": "2026-08-18T06:15+09:00",
-   "collected": "2026-08-18T06:56+09:00"
   }
  ]
 }
