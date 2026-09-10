@@ -156,6 +156,20 @@
   "collected": "2026-09-10T08:08+09:00"
  },
  {
+  "id": "c294b760aa69",
+  "url": "https://news.nicovideo.jp/watch/nw19755959?news_ref=watch_20_nw19213942",
+  "title": "【市場動向セミナー】フィジカルAIが拓く、次のビジネス。ロボット動作基盤モデル・製造データ・ヒューマノイドの最前線を専",
+  "summary": "【市場動向セミナー】フィジカルAIが拓く、次のビジネス。ロボット動作基盤モデル・製造データ・ヒューマノイドの最前線を専    ニコニコニュース",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-09-09T23:15+09:00",
+  "collected": "2026-09-10T09:58+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "65d7ac772ec7",
   "url": "https://www.youtube.com/watch?v=BIBdZz80mq8",
   "title": "Cleaning Robots on Shenzhen Metro: Gausium Omnie at MTR, Two Lines",
@@ -220,6 +234,19 @@
   "thumbnail": "https://news.mynavi.jp/techplus/article/20260909-4941214/ogp_images/ogp.jpg",
   "published": "2026-09-09T17:32+09:00",
   "collected": "2026-09-10T08:29+09:00"
+ },
+ {
+  "id": "0e14068a9491",
+  "url": "https://business.nikkei.com/atcl/seminar/19/00030/090700808/",
+  "title": "中国ヒト型ロボットブームは「いつか来た道」か 世界をリードする競争の熱気と混迷",
+  "summary": "空前のヒト型ロボットブームの中国。2026年8月には北京で「世界ロボット大会」と「世界ヒューマノイドロボット運動会」という2つのイベントが開催された。少しでも成長の兆しが見えると全員が持てる限りの資本を一気に注ぎ込み、こぞって同じ方向へ突撃",
+  "source": "日経ビジネス電子版",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://business.nikkei.com/atcl/seminar/19/00030/090700808/fb.jpg",
+  "published": "2026-09-09T17:00+09:00",
+  "collected": "2026-09-10T09:58+09:00"
  },
  {
   "id": "053b9fa9f3dd",
@@ -588,7 +615,7 @@
   "thumbnail": null,
   "published": "2026-09-08T13:50+09:00",
   "collected": "2026-09-10T08:29+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c3bcf4699a0f",
