@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-10T08:29+09:00",
+  "last_updated": "2026-09-10T09:33+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "b2f17d05dc06",
+   "url": "https://www.newsweekjapan.jp/articles/-/333706",
+   "title": "都市戦から敵陣潜入まで…世界が注目するロボットに人民解放軍も注目",
+   "summary": "中国で８月に開催された「世界ヒューマノイドロボット競技大会」では、人型ロボット（ヒューマノイド）がジャンプ競技やボクシング、ダンスを披露し、一部のロボットは１００メートル走でウサイン・ボルト氏が持つ世",
+   "source": "ニューズウィーク日本版",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsweekjapan.ismcdn.jp/mwimgs/e/9/1200x/img_e90526b921d6f222bf215e0d1da9a8f0177675.jpg",
+   "published": "2026-09-10T09:30+09:00",
+   "collected": "2026-09-10T09:33+09:00"
+  },
   {
    "id": "c761fe942647",
    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/10/news040.html",
@@ -212,7 +225,7 @@
    "thumbnail": null,
    "published": "2026-09-09T18:45+09:00",
    "collected": "2026-09-10T08:08+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "896337c3b699",
@@ -265,7 +278,7 @@
    "thumbnail": null,
    "published": "2026-09-09T12:03+09:00",
    "collected": "2026-09-10T08:08+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5de2faf8c919",
@@ -279,7 +292,20 @@
    "thumbnail": null,
    "published": "2026-09-09T11:56+09:00",
    "collected": "2026-09-10T08:08+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
+  },
+  {
+   "id": "9dcb32e8ab00",
+   "url": "https://news.yahoo.co.jp/articles/3c30a85946e1fe15f1459000ee96558790452656",
+   "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用（ロイター）",
+   "summary": "Eduardo Baptista\n\n[北京 ７日 ロイター] - 中国で８月に開催された「世界ヒューマノイドロボット競技大会」では、人型ロボット（ヒューマノイド）がジャンプ競技やボクシング、ダンスを",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000120-reut-000-1-view.jpg?exp=10800",
+   "published": "2026-09-09T11:45+09:00",
+   "collected": "2026-09-10T09:33+09:00"
   },
   {
    "id": "9c722806c4d7",
@@ -594,7 +620,7 @@
    "thumbnail": null,
    "published": "2026-09-08T13:50+09:00",
    "collected": "2026-09-10T08:29+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "c3bcf4699a0f",
@@ -6562,32 +6588,6 @@
    "expert": false,
    "thumbnail": "https://txbiz.tv-tokyo.co.jp/images/thumbnail/original2/20260815_original2_txbizall02_b08de4ff73a22ae3_9.jpg",
    "published": "2026-08-17T02:24+09:00",
-   "collected": "2026-08-17T06:28+09:00"
-  },
-  {
-   "id": "52f698f1ec5a",
-   "url": "https://note.com/zhenren63/n/ndd3f9bb8f62c",
-   "title": "なぜ中国ではロボットを「4S店」で売るのか。北京・深圳・武漢で広がる“ロボット版ディーラー”",
-   "summary": "なぜ中国ではロボットを「4S店」で売るのか。北京・深圳・武漢で広がる“ロボット版ディーラー”    note.com",
-   "source": "note.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://assets.st-note.com/production/uploads/images/304186958/rectangle_large_type_2_0399ef1c82e1d76e1523bdd4dad9021d.png?fit=bounds&quality=85&width=1280",
-   "published": "2026-08-16T23:53+09:00",
-   "collected": "2026-08-17T06:28+09:00"
-  },
-  {
-   "id": "d6573c7cc21f",
-   "url": "https://www.therobotreport.com/how-robotics-is-revolutionizing-stroke-rehabilitation/",
-   "title": "How robotics is revolutionizing stroke rehabilitation",
-   "summary": "Eyal Samuel Shachar, the CEO of Bioxtreme, says the growing synergy of robotics, AI, and human-centered care will improv",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/bioixtreme-plaxtreme-featured.jpg",
-   "published": "2026-08-16T21:30+09:00",
    "collected": "2026-08-17T06:28+09:00"
   }
  ]
