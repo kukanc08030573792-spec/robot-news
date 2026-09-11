@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-12T08:11+09:00",
+  "last_updated": "2026-09-12T08:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -121,6 +121,20 @@
    "thumbnail": "https://i.ytimg.com/vi/SQnjvtrW7HY/hqdefault.jpg",
    "published": "2026-09-11T20:30+09:00",
    "collected": "2026-09-12T08:11+09:00"
+  },
+  {
+   "id": "5fc0a937824a",
+   "url": "https://www.excite.co.jp/news/article/Prtimes_2026-09-11-136-5524/",
+   "title": "GMO AI&ロボティクス商事、国内初の人型ロボット（ヒューマノイド）専用保守車両「GMOヒューマノイド救急車」を2026年9月に導入開始",
+   "summary": "GMO AI&ロボティクス商事、国内初の人型ロボット（ヒューマノイド）専用保守車両「GMOヒューマノイド救急車」を2026年9月に導入開始    Excite エキサイト",
+   "source": "Excite エキサイト",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-11T19:40+09:00",
+   "collected": "2026-09-12T08:30+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "3d2b6ede51a6",
@@ -6570,19 +6584,6 @@
    "expert": false,
    "thumbnail": "https://i.ytimg.com/vi/BfsIjxTZEKY/hqdefault.jpg",
    "published": "2026-08-18T23:55+09:00",
-   "collected": "2026-08-19T06:32+09:00"
-  },
-  {
-   "id": "96eea3a2afad",
-   "url": "https://www.therobotreport.com/unichem-acquires-loomia-accelerate-entry-humanoid-skin-market/",
-   "title": "Unichem acquires Loomia to accelerate entry into the humanoid ‘skin’ market",
-   "summary": "Automotive suppliers Unichem and R&Y are working with Loomia to develop tactile sensors for automotive and robotics appl",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Loomia_sensors.jpg",
-   "published": "2026-08-18T21:49+09:00",
    "collected": "2026-08-19T06:32+09:00"
   }
  ]
