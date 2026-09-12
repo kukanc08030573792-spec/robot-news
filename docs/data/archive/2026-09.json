@@ -1,5 +1,31 @@
 [
  {
+  "id": "a2168e9fffe8",
+  "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
+  "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+  "summary": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense. The p",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Ultrasound_01.jpg",
+  "published": "2026-09-12T21:35+09:00",
+  "collected": "2026-09-13T07:57+09:00"
+ },
+ {
+  "id": "e002304bd2c6",
+  "url": "https://topics.smt.docomo.ne.jp/article/fukaboritokai/trend/fukaboritokai-24797",
+  "title": "お掃除ロボットと一緒に部屋をきれいに 新しい技術を暮らしに取り込んで【続・東海エリア探訪記】",
+  "summary": "お掃除ロボットと一緒に部屋をきれいに 新しい技術を暮らしに取り込んで【続・東海エリア探訪記】    ｄメニューニュース",
+  "source": "ｄメニューニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20260907100436/img/dmenu_service-brand-logo_200x200.png",
+  "published": "2026-09-12T15:36+09:00",
+  "collected": "2026-09-13T07:57+09:00"
+ },
+ {
   "id": "dda352d8ae7d",
   "url": "https://news.at-s.com/article/2054197",
   "title": "浜松市で１０月１５、１６日にロボット展 人型ロボットなど初登場 ヤマハ発動機やスズキ出展",
@@ -11,7 +37,7 @@
   "thumbnail": null,
   "published": "2026-09-12T08:10+09:00",
   "collected": "2026-09-12T09:35+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3cd30ee81234",
@@ -339,6 +365,19 @@
   "thumbnail": "https://storage.googleapis.com/ledge-ai-prd-public-bucket/media/H_Rqqclda_MAA_26_SF_141e2f5395/H_Rqqclda_MAA_26_SF_141e2f5395.jpg",
   "published": "2026-09-10T15:02+09:00",
   "collected": "2026-09-12T08:11+09:00"
+ },
+ {
+  "id": "d6d51140838c",
+  "url": "https://robotstart.info/article/2026/09/10/382403.html",
+  "title": "AGIBOTのヒューマノイド「A3」「X2」、IFA 2026でイノベーションアワードを受賞",
+  "summary": "中国のロボティクス企業AGIBOTは、ドイツ・ベルリンで開催されたIFA 2026において、ヒューマノイドロボット「AGIBOT A3」と「AGIBOT X2」がIFAイノベーションアワードおよび複数の海外テックメディアから評価を受けたと発",
+  "source": "robotstart.info",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/106527.jpg",
+  "published": "2026-09-10T15:00+09:00",
+  "collected": "2026-09-13T07:57+09:00"
  },
  {
   "id": "477e21f20d02",
