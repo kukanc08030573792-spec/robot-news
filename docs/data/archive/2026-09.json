@@ -1,5 +1,19 @@
 [
  {
+  "id": "dda352d8ae7d",
+  "url": "https://news.at-s.com/article/2054197",
+  "title": "浜松市で１０月１５、１６日にロボット展 人型ロボットなど初登場 ヤマハ発動機やスズキ出展",
+  "summary": "浜松市で１０月１５、１６日にロボット展 人型ロボットなど初登場 ヤマハ発動機やスズキ出展    静岡新聞DIGITAL",
+  "source": "静岡新聞DIGITAL",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-09-12T08:10+09:00",
+  "collected": "2026-09-12T09:35+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "3cd30ee81234",
   "url": "https://topics.smt.docomo.ne.jp/article/itmedia_business/trend/itmedia_business-20260826_082",
   "title": "非公開の「AI学習データ工場」に潜入 人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
@@ -102,7 +116,7 @@
   "thumbnail": null,
   "published": "2026-09-11T19:40+09:00",
   "collected": "2026-09-12T08:30+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3d2b6ede51a6",

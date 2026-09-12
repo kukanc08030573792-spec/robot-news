@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-12T08:30+09:00",
+  "last_updated": "2026-09-12T09:35+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,20 @@
   ]
  },
  "items": [
+  {
+   "id": "dda352d8ae7d",
+   "url": "https://news.at-s.com/article/2054197",
+   "title": "浜松市で１０月１５、１６日にロボット展 人型ロボットなど初登場 ヤマハ発動機やスズキ出展",
+   "summary": "浜松市で１０月１５、１６日にロボット展 人型ロボットなど初登場 ヤマハ発動機やスズキ出展    静岡新聞DIGITAL",
+   "source": "静岡新聞DIGITAL",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-12T08:10+09:00",
+   "collected": "2026-09-12T09:35+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "3cd30ee81234",
    "url": "https://topics.smt.docomo.ne.jp/article/itmedia_business/trend/itmedia_business-20260826_082",
@@ -134,7 +148,7 @@
    "thumbnail": null,
    "published": "2026-09-11T19:40+09:00",
    "collected": "2026-09-12T08:30+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3d2b6ede51a6",
@@ -6571,19 +6585,6 @@
    "expert": false,
    "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/FORT_Trust-Layer-for-Physical-AI-copy.jpg",
    "published": "2026-08-19T00:24+09:00",
-   "collected": "2026-08-19T06:32+09:00"
-  },
-  {
-   "id": "1a83730aa6f5",
-   "url": "https://www.youtube.com/watch?v=BfsIjxTZEKY",
-   "title": "X2 ROVR SCRUB Autonomous Floor Scrubber for Small Spaces | Tennant Company",
-   "summary": "Autonomy meets exceptional floor care. The Tennant X2 ROVR SCRUB helps teams do more with less by delivering consistent ",
-   "source": "Tennant Company",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/BfsIjxTZEKY/hqdefault.jpg",
-   "published": "2026-08-18T23:55+09:00",
    "collected": "2026-08-19T06:32+09:00"
   }
  ]
