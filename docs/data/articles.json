@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-13T09:49+09:00",
+  "last_updated": "2026-09-14T08:05+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,97 @@
   ]
  },
  "items": [
+  {
+   "id": "2aca30972e68",
+   "url": "https://www.digitaltoday.co.kr/jp/view/102895/humanoid-robot-battery-race-shifts-to-uptime-as-capacity-expansion-hits-limits",
+   "title": "ヒューマノイド向け電池、競争軸は容量から稼働率へ 大型化に限界",
+   "summary": "ヒューマノイドロボット向け電池は、大容量化より稼働率向上が重視され始めた。重量制約で搭載量に限界があるため、交換式や急速充電を軸に各社の開発競争が広がっている。",
+   "source": "디지털투데이",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202609/700056_647781_3921.png",
+   "published": "2026-09-14T07:30+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "b4ccf0498a32",
+   "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
+   "title": "How autonomous fleets are changing what’s possible in American agriculture",
+   "summary": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades ",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/USSugar_ASI.jpg",
+   "published": "2026-09-13T21:45+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "d95efd79c2da",
+   "url": "https://www.vietnam.vn/ja/ifa-2026-robot-hut-bui-lau-nha-su-dung-hoi-nuoc-nong",
+   "title": "IFA 2026：高温蒸気を利用したロボット掃除機とモップ。",
+   "summary": "（ダン・トリ新聞）－ドイツのベルリンで開催されたIFA 2026展示会で、Dreame社はロボット掃除機「Aqua20 Ultra Roller」を含む一連の新しい家電製品を発表した。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/13/1789298526913_robot-hut-bui-dreame-aqua20-ultra-roller-1-cropped-1789230742985.jpeg",
+   "published": "2026-09-13T21:07+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "f413eeedf33e",
+   "url": "https://finance.biggo.jp/news/e87e12f6-f581-4ad3-a0f2-7f9f0a038d9d",
+   "title": "米国、外国製ロボットの輸入規制を強化…韓国企業の輸出に打撃",
+   "summary": "米国連邦通信委員会（FCC）が7月28日から外国製ヒューマノイドロボット・自律走行ロボット・無人搬送車などの輸入を規制したことで、韓国ロボット企業の米国輸出…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/d2OvWeluHQVmCvz01f8ce30QGsFqLCPvEzjkatdC5V8/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2U4N2UxMmY2LWY1ODEtNGFkMy1hMGYyLTdmOWYwYTAzOGQ5ZF8xNzg5Mjg4MjMwX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-09-13T17:25+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "f4f5df2659a3",
+   "url": "https://s.response.jp/article/2026/09/13/416516.html",
+   "title": "ロボット倉庫にヒューマノイドを導入 矢崎総業・山善・Cuebusが実証実験を開始",
+   "summary": "Cuebus、矢崎総業、山善の3社は、静岡県裾野市の「Innovation Hub – REN（錬）」にて、リニアモータ式ロボット倉庫「CUEBUS」とヒューマノイドロボットを連携させる実証実験を2026年9月21日から開始する。",
+   "source": "s.response.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2242377.jpg",
+   "published": "2026-09-13T13:30+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "586382766a2c",
+   "url": "https://japan.cnet.com/article/35252250/",
+   "title": "着想はSF映画の球体ロボ！ 一輪でコロコロ走る警備ロボット「1ROLLO」",
+   "summary": "着想はSF映画の球体ロボ！ 一輪でコロコロ走る警備ロボット「1ROLLO」    CNET Japan",
+   "source": "CNET Japan",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://japan.cnet.com/media/2026/cnet/bouncy/thumb_bouncy_douga.png",
+   "published": "2026-09-13T12:00+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
+  {
+   "id": "6d2e762a2e28",
+   "url": "https://www.vietnam.vn/ja/robot-chay-nhanh-nhat-the-gioi-tang-toc-trong-cuoc-dua-kho-hon",
+   "title": "世界最速のロボットが、より厳しいレースで「加速」する。",
+   "summary": "人型ロボットの記録的なスピードに続き、天宮ウルトラの開発チームは現在、ロボットが実際に毎日稼働できるよう、信頼性を向上させるという課題に直面している。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/13/1789264236946_2026_08_28t054345z_1977242775_rc2h7nam61pp_rtrmadp_3_china_tech_robot_games_bolt.jpeg",
+   "published": "2026-09-13T11:22+09:00",
+   "collected": "2026-09-14T08:05+09:00"
+  },
   {
    "id": "a2168e9fffe8",
    "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
@@ -6493,97 +6584,6 @@
    "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
    "published": "2026-08-19T15:15+09:00",
    "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "03acb71ccc4a",
-   "url": "https://s.response.jp/article/2026/08/19/415447.html",
-   "title": "ヒューマノイドを新卒総合職として採用へ…その名は「宮澤ノア」",
-   "summary": "長野県の鉄鋼製品メーカー・カクイチとロボティクス企業のPlay Roboticsが、二足歩行型ヒューマノイドロボット「宮澤ノア」（Unitree社製G1）を2027年4月に新卒総合職として迎える共同プロジェクトを始動した。日本の中小企業とし",
-   "source": "レスポンス（Response.jp）",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2235743.jpg",
-   "published": "2026-08-19T14:30+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "280721f711c0",
-   "url": "https://news.yahoo.co.jp/articles/7d4d6d91b2c6d02337c167a74eb99d538c1fe80a",
-   "title": "中国ヒューマノイド「Unitree Robotics」が上場、初値629％高騰 時価総額は一時10兆円超に",
-   "summary": "中国のロボット大手、宇樹科技（Unitree Robotics）は8月19日、上海証券取引所のハイテク企業向け市場「科創板」に上場した。\n\n公開価格は1株150.80元（約3600円）だったが、初値",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00010004-krjapan-000-2-view.jpg?exp=10800",
-   "published": "2026-08-19T14:17+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "306a9d49c2a2",
-   "url": "https://robotstart.info/article/2026/08/19/382288.html",
-   "title": "Unitreeついに上場、一方で米FCC規制リスト追加で浮上する米国市場向けヒューマノイド輸出規制リスクとは",
-   "summary": "Unitreeは、2026年8月19日に上海証券取引所 科創板（STAR Market）へ上場した。証券コードは「688836」である。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105629.png",
-   "published": "2026-08-19T12:55+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "ab94832e2784",
-   "url": "https://www.projectdesign.jp/articles/news/b2a1ce72-02a3-41af-b775-93855888b1c7",
-   "title": "ギークプラス 最新ヒューマノイド「Gino」を国内初公開、物流総合展で実機展示",
-   "summary": "AI物流ロボットの製造・販売を手掛けるギークプラスは2026年8月18日、ヒューマノイドロボット「Gino（ジーノ）」を、9月8日から11日まで東京で開催される「国際物流総合展2026」で国内初公開すると発表した。複数台を同時に展示し、倉庫",
-   "source": "projectdesign.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://cdn.projectdesign.jp/uploads/2026/08/19/KDph9WUH7UE2CR0dJRuPz3IKLIaVurlEvLgFP3rl.jpg",
-   "published": "2026-08-19T10:51+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "ebda96d3cd25",
-   "url": "https://36kr.jp/500288/",
-   "title": "いきなりヒト型は作らない 「手のあるロボット犬」から攻める中国Vbotの戦略",
-   "summary": "人型ロボットを作る前に、まずロボット犬に「手」をつける。 中国で人型ロボット（ヒューマノイド）への投資が過熱す",
-   "source": "36kr.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://36kr.jp/uploads/2026/08/20260810101418641901.webp",
-   "published": "2026-08-19T08:02+09:00",
-   "collected": "2026-08-19T08:29+09:00"
-  },
-  {
-   "id": "72caa7c253bb",
-   "url": "https://ascii.jp/elem/000/004/416/4416770/",
-   "title": "ロボットは“空気を読む”ようになれるのか。VivaTechで見たヒューマノイドの進化",
-   "summary": "VivaTech 2026のセッション「AI Gets a Body: The Age of Humanoid Robots」では、中国・上海発のロボティクス企業AgiBotの第2世代ヒューマノイドロボット「Agibot X2」がステージに",
-   "source": "ASCII.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://ascii.jp/img/2026/07/07/4496208/xl/ae4141bcdf10a71b.jpg",
-   "published": "2026-08-19T07:00+09:00",
-   "collected": "2026-08-19T07:57+09:00"
-  },
-  {
-   "id": "b6cc35aad30b",
-   "url": "https://senken.co.jp/posts/geekplus-260819",
-   "title": "物流ロボットのギークプラス 人型ロボット「ジーノ」公開へ",
-   "summary": "物流ロボット大手のギークプラス（東京）は、ヒューマノイドロボット「ジーノ」を9月初旬に東京で開く「国際物流総合展2026」で日本初公開する。　　独自AI（人工知能）フレームワーク「グラビティ」を搭載し、複雑な作業...",
-   "source": "繊研新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://senken.co.jp/production/uploads/file_content/file/420197/large_sub3.jpg",
-   "published": "2026-08-19T06:26+09:00",
-   "collected": "2026-08-19T06:32+09:00"
   }
  ]
 }
