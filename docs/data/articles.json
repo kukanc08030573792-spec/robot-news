@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-13T09:16+09:00",
+  "last_updated": "2026-09-13T09:49+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -188,6 +188,19 @@
    "thumbnail": "https://news.mynavi.jp/techplus/article/20260911-4952146/ogp_images/ogp.jpg",
    "published": "2026-09-11T18:58+09:00",
    "collected": "2026-09-12T08:11+09:00"
+  },
+  {
+   "id": "8a0f49da6b72",
+   "url": "https://robotstart.info/article/2026/09/11/382409.html",
+   "title": "AIロボット住宅が「100年ぶりに家を変える」 MWが家事を支援する「MW bot」を初公開、2028年販売へ",
+   "summary": "住宅そのものが人や環境を知覚し、AIが状況を判断し、ロボットが家事を行う。そんな「生きた家（Living Home）」を目指すMW（ムウ）が2026年9月10日、東京・豊洲でブランド発表会を開催し、次世代住宅「MW Living Home」",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106676.jpg",
+   "published": "2026-09-11T17:22+09:00",
+   "collected": "2026-09-13T09:49+09:00"
   },
   {
    "id": "f0b00b183c2d",
@@ -6570,19 +6583,6 @@
    "expert": false,
    "thumbnail": "https://senken.co.jp/production/uploads/file_content/file/420197/large_sub3.jpg",
    "published": "2026-08-19T06:26+09:00",
-   "collected": "2026-08-19T06:32+09:00"
-  },
-  {
-   "id": "e1e442d402a2",
-   "url": "https://www.therobotreport.com/how-achieve-high-voltage-industrial-systems-without-high-complexity/",
-   "title": "How to achieve high voltage in industrial systems without high complexity",
-   "summary": "Kollmorgen discusses the importance of fitting voltage systems closely to the application while still making the best us",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/KM-0012-Pic-1-featured.jpg",
-   "published": "2026-08-19T06:07+09:00",
    "collected": "2026-08-19T06:32+09:00"
   }
  ]
