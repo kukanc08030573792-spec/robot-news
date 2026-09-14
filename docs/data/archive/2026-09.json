@@ -1,5 +1,18 @@
 [
  {
+  "id": "997f25d9c4d0",
+  "url": "https://response.jp/article/2026/09/14/416536.html",
+  "title": "ロボット倉庫「CUEBUS」×ヒューマノイドロボット、静岡で実証実験へ…矢崎総業ら3社",
+  "summary": "矢崎総業、Cuebus、山善の3社は、静岡県裾野市に新設したイノベーション施設「Innovation Hub-REN（錬）」において、世界初のリニアモータ式ロボット倉庫「CUEBUS（キューバス）」を導入した実証実験を開始した。",
+  "source": "レスポンス（Response.jp）",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://response.jp/imgs/ogp_f/2242760.jpg",
+  "published": "2026-09-14T09:30+09:00",
+  "collected": "2026-09-14T09:55+09:00"
+ },
+ {
   "id": "7a1fbaf7f0e1",
   "url": "https://jp.ubergizmo.com/2026/09/14/26899/",
   "title": "ベッド専用の自動掃除ロボが登場！IFA 2026で注目の「Creatulize X1」",
@@ -104,6 +117,19 @@
   "collected": "2026-09-14T08:05+09:00"
  },
  {
+  "id": "e749c147d439",
+  "url": "https://xenospectrum.com/humanoid-robot-bom-actuator-cost/",
+  "title": "人型ロボット競争、日本の強みは「関節」に。完成機の陰で存在感を放つ精密部品",
+  "summary": "Goldman Sachsã¯2035å¹´ã®ãã¥ã¼ããã¤ãå¸å ´ã60åãã«ã380åãã«ã1,380åãã«ã¨2åº¦æ¸ãæãã",
+  "source": "XenoSpectrum",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.xenospectrum.com/large_humanoid_robot_joint_actuator_exploded_view_bcb6b1c3d5.webp",
+  "published": "2026-09-13T10:00+09:00",
+  "collected": "2026-09-14T09:55+09:00"
+ },
+ {
   "id": "a2168e9fffe8",
   "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
   "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -128,7 +154,7 @@
   "thumbnail": null,
   "published": "2026-09-12T19:30+09:00",
   "collected": "2026-09-14T09:23+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e002304bd2c6",

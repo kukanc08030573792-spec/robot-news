@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-14T09:23+09:00",
+  "last_updated": "2026-09-14T09:55+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,19 @@
   ]
  },
  "items": [
+  {
+   "id": "997f25d9c4d0",
+   "url": "https://response.jp/article/2026/09/14/416536.html",
+   "title": "ロボット倉庫「CUEBUS」×ヒューマノイドロボット、静岡で実証実験へ…矢崎総業ら3社",
+   "summary": "矢崎総業、Cuebus、山善の3社は、静岡県裾野市に新設したイノベーション施設「Innovation Hub-REN（錬）」において、世界初のリニアモータ式ロボット倉庫「CUEBUS（キューバス）」を導入した実証実験を開始した。",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2242760.jpg",
+   "published": "2026-09-14T09:30+09:00",
+   "collected": "2026-09-14T09:55+09:00"
+  },
   {
    "id": "7a1fbaf7f0e1",
    "url": "https://jp.ubergizmo.com/2026/09/14/26899/",
@@ -136,6 +149,19 @@
    "collected": "2026-09-14T08:05+09:00"
   },
   {
+   "id": "e749c147d439",
+   "url": "https://xenospectrum.com/humanoid-robot-bom-actuator-cost/",
+   "title": "人型ロボット競争、日本の強みは「関節」に。完成機の陰で存在感を放つ精密部品",
+   "summary": "Goldman Sachsã¯2035å¹´ã®ãã¥ã¼ããã¤ãå¸å ´ã60åãã«ã380åãã«ã1,380åãã«ã¨2åº¦æ¸ãæãã",
+   "source": "XenoSpectrum",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.xenospectrum.com/large_humanoid_robot_joint_actuator_exploded_view_bcb6b1c3d5.webp",
+   "published": "2026-09-13T10:00+09:00",
+   "collected": "2026-09-14T09:55+09:00"
+  },
+  {
    "id": "a2168e9fffe8",
    "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
    "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
@@ -160,7 +186,7 @@
    "thumbnail": null,
    "published": "2026-09-12T19:30+09:00",
    "collected": "2026-09-14T09:23+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "e002304bd2c6",
@@ -6558,32 +6584,6 @@
    "expert": false,
    "thumbnail": "https://i.ytimg.com/vi/IVZI7ZZX-UE/hqdefault.jpg",
    "published": "2026-08-19T21:00+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "0c75f429e07c",
-   "url": "https://finance.biggo.jp/news/2570cd4e-42ae-4369-9009-dd19a1ca2f61",
-   "title": "奇瑞汽車のロボット子会社AiMOGA、IPO準備へ—ヒューマノイド競争が過熱",
-   "summary": "中国の奇瑞汽車（09973.HK）が育成したヒューマノイドロボット子会社AiMOGA Roboticsは、新規株式公開（IPO）に向けた準備を進めており、複数の上場先と協議中で…",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/cbkAuN6FZi8uZLhY4uT5Lf6Y2_rKsARF1ohNlOMmiBw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzI1NzBjZDRlLTQyYWUtNDM2OS05MDA5LWRkMTlhMWNhMmY2MV8xNzg3MTMzNDgwX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-08-19T18:55+09:00",
-   "collected": "2026-08-20T06:33+09:00"
-  },
-  {
-   "id": "ddaa6f8c4632",
-   "url": "https://www.mk.co.kr/jp/world/12131464",
-   "title": "song.kwangsub@mk.co.kr",
-   "summary": "中国で初のヒューマノイドロボット株が誕生した。中国を代表するヒューマノイドロボットメーカーであるユニツリーが19日(現地時間)、「中国版ナスダック」と呼ばれる上海証券取引所(Shanghai Stock Exchange、SSE)の科創板(",
-   "source": "매일경제",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/20/20260820_01160102000002_M00.jpg",
-   "published": "2026-08-19T17:56+09:00",
    "collected": "2026-08-20T06:33+09:00"
   }
  ]
