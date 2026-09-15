@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-15T08:58+09:00",
+  "last_updated": "2026-09-15T09:52+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,33 @@
   ]
  },
  "items": [
+  {
+   "id": "7d8a496f022f",
+   "url": "https://news.nicovideo.jp/watch/nw19772610?news_ref=watch_20_nw17926041",
+   "title": "「ヒューマノイドロボット」の量産移行に重要な役割を果たすセンサー技術の開発動向について、IDTechExが最新調査レポ",
+   "summary": "「ヒューマノイドロボット」の量産移行に重要な役割を果たすセンサー技術の開発動向について、IDTechExが最新調査レポ    ニコニコニュース",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-15T09:03+09:00",
+   "collected": "2026-09-15T09:52+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "074b1f80965f",
+   "url": "https://www.dreamnews.jp/press/0000362561",
+   "title": "「ヒューマノイドロボット」の量産移行に重要な役割を果たすセンサー技術の開発動向について、IDTechExが最新調査レポートのリリースと無料ウェビナー予定を公開しました。",
+   "summary": "「ヒューマノイドロボット」の量産移行に重要な役割を果たすセンサー技術の開発動向について、IDTechExが最新調査レポートのリリースと無料ウェビナー予定を公開しました。    ドリームニュース",
+   "source": "ドリームニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.dreamnews.jp/press/0000362561/images/bodyimage1",
+   "published": "2026-09-15T09:00+09:00",
+   "collected": "2026-09-15T09:52+09:00"
+  },
   {
    "id": "9e0d311e8326",
    "url": "https://www.businessinsider.jp/article/2609-insidechina-ubtech-humanoid-robot-china-japan/",
@@ -108,7 +135,7 @@
    "thumbnail": null,
    "published": "2026-09-14T22:38+09:00",
    "collected": "2026-09-15T08:49+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4e4e37599c67",
@@ -6557,32 +6584,6 @@
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/105677.jpg",
    "published": "2026-08-20T15:30+09:00",
-   "collected": "2026-08-21T06:36+09:00"
-  },
-  {
-   "id": "ced97ff63271",
-   "url": "https://prtimes.jp/main/html/rd/p/000000002.000172692.html",
-   "title": "アトムと日本精工、国産ヒューマノイドAIロボット産業の発展に向けた戦略的パートナーシップに関するMOUを締結",
-   "summary": "株式会社アトムのプレスリリース（2026年8月20日 15時30分）アトムと日本精工、国産ヒューマノイドAIロボット産業の発展に向けた戦略的パートナーシップに関するMOUを締結",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/172692/2/172692-2-3f3bf0d2edf83f5d5d43e4859388f8af-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-08-20T15:30+09:00",
-   "collected": "2026-08-21T06:36+09:00"
-  },
-  {
-   "id": "f18ec640d07a",
-   "url": "https://newsdig.tbs.co.jp/articles/gallery/2884102",
-   "title": "ロボットも緊張？ 霧島国分夏まつりにヒューマノイドロボット登場 鹿児島",
-   "summary": "ロボットも緊張？　霧島国分夏まつりにヒューマノイドロボット登場　鹿児島 | TBS NEWS DIGのフォトギャラリーです。",
-   "source": "TBS NEWS DIG",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsdig.ismcdn.jp/mwimgs/f/b/1200w/img_fb6ab4b48f87a7e96ccd05273fb8cfdd129412.jpg",
-   "published": "2026-08-20T15:14+09:00",
    "collected": "2026-08-21T06:36+09:00"
   }
  ]
