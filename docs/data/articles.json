@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-16T09:46+09:00",
+  "last_updated": "2026-09-16T10:18+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,71 @@
   ]
  },
  "items": [
+  {
+   "id": "614709d39288",
+   "url": "https://ugo.plus/information/2026/09/16/interview_gk-kyoto/",
+   "title": "お知らせ｜親しみと先進性が同居する次世代機へugo Novaのデザインを手がけたGK京都に聞く",
+   "summary": "お知らせ｜親しみと先進性が同居する次世代機へugo Novaのデザインを手がけたGK京都に聞く    ugo.plus",
+   "source": "ugo.plus",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ugo.plus/wp-content/uploads/2025/04/OGP-1.jpg",
+   "published": "2026-09-16T10:02+09:00",
+   "collected": "2026-09-16T10:18+09:00"
+  },
+  {
+   "id": "82ce47502f49",
+   "url": "https://ugo.plus/information/2026/09/16/ugo-physical-ai-fabric/",
+   "title": "お知らせ｜ｕｇｏ、データ収集からロボット基盤モデル開発までを一括提供するフィジカルAIプロダクト・サービス群「ugo Physical AI Fabric」を発表",
+   "summary": "お知らせ｜ｕｇｏ、データ収集からロボット基盤モデル開発までを一括提供するフィジカルAIプロダクト・サービス群「ugo Physical AI Fabric」を発表    ugo.plus",
+   "source": "ugo.plus",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ugo.plus/wp-content/uploads/2026/09/ugo-Physical-AI-Fabric.png",
+   "published": "2026-09-16T10:02+09:00",
+   "collected": "2026-09-16T10:18+09:00"
+  },
+  {
+   "id": "928000ffea15",
+   "url": "https://prtimes.jp/main/html/rd/p/000000235.000059962.html",
+   "title": "淀屋橋ゲートタワーにおいて建物設備と連携した次世代建物管理モデルを構築",
+   "summary": "大和ライフネクスト株式会社のプレスリリース（2026年9月16日 10時00分）淀屋橋ゲートタワーにおいて建物設備と連携した次世代建物管理モデルを構築",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/59962/235/59962-235-a1f3047225fc8a9cae349886ddf31db0-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-16T10:00+09:00",
+   "collected": "2026-09-16T10:18+09:00"
+  },
+  {
+   "id": "6abeb798a45e",
+   "url": "https://robotstart.info/article/2026/09/16/382421.html",
+   "title": "ヒューマノイドを10分1台のペースで量産 ロボットがロボットを製造するUBTECHのスマート工場",
+   "summary": "UBTECH は、ロボットがロボットを製造する世界初の万台規模ヒューマノイドロボットスマート工場を正式に稼働開始させたことを公表。敷地面積14,000平方メートルに及ぶ本工場は、ヒューマノイドロボットの本格的な大規模産業化を実現する大きな一",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106768.jpg",
+   "published": "2026-09-16T10:00+09:00",
+   "collected": "2026-09-16T10:18+09:00"
+  },
+  {
+   "id": "f799b7d00007",
+   "url": "https://prtimes.jp/main/html/rd/p/000000178.000034305.html",
+   "title": "フィジカルAI時代に向けた国産セミヒューマノイド「ugo Nova」を発表",
+   "summary": "ｕｇｏ株式会社のプレスリリース（2026年9月16日 10時00分）フィジカルAI時代に向けた国産セミヒューマノイド「ugo Nova」を発表",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/34305/178/34305-178-e425417bc572c54b0a801868778b548c-3841x2161.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-16T10:00+09:00",
+   "collected": "2026-09-16T10:18+09:00"
+  },
   {
    "id": "9307da9c458a",
    "url": "https://finance.biggo.jp/news/95efedca-9acc-4972-8368-89c141f6fcdc",
@@ -6519,73 +6584,6 @@
    "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/21/https___news_jp_i_1463402374452740323.jpg",
    "published": "2026-08-21T15:25+09:00",
    "collected": "2026-08-22T08:31+09:00"
-  },
-  {
-   "id": "209e01d7f7d4",
-   "url": "https://robotstart.info/article/img/2026/08/21/382301/105710.html",
-   "title": "UBTECH、ヒューマノイド4機種を「WRC2026」で披露 接客・物流・製造・生活など場面ごとの活用用途を紹介 1枚目の写真・画像",
-   "summary": "UBTECHは2026年8月20日、2026年8月19日から23日にかけて北京亦創国際会展センターで開催されている「WRC2026」に出展している様子の動画をYouTubeで公開した。  UBTECH、ヒューマノイド4機種を「WRC2026",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105710.jpg",
-   "published": "2026-08-21T14:00+09:00",
-   "collected": "2026-08-23T06:29+09:00"
-  },
-  {
-   "id": "a4cff8b5930d",
-   "url": "https://www.nikkan.co.jp/articles/view/785554",
-   "title": "タテヤマアドバンス社、中国社製の業務用清掃ロボ販売 小売業向け",
-   "summary": "タテヤマアドバンス社、中国社製の業務用清掃ロボ販売 小売業向け    日刊工業新聞",
-   "source": "日刊工業新聞",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-21T12:49+09:00",
-   "collected": "2026-08-25T06:37+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "7fc6374aae26",
-   "url": "https://news.yahoo.co.jp/articles/c92219b75424b895adbf39f5214b82feca6836c2",
-   "title": "人型ロボットは「人間超え」 中国Unitree新型機、垂直跳び2メートル・時速45キロ",
-   "summary": "中国ロボット大手の宇樹科技（Unitree Robotics）は8月17日、人型ロボット（ヒューマノイド）の新製品「超人」を発表した。公式動画によると、同ロボットは2メートルの垂直跳びをこなすほか、",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-00010002-krjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-08-21T12:03+09:00",
-   "collected": "2026-08-22T06:32+09:00"
-  },
-  {
-   "id": "c5293ee637f5",
-   "url": "https://kabutan.jp/news/marketnews/?b=n202608210483",
-   "title": "日精工は反落、ヒューマノイドＡＩロボット開発・実装でアトムとＭＯＵ締結発表も反応限定的",
-   "summary": "日精工は反落、ヒューマノイドＡＩロボット開発・実装でアトムとＭＯＵ締結発表も反応限定的    株探",
-   "source": "株探",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-21T11:04+09:00",
-   "collected": "2026-08-22T06:32+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "1b7661662f0c",
-   "url": "https://prtimes.jp/main/html/rd/p/000000168.000017926.html",
-   "title": "進化したエッジ清掃「TruEdge 2.0」で、拭き残しがちな窓枠の際まで清掃窓拭きロボット掃除機「WINBOT W2S PRO OMNI」など2機種を8月21日（金）より発売 | エコバックスジャパン株式会社のプレスリリース",
-   "summary": "エコバックスジャパン株式会社のプレスリリース（2026年8月21日 10時00分）進化したエッジ清掃「TruEdge 2.0」で、拭き残しがちな窓枠の際まで清掃窓拭きロボット掃除機「WINBOT W2S PRO OMNI」など2機種を8月2",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/17926/168/17926-168-88c9b7493ea3782b2632a1e87302ec79-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-08-21T10:00+09:00",
-   "collected": "2026-08-22T06:32+09:00"
   }
  ]
 }
