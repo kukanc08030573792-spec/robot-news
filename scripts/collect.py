@@ -138,7 +138,7 @@ def collect_candidates(cfg):
     per_feed = st.get("max_items_per_feed", 20)
     candidates = []
 
-    def add_entries(feed, source, kind, is_expert=False):
+    def add_entries(feed, source, kind, is_expert=False, trusted=True):
         if not feed:
             return
         for e in feed.entries[:per_feed]:
@@ -151,6 +151,9 @@ def collect_candidates(cfg):
                 "source": source,
                 "type": kind,
                 "expert": is_expert,
+                # 専門メディア・メーカー公式チャンネル・有識者は、
+                # 記事本文にロボットの語が無くても対象内として扱う
+                "trusted": trusted,
                 "published": entry_datetime(e),
                 "description": strip_tags(
                     e.get("summary", "") or
@@ -183,6 +186,9 @@ def collect_candidates(cfg):
                     "source": source,
                     "type": "article",
                     "expert": False,
+                    # Google Newsはキーワード検索なので無関係な記事が混じる。
+                    # ここだけ本文での関連判定を効かせる
+                    "trusted": False,
                     "published": entry_datetime(e),
                     "description": strip_tags(e.get("summary", "")),
                 })
@@ -275,95 +281,115 @@ def fetch_ogp(url, timeout):
         return None, None, url
 
 
-# ---------------- GitHub Models 要約・分類 ----------------
+# ---------------- 要約テキストの整形 ----------------
 
-PROMPT = """あなたはロボット業界ニュースの編集者です。以下の記事リストをJSONで分類・要約してください。
-
-分類基準:
-- "cleaning": 清掃ロボット・清掃技術に直接関係する
-- "adjacent": 業務用サービスロボット（配膳・警備・案内・配送・施設向け）、ビルメンテナンスのDX
-- "general": 上記以外のロボット全般のうち、業界の大きな話題になるニュースのみ（大型資金調達、大手企業の参入・撤退、重要な技術発表、大きな社会実装）。小ネタは "skip"
-- "skip": ロボットと無関係、家庭用製品のセール情報、重複的な軽微ニュース
-
-要約: 日本語で{max_chars}字以内。事実のみ、誇張なし、「です・ます」不要の体言止め可。
-
-入力記事（id, title, description）:
-{articles}
-
-出力は次のJSON配列のみ（コードブロック不要）:
-[{{"id": "...", "category": "cleaning|adjacent|general|skip", "summary": "..."}}]
-"""
+# 配信元が説明文の先頭や末尾に付ける定型。要約として読ませるには邪魔になる。
+_NOISE_PATTERNS = [
+    re.compile(r"^お知らせ｜\s*"),
+    re.compile(r"^.{0,40}?のプレスリリース（\d{4}年\d{1,2}月\d{1,2}日\s*\d{1,2}時\d{1,2}分）\s*"),
+    re.compile(r"\s{3,}[^\s]{1,20}$"),            # 末尾の「　　　ITmedia」等
+    re.compile(r"（画像）（\d+/\d+枚目）\s*"),
+    re.compile(r"^\s*\[\d+\]\s*"),
+]
 
 
-def summarize_batch(items, max_chars, token):
-    payload = {
-        "model": "openai/gpt-4o-mini",
-        "temperature": 0.2,
-        "messages": [{
-            "role": "user",
-            "content": PROMPT.format(
-                max_chars=max_chars,
-                articles=json.dumps(
-                    [{"id": it["id"], "title": it["title"],
-                      "description": it["description"][:250]} for it in items],
-                    ensure_ascii=False),
-            ),
-        }],
-    }
-    r = requests.post(
-        "https://models.github.ai/inference/chat/completions",
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
-        json=payload, timeout=60)
-    r.raise_for_status()
-    text = r.json()["choices"][0]["message"]["content"]
-    text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.M).strip()
-    return {d["id"]: d for d in json.loads(text) if isinstance(d, dict) and "id" in d}
+def _is_mojibake(text):
+    """文字化け（誤った文字コードで読まれた日本語）の検出。
+    ラテン1の記号類が不自然に多い場合は化けているとみなす。"""
+    if not text:
+        return False
+    odd = sum(1 for c in text if "\u00a0" <= c <= "\u00ff" or c in "ÍÌÆÐ¨©Û")
+    return odd / max(len(text), 1) > 0.25
 
 
-KEYWORDS_CLEANING = ("清掃", "床洗浄", "クリーニング", "cleaning", "scrub", "vacuum")
-KEYWORDS_ADJACENT = ("配膳", "警備", "案内", "搬送", "配送", "サービスロボ", "ビルメン", "delivery robot", "service robot")
+def clean_description(desc, max_chars):
+    """要約欄に出すテキスト。配信元の説明文をそのまま出すと読めないため整える。
+    整形できないときは空文字を返し、カードはタイトルだけで読ませる。"""
+    t = (desc or "").strip()
+    for pat in _NOISE_PATTERNS:
+        t = pat.sub("", t).strip()
+    if _is_mojibake(t):
+        return ""
+    if len(t) < 15:
+        return ""
+    t = t[:max_chars]
+    # 文の途中で切れた場合は最後の句点まで戻す
+    cut = t.rfind("。")
+    if cut >= max_chars * 0.5:
+        t = t[:cut + 1]
+    return t
 
 
-def fallback_classify(item):
+# ---------------- 分類 ----------------
+
+KEYWORDS_CLEANING = ("清掃", "床洗浄", "床磨き", "クリーニング", "cleaning", "scrubber",
+                     "scrub", "vacuum", "janitorial")
+KEYWORDS_ADJACENT = ("配膳", "警備", "案内", "搬送", "配送", "サービスロボ", "ビルメン",
+                     "設備管理", "delivery robot", "service robot", "security robot")
+# ロボット・自動化に関係するか自体の判定。どれにも当たらない記事は対象外とする。
+_JA_ROBOT = ("ロボ", "ヒューマノイド", "人型", "自動化", "無人搬送", "ドローン",
+             "自律走行", "フィジカルai", "省人化")
+_EN_ROBOT = ("robot", "robots", "robotic", "robotics", "robo", "humanoid",
+             "automation", "automated", "autonomous", "drone", "agv", "amr",
+             "cobot", "physical ai")
+
+
+def _has_en(text, words):
+    """英単語は部分一致だと別語を誤爆する（例: amr が programmer に当たる）ため
+    単語境界付きで判定する。"""
+    return any(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?![a-z0-9])", text)
+               for w in words)
+
+
+def classify(item):
+    """記事を cleaning / adjacent / general / skip に分類する。
+
+    AI要約を廃止したため、この関数が唯一の判定になる。
+    「ロボットと無関係な記事を落とす」役目もここが担う
+    （以前はAIのskip判定が担っていた）。
+    """
     text = (item["title"] + " " + item["description"]).lower()
-    if any(k.lower() in text for k in KEYWORDS_CLEANING):
+    if any(k in text for k in KEYWORDS_CLEANING if not k.isascii()) or \
+            _has_en(text, [k for k in KEYWORDS_CLEANING if k.isascii()]):
         return "cleaning"
-    if any(k.lower() in text for k in KEYWORDS_ADJACENT):
+    if any(k in text for k in KEYWORDS_ADJACENT if not k.isascii()) or \
+            _has_en(text, [k for k in KEYWORDS_ADJACENT if k.isascii()]):
         return "adjacent"
-    return "general"
+    # 専門ソース由来なら、本文にロボットの語が無くても対象内とする。
+    # ロボスタやThe Robot Reportの記事、メーカー公式チャンネルの動画は
+    # 定義上ロボットの話であり、「RoboBusiness」「ugo Nova」のように
+    # 固有名詞だけで語が出てこない記事を落としてしまうため。
+    if item.get("trusted", True):
+        return "general"
+    if any(k in text for k in _JA_ROBOT) or _has_en(text, _EN_ROBOT):
+        return "general"
+    return "skip"   # Google News由来でロボットと無関係なもの
 
 
-def classify_and_summarize(new_items, cfg):
-    token = os.environ.get("GITHUB_TOKEN", "")
-    max_chars = (cfg.get("classification") or {}).get("max_summary_chars", 120)
-    results = {}
-    if token:
-        for i in range(0, len(new_items), 8):
-            batch = new_items[i:i + 8]
-            try:
-                results.update(summarize_batch(batch, max_chars, token))
-                time.sleep(3)  # レート制限への配慮
-            except Exception as e:  # noqa: BLE001
-                log(f"AI要約失敗（batch {i // 8}）: {e}")
-    else:
-        log("GITHUB_TOKEN未設定のためAI要約をスキップ（フォールバック使用）")
+def classify_and_trim(new_items, cfg):
+    """記事を分類し、要約欄に出すテキストを整える。
 
-    kept = []
+    要約はAIを使わず、配信元の説明文を整形して使う。
+    有識者の投稿は分類にかかわらず残す。
+    """
+    max_chars = (cfg.get("classification") or {}).get("max_summary_chars", 160)
+
+    kept, skipped = [], 0
     for it in new_items:
-        res = results.get(it["id"])
-        if res:
-            it["category"] = res.get("category", "general")
-            it["summary"] = str(res.get("summary", ""))[: max_chars + 20]
-            it["ai"] = True
-        else:
-            it["category"] = fallback_classify(it)
-            it["summary"] = it["description"][:max_chars]
-            it["ai"] = False
-        if it["category"] == "skip" and not it["expert"]:
-            continue  # 有識者の投稿はskip判定でも残す
+        it["category"] = classify(it)
+        it["summary"] = clean_description(it["description"], max_chars)
+
         if it["category"] == "skip":
+            if not it["expert"]:      # 有識者の投稿はskip判定でも残す
+                skipped += 1
+                continue
             it["category"] = "general"
         kept.append(it)
+
+    no_summary = sum(1 for it in kept if not it["summary"])
+    if no_summary:
+        log(f"要約テキストを作れなかった記事 {no_summary}件（タイトルのみ表示）")
+    log(f"対象外として除外 {skipped}件")
     return kept
 
 
@@ -546,9 +572,9 @@ def main():
         final.append(it)
     fresh = final
 
-    # 6) AI要約・分類
-    kept = classify_and_summarize(fresh, cfg)
-    log(f"採用 {len(kept)}件（skip除外 {len(fresh) - len(kept)}件）")
+    # 6) 分類・要約テキストの整形
+    kept = classify_and_trim(fresh, cfg)
+    log(f"採用 {len(kept)}件")
 
     # 出力形式に整形
     def pack(it):

@@ -6,8 +6,10 @@
 
 # ---- 専門メディアのRSSフィード ----
 rss_feeds:
+  # /feed はWordPress形式のパスで、このサイトでは404になる。
+  # サイトが <link rel="alternate"> で宣言しているURLがこちら。
   - name: ロボスタ
-    url: https://robotstart.info/feed
+    url: https://robotstart.info/rss20/index.rdf
   - name: The Robot Report
     url: https://www.therobotreport.com/feed/
 
@@ -67,13 +69,15 @@ experts:
   #   rss: https://note.com/USERNAME/rss
   #   note: rssを書くと投稿が自動収集されます
 
-# ---- 分類の指針（AIへの指示に使われます） ----
+# ---- 分類の指針 ----
+# 判定は scripts/collect.py の classify() がキーワードで行う（AIは使わない）。
 classification:
   # cleaning: 清掃ロボット・清掃技術に直接関係
   # adjacent: 業務用サービスロボット（配膳・警備・案内・配送等）、ビルメンテナンスDX
-  # general:  ロボット全般のうち業界の話題になる大きなニュースのみ（資金調達・大手参入・技術ブレイクスルー等）
-  # skip:     上記いずれでもない（家庭用掃除機の単純なセール情報、ロボット無関係等）
-  max_summary_chars: 120
+  # general:  上記以外のロボット・自動化の話題
+  # skip:     ロボットと無関係（Google News由来の記事にのみ適用。
+  #           専門メディア・メーカー公式チャンネル・有識者の記事は常に採用する）
+  max_summary_chars: 160
 
 # ---- 動作設定 ----
 settings:

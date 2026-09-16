@@ -13,7 +13,6 @@ on:
 
 permissions:
   contents: write
-  models: read              # GitHub Models（無料AI要約）を使うために必要
 
 concurrency:
   group: collect
@@ -32,10 +31,8 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests beautifulsoup4 pyyaml
 
-      - name: Collect and summarize
+      - name: Collect
         run: python scripts/collect.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit results
         run: |
