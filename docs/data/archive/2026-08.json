@@ -54,15 +54,17 @@
  {
   "id": "592ae364713a",
   "url": "https://www.youtube.com/shorts/HpI7AHoe1yE",
-  "title": "PUDU T-Series: Intelligent material handling across every scenario",
-  "summary": "From the production line to the warehouse. From transport to delivery. Built for diverse industrial environments, 𝐏𝐔𝐃𝐔 𝐓",
+  "title": "PUDU Tシリーズ：あらゆるシナリオにわたるインテリジェントなマテリアルハンドリング",
+  "summary": "生産ラインから倉庫まで。輸送から配達まで。多様な産業環境のために作られ、",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/HpI7AHoe1yE/hqdefault.jpg",
   "published": "2026-08-31T19:06+09:00",
-  "collected": "2026-09-01T09:32+09:00"
+  "collected": "2026-09-01T09:32+09:00",
+  "title_orig": "PUDU T-Series: Intelligent material handling across every scenario",
+  "summary_orig": "From the production line to the warehouse. From transport to delivery. Built for diverse industrial environments, 𝐏𝐔𝐃𝐔 𝐓"
  },
  {
   "id": "f6d974502735",
@@ -331,15 +333,17 @@
  {
   "id": "9d0db04577a3",
   "url": "https://www.therobotreport.com/edge-ai-wall-why-embodied-ai-requires-new-mathematics/",
-  "title": "The edge AI wall: Why embodied AI requires new mathematics",
-  "summary": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The po",
+  "title": "エッジAIの壁：具体化されたAIが新しい数学を必要とする理由",
+  "summary": "計算過負荷は、特定のプランナーのバグではなく、物理的および具体化されたAIを制限するエッジAIの壁です。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/The-Edge-AI-Wall-1.1_Page_3_Image_0002.jpg",
   "published": "2026-08-30T21:45+09:00",
-  "collected": "2026-08-31T08:24+09:00"
+  "collected": "2026-08-31T08:24+09:00",
+  "title_orig": "The edge AI wall: Why embodied AI requires new mathematics",
+  "summary_orig": "Computational overload is not a bug of a specific planner, but an edge AI wall limiting physical and embodied AI. The po"
  },
  {
   "id": "815b683d3163",
@@ -461,15 +465,17 @@
  {
   "id": "17f646a2028a",
   "url": "https://www.therobotreport.com/differences-between-decentralized-centralized-power-swarm-robotics/",
-  "title": "The differences between decentralized and centralized power in swarm robotics",
-  "summary": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the",
+  "title": "スワームロボティクスにおける分散型パワーと集中型パワーの違い",
+  "summary": "ロボット群は通常、集中型または分散型の電力管理に依存していますが、ハイブリッドアプローチは",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Amazon_fleet.jpg",
   "published": "2026-08-29T21:25+09:00",
-  "collected": "2026-08-30T08:13+09:00"
+  "collected": "2026-08-30T08:13+09:00",
+  "title_orig": "The differences between decentralized and centralized power in swarm robotics",
+  "summary_orig": "A robotic swarm typically relies on centralized or decentralized power management, but a hybrid approach could offer the"
  },
  {
   "id": "9c7d8a5ea8be",
@@ -513,54 +519,62 @@
  {
   "id": "ac152822fc36",
   "url": "https://www.therobotreport.com/from-teach-repeat-to-selfpath-ai-next-robotics-leap/",
-  "title": "From teach and repeat to SelfPath AI: The next robotics leap",
-  "summary": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. Th",
+  "title": "ティーチとリピートからSelfPath AIへ：ロボット工学の次の飛躍",
+  "summary": "Brian CorpのチーフテクノロジーオフィサーであるJohn Blackは、ロボット艦隊とAIの信頼を構築する方法についての洞察を共有しています。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/episode-259-featured.jpg",
   "published": "2026-08-29T08:25+09:00",
-  "collected": "2026-08-29T12:07+09:00"
+  "collected": "2026-08-29T12:07+09:00",
+  "title_orig": "From teach and repeat to SelfPath AI: The next robotics leap",
+  "summary_orig": "John Black, chief technology officer at Brian Corp, shares insights on how to build trust for robotics fleets and AI. Th"
  },
  {
   "id": "95a5c0ec12d1",
   "url": "https://www.therobotreport.com/deere-faces-headwinds-in-q3-update-and-announces-10m-reservoir-rd-partnership/",
-  "title": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
-  "summary": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The pos",
+  "title": "Deereは第3四半期のアップデートで逆風に直面し、Reservoir R&Dパートナーシップを発表",
+  "summary": "Deereは第3四半期の期待を上回り、ガイダンスを上げ、1,000万$のagtech AIイニシアチブでReservoirと提携しています。POS",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/bernstein-sundberg-reservoir-featured.jpg",
   "published": "2026-08-29T06:06+09:00",
-  "collected": "2026-08-29T12:07+09:00"
+  "collected": "2026-08-29T12:07+09:00",
+  "title_orig": "Deere faces headwinds in Q3 update and announces Reservoir R&D partnership",
+  "summary_orig": "Deere beats Q3 expectations, raises guidance, and partners with Reservoir on a $10 million agtech AI initiative. The pos"
  },
  {
   "id": "34c6e090f4df",
   "url": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
-  "title": "EXL acquires physical AI model developer iMerit",
-  "summary": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with re",
+  "title": "EXL、物理AIモデル開発会社iMeritを買収",
+  "summary": "EXLとiMeritの幹部は、自社の専門知識とプラットフォームを組み合わせることで、開発者が",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Mark-Liflander-EXL-iMerit-2048x1463-copy.jpg",
   "published": "2026-08-29T02:36+09:00",
-  "collected": "2026-08-29T12:07+09:00"
+  "collected": "2026-08-29T12:07+09:00",
+  "title_orig": "EXL acquires physical AI model developer iMerit",
+  "summary_orig": "The EXL and iMerit executives explain how their companies' combined expertise and platforms will help developers with re"
  },
  {
   "id": "36c36b2fe440",
   "url": "https://www.therobotreport.com/locus-getting-grasp-one-robotics-biggest-challenges-manipulation/",
-  "title": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
-  "summary": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulati",
+  "title": "Locusがロボット工学の最大の課題の1つである操作をどのように把握しているか",
+  "summary": "Locus Roboticsは最近、Nexera Roboticsを買収しました。Nexera Roboticsは、独自のソフトピッキングテクノロジーを生み出し、その操作性を強化しています。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Locus-Nexera-Box-Angle-Lift-featured.jpg",
   "published": "2026-08-28T22:29+09:00",
-  "collected": "2026-08-29T12:07+09:00"
+  "collected": "2026-08-29T12:07+09:00",
+  "title_orig": "How Locus is getting a grasp on one of robotics biggest challenges: manipulation",
+  "summary_orig": "Locus Robotics recently acquired Nexera Robotics, which create unique soft picking technology, bolstering its manipulati"
  },
  {
   "id": "3643b71ea32f",
@@ -788,15 +802,17 @@
  {
   "id": "0c7e19bf3a61",
   "url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
-  "title": "Teradyne Robotics ramps up fight against cobot copycats",
-  "summary": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot",
+  "title": "テラダインロボティクス、コボットの模倣者との戦いを強化",
+  "summary": "Teradyne Roboticsは、特許侵害の疑いでコボットメーカーのJAKAを訴え、中国のコボットとの2回目の戦いとなった",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/jaka-teradyne-lawsuit.jpg",
   "published": "2026-08-28T05:31+09:00",
-  "collected": "2026-08-28T14:17+09:00"
+  "collected": "2026-08-28T14:17+09:00",
+  "title_orig": "Teradyne Robotics ramps up fight against cobot copycats",
+  "summary_orig": "Teradyne Robotics sued cobot maker JAKA over alleged patent infringement, marking its second battle with a Chinese cobot"
  },
  {
   "id": "310b608fce33",
@@ -827,28 +843,32 @@
  {
   "id": "fc5041b9dbac",
   "url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/",
-  "title": "NSF to invest $90M into three new technology centers, including one focused on robotics",
-  "summary": "One of the new NSF funded centers will be the Center for Human and Robot Co-Adaptation, led by The University of Texas a",
+  "title": "NSFは、ロボット工学に焦点を当てたものを含む3つの新しい技術センターに9,000万$を投資",
+  "summary": "NSFが資金を提供する新しいセンターの1つは、テキサス大学が率いる人間とロボットの共同適応センターです。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/NSF_STC_News_Hero_2026-featured.jpg",
   "published": "2026-08-28T03:12+09:00",
-  "collected": "2026-08-28T14:17+09:00"
+  "collected": "2026-08-28T14:17+09:00",
+  "title_orig": "NSF to invest $90M into three new technology centers, including one focused on robotics",
+  "summary_orig": "One of the new NSF funded centers will be the Center for Human and Robot Co-Adaptation, led by The University of Texas a"
  },
  {
   "id": "9b9cb56d591f",
   "url": "https://www.therobotreport.com/carbon-robotics-partners-with-imerit-to-power-instant-in-field-ai-customization/",
-  "title": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
-  "summary": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding. The",
+  "title": "Carbon RoboticsはiMeritと提携し、インスタントインフィールドAIカスタマイズを推進",
+  "summary": "Carbon Roboticsは、植物基盤AIモデルとトラクターキットを導入し、農家がレーザー除草をカスタマイズできるようにしました。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/carbon-robotics-plantprofile-featured.jpg",
   "published": "2026-08-27T22:27+09:00",
-  "collected": "2026-08-28T14:17+09:00"
+  "collected": "2026-08-28T14:17+09:00",
+  "title_orig": "Carbon Robotics partners with iMerit to power instant in-field AI customization",
+  "summary_orig": "Carbon Robotics introduced a plant foundation AI model and tractor kit, enabling farmers to customize laser weeding. The"
  },
  {
   "id": "4c2e15f71aca",
@@ -892,15 +912,17 @@
  {
   "id": "b3c6af0a6a33",
   "url": "https://www.youtube.com/watch?v=ZybLmiDMhTw",
-  "title": "PUDU D5: Mapping & Autonomous Patrol Demo",
-  "summary": "Map. Navigate. Patrol. Recharge. Repeat. Built for autonomous patrol across expansive environments, #PUDUD5 combines mob",
+  "title": "PUDU D 5 ：マッピングと自律パトロールのデモ",
+  "summary": "マップ。ナビゲート。パトロール。リチャージ。繰り返します。広大な環境での自律パトロールのために構築された# PUDUD 5はMOBを組み合わせています",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/ZybLmiDMhTw/hqdefault.jpg",
   "published": "2026-08-27T18:36+09:00",
-  "collected": "2026-08-29T12:50+09:00"
+  "collected": "2026-08-29T12:50+09:00",
+  "title_orig": "PUDU D5: Mapping & Autonomous Patrol Demo",
+  "summary_orig": "Map. Navigate. Patrol. Recharge. Repeat. Built for autonomous patrol across expansive environments, #PUDUD5 combines mob"
  },
  {
   "id": "85337d7f876c",
@@ -1116,14 +1138,15 @@
   "id": "6a056a8b1219",
   "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/27/news061.html",
   "title": "ヒューマノイド開発、「標準インタフェース」が不可欠に：MIPI Allianceがグループ設立（1/2 ページ）",
-  "summary": "q[}mCh{bgÌJ­É¨¢ÄAÊMC^tF[XÌdv«ªµÄ¢éBMIPI AllianceÍtBWJAIªìÌêåO",
+  "summary": "q [} mCh {bgÍJ ­ É ¨ ¢ ÄAÈMC ^ tF [XÍdv «ªµÄ ¢ éBMIPI AllianceÍtBWJAIªììêåO",
   "source": "EE Times Japan",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://image.itmedia.co.jp/ee/articles/2608/27/cover_news061.png",
   "published": "2026-08-27T11:00+09:00",
-  "collected": "2026-08-28T14:17+09:00"
+  "collected": "2026-08-28T14:17+09:00",
+  "summary_orig": "q[}mCh{bgÌJ­É¨¢ÄAÊMC^tF[XÌdv«ªµÄ¢éBMIPI AllianceÍtBWJAIªìÌêåO"
  },
  {
   "id": "f0151985683b",
@@ -1167,28 +1190,32 @@
  {
   "id": "480dfd648bb6",
   "url": "https://www.therobotreport.com/gatik-brings-in-200m-to-continue-expanding-autonomous-trucking-operations/",
-  "title": "Gatik brings in $200M to continue expanding autonomous trucking operations",
-  "summary": "Gatik said the funding will help it expand its model built around high-frequency regional routes connecting distribution",
+  "title": "Gatikは、自動運転トラック輸送事業の拡大を継続するために2億$をもたらします",
+  "summary": "Gatikは、この資金調達は、流通を結ぶ高周波地域ルートを中心に構築されたモデルを拡大するのに役立つと述べた",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Gatik_Georgia-Pacific-and-KBX-Partnership-6-scaled-featured.jpg",
   "published": "2026-08-27T01:59+09:00",
-  "collected": "2026-08-27T09:38+09:00"
+  "collected": "2026-08-27T09:38+09:00",
+  "title_orig": "Gatik brings in $200M to continue expanding autonomous trucking operations",
+  "summary_orig": "Gatik said the funding will help it expand its model built around high-frequency regional routes connecting distribution"
  },
  {
   "id": "af2cecdbfa19",
   "url": "https://www.therobotreport.com/ids-imaging-adds-nion-tof-camera-portfolio-3d-cameras/",
-  "title": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
-  "summary": "IDS said Nion is suitable for applications where precise 3D data is required at real-world process speeds, such as logis",
+  "title": "IDS ImagingがNion ToFセンサーを3 Dカメラのポートフォリオに追加",
+  "summary": "IDSによると、Nionは、ロジスティクスなど、実際のプロセス速度で正確な3 Dデータが必要なアプリケーションに適しています",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/ids-nion-3d-tof-camera-point-cloud-featured.jpg",
   "published": "2026-08-27T00:04+09:00",
-  "collected": "2026-08-27T09:38+09:00"
+  "collected": "2026-08-27T09:38+09:00",
+  "title_orig": "IDS Imaging adds Nion ToF sensor to its portfolio of 3D cameras",
+  "summary_orig": "IDS said Nion is suitable for applications where precise 3D data is required at real-world process speeds, such as logis"
  },
  {
   "id": "edc6ba7b47ea",
@@ -1206,15 +1233,17 @@
  {
   "id": "f430aa6a87f2",
   "url": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
-  "title": "Bedrock Robotics’ first operator-free excavator deployments take off",
-  "summary": "Bedrock Robotics deploys autonomous excavators to active job sites, tackling construction labor shortages with AI-powere",
+  "title": "Bedrock Roboticsの最初のオペレーターフリーの掘削機の展開が始まる",
+  "summary": "Bedrock Roboticsは、自律型掘削機をアクティブな作業現場に展開し、AIパワーで建設労働力不足に対処します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/bedrock-robotics-featured.jpg",
   "published": "2026-08-26T22:51+09:00",
-  "collected": "2026-08-27T09:38+09:00"
+  "collected": "2026-08-27T09:38+09:00",
+  "title_orig": "Bedrock Robotics’ first operator-free excavator deployments take off",
+  "summary_orig": "Bedrock Robotics deploys autonomous excavators to active job sites, tackling construction labor shortages with AI-powere"
  },
  {
   "id": "50e64cf12d69",
@@ -1417,14 +1446,15 @@
   "id": "9b2a90ee7220",
   "url": "https://built.itmedia.co.jp/bt/articles/2608/26/news058.html",
   "title": "水回りを清掃できるフィジカルAIロボ「Loki」のオフィスビル実証開始、日鉄興和不動産：FM",
-  "summary": "úS»as®YÆJDSCÍAXCXÌLoki RoboticsªJ­µ½tBWJAI´|{bgÌú{ÅÌðJnµ½BúS»as®YÌ©",
+  "summary": "úS »as ® YÆJDSCÍAXCXÍLoki RoboticsªJ µ½ tBWJAI ´| {bgÍú {ÅðJnµ½ BúS» as ® YÍ ©",
   "source": "ITmedia",
   "type": "article",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://image.itmedia.co.jp/bt/articles/2608/26/cover_news058.jpg",
   "published": "2026-08-26T11:00+09:00",
-  "collected": "2026-08-27T09:38+09:00"
+  "collected": "2026-08-27T09:38+09:00",
+  "summary_orig": "úS»as®YÆJDSCÍAXCXÌLoki RoboticsªJ­µ½tBWJAI´|{bgÌú{ÅÌðJnµ½BúS»as®YÌ©"
  },
  {
   "id": "7c41df863f60",
@@ -1509,15 +1539,17 @@
  {
   "id": "8369f16af220",
   "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
-  "title": "Early bird pricing for RoboBusiness 2026 ends August 31",
-  "summary": "Early bird pricing for RoboBusiness 2026, which saves attendees $200 on full conference passes, will end Aug. 31. The po",
+  "title": "RoboBusiness 2026の早期割引は8月31日に終了します",
+  "summary": "RoboBusiness 2026の早期割引価格は、会議のフルパスを200 $節約し、8月31日に終了します。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/robo-earlybirdpricing-featured.jpg",
   "published": "2026-08-26T02:41+09:00",
-  "collected": "2026-08-26T06:36+09:00"
+  "collected": "2026-08-26T06:36+09:00",
+  "title_orig": "Early bird pricing for RoboBusiness 2026 ends August 31",
+  "summary_orig": "Early bird pricing for RoboBusiness 2026, which saves attendees $200 on full conference passes, will end Aug. 31. The po"
  },
  {
   "id": "9d01363d6ec3",
@@ -1535,28 +1567,32 @@
  {
   "id": "1743e8442a7d",
   "url": "https://www.therobotreport.com/humans-loop-are-still-needed-robotaxi-fleet-safety-says-guident/",
-  "title": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
-  "summary": "As fleets of autonomous vehicles scale, AI and human oversight remain critical for safety, explains Guident's CEO. The p",
+  "title": "Guident氏は、ロボタクシー車両の安全性のためには、まだループ内の人間が必要だと述べています",
+  "summary": "自動運転車の規模が拡大するにつれて、AIと人間の監視は安全性にとって依然として重要であるとGuidentのCEOは説明する。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Guident_Boca-copy.jpg",
   "published": "2026-08-26T00:11+09:00",
-  "collected": "2026-08-26T06:36+09:00"
+  "collected": "2026-08-26T06:36+09:00",
+  "title_orig": "Humans in the loop are still needed for robotaxi fleet safety, says Guident",
+  "summary_orig": "As fleets of autonomous vehicles scale, AI and human oversight remain critical for safety, explains Guident's CEO. The p"
  },
  {
   "id": "a8aef480ee3c",
   "url": "https://www.therobotreport.com/jetson-orin-nano-2-doubles-inference-performance-robotics-edge-says-nvidia/",
-  "title": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
-  "summary": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time. The p",
+  "title": "Jetson Orin Nano 2は、エッジ上のロボット工学の推論性能を倍増させると、NVIDIAは述べています",
+  "summary": "NVIDIAは、Jetson Orin Nano 2で、フロンティアインテリジェンスが最先端に達し、リアルタイムで実行できるようになったと述べています。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Jetson-Orin-Nano-2.jpg",
   "published": "2026-08-26T00:00+09:00",
-  "collected": "2026-08-26T06:36+09:00"
+  "collected": "2026-08-26T06:36+09:00",
+  "title_orig": "Jetson Orin Nano 2 doubles inference performance for robotics on the edge, says NVIDIA",
+  "summary_orig": "With Jetson Orin Nano 2, NVIDIA says that frontier intelligence has reached the edge and can now run in real time. The p"
  },
  {
   "id": "f7f96045b1b8",
@@ -1641,15 +1677,17 @@
  {
   "id": "9871a6e4b574",
   "url": "https://www.youtube.com/watch?v=rg0AllwLw2c",
-  "title": "Gausium Marvel for Underground Parking | Parking Locks? No Problem for Marvel",
-  "summary": "Ground locks, wheel stops, tight edges — Marvel navigates them without breaking its cleaning path. Precise edge-hugging,",
+  "title": "地下駐車のためのガウジウム・マーベル|駐車ロック？ Marvelなら問題ありません",
+  "summary": "グラウンドロック、ホイールストップ、タイトエッジ— Marvelはクリーニングパスを壊すことなくそれらをナビゲートします。正確なエッジハグ、",
   "source": "Gausium",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/rg0AllwLw2c/hqdefault.jpg",
   "published": "2026-08-25T17:51+09:00",
-  "collected": "2026-08-26T06:36+09:00"
+  "collected": "2026-08-26T06:36+09:00",
+  "title_orig": "Gausium Marvel for Underground Parking | Parking Locks? No Problem for Marvel",
+  "summary_orig": "Ground locks, wheel stops, tight edges — Marvel navigates them without breaking its cleaning path. Precise edge-hugging,"
  },
  {
   "id": "6635a27ee715",
@@ -1837,15 +1875,17 @@
  {
   "id": "b431f95bf725",
   "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
-  "title": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-  "summary": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agt",
+  "title": "次の大きなAIの遊びは、アプリやヒューマノイドではなく、脳と筋力を備えたマシンです",
+  "summary": "労働力の減少に伴い、農業および建設機械メーカーが関連性を維持するためには、AIを追加する必要があります、とAgtは言います",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Kubota-Agtonomy-featured.jpg",
   "published": "2026-08-25T07:53+09:00",
-  "collected": "2026-08-25T08:29+09:00"
+  "collected": "2026-08-25T08:29+09:00",
+  "title_orig": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
+  "summary_orig": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agt"
  },
  {
   "id": "fe9e2b5522de",
@@ -1876,28 +1916,32 @@
  {
   "id": "9a3f7e6bacf3",
   "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
-  "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-  "summary": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at sc",
+  "title": "XPeng MotorsヒューマノイドロボットユニットDogotixが9億$を調達",
+  "summary": "XPeng Motorsのヒューマノイド部門であるDogotixは、SCでロボットを生産する計画で、63億$の評価額を達成しました。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/XPeng_IRON.jpg",
   "published": "2026-08-25T05:07+09:00",
-  "collected": "2026-08-25T06:37+09:00"
+  "collected": "2026-08-25T06:37+09:00",
+  "title_orig": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+  "summary_orig": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at sc"
  },
  {
   "id": "b917297c633d",
   "url": "https://www.youtube.com/shorts/RKf4_9RvJsA",
-  "title": "How quickly can a robotic scrubber be set-up and deployed? Watch to find out! #floorcleaning",
-  "summary": "▬▬ About Tennant Company ▬▬▬▬▬ Tennant Company is a leading provider of innovative solutions in the field of industrial",
+  "title": "ロボットスクラバーのセットアップと展開はどのくらいの速さで行えますか？ぜひチェックしてみてください！ #フロアクリーニング",
+  "summary": "Tennant Company▬▬について▬▬▬▬▬Tennant Companyは、産業分野における革新的なソリューションの大手プロバイダーです。",
   "source": "Tennant Company",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/RKf4_9RvJsA/hqdefault.jpg",
   "published": "2026-08-25T02:26+09:00",
-  "collected": "2026-08-25T06:37+09:00"
+  "collected": "2026-08-25T06:37+09:00",
+  "title_orig": "How quickly can a robotic scrubber be set-up and deployed? Watch to find out! #floorcleaning",
+  "summary_orig": "▬▬ About Tennant Company ▬▬▬▬▬ Tennant Company is a leading provider of innovative solutions in the field of industrial"
  },
  {
   "id": "28927e58d70a",
@@ -1916,15 +1960,17 @@
  {
   "id": "95b24326bb2f",
   "url": "https://www.youtube.com/watch?v=eMX9pgowI0U",
-  "title": "X2 ROVR SCRUB autonomous floor scrubber cleans real-world facilities",
-  "summary": "See the Tennant X2 ROVR SCRUB in action across a variety of indoor environments, from corporate offices and educational",
+  "title": "X 2 ROVRスクラブ自律型フロアスクラバーは、実際の施設を清掃します",
+  "summary": "テナントX 2 ROVRスクラブを、企業のオフィスや教育機関など、さまざまな屋内環境で実際にご覧ください",
   "source": "Tennant Company",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/eMX9pgowI0U/hqdefault.jpg",
   "published": "2026-08-25T01:10+09:00",
-  "collected": "2026-08-25T06:37+09:00"
+  "collected": "2026-08-25T06:37+09:00",
+  "title_orig": "X2 ROVR SCRUB autonomous floor scrubber cleans real-world facilities",
+  "summary_orig": "See the Tennant X2 ROVR SCRUB in action across a variety of indoor environments, from corporate offices and educational"
  },
  {
   "id": "dcf02b0702a4",
