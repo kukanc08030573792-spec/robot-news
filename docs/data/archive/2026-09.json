@@ -1,5 +1,31 @@
 [
  {
+  "id": "cb33c8659942",
+  "url": "https://news.infoseek.co.jp/article/koreawave_3653382/",
+  "title": "韓国ロボティズ、売上高95％増…AIロボット需要でアクチュエーター供給拡大",
+  "summary": "ソウル市江西区のロボティズ本社で開かれたAIロボット「M.AXアライアンス」カンファレンスで披露されたヒューマノイ",
+  "source": "Infoseek",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_world-1.0.png",
+  "published": "2026-09-17T11:20+09:00",
+  "collected": "2026-09-17T11:48+09:00"
+ },
+ {
+  "id": "d9e04b7bde73",
+  "url": "https://article.auone.jp/2bc98ff0-c318-4401-934b-6ea2cca661d4",
+  "title": "Zoomlionのヒューマノイド「第2回世界人型ロボット運動会」で得られたデータを産業活用へ",
+  "summary": "Zoomlionのヒューマノイド「第2回世界人型ロボット運動会」で得られたデータを産業活用へ中国の建設機械大手Zoomlion Heavy Industry Science",
+  "source": "article.auone.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/17/https___news_jp_i_1473141521332846606_w640.webp",
+  "published": "2026-09-17T11:18+09:00",
+  "collected": "2026-09-17T11:48+09:00"
+ },
+ {
   "id": "d4c396dfce5b",
   "url": "https://36kr.jp/501647/",
   "title": "ヒューマノイド生産、10分に1台 中国UBTECH、「ロボットがロボットをつくる」工場稼働",
@@ -55,15 +81,17 @@
  {
   "id": "69fc411d43b3",
   "url": "https://www.therobotreport.com/ologic-to-share-how-robots-can-learn-from-human-demonstrations-at-robobusiness/",
-  "title": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
-  "summary": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic",
+  "title": "RoboBusinessでの人間のデモンストレーションからロボットがどのように学ぶことができるかを共有するOLogic",
+  "summary": "OLogicのCEOであるTed Larsonは、自己中心的なロボット学習の基盤と、これらのシステムの構築に伴う技術的課題を探ります。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ologicrobots.jpg",
   "published": "2026-09-17T05:31+09:00",
-  "collected": "2026-09-17T08:37+09:00"
+  "collected": "2026-09-17T08:37+09:00",
+  "title_orig": "OLogic to share how robots can learn from human demonstrations at RoboBusiness",
+  "summary_orig": "OLogic CEO Ted Larson will explore the foundations of egocentric robot learning and the technical challenges involved in building these systems. The post OLogic"
  },
  {
   "id": "d838091e6a1e",
@@ -82,15 +110,17 @@
  {
   "id": "609f382fbb82",
   "url": "https://www.therobotreport.com/the-evolution-of-digit-agility-robotics-journey-from-cassie-to-digit-5/",
-  "title": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
-  "summary": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility ",
+  "title": "Digitの進化： CassieからDigit 5へのAgility Roboticsの旅",
+  "summary": "CassieからDigitの5つの異なるバージョンまで、Agility Roboticsは産業タスクに合わせて技術を適応させました。The post The evolution of Digit: Agility",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Digitthroughtheyears.jpg",
   "published": "2026-09-17T02:45+09:00",
-  "collected": "2026-09-17T08:37+09:00"
+  "collected": "2026-09-17T08:37+09:00",
+  "title_orig": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
+  "summary_orig": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility"
  },
  {
   "id": "0ca9e5e2cd7e",
@@ -135,15 +165,17 @@
  {
   "id": "19451aef3326",
   "url": "https://www.youtube.com/watch?v=8EXcHagMmak",
-  "title": "Gausium Marvel | 200,000+ Crossings, Zero Component Failures",
-  "summary": "A cleaning robot's climb height tells you what it can do once. It doesn't tell you what condition it's in after the ten-thousandth time. So we ran Marvel over f",
+  "title": "ガウジウム・マーベル| 20万以上の交差点、部品故障ゼロ",
+  "summary": "掃除ロボットの登りの高さは、一度にできることを教えてくれます。1万回経っても、どのような状態になっているのかはわかりません。そこで私たちはマーベルをfに乗せて",
   "source": "Gausium",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/8EXcHagMmak/hqdefault.jpg",
   "published": "2026-09-16T16:15+09:00",
-  "collected": "2026-09-17T08:37+09:00"
+  "collected": "2026-09-17T08:37+09:00",
+  "title_orig": "Gausium Marvel | 200,000+ Crossings, Zero Component Failures",
+  "summary_orig": "A cleaning robot's climb height tells you what it can do once. It doesn't tell you what condition it's in after the ten-thousandth time. So we ran Marvel over f"
  },
  {
   "id": "01e92b04bbf8",
@@ -330,15 +362,17 @@
  {
   "id": "66de205f10eb",
   "url": "https://www.therobotreport.com/inorbit-ai-releases-openrobops-iso-21423-reference-implementation/",
-  "title": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
-  "summary": "OpenRobOps gives robotics developers a foundation to deliver a fleet manager with support for the upcoming interoperabil",
+  "title": "InOrbit.AIがOpenRobOps ISO 21423リファレンス実装をリリース",
+  "summary": "OpenRobOpsは、ロボット開発者に、今後の相互運用性をサポートするフリートマネージャーを提供するための基盤を提供します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ORO-Hero-Shot-2-scaled.png",
   "published": "2026-09-15T21:58+09:00",
-  "collected": "2026-09-16T08:29+09:00"
+  "collected": "2026-09-16T08:29+09:00",
+  "title_orig": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
+  "summary_orig": "OpenRobOps gives robotics developers a foundation to deliver a fleet manager with support for the upcoming interoperabil"
  },
  {
   "id": "fe28fceae550",
@@ -356,15 +390,17 @@
  {
   "id": "fba5ba1176c1",
   "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
-  "title": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
-  "summary": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture. The post",
+  "title": "AgilityのDigit 5ヒューマノイドには、新しい脚、バッテリー、安全性のアップグレードがあります",
+  "summary": "Digitの最新バージョンには、新しい膝、アップグレードされたバッテリー、より包括的な安全アーキテクチャが含まれています。POST",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
   "published": "2026-09-15T19:55+09:00",
-  "collected": "2026-09-16T08:29+09:00"
+  "collected": "2026-09-16T08:29+09:00",
+  "title_orig": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
+  "summary_orig": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture. The post"
  },
  {
   "id": "465262596f83",
@@ -422,15 +458,17 @@
  {
   "id": "d3981152f51b",
   "url": "https://www.youtube.com/watch?v=Hxqj0e0fH0s",
-  "title": "Full view of PUDU GT3: Commercial Compact Robotic Mower",
-  "summary": "The full view of #PUDUGT3 is here. 🌱🤖 See the PUDU GT3 in action — taking on mowing, grass collection and light debris p",
+  "title": "PUDU GT 3のフルビュー：商用コンパクトロボット芝刈り機",
+  "summary": "# PUDUGT 3の全体像はこちら。PUDU GT 3を実際に🌱🤖見てみましょう—芝刈り、草の収集、軽い破片の処理に取り組んでいます",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/Hxqj0e0fH0s/hqdefault.jpg",
   "published": "2026-09-15T16:00+09:00",
-  "collected": "2026-09-16T08:29+09:00"
+  "collected": "2026-09-16T08:29+09:00",
+  "title_orig": "Full view of PUDU GT3: Commercial Compact Robotic Mower",
+  "summary_orig": "The full view of #PUDUGT3 is here. 🌱🤖 See the PUDU GT3 in action — taking on mowing, grass collection and light debris p"
  },
  {
   "id": "dd6d9acf9f3a",
@@ -553,28 +591,32 @@
  {
   "id": "99d5a277ea6b",
   "url": "https://www.therobotreport.com/why-raas-needs-more-than-a-subscription-model/",
-  "title": "Why RaaS needs more than a subscription model",
-  "summary": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Servic",
+  "title": "RaaSがサブスクリプションモデル以上のものを必要とする理由",
+  "summary": "RoboBusiness 2026では、ロボットビジネスリーダーのパネルがRobots - as - a - Servicの背後にある実践的なプレイブックを検討します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/rb26-raas-panel-featured.jpg",
   "published": "2026-09-15T06:45+09:00",
-  "collected": "2026-09-15T08:49+09:00"
+  "collected": "2026-09-15T08:49+09:00",
+  "title_orig": "Why RaaS needs more than a subscription model",
+  "summary_orig": "At RoboBusiness 2026, a panel of robotics business leaders will examine the practical playbook behind Robots-as-a-Servic"
  },
  {
   "id": "271ed910c735",
   "url": "https://www.therobotreport.com/report-covers-surgical-robot-advances-deploying-warehouse-automation-real-world/",
-  "title": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
-  "summary": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this",
+  "title": "レポートは、現実世界で倉庫の自動化を展開する外科用ロボットの進歩をカバーしています",
+  "summary": "この記事では、外科用ロボットのケーススタディと、倉庫にモバイルロボットを最適に展開する方法についてのディスカッションから学びます。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/insurgery-scaled.jpeg",
   "published": "2026-09-15T06:01+09:00",
-  "collected": "2026-09-15T08:49+09:00"
+  "collected": "2026-09-15T08:49+09:00",
+  "title_orig": "Report covers advances in surgical robots, deploying warehouse automation in the real world",
+  "summary_orig": "Learn from a surgical robotics case study and a discussion of how to best deploy mobile robots in the warehouse in this"
  },
  {
   "id": "4a00a9d9024f",
@@ -592,15 +634,17 @@
  {
   "id": "89c0d9e83c27",
   "url": "https://www.therobotreport.com/arm-to-discuss-scaling-physical-ai-at-robobusiness/",
-  "title": "Arm to discuss scaling physical AI at RoboBusiness",
-  "summary": "Dermot O'Driscoll, the VP of go-to-market for physical AI at Arm, will examine key compute principles behind trusted phy",
+  "title": "RoboBusinessで物理的なAIのスケーリングについて話し合うARM",
+  "summary": "Armの物理的AIの市場投入担当VPであるDermot O'Driscollは、信頼できるPHYの背後にある主要なコンピューティング原則を検討します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/armimage-featured.jpg",
   "published": "2026-09-15T01:09+09:00",
-  "collected": "2026-09-15T08:49+09:00"
+  "collected": "2026-09-15T08:49+09:00",
+  "title_orig": "Arm to discuss scaling physical AI at RoboBusiness",
+  "summary_orig": "Dermot O'Driscoll, the VP of go-to-market for physical AI at Arm, will examine key compute principles behind trusted phy"
  },
  {
   "id": "38a49790f440",
@@ -619,15 +663,17 @@
  {
   "id": "4e4e37599c67",
   "url": "https://www.therobotreport.com/universal-robots-launches-its-seventh-generation-robot-platform-at-imts/",
-  "title": "Universal Robots launches its seventh generation robot platform at IMTS",
-  "summary": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more. The",
+  "title": "ユニバーサルロボット、IMTSで第7世代ロボットプラットフォームを発表",
+  "summary": "ユニバーサルロボットは、3つの新しいロボットアーム、再構築されたコアコントローラ、新しいAI対応ツールフランジなどをリリースしました。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/09_2026_Gen-7_Jake_Images-08-featured.jpg",
   "published": "2026-09-14T22:25+09:00",
-  "collected": "2026-09-15T08:49+09:00"
+  "collected": "2026-09-15T08:49+09:00",
+  "title_orig": "Universal Robots launches its seventh generation robot platform at IMTS",
+  "summary_orig": "Universal Robots has released three new robot arms, a rebuilt core controller, a new AI-ready tool flange, and more. The"
  },
  {
   "id": "0d9b2b8a6544",
@@ -905,15 +951,17 @@
  {
   "id": "b4ccf0498a32",
   "url": "https://www.therobotreport.com/how-autonomous-fleets-are-changing-whats-possible-american-agriculture/",
-  "title": "How autonomous fleets are changing what’s possible in American agriculture",
-  "summary": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades",
+  "title": "自律艦隊がアメリカの農業で可能なことをどのように変えているか",
+  "summary": "ASIの米国シュガーおよびエバーグレーズとのコラボレーションに例示されているように、自律型トラクターは米国の農業を支援することができます",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/USSugar_ASI.jpg",
   "published": "2026-09-13T21:45+09:00",
-  "collected": "2026-09-14T08:05+09:00"
+  "collected": "2026-09-14T08:05+09:00",
+  "title_orig": "How autonomous fleets are changing what’s possible in American agriculture",
+  "summary_orig": "Autonomous tractors can help American agriculture, as exemplified in ASI's collaboration with U.S. Sugar and Everglades"
  },
  {
   "id": "d95efd79c2da",
@@ -996,15 +1044,17 @@
  {
   "id": "a2168e9fffe8",
   "url": "https://www.therobotreport.com/ultrasound-offers-scalable-path-tactile-intelligence-physical-ai/",
-  "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
-  "summary": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense. The p",
+  "title": "超音波は、物理的なAIの触覚インテリジェンスへのスケーラブルなパスを提供します",
+  "summary": "超音波センシングは、摩耗や裂傷を避けながら、ロボットの手に触覚知覚を提供することができます、とUltraSenseは言います。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Ultrasound_01.jpg",
   "published": "2026-09-12T21:35+09:00",
-  "collected": "2026-09-13T07:57+09:00"
+  "collected": "2026-09-13T07:57+09:00",
+  "title_orig": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+  "summary_orig": "Ultrasound sensing can provide tactile perception for robotic hands while avoiding wear and tear, says UltraSense. The p"
  },
  {
   "id": "8fd92fa20267",
@@ -1063,28 +1113,32 @@
  {
   "id": "9be79c314e64",
   "url": "https://www.therobotreport.com/one-brick-at-a-time-how-monumental-uses-robotics-to-build-walls/",
-  "title": "One brick at a time: How Monumental uses robotics to build walls",
-  "summary": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick",
+  "title": "一度に1つのレンガ： Monumentalがロボットを使用して壁を構築する方法",
+  "summary": "CEOのSalar al Khafajiは、ポッドキャストのリスナーに、Monumentalがロボットを使って壁を建てている方法を紹介します。The post One brick",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/episode-261-featured.jpg",
   "published": "2026-09-12T06:09+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "One brick at a time: How Monumental uses robotics to build walls",
+  "summary_orig": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick"
  },
  {
   "id": "8b90bc8a3a6a",
   "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
-  "title": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-  "summary": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize fiel",
+  "title": "RoboBusinessでの現場展開の基礎をAVとロボット工学がどのように築いているかを学ぶ",
+  "summary": "ASIの最高経営責任者（ CEO ）であるMel Torrieは、自動運転車とロボット工学の交差点がFIELに革命をもたらす理由を探ります",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ASI_Field_robots.jpg",
   "published": "2026-09-12T04:49+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
+  "summary_orig": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize fiel"
  },
  {
   "id": "bf5b39f22eaf",
@@ -1102,41 +1156,47 @@
  {
   "id": "a1cbf61a7fe3",
   "url": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
-  "title": "How to select the right rack and pinion system for high-precision linear motion",
-  "summary": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision ap",
+  "title": "高精度直線運動に最適なラック＆ピニオンシステムの選び方",
+  "summary": "GAMは、ロボットデザイナーが高精度APのモーションコントロールを考える際にピニオンサイズを考慮すべき理由を説明します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system.jpg",
   "published": "2026-09-11T23:35+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "How to select the right rack and pinion system for high-precision linear motion",
+  "summary_orig": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision ap"
  },
  {
   "id": "ca1f13312977",
   "url": "https://www.therobotreport.com/how-hylio-drone-developers-navigate-changing-regulatory-landscape-help-farmers/",
-  "title": "How drone developers are navigating changing regulatory landscapes to help farmers",
-  "summary": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, not",
+  "title": "農家を支援するために、ドローン開発者が変化する規制環境をどのようにナビゲートしているか",
+  "summary": "FCCが外国製ロボットに制限を課す前に、同社は昨年すでにドローンに同様の制限を設けていた。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/hyliodrone-featured.jpg",
   "published": "2026-09-11T21:21+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "How drone developers are navigating changing regulatory landscapes to help farmers",
+  "summary_orig": "Before the FCC put restrictions on foreign-made robots, it had already set similar restrictions on drones last year, not"
  },
  {
   "id": "c31e4bc65d90",
   "url": "https://www.youtube.com/shorts/SQnjvtrW7HY",
-  "title": "Beetle vs. Warehouse Traffic 🚧 | Cleaning Robot Meets AGVs #satisfyingcleaning #robot #warehouse",
-  "summary": "Forklift lanes, AGVs, nonstop movement, and a floor that still needs cleaning. 🏭 Watch Beetle by Gausium navigate a busy",
+  "title": "甲虫対倉庫交通🚧|掃除ロボットがAGVを満たす#満足のいく掃除#ロボット#倉庫",
+  "summary": "フォークリフトレーン、AGV、ノンストップ移動、そしてまだ掃除が必要な床。BEETLE by GAUSIUMが忙しい時間帯をナビゲートする🏭様子を鑑賞しよう",
   "source": "Gausium",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/SQnjvtrW7HY/hqdefault.jpg",
   "published": "2026-09-11T20:30+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "Beetle vs. Warehouse Traffic 🚧 | Cleaning Robot Meets AGVs #satisfyingcleaning #robot #warehouse",
+  "summary_orig": "Forklift lanes, AGVs, nonstop movement, and a floor that still needs cleaning. 🏭 Watch Beetle by Gausium navigate a busy"
  },
  {
   "id": "5fc0a937824a",
@@ -1181,15 +1241,17 @@
  {
   "id": "f0b00b183c2d",
   "url": "https://www.youtube.com/watch?v=ElYO5IKbhqw",
-  "title": "PUDU GT5: Commercial Robotic Mower",
-  "summary": "What does PUDU GT5 do all day? 👀🌱 Mow. Collect. Keep moving. PUDU GT5 is a Commercial Robotic Mower designed for large o",
+  "title": "PUDU GT 5 ：商用ロボット芝刈り機",
+  "summary": "PUDU GT 5は一日中何をしていますか？👀🌱モウ。集めて。動き続けて。PUDU GT 5は、大型ロボット用に設計された商用ロボット芝刈り機です。",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/ElYO5IKbhqw/hqdefault.jpg",
   "published": "2026-09-11T17:00+09:00",
-  "collected": "2026-09-12T08:11+09:00"
+  "collected": "2026-09-12T08:11+09:00",
+  "title_orig": "PUDU GT5: Commercial Robotic Mower",
+  "summary_orig": "What does PUDU GT5 do all day? 👀🌱 Mow. Collect. Keep moving. PUDU GT5 is a Commercial Robotic Mower designed for large o"
  },
  {
   "id": "ea80f9e4ced7",
@@ -1246,15 +1308,17 @@
  {
   "id": "eeb892339fcd",
   "url": "https://www.therobotreport.com/teradyne-robotics-sues-jaka-over-3-universal-robots-patents/",
-  "title": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
-  "summary": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints",
+  "title": "テラダインロボティクス、ユニバーサルロボットの特許3件でジャカを訴える",
+  "summary": "新しい詳細によると、この訴訟には、ロボットインターフェース、安全ブレーキ、ジョイントに関する3つのユニバーサルロボットの特許が含まれています",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/jaka-teradyne-lawsuit.jpg",
   "published": "2026-09-11T07:14+09:00",
-  "collected": "2026-09-11T08:04+09:00"
+  "collected": "2026-09-11T08:04+09:00",
+  "title_orig": "Teradyne Robotics sues JAKA over 3 Universal Robots patents",
+  "summary_orig": "New details reveal the lawsuit involves three Universal Robots patents about robot interfaces, safety brakes, and joints"
  },
  {
   "id": "117e6da03bb2",
@@ -1272,28 +1336,32 @@
  {
   "id": "ace349c1462c",
   "url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
-  "title": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
-  "summary": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The",
+  "title": "Swarmer、ウクライナのUGVメーカーRatel Roboticsを最大2億2400万$で買収",
+  "summary": "スワームソフトウェアを開発したSwarmerは、ウクライナでRatel Roboticsの無人地上車両と協力する予定である。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Ratel_UGV.jpg",
   "published": "2026-09-11T05:10+09:00",
-  "collected": "2026-09-11T08:04+09:00"
+  "collected": "2026-09-11T08:04+09:00",
+  "title_orig": "Swarmer to acquire Ukrainian UGV maker Ratel Robotics for up to $224M",
+  "summary_orig": "Swarmer, which has developed swarm software, plans to work with Ratel Robotics' unmanned ground vehicles in Ukraine. The"
  },
  {
   "id": "ef5155a4b661",
   "url": "https://www.therobotreport.com/comau-automates-picking-handling-and-palletizing-for-decathlon/",
-  "title": "Comau automates picking, handling, and palletizing for Decathlon",
-  "summary": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper",
+  "title": "Comauは、Decathlonのピッキング、ハンドリング、パレタイジングを自動化します",
+  "summary": "Comauのシステムには、MyCoコボット、ROS 2ソフトウェアアーキテクチャ、AI搭載ビジョンシステム、モジュラーグリッパーが組み込まれています",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/MASTERLY_header-scaled-featured.jpg",
   "published": "2026-09-11T03:49+09:00",
-  "collected": "2026-09-11T08:04+09:00"
+  "collected": "2026-09-11T08:04+09:00",
+  "title_orig": "Comau automates picking, handling, and palletizing for Decathlon",
+  "summary_orig": "Comau's system incorporates its MyCo cobot, ROS2 software architecture, AI-powered vision systems, and a modular gripper"
  },
  {
   "id": "ac85e399d0c4",
@@ -1351,15 +1419,17 @@
  {
   "id": "da01acd1b367",
   "url": "https://www.youtube.com/watch?v=-HlobSUi8hM",
-  "title": "PUDU MP2000: Unboxed. Ready to Work",
-  "summary": "What does “plug-and-play” really mean for an AI-native autonomous forklift? Meet PUDU MP2000 — an AI-native pallet handl",
+  "title": "PUDU MP 2000 ：箱詰めされていません。すぐに使えます",
+  "summary": "AIネイティブの自律型フォークリフトにとって、「プラグアンドプレイ」とは本当に何を意味するのでしょうか？ PUDU MP 2000 — AIネイティブパレットハンドル",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/-HlobSUi8hM/hqdefault.jpg",
   "published": "2026-09-10T17:37+09:00",
-  "collected": "2026-09-11T08:04+09:00"
+  "collected": "2026-09-11T08:04+09:00",
+  "title_orig": "PUDU MP2000: Unboxed. Ready to Work",
+  "summary_orig": "What does “plug-and-play” really mean for an AI-native autonomous forklift? Meet PUDU MP2000 — an AI-native pallet handl"
  },
  {
   "id": "2f39175002c1",
@@ -1573,15 +1643,17 @@
  {
   "id": "8d72881728e0",
   "url": "https://www.therobotreport.com/what-bricklaying-has-taught-monumental-about-robots-construction/",
-  "title": "What bricklaying has taught Monumental about robots in construction",
-  "summary": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The p",
+  "title": "レンガ敷きが建設中のロボットについてMonumentalに教えたこと",
+  "summary": "建設業界はロボット工学の機会に満ちていますが、この技術はまだ大規模には進んでいません。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/monumental-featured.jpg",
   "published": "2026-09-10T06:08+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "What bricklaying has taught Monumental about robots in construction",
+  "summary_orig": "The construction industry is rife with opportunity for robotics, but the technology hasn't broken in at scale yet. The p"
  },
  {
   "id": "04609e705d44",
@@ -1625,54 +1697,62 @@
  {
   "id": "fdd16933b9a4",
   "url": "https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/",
-  "title": "Unitree shares down 53% from IPO debut",
-  "summary": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last mo",
+  "title": "Unitreeの株式はIPOデビューから53 ％減少",
+  "summary": "昨月の上海証券取引所でのデビューから、市場はUnitreeの660億$の評価額を引き下げています",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/unitree-G1-humanoid-featured.jpg",
   "published": "2026-09-10T04:34+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "Unitree shares down 53% from IPO debut",
+  "summary_orig": "The market is pulling back on Unitree's $66 billion valuation from its debut on the Shanghai Stock Exchange just last mo"
  },
  {
   "id": "846f32c1dc36",
   "url": "https://www.youtube.com/watch?v=qv1NfwAQKf4",
-  "title": "A Week of Pudu Robots in Action: Highlights from IFA 2026!",
-  "summary": "What a week it was at #IFA2026! 🤖✨ We brought our full robotics portfolio to Berlin, showcasing robots across different",
+  "title": "Pudu Robots in Actionの1週間： IFA 2026のハイライト！",
+  "summary": "# IFA 2026ではなんて一週間だったのでしょう！🤖✨私たちは完全なロボットポートフォリオをベルリンに持ち込み、さまざまなロボットを紹介しました。",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/qv1NfwAQKf4/hqdefault.jpg",
   "published": "2026-09-10T04:22+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "A Week of Pudu Robots in Action: Highlights from IFA 2026!",
+  "summary_orig": "What a week it was at #IFA2026! 🤖✨ We brought our full robotics portfolio to Berlin, showcasing robots across different"
  },
  {
   "id": "6962d1bee530",
   "url": "https://www.therobotreport.com/agibot-share-plans-scale-humanoids-from-lab-to-real-world-at-robobusiness/",
-  "title": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
-  "summary": "AGIBOT plans to give attendees actionable insights on identifying high-value robotics use cases and building sustainable",
+  "title": "RoboBusinessでヒューマノイドをラボから現実の世界にスケーリングする方法を説明するAGIBOT",
+  "summary": "AGIBOTは、価値の高いロボットのユースケースを特定し、持続可能なものを構築するための実用的な洞察を参加者に提供する予定です",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/agibotrobots-featured.jpg",
   "published": "2026-09-10T01:43+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "AGIBOT to explain how to scale humanoids from the lab to the real world at RoboBusiness",
+  "summary_orig": "AGIBOT plans to give attendees actionable insights on identifying high-value robotics use cases and building sustainable"
  },
  {
   "id": "0867ead48f5d",
   "url": "https://www.therobotreport.com/vention-opens-physical-ai-lab-manufacturing-montreal/",
-  "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
-  "summary": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line dep",
+  "title": "Vention、モントリオールに製造のための物理AIラボを開設",
+  "summary": "Ventionの新しい物理AIラボは、研究からスケーラブルな生産ラインへのロボット操作の進歩に焦点を当てます",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Physical-AI-Lab-Vention-Space-copy.jpg",
   "published": "2026-09-10T00:41+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "Vention opens Physical AI Lab for manufacturing in Montreal",
+  "summary_orig": "Vention's new Physical AI Lab will focus on advancing robotic manipulation from research to scalable production-line dep"
  },
  {
   "id": "c294b760aa69",
@@ -1691,15 +1771,17 @@
  {
   "id": "65d7ac772ec7",
   "url": "https://www.youtube.com/watch?v=BIBdZz80mq8",
-  "title": "Cleaning Robots on Shenzhen Metro: Gausium Omnie at MTR, Two Lines",
-  "summary": "At MTR Shenzhen, 27 Gausium Omnie runs across 10 stations on Line 13 and 7 on Line 4. Line 13's northern extension opene",
+  "title": "深セン地下鉄のクリーニングロボット： MTRのGausium Omnie、2路線",
+  "summary": "MTR深セン駅では、27 Gausium Omnieが13号線と4号線の7号線の10駅を横断して運行しています。13号線北側延伸開口部",
   "source": "Gausium",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/BIBdZz80mq8/hqdefault.jpg",
   "published": "2026-09-09T19:56+09:00",
-  "collected": "2026-09-10T08:08+09:00"
+  "collected": "2026-09-10T08:08+09:00",
+  "title_orig": "Cleaning Robots on Shenzhen Metro: Gausium Omnie at MTR, Two Lines",
+  "summary_orig": "At MTR Shenzhen, 27 Gausium Omnie runs across 10 stations on Line 13 and 7 on Line 4. Line 13's northern extension opene"
  },
  {
   "id": "3d7b112eeee7",
@@ -1928,15 +2010,17 @@
  {
   "id": "a1da677fb8cc",
   "url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
-  "title": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
-  "summary": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and envir",
+  "title": "ボストンダイナミクスのベテランがダイナミッククリーチャーを立ち上げ、ロボット工学でキャラクターに命を吹き込む",
+  "summary": "ダイナミッククリーチャーは、独自のキャラクターラインを作成し、特定のブランドや環境のためにキャラクターを再作成するために植えます",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Founder-Photo-dynamiccreatures-featured.jpg",
   "published": "2026-09-09T05:39+09:00",
-  "collected": "2026-09-09T08:19+09:00"
+  "collected": "2026-09-09T08:19+09:00",
+  "title_orig": "Boston Dynamics veterans launch Dynamic Creatures to bring characters to life with robotics",
+  "summary_orig": "Dynamic Creatures plants to create its own line of characters, and to re-create characters for specific brands and envir"
  },
  {
   "id": "0d65f3398cf4",
@@ -1955,28 +2039,32 @@
  {
   "id": "f2b57783d653",
   "url": "https://www.therobotreport.com/ai-cant-outrun-a-humanoids-hardware/",
-  "title": "AI can’t outrun a humanoid’s hardware",
-  "summary": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The ne",
+  "title": "AIはヒューマノイドのハードウェアを凌駕することはできません",
+  "summary": "AIの目覚ましい進歩により、ロボット工学は何をすべきかを判断できる機械に近づきました。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ai-humanoid-hardware.jpg",
   "published": "2026-09-09T04:03+09:00",
-  "collected": "2026-09-09T08:19+09:00"
+  "collected": "2026-09-09T08:19+09:00",
+  "title_orig": "AI can’t outrun a humanoid’s hardware",
+  "summary_orig": "The remarkable progress in AI has brought robotics closer to machines capable of determining what they should do. The ne"
  },
  {
   "id": "e8933d62585e",
   "url": "https://www.therobotreport.com/why-vision-ai-is-safety-backbone-of-automated-job-site/",
-  "title": "Why vision AI is the safety backbone of the automated job site",
-  "summary": "Vision AI doesn't replace robots or human judgement; it provides the continuous perception that allows both to operate s",
+  "title": "ビジョンAIが自動化されたジョブサイトの安全バックボーンである理由",
+  "summary": "ビジョンAIはロボットや人間の判断に取って代わるものではありません。それは両方を操作することを可能にする継続的な知覚を提供します",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/visionworksites-featured.jpg",
   "published": "2026-09-09T01:05+09:00",
-  "collected": "2026-09-09T08:19+09:00"
+  "collected": "2026-09-09T08:19+09:00",
+  "title_orig": "Why vision AI is the safety backbone of the automated job site",
+  "summary_orig": "Vision AI doesn't replace robots or human judgement; it provides the continuous perception that allows both to operate s"
  },
  {
   "id": "b5df1a8cd3c3",
@@ -2033,15 +2121,17 @@
  {
   "id": "95c4079cb80d",
   "url": "https://www.youtube.com/watch?v=ezUQhKYaV0Y",
-  "title": "Introducing Auto-Empty Station: the Final Step to Auto Cleaning",
-  "summary": "The bin is full. The job doesn’t have to stop. ⚡ Introducing the 𝐀𝐮𝐭𝐨-𝐄𝐦𝐩𝐭𝐲 𝐒𝐭𝐚𝐭𝐢𝐨𝐧 for PUDU MT1 Max & PUDU MT1. Automat",
+  "title": "オートエンプティステーションのご紹介：オートクリーニングの最終ステップ",
+  "summary": "ゴミ箱がいっぱいです。仕事を止める必要はありません。Pudu MT 1 MaxとPudu MT 1のための「PUDU MT 1 Max」と「PUDU MT 1. Automat」を⚡ご紹介します。",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/ezUQhKYaV0Y/hqdefault.jpg",
   "published": "2026-09-08T19:00+09:00",
-  "collected": "2026-09-09T08:19+09:00"
+  "collected": "2026-09-09T08:19+09:00",
+  "title_orig": "Introducing Auto-Empty Station: the Final Step to Auto Cleaning",
+  "summary_orig": "The bin is full. The job doesn’t have to stop. ⚡ Introducing the 𝐀𝐮𝐭𝐨-𝐄𝐦𝐩𝐭𝐲 𝐒𝐭𝐚𝐭𝐢𝐨𝐧 for PUDU MT1 Max & PUDU MT1. Automat"
  },
  {
   "id": "aff64c987520",
@@ -2270,67 +2360,77 @@
  {
   "id": "ebdc742a08fe",
   "url": "https://www.therobotreport.com/inbolt-ceo-to-discuss-physical-ais-deployment-problem-at-robobusiness/",
-  "title": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
-  "summary": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The pos",
+  "title": "RoboBusinessで物理的なAIの展開の問題を議論するInbolt",
+  "summary": "Inboltの共同創設者兼最高経営責任者（ CEO ）であるRudy Cohen氏は、今年の秋にRoboBusinessで物理的なAIが報われる場所を見直します。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/human-adaptaility-bin-featured.jpg",
   "published": "2026-09-07T23:00+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
+  "summary_orig": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The pos"
  },
  {
   "id": "6411f55b5081",
   "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-  "title": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-  "summary": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its",
+  "title": "Agility Roboticsは、ヒューマノイドSPACを上回る180万$の収益を報告",
+  "summary": "Agility Roboticsの4つのファイリングは、2025年の収益で180万ドル、1億4000万ドルの営業損失を明らかにし、",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
   "published": "2026-09-07T22:17+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
+  "summary_orig": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its"
  },
  {
   "id": "ac4f3722fdc5",
   "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
-  "title": "MassRobotics shares member survey results around FCC restrictions",
-  "summary": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobo",
+  "title": "MassRoboticsがFCC規制に関するメンバーアンケート結果を共有",
+  "summary": "MassRoboticsは、企業が新しい外国製モバイルロボットのFCC禁止で分裂していることを発見しました。ポストMassRobo",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/FCC-Graphs-copy.jpg",
   "published": "2026-09-07T21:30+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "MassRobotics shares member survey results around FCC restrictions",
+  "summary_orig": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobo"
  },
  {
   "id": "02693aeb4274",
   "url": "https://www.youtube.com/shorts/wCfenOEPqBk",
-  "title": "Under, behind, right to the edge | Phantas in a hotel lobby #cleaningrobot #robot",
-  "summary": "A hotel lobby looks clean until you look under the furniture. Phantas handles the three places manual cleaning tends to",
+  "title": "下、後ろ、端まで|ホテルのロビーにあるファンタ#クリーニングロボット#ロボット",
+  "summary": "家具の下を見るまで、ホテルのロビーはきれいに見えます。Phantasは、手作業で清掃する傾向がある3つの場所を扱います",
   "source": "Gausium",
   "type": "video",
   "category": "cleaning",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/wCfenOEPqBk/hqdefault.jpg",
   "published": "2026-09-07T21:00+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "Under, behind, right to the edge | Phantas in a hotel lobby #cleaningrobot #robot",
+  "summary_orig": "A hotel lobby looks clean until you look under the furniture. Phantas handles the three places manual cleaning tends to"
  },
  {
   "id": "af94a8a5854c",
   "url": "https://www.youtube.com/watch?v=TjT_yLTmYlE",
-  "title": "PUDU GT Series: Purpose-Built for Daily Grounds Care",
-  "summary": "The next generation of turf maintenance is out in the field. 🌱🤖 Meet the PUDU GT Series — built to take on commercial mo",
+  "title": "PUDU GTシリーズ：日常のグラウンドケア専用",
+  "summary": "次世代の芝生メンテナンスが現場に出ています。PUDU GTシリーズを🌱🤖ご紹介します—商用月に対応するために作られました",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/TjT_yLTmYlE/hqdefault.jpg",
   "published": "2026-09-07T20:41+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "PUDU GT Series: Purpose-Built for Daily Grounds Care",
+  "summary_orig": "The next generation of turf maintenance is out in the field. 🌱🤖 Meet the PUDU GT Series — built to take on commercial mo"
  },
  {
   "id": "11117ed1e9b9",
@@ -2388,15 +2488,17 @@
  {
   "id": "246b3e5f41ea",
   "url": "https://www.youtube.com/watch?v=lBAzShq8_a8",
-  "title": "PUDU D5 & D7: Making Waves at IFA 2026!",
-  "summary": "IFA Berlin 2026 is in full swing—and there’s a lot happening at the Pudu Robotics's booth. 👀🤖 #PUDUD5 and #PUDUD7 are dr",
+  "title": "PUDU D 5 & D 7 ： IFA 2026で波風を立てよう！",
+  "summary": "IFAベルリン2026は本格化しており、Pudu Roboticsのブースでは多くのことが起こっています。👀🤖# PUDUD 5と# PUDUD 7は",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/lBAzShq8_a8/hqdefault.jpg",
   "published": "2026-09-07T14:31+09:00",
-  "collected": "2026-09-08T08:26+09:00"
+  "collected": "2026-09-08T08:26+09:00",
+  "title_orig": "PUDU D5 & D7: Making Waves at IFA 2026!",
+  "summary_orig": "IFA Berlin 2026 is in full swing—and there’s a lot happening at the Pudu Robotics's booth. 👀🤖 #PUDUD5 and #PUDUD7 are dr"
  },
  {
   "id": "0469679752bf",
@@ -2505,28 +2607,32 @@
  {
   "id": "2b0155320b6e",
   "url": "https://www.therobotreport.com/eric-sivertson-discusses-fpgas-robot-security/",
-  "title": "Eric Sivertson discusses FPGAs and robot security",
-  "summary": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security",
+  "title": "エリック・シバートソンがFPGAとロボットセキュリティについて語る",
+  "summary": "FPGAとロボットの安全性とセキュリティを向上させる方法について、Lattice SemiconductorのEric Sivertson氏とのインタビュー",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/sivertson-interview-featured.jpg",
   "published": "2026-09-06T23:30+09:00",
-  "collected": "2026-09-07T07:51+09:00"
+  "collected": "2026-09-07T07:51+09:00",
+  "title_orig": "Eric Sivertson discusses FPGAs and robot security",
+  "summary_orig": "An interview with Eric Sivertson of Lattice Semiconductor about FPGAs and how they can improve robot safety and security"
  },
  {
   "id": "87dbf9db8ce1",
   "url": "https://www.therobotreport.com/pressure-sensors-can-help-improve-robotic-gripping-accuracy/",
-  "title": "Pressure sensors can help improve robotic gripping accuracy",
-  "summary": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve r",
+  "title": "圧力センサーは、ロボットの把持精度を向上させるのに役立ちます",
+  "summary": "最初の接触から表面の変形、荷重分散、最終的な安定した保持まで、圧力センサーは",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/05/umi-gripper-with-uskin-sensors.jpg",
   "published": "2026-09-06T21:30+09:00",
-  "collected": "2026-09-07T07:51+09:00"
+  "collected": "2026-09-07T07:51+09:00",
+  "title_orig": "Pressure sensors can help improve robotic gripping accuracy",
+  "summary_orig": "From first contact through surface deformation, load distribution, and final stable hold, pressure sensors can improve r"
  },
  {
   "id": "e1d5e06849ef",
@@ -2609,28 +2715,32 @@
  {
   "id": "0177df2b2560",
   "url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
-  "title": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
-  "summary": "Fifteen member organizations will deliver viable working solutions within a two-year timeframe, the ARM Institute said.",
+  "title": "ARMインスティテュートは、軍事製造の近代化を目的とした10のプロジェクトで9,000万$を獲得",
+  "summary": "ARM Instituteによると、15の加盟組織が2年以内に実行可能な作業ソリューションを提供するという。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ARMinstitute-featured.jpg",
   "published": "2026-09-05T23:22+09:00",
-  "collected": "2026-09-06T07:48+09:00"
+  "collected": "2026-09-06T07:48+09:00",
+  "title_orig": "ARM Institute gets $90M for 10 projects to modernize military manufacturing",
+  "summary_orig": "Fifteen member organizations will deliver viable working solutions within a two-year timeframe, the ARM Institute said."
  },
  {
   "id": "7cb50263726f",
   "url": "https://www.therobotreport.com/enovis-to-acquire-ecential-robotics-for-180m/",
-  "title": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
-  "summary": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusi",
+  "title": "Enovis、外科技術プロバイダーeCential Roboticsを1億8000万$で買収",
+  "summary": "Enovisは、今後2年以内に膝を狙ったロボットシステムを導入し、その後にシステムフォーカスを行う予定だと述べた。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Gen2CollaborativeRobot_ecential.jpg",
   "published": "2026-09-05T21:30+09:00",
-  "collected": "2026-09-06T07:48+09:00"
+  "collected": "2026-09-06T07:48+09:00",
+  "title_orig": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
+  "summary_orig": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusi"
  },
  {
   "id": "f90ddce293e9",
@@ -2767,28 +2877,32 @@
  {
   "id": "9267f8f9b0ed",
   "url": "https://www.therobotreport.com/how-fpgas-become-the-gatekeepers-of-physical-ai-security/",
-  "title": "How FPGAs become the gatekeepers of physical AI security",
-  "summary": "Eric Sivertson, vice president of security business at Lattice Semiconductor, explains how FPGAs can act as deterministi",
+  "title": "FPGAが物理的なAIセキュリティのゲートキーパーになる方法",
+  "summary": "Lattice Semiconductorのセキュリティビジネス担当バイスプレジデントであるEric Sivertsonは、FPGAが決定論者としてどのように機能するかを説明します。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/episode-260-featured.jpg",
   "published": "2026-09-05T03:09+09:00",
-  "collected": "2026-09-05T07:58+09:00"
+  "collected": "2026-09-05T07:58+09:00",
+  "title_orig": "How FPGAs become the gatekeepers of physical AI security",
+  "summary_orig": "Eric Sivertson, vice president of security business at Lattice Semiconductor, explains how FPGAs can act as deterministi"
  },
  {
   "id": "b2a07698289d",
   "url": "https://www.therobotreport.com/calling-all-robotics-startups-apply-now-2026-robotics-startup-radar/",
-  "title": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
-  "summary": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups.",
+  "title": "ロボティクススタートアップへの呼びかけ： 2026年ロボティクススタートアップレーダーの一員になるために今すぐ申し込む",
+  "summary": "今すぐ応募して、最も有望なロボティクススタートアップの一部をまとめたRobotics Startup Radarの一員になりましょう。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Robotics-Startup-Radar-2026.jpg",
   "published": "2026-09-05T01:33+09:00",
-  "collected": "2026-09-05T07:58+09:00"
+  "collected": "2026-09-05T07:58+09:00",
+  "title_orig": "Calling robotics startups: Apply now to be part of the 2026 Robotics Startup Radar",
+  "summary_orig": "Submit now to be part of the Robotics Startup Radar, which brings together some of the most promising robotics startups."
  },
  {
   "id": "172b7c7d4ebe",
@@ -2806,28 +2920,32 @@
  {
   "id": "d1f4352a295e",
   "url": "https://www.therobotreport.com/lyte-raises-165m-help-robots-better-sense-their-surroundings/",
-  "title": "Lyte raises $165M to help robots better sense their surroundings",
-  "summary": "Lyte AI plans to use its second round of funding this year to scale production of its AI and perception capabilities. Th",
+  "title": "Lyteは、ロボットが周囲をより良く感知できるようにするために1億6500万$を調達",
+  "summary": "Lyte AIは、今年の2回目の資金調達を使用して、AIと知覚機能の生産を拡大する予定です。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/LyteVision_Render-featured.jpg",
   "published": "2026-09-04T23:32+09:00",
-  "collected": "2026-09-05T07:58+09:00"
+  "collected": "2026-09-05T07:58+09:00",
+  "title_orig": "Lyte raises $165M to help robots better sense their surroundings",
+  "summary_orig": "Lyte AI plans to use its second round of funding this year to scale production of its AI and perception capabilities. Th"
  },
  {
   "id": "48fe9ba8c5b0",
   "url": "https://www.therobotreport.com/robot-com-partners-sodexo-rolls-out-more-sidewalk-delivery-robots/",
-  "title": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
-  "summary": "Robot.com says college campuses will continue to be an important part of its strategy as it scales sidewalk delivery rob",
+  "title": "Robot.comがSodexoと提携し、歩道での配達ロボットを増やす",
+  "summary": "Robot.comは、歩道の配達ロブを拡大するため、大学キャンパスは戦略の重要な部分であり続けると述べている",
   "source": "The Robot Report",
   "type": "article",
   "category": "adjacent",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/sodexo-campus-autonomous-delivery-featured.jpg",
   "published": "2026-09-04T23:15+09:00",
-  "collected": "2026-09-05T07:58+09:00"
+  "collected": "2026-09-05T07:58+09:00",
+  "title_orig": "Robot.com partners with Sodexo to roll out more sidewalk delivery robots",
+  "summary_orig": "Robot.com says college campuses will continue to be an important part of its strategy as it scales sidewalk delivery rob"
  },
  {
   "id": "931a804926fa",
@@ -2937,7 +3055,7 @@
   "id": "026d7e639c86",
   "url": "https://xpert.digital/ja/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88/?amp=1",
   "title": "Serviceroboter: Wenn Maschinen pflegen, servieren und verkaufen – Jobkiller oder letzte Rettung? - Xpert.Digital",
-  "summary": "Serviceroboter: Wenn Maschinen pflegen, servieren und verkaufen – Jobkiller oder letzte Rettung?    Xpert.Digital - Konr",
+  "summary": "Serviceroboter: Wenn Maschinen pflegen, servieren und verkaufen – Jobkiller oder letzte Rettung? Xpert.Digital - Konr",
   "source": "Konrad Wolfenstein",
   "type": "article",
   "category": "general",
@@ -2945,7 +3063,8 @@
   "thumbnail": null,
   "published": "2026-09-04T14:32+09:00",
   "collected": "2026-09-05T07:58+09:00",
-  "_thumb_tries": 3
+  "_thumb_tries": 3,
+  "summary_orig": "Serviceroboter: Wenn Maschinen pflegen, servieren und verkaufen – Jobkiller oder letzte Rettung?    Xpert.Digital - Konr"
  },
  {
   "id": "38684b583727",
@@ -3134,41 +3253,47 @@
  {
   "id": "8e9249ab8f8c",
   "url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
-  "title": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
-  "summary": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded",
+  "title": "メドトロニック、手術パートナーのCornerstone Roboticsに7億$を投資",
+  "summary": "MedtronicとCornerstone Roboticsは、Hugo外科システムを基盤としたマルチポートポートフォリオを構築し、",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/sentire-featured.jpg",
   "published": "2026-09-04T03:53+09:00",
-  "collected": "2026-09-04T08:13+09:00"
+  "collected": "2026-09-04T08:13+09:00",
+  "title_orig": "Medtronic invests $700M in surgical partner Cornerstone Robotics",
+  "summary_orig": "Medtronic and Cornerstone Robotics are building a multi-port portfolio anchored by the Hugo surgical system and expanded"
  },
  {
   "id": "998a61db051e",
   "url": "https://www.therobotreport.com/jaka-hits-teradyne-robotics-back-over-patent-dispute/",
-  "title": "JAKA hits Teradyne Robotics back over patent dispute",
-  "summary": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false,",
+  "title": "ジャカ、特許紛争でテラダイン・ロボティクスを攻撃",
+  "summary": "JAKAは現在、Teradyne Roboticsに対して法的措置を講じて、「虚偽、",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/jaka-teradyne-lawsuit.jpg",
   "published": "2026-09-04T02:44+09:00",
-  "collected": "2026-09-04T08:13+09:00"
+  "collected": "2026-09-04T08:13+09:00",
+  "title_orig": "JAKA hits Teradyne Robotics back over patent dispute",
+  "summary_orig": "JAKA is now taking legal action against Teradyne Robotics to end public dissemination of statements it considers \"false,"
  },
  {
   "id": "85ac88f55ea0",
   "url": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open/",
-  "title": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
-  "summary": "NVIDIA is already a major model contributor to Hugging Face, which recently surpassed 1 million datasets. The post NVIDI",
+  "title": "NVIDIA、Hugging Faceを買収し、AI開発プラットフォームをオープンに保つ計画",
+  "summary": "NVIDIAはすでに、最近100万データセットを超えたHugging Faceの主要なモデル貢献者です。",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/hugging-face-nvidia-robotics-copy.jpg",
   "published": "2026-09-04T00:28+09:00",
-  "collected": "2026-09-04T08:13+09:00"
+  "collected": "2026-09-04T08:13+09:00",
+  "title_orig": "NVIDIA plans to acquire Hugging Face and keep AI development platform open",
+  "summary_orig": "NVIDIA is already a major model contributor to Hugging Face, which recently surpassed 1 million datasets. The post NVIDI"
  },
  {
   "id": "5c7a96d77f1f",
