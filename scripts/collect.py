@@ -393,75 +393,92 @@ def classify_and_trim(new_items, cfg):
     return kept
 
 
-# ---------------- 日本語訳（Google Cloud Translation v2） ----------------
+# ---------------- 日本語訳（MyMemory） ----------------
+# APIキー・クレジットカードとも不要。メールアドレスを添えると
+# 1日あたりの上限が5,000字→50,000字になる（環境変数 MYMEMORY_EMAIL）。
 
-TRANSLATE_ENDPOINT = "https://translation.googleapis.com/language/translate/v2"
-TRANSLATE_LIMIT = 150      # 1回の実行で訳すテキスト数の上限（無料枠の保護）
+TRANSLATE_ENDPOINT = "https://api.mymemory.translated.net/get"
+TRANSLATE_LIMIT = 100      # 1回の実行で訳すテキスト数の上限
 _JA_CHARS = re.compile(r"[ぁ-んァ-ヶ一-龠]")
 _HAS_LETTER = re.compile(r"[A-Za-z]{2,}")
+# 無料枠を使い切ったとき、APIは200を返しつつ訳文の代わりに警告文を入れてくる。
+# これを訳文として保存すると記事タイトルが警告文に化けるため必ず弾く。
+_QUOTA_MSG = re.compile(r"MYMEMORY WARNING|YOU USED ALL AVAILABLE FREE TRANSLATIONS",
+                        re.IGNORECASE)
 
 
 def needs_translation(text):
     """日本語を含まず、英字が実際に入っているものだけ訳す。
-    記号や数字だけの文字列に無駄な文字数を使わないため。"""
+    記号や数字だけの文字列（バージョン番号など）に枠を使わないため。"""
     return bool(text) and not _JA_CHARS.search(text) and bool(_HAS_LETTER.search(text))
 
 
-def _translate_chunk(texts, key, timeout):
-    """v2は1リクエストに複数のqを渡せる。訳文は元テキストをキーにして返す。"""
-    r = requests.post(
-        TRANSLATE_ENDPOINT, params={"key": key},
-        # source は指定しない（英語以外が混じっても自動判定させる）
-        data={"q": texts, "target": "ja", "format": "text"},
-        timeout=timeout)
+def _translate_one(text, email, timeout):
+    """1件訳す。訳せなければNone、無料枠切れなら "QUOTA" を返す。"""
+    params = {"q": text[:480], "langpair": "en|ja"}
+    if email:
+        params["de"] = email
+    r = requests.get(TRANSLATE_ENDPOINT, params=params, timeout=timeout)
     r.raise_for_status()
-    got = r.json()["data"]["translations"]
-    return {src: html.unescape(t["translatedText"]) for src, t in zip(texts, got)}
+    j = r.json()
+    out = (j.get("responseData") or {}).get("translatedText") or ""
+    if _QUOTA_MSG.search(out) or j.get("responseStatus") in (403, 429):
+        return "QUOTA"
+    if not out or out.strip() == text.strip():
+        return None
+    return html.unescape(out)
 
 
-def translate_items(items, cfg, timeout=30):
+def translate_items(items, cfg, timeout=25):
     """items のタイトル・要約のうち日本語でないものを訳して置き換える。
-    訳せた件数を返す。原文は *_orig に残す（訳が崩れたとき追えるように）。
+    置き換えた箇所数を返す。原文は *_orig に残す（訳が崩れたとき追えるように）。
     失敗しても記事は原文のまま残し、収集そのものは止めない。"""
     tcfg = (cfg.get("translate") or {})
     if not tcfg.get("enabled"):
         return 0
-    key = os.environ.get(tcfg.get("api_key_env", "GOOGLE_TRANSLATE_API_KEY"), "")
-    if not key:
-        log("★翻訳APIキーが未設定のため、英語記事は原文のまま出力します")
-        return 0
+    email = os.environ.get(tcfg.get("email_env", "MYMEMORY_EMAIL"), "").strip()
+    if not email:
+        log("MYMEMORY_EMAIL が未設定のため匿名で訳す（1日5,000字まで）")
 
-    pending = []
-    seen_text = set()
+    pending, seen_text = [], set()
     for it in items:
         for field in ("title", "summary"):
-            t = it.get(field) or ""
+            t = (it.get(field) or "").strip()
             if needs_translation(t) and t not in seen_text:
                 seen_text.add(t)
                 pending.append(t)
     if not pending:
         return 0
     pending = pending[:TRANSLATE_LIMIT]
-    log(f"日本語訳: {len(pending)}件のテキストを送信")
+    log(f"日本語訳: {len(pending)}件を訳す")
 
-    size = tcfg.get("batch_size", 20)
-    table = {}
-    for i in range(0, len(pending), size):
-        chunk = pending[i:i + size]
+    wait = tcfg.get("sleep_sec", 0.6)
+    table, fails = {}, 0
+    for i, t in enumerate(pending):
         try:
-            table.update(_translate_chunk(chunk, key, timeout))
-            time.sleep(0.5)
+            res = _translate_one(t, email, timeout)
         except Exception as e:  # noqa: BLE001
-            log(f"翻訳失敗（{i // size + 1}組目）: {type(e).__name__}: {str(e)[:160]}")
+            fails += 1
+            log(f"翻訳失敗: {type(e).__name__}: {str(e)[:120]}")
+            if fails >= 5 and not table:
+                log("★翻訳が連続失敗するため中断（原文のまま出力）")
+                break
+            continue
+        if res == "QUOTA":
+            log(f"1日の無料枠を使い切ったため中断（{len(table)}件まで訳済み。翌日の実行で続きを訳す）")
+            break
+        if res:
+            table[t] = res
+        time.sleep(wait)
+
     if not table:
-        log("★翻訳が1件も成功しませんでした。APIキーと、GCPで翻訳APIが有効かを確認してください")
         return 0
 
     n = 0
     for it in items:
         for field in ("title", "summary"):
-            t = it.get(field) or ""
-            if t in table and table[t] != t:
+            t = (it.get(field) or "").strip()
+            if t in table:
                 it[field + "_orig"] = t
                 it[field] = table[t]
                 n += 1

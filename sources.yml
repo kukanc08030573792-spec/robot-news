@@ -80,24 +80,19 @@ classification:
   max_summary_chars: 160
 
 # ---- 日本語訳の設定 ----
-# 英語（および日本語以外）の記事タイトル・要約を日本語に訳す。
-# Google Cloud Translation API v2 を使う。月50万字まで無料。
+# 英語の記事タイトル・要約を日本語に訳す。MyMemory を使う。
+# APIキーもクレジットカードも不要。
 #
-# 【準備】1回だけ
-#  1. https://console.cloud.google.com でプロジェクト analytics-501706 を開く
-#  2. 「APIとサービス」→ ライブラリ →「Cloud Translation API」を有効にする
-#  3. 「APIとサービス」→ 認証情報 →「認証情報を作成」→「APIキー」
-#     作成後「キーを制限」→ API制限で「Cloud Translation API」だけを選ぶ
-#     ※ 月次レポートで使っているサービスアカウント鍵は流用しない。
-#       公開リポジトリにGA4の権限を持ち込まないため、翻訳専用のキーを作る。
-#  4. GitHubのリポジトリ → Settings → Secrets and variables → Actions
-#     → New repository secret で Name を GOOGLE_TRANSLATE_API_KEY にして貼る
+# 【準備】メールアドレスを登録すると1日の上限が5,000字→50,000字になる。
+#   GitHubのリポジトリ → Settings → Secrets and variables → Actions
+#   → New repository secret → Name: MYMEMORY_EMAIL、Secret: メールアドレス
+#   （未登録でも動くが、匿名の5,000字/日ではタイトルの一部しか訳せない）
 #
-# キーをこのファイルやスクリプトに直接書かないこと（このリポジトリは公開設定）。
+# メールはリポジトリには書かず、必ずSecretsに入れること（このリポジトリは公開設定）。
 translate:
   enabled: true
-  api_key_env: GOOGLE_TRANSLATE_API_KEY
-  batch_size: 20         # 1リクエストにまとめるテキスト数
+  email_env: MYMEMORY_EMAIL
+  sleep_sec: 0.6         # 1件ごとの間隔（相手サービスへの配慮）
 
 
 # ---- 動作設定 ----

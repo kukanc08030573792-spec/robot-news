@@ -34,8 +34,8 @@ jobs:
       - name: Collect
         run: python scripts/collect.py
         env:
-          # 未登録なら空文字になり、英語記事は原文のまま出る（エラーにはならない）
-          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
+          # 未登録なら匿名で動く（1日5,000字まで）。エラーにはならない。
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
 
       - name: Commit results
         run: |
