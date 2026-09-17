@@ -120,9 +120,12 @@ def resolve_youtube_channel(handle, cache, timeout):
         return cache[handle]
     try:
         r = requests.get(f"https://www.youtube.com/@{handle}", headers=UA, timeout=timeout)
-        m = re.search(r'"channelId":"(UC[\w-]{22})"', r.text) or re.search(
-            r'itemprop="identifier" content="(UC[\w-]{22})"', r.text
-        )
+        # "channelId" はページ内の関連チャンネル分も多数マッチし、
+        # 最初の一致が別チャンネルを指すことがある（@Meta → Facebook等）。
+        # canonical と externalId だけがそのページ自身のチャンネルを指す。
+        m = re.search(
+            r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', r.text
+        ) or re.search(r'"externalId":"(UC[\w-]{22})"', r.text)
         if m:
             cache[handle] = m.group(1)
             return m.group(1)
@@ -199,6 +202,8 @@ def collect_candidates(cfg):
         if not cid:
             log(f"チャンネルID不明のためスキップ: {ch.get('name')}")
             continue
+        # 立て続けに叩くとYouTube側が404/500を返すため間隔を空ける
+        time.sleep(3)
         feed = fetch_feed(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", timeout)
         add_entries(feed, ch.get("name", "YouTube"), "video")
     save_json(DATA / "channel_cache.json", ch_cache)
