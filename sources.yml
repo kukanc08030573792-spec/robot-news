@@ -79,6 +79,27 @@ classification:
   #           専門メディア・メーカー公式チャンネル・有識者の記事は常に採用する）
   max_summary_chars: 160
 
+# ---- 日本語訳の設定 ----
+# 英語（および日本語以外）の記事タイトル・要約を日本語に訳す。
+# Google Cloud Translation API v2 を使う。月50万字まで無料。
+#
+# 【準備】1回だけ
+#  1. https://console.cloud.google.com でプロジェクト analytics-501706 を開く
+#  2. 「APIとサービス」→ ライブラリ →「Cloud Translation API」を有効にする
+#  3. 「APIとサービス」→ 認証情報 →「認証情報を作成」→「APIキー」
+#     作成後「キーを制限」→ API制限で「Cloud Translation API」だけを選ぶ
+#     ※ 月次レポートで使っているサービスアカウント鍵は流用しない。
+#       公開リポジトリにGA4の権限を持ち込まないため、翻訳専用のキーを作る。
+#  4. GitHubのリポジトリ → Settings → Secrets and variables → Actions
+#     → New repository secret で Name を GOOGLE_TRANSLATE_API_KEY にして貼る
+#
+# キーをこのファイルやスクリプトに直接書かないこと（このリポジトリは公開設定）。
+translate:
+  enabled: true
+  api_key_env: GOOGLE_TRANSLATE_API_KEY
+  batch_size: 20         # 1リクエストにまとめるテキスト数
+
+
 # ---- 動作設定 ----
 settings:
   max_items_per_feed: 20        # 1フィードあたり1回で取り込む最大件数

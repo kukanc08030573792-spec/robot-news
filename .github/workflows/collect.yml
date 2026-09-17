@@ -33,6 +33,9 @@ jobs:
 
       - name: Collect
         run: python scripts/collect.py
+        env:
+          # 未登録なら空文字になり、英語記事は原文のまま出る（エラーにはならない）
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
 
       - name: Commit results
         run: |

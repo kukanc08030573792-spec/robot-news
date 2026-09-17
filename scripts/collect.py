@@ -393,6 +393,82 @@ def classify_and_trim(new_items, cfg):
     return kept
 
 
+# ---------------- 日本語訳（Google Cloud Translation v2） ----------------
+
+TRANSLATE_ENDPOINT = "https://translation.googleapis.com/language/translate/v2"
+TRANSLATE_LIMIT = 150      # 1回の実行で訳すテキスト数の上限（無料枠の保護）
+_JA_CHARS = re.compile(r"[ぁ-んァ-ヶ一-龠]")
+_HAS_LETTER = re.compile(r"[A-Za-z]{2,}")
+
+
+def needs_translation(text):
+    """日本語を含まず、英字が実際に入っているものだけ訳す。
+    記号や数字だけの文字列に無駄な文字数を使わないため。"""
+    return bool(text) and not _JA_CHARS.search(text) and bool(_HAS_LETTER.search(text))
+
+
+def _translate_chunk(texts, key, timeout):
+    """v2は1リクエストに複数のqを渡せる。訳文は元テキストをキーにして返す。"""
+    r = requests.post(
+        TRANSLATE_ENDPOINT, params={"key": key},
+        # source は指定しない（英語以外が混じっても自動判定させる）
+        data={"q": texts, "target": "ja", "format": "text"},
+        timeout=timeout)
+    r.raise_for_status()
+    got = r.json()["data"]["translations"]
+    return {src: html.unescape(t["translatedText"]) for src, t in zip(texts, got)}
+
+
+def translate_items(items, cfg, timeout=30):
+    """items のタイトル・要約のうち日本語でないものを訳して置き換える。
+    訳せた件数を返す。原文は *_orig に残す（訳が崩れたとき追えるように）。
+    失敗しても記事は原文のまま残し、収集そのものは止めない。"""
+    tcfg = (cfg.get("translate") or {})
+    if not tcfg.get("enabled"):
+        return 0
+    key = os.environ.get(tcfg.get("api_key_env", "GOOGLE_TRANSLATE_API_KEY"), "")
+    if not key:
+        log("★翻訳APIキーが未設定のため、英語記事は原文のまま出力します")
+        return 0
+
+    pending = []
+    seen_text = set()
+    for it in items:
+        for field in ("title", "summary"):
+            t = it.get(field) or ""
+            if needs_translation(t) and t not in seen_text:
+                seen_text.add(t)
+                pending.append(t)
+    if not pending:
+        return 0
+    pending = pending[:TRANSLATE_LIMIT]
+    log(f"日本語訳: {len(pending)}件のテキストを送信")
+
+    size = tcfg.get("batch_size", 20)
+    table = {}
+    for i in range(0, len(pending), size):
+        chunk = pending[i:i + size]
+        try:
+            table.update(_translate_chunk(chunk, key, timeout))
+            time.sleep(0.5)
+        except Exception as e:  # noqa: BLE001
+            log(f"翻訳失敗（{i // size + 1}組目）: {type(e).__name__}: {str(e)[:160]}")
+    if not table:
+        log("★翻訳が1件も成功しませんでした。APIキーと、GCPで翻訳APIが有効かを確認してください")
+        return 0
+
+    n = 0
+    for it in items:
+        for field in ("title", "summary"):
+            t = it.get(field) or ""
+            if t in table and table[t] != t:
+                it[field + "_orig"] = t
+                it[field] = table[t]
+                n += 1
+    log(f"日本語訳: {n}箇所を置き換え")
+    return n
+
+
 # ---------------- 既存データの修復 ----------------
 
 REPAIR_DECODE_LIMIT = 30   # 1回の実行で復号を試す既存記事の上限
@@ -407,7 +483,7 @@ def _better_item(a, b):
     return a if score(a) >= score(b) else b
 
 
-def repair_items(items, seen, timeout):
+def repair_items(items, seen, timeout, cfg):
     """過去記事の修復：タイトル重複掃除・Google News URL復号・サムネ取得。
     処理量は上限付きで、数日かけて自然に全件修復される。"""
     changed = False
@@ -471,6 +547,10 @@ def repair_items(items, seen, timeout):
                 it["_thumb_tries"] = it.get("_thumb_tries", 0) + 1
     if m:
         log(f"修復: サムネ取得を{m}件試行")
+
+    # 4) 未翻訳の英語記事を日本語にする（新着・過去分をまとめて、上限つき）
+    if translate_items(items, cfg):
+        changed = True
 
     return items, dropped, changed
 
@@ -614,7 +694,7 @@ def main():
     recent = recent[:RECENT_LIMIT]
 
     # 過去記事の修復（重複掃除・URL復号・サムネ取得）
-    recent, dropped_ids, repaired = repair_items(recent, seen, timeout)
+    recent, dropped_ids, repaired = repair_items(recent, seen, timeout, cfg)
 
     # 修復結果を月別アーカイブにも反映
     if repaired:
