@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-17T09:52+09:00",
+  "last_updated": "2026-09-17T10:17+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -241,6 +241,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/106792.jpg",
    "published": "2026-09-16T12:00+09:00",
    "collected": "2026-09-17T08:37+09:00"
+  },
+  {
+   "id": "56543059e270",
+   "url": "https://ugo.plus/information/2026/09/16/ugo-nova/",
+   "title": "お知らせ｜フィジカルAI時代に向けた国産セミヒューマノイド「ugo Nova」を発表",
+   "summary": "フィジカルAI時代に向けた国産セミヒューマノイド「ugo Nova」を発表",
+   "source": "ugo.plus",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://ugo.plus/wp-content/uploads/2026/09/260915_ugo_press-scaled.png",
+   "published": "2026-09-16T10:02+09:00",
+   "collected": "2026-09-17T10:17+09:00"
   },
   {
    "id": "614709d39288",
@@ -6569,19 +6582,6 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/23/1787422840853_package-media-15965044572999694505713-55033060481344546396065.webp",
    "published": "2026-08-23T04:04+09:00",
    "collected": "2026-08-23T06:29+09:00"
-  },
-  {
-   "id": "610a79df3d7f",
-   "url": "https://finance.biggo.jp/news/a3871b40-827d-45e2-8bcd-5e55c7b57168",
-   "title": "中国のロボット競技会、北京で人類の短距離走・走高跳の記録を更新",
-   "summary": "第2回世界ヒューマノイドロボット競技大会が北京で開幕し、中国製ヒューマノイドロボットが100メートル走と立ち高跳びで人類の世界記録を更新した。中国のX-Huma…",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/fYlVxw6GunKYPIDf-_00PU3KuaU0nGZ5sJKzXb78T-E/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4L2EzODcxYjQwLTgyN2QtNDVlMi04YmNkLTVlNTVjN2I1NzE2OF8xNzg3NDI1MDg4X2RlZmF1bHQuanBn.jpg",
-   "published": "2026-08-23T03:19+09:00",
-   "collected": "2026-08-23T07:55+09:00"
   }
  ]
 }
