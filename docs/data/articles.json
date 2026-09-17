@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-18T08:30+09:00",
+  "last_updated": "2026-09-18T08:39+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -43,7 +43,7 @@
    "thumbnail": null,
    "published": "2026-09-18T07:36+09:00",
    "collected": "2026-09-18T08:30+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b8f6cefbd994",
@@ -4486,7 +4486,7 @@
    "id": "41afa5a66146",
    "url": "https://www.itmedia.co.jp/mobile/articles/2609/01/news043.html",
    "title": "アバターにはないメリットがある――Osaka Metroらが「ヒューマノイド駅員」の実証実験 体験すると毎日先着順でpovo2.0の「24時間データ使い放題」チケットを贈呈 - ITmedia Mobile",
-   "summary": "Osaka MetroAKDDIAAVITAÍ3ÐªAq [} mChil ^{ bgjwõÉæÚqÄàÀÀÀ ± ðÀ {· éBQÁÒÉÍeúæ",
+   "summary": "大阪メトロAKDDIAAVITAÍ 3 Ðª Aq [} mチル^{ bgjwõÉæÚqÄÀÀ ± ðÀ {· éBQÁÒÉÍeúæ",
    "source": "ITmedia",
    "type": "article",
    "category": "general",
@@ -4494,7 +4494,7 @@
    "thumbnail": "https://image.itmedia.co.jp/mobile/articles/2609/01/cover_news043.jpg",
    "published": "2026-09-01T06:00+09:00",
    "collected": "2026-09-01T09:32+09:00",
-   "summary_orig": "Osaka MetroAKDDIAAVITAÌ3ÐªAq[}mChil^{bgjwõÉæéÚqÄàÌÀØÀ±ðÀ{·éBQÁÒÉÍeúæ"
+   "summary_orig": "Osaka MetroAKDDIAAVITAÍ3ÐªAq [} mChil ^{ bgjwõÉæÚqÄàÀÀÀ ± ðÀ {· éBQÁÒÉÍeúæ"
   },
   {
    "id": "a7cee3abf3e0",
@@ -5973,7 +5973,7 @@
    "id": "9b2a90ee7220",
    "url": "https://built.itmedia.co.jp/bt/articles/2608/26/news058.html",
    "title": "水回りを清掃できるフィジカルAIロボ「Loki」のオフィスビル実証開始、日鉄興和不動産：FM",
-   "summary": "úS »as ® YÆJDSCÍAXCXÍLoki RoboticsªJ µ½ tBWJAI ´| {bgÍú {ÅðJnµ½ BúS» as ® YÍ ©",
+   "summary": "úS »as ® YÆJDSCÍAXCXÍLoki RoboticsªJ µ½ tBWJAI ´ | {bgÍú {ÅðJnµ½ BúS» as ® YÍ ©",
    "source": "ITmedia",
    "type": "article",
    "category": "cleaning",
@@ -5981,7 +5981,7 @@
    "thumbnail": "https://image.itmedia.co.jp/bt/articles/2608/26/cover_news058.jpg",
    "published": "2026-08-26T11:00+09:00",
    "collected": "2026-08-27T09:38+09:00",
-   "summary_orig": "úS»as®YÆJDSCÍAXCXÌLoki RoboticsªJ­µ½tBWJAI´|{bgÌú{ÅÌðJnµ½BúS»as®YÌ©"
+   "summary_orig": "úS »as ® YÆJDSCÍAXCXÍLoki RoboticsªJ µ½ tBWJAI ´| {bgÍú {ÅðJnµ½ BúS» as ® YÍ ©"
   },
   {
    "id": "7c41df863f60",
