@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-19T10:06+09:00",
+  "last_updated": "2026-09-20T07:53+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,87 @@
   ]
  },
  "items": [
+  {
+   "id": "52e1b8023c4e",
+   "url": "https://news.yahoo.co.jp/articles/6ffe5bae61c0da982c24d5ca13555fe312964d62",
+   "title": "「100mを9秒32で走る人型ロボット」「26階建ての“AI養豚ビル”」…技術革新と安さで世界を席巻する中国 「強さの秘密は国内経済の“二重構造”にある」と大前研一氏分析（マネーポストWEB）",
+   "summary": "「100mを9秒32で走る人型ロボット」「26階建ての“AI養豚ビル”」…技術革新と安さで世界を席巻する中国 「強さの秘密は国内経済の“二重構造”にある」と大前研一氏分析（マネーポストWEB）",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260920-00000001-moneypost-000-1-view.jpg?exp=10800",
+   "published": "2026-09-20T07:16+09:00",
+   "collected": "2026-09-20T07:53+09:00"
+  },
+  {
+   "id": "8d4f54076bff",
+   "url": "https://www.itmedia.co.jp/pcuser/articles/2609/20/news016.html",
+   "title": "毎日の床掃除を自動化できる「エコバックス DEEBOT T80 OMNI」がタイムセールで41％オフの6万4800円に - ITmedia PC USER",
+   "summary": "@ «@\\ Æ ÍÈzøÍðõ ¦ ½ {bg |@ uGRobNX DEEBOT T 80 OMNIvª AAmazon ^ CZ [Å 41 ItÍ 64800 ~ ÅÍ ³ êÄ ¢ éBÇ” R [i [Íê",
+   "source": "ITmedia",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.itmedia.co.jp/pcuser/articles/2609/20/cover_news016.jpg",
+   "published": "2026-09-20T01:07+09:00",
+   "collected": "2026-09-20T07:53+09:00",
+   "summary_orig": "@«@\\Æ­ÍÈzøÍðõ¦½{bg|@uGRobNX DEEBOT T80 OMNIvªAAmazon^CZ[Å41ItÌ64800~ÅÌ³êÄ¢éBÇÛâR[i[Ìê"
+  },
+  {
+   "id": "0376f8abdca2",
+   "url": "https://www.therobotreport.com/hirebotics-adds-line-tracking-linear-rail-capabilities-cobots/",
+   "title": "Hireboticsは、ライントラッキングとリニアレール機能をコボットに追加",
+   "summary": "Hireboticsは、これらの新しい機能はコボットの作業範囲を拡大し、製造業者により大きな柔軟性を提供すると述べた。POST Hireboticsはライントラッキングを",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/hirebotics-featured.jpg",
+   "published": "2026-09-19T21:40+09:00",
+   "collected": "2026-09-20T07:53+09:00",
+   "title_orig": "Hirebotics adds line tracking and linear rail capabilities to its cobots",
+   "summary_orig": "Hirebotics said these new capabilities extend the working range of the cobots, giving manufacturers greater flexibility. The post Hirebotics adds line tracking"
+  },
+  {
+   "id": "4373f1d8ed8c",
+   "url": "https://note.com/kmoriyama/n/n13782c0d8cd7",
+   "title": "フィジカルAIによるものづくり日本の再興――GMO熊谷代表が語った日本の危機感とヒューマノイド産業の可能性",
+   "summary": "GMOインターネットグループ代表取締役グループ代表会長兼社長執行役員CEO 兼 グループAI変革最高責任者（CAIO）の熊谷正寿氏は、2026年9月15日にGMOが開催した「第4回GMO大会議」のオープニング講演で、AIとロボティクスをめぐる世界の変化と、日本のものづくり産業が置かれている状況について語った。",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/315317485/rectangle_large_type_2_8ebab15b14813df2ba90dabc148c7750.jpeg?fit=bounds&quality=85&width=1280",
+   "published": "2026-09-19T20:14+09:00",
+   "collected": "2026-09-20T07:53+09:00"
+  },
+  {
+   "id": "f37d2417ea00",
+   "url": "https://s.response.jp/article/2026/09/19/416830.html",
+   "title": "［動画］サーキットでヒューマノイド5台がダンス！…2026 CHINA GT",
+   "summary": "中国のロボティクス企業LimX Dynamicsは、全身型ヒューマノイド「LimX Luna」5台による自律群舞パフォーマンスを、2026 CHINA GTの開幕式で披露した。",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2244796.jpg",
+   "published": "2026-09-19T20:00+09:00",
+   "collected": "2026-09-20T07:53+09:00"
+  },
+  {
+   "id": "97a0eeb3e677",
+   "url": "https://robotstart.info/article/2026/09/19/382439.html",
+   "title": "大日本印刷、自動運転車の導入検討にAIを活用 長崎県で実証開始",
+   "summary": "大日本印刷（DNP）は、実走行データをAIで分析し自動運転車の導入検討に必要な情報を提供する「AI駆動型アセスメント」の取り組みを開始し、長崎県での実証に活用している。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/106858.jpg",
+   "published": "2026-09-19T12:00+09:00",
+   "collected": "2026-09-20T07:53+09:00"
+  },
   {
    "id": "ed45c5211f88",
    "url": "https://que.dailyshincho.jp/node/20772/",
@@ -71,6 +152,19 @@
    "collected": "2026-09-19T08:12+09:00",
    "title_orig": "The picks-and-shovels strategy behind the robotics boom",
    "summary_orig": "The real robotics opportunity isn’t a humanoid in every home—it’s packaging robots for the jobs businesses need done today. The post The picks-and-shovels strat"
+  },
+  {
+   "id": "a927335b07be",
+   "url": "https://news.yahoo.co.jp/articles/6ed9b34809be0c1a126605c0b1ce78f4da0982de",
+   "title": "口頭指示に対応の人型ロボット、来年にも実現へ 中国新興が開発に自信（ロイター）",
+   "summary": "Laurie Chen\n\n[北京 １８日 ロイター] - 口頭で指示さえすれば、ほとんどの基本的な作業をこなしてくれる―。早ければ来年‌にも人型（ヒューマノイド）ロボットがここまで⁠進化すると、中国",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000009-reut-000-1-view.jpg?exp=10800",
+   "published": "2026-09-19T03:12+09:00",
+   "collected": "2026-09-20T07:53+09:00"
   },
   {
    "id": "7cf9005f37e5",
@@ -157,6 +251,21 @@
    "thumbnail": "https://img.biggo.com/fAoyA5FWcsd45Wjtntu_gYZldeKfLBvk0B72c8wEqdI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzA4NDA3NmVhLWU2YzUtNGFkMy1hNjg2LWZkOThhYjI2ODM4OV8xNzg5NzMxNjkxX2RlZmF1bHQuanBn.jpg",
    "published": "2026-09-18T20:35+09:00",
    "collected": "2026-09-19T08:12+09:00"
+  },
+  {
+   "id": "80630bb5aafd",
+   "url": "https://www.youtube.com/watch?v=PytMN4WO4ms",
+   "title": "PUDU MP 2000 ：高速マッピングと展開",
+   "summary": "アムハラ語：アムハラ語：開梱⚡からフル稼働まで、AIネイティブの自律型フォークリフトはどのくらいの速さで稼働することができますか？",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/PytMN4WO4ms/hqdefault.jpg",
+   "published": "2026-09-18T17:50+09:00",
+   "collected": "2026-09-20T07:53+09:00",
+   "title_orig": "PUDU MP2000: Fast Mapping & Deployment",
+   "summary_orig": "𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 | 𝐏𝐔𝐃𝐔 𝐌𝐏𝟐𝟎𝟎𝟎: 𝐅𝐚𝐬𝐭 𝐌𝐚𝐩𝐩𝐢𝐧𝐠 & 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 ⚡ From unboxing to full operation — how quickly can an AI-native autonomous forklift get to work? In t"
   },
   {
    "id": "9520f3060741",
@@ -721,6 +830,19 @@
    "collected": "2026-09-17T08:37+09:00",
    "title_orig": "The evolution of Digit: Agility Robotics’ journey from Cassie to Digit 5",
    "summary_orig": "From Cassie, to five different versions of Digit, Agility Robotics has adapted its technology to fit industrial tasks. The post The evolution of Digit: Agility"
+  },
+  {
+   "id": "11045b339ade",
+   "url": "https://my-best.com/29647",
+   "title": "【徹底比較】吸引力が高いロボット掃除機のおすすめ人気ランキング【2026年9月】",
+   "summary": "吸引力が高いロボット掃除機なら、部屋のゴミの取りこぼしを抑えられるので、自分で掃除する頻度を大きく抑えられます。ルンバやロボロック、エコバックス、Dreame、アンカーなど、多くのブランドから高い吸引力を謳ったモデルが発売されていますが、とにかく選択肢が幅広く迷ってしまいますよね。",
+   "source": "マイベスト",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.my-best.com/contents/e608aec8f966f7f245f4412b096ded1c.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=1200&h=900&fit=crop&s=18b5009370dc51ed1ba58340b5eecd9f",
+   "published": "2026-09-17T00:00+09:00",
+   "collected": "2026-09-20T07:53+09:00"
   },
   {
    "id": "0ca9e5e2cd7e",
@@ -6656,129 +6778,6 @@
    "thumbnail": "https://d1uzk9o9cg136f.cloudfront.net/f/16783662/rc/2026/08/18/54644b95dfb85abf11932b4404792ad626b4c37f_xlarge.jpg",
    "published": "2026-08-25T11:50+09:00",
    "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "180c57886441",
-   "url": "https://wired.jp/article/meet-superman-the-chinese-robot-that-can-jump-2-meters-and-run-faster-than-usain-bolt/",
-   "title": "ウサイン・ボルトより速く走る、中国発ヒューマノイド「Superman」",
-   "summary": "中国のロボット企業Unitreeが、新型ヒューマノイド「Superman」を披露した。パルクールや武術だけでなく、アスリート顔負けの身体能力を見せている。",
-   "source": "WIRED.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.wired.jp/photos/6a8be845cdb1e520e2c59662/16:9/w_1280,c_limit/robotrapido.jpg",
-   "published": "2026-08-25T11:00+09:00",
-   "collected": "2026-08-27T13:28+09:00"
-  },
-  {
-   "id": "68f63ae4f003",
-   "url": "https://prtimes.jp/main/html/rd/p/000001420.000078149.html",
-   "title": "NEC Orchestrating Future Fund、ヒューマノイドロボット「VEGA」及びフィジカルAIプラットフォームを提供する米国Dexmate社へ出資",
-   "summary": "NEC Orchestrating Future Fund、ヒューマノイドロボット「VEGA」及びフィジカルAIプラットフォームを提供する米国Dexmate社へ出資",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/78149/1420/78149-1420-99d44078afaacf7bf9eebe55b50db819-3900x2779.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-08-25T11:00+09:00",
-   "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "1ca4802cfdc5",
-   "url": "https://prtimes.jp/main/html/rd/p/000000174.000034305.html",
-   "title": "AI警備ロボット「ugo Pro」、福岡空港の国内線・国際線旅客ターミナルで次世代警備の実証実験を実施",
-   "summary": "AI警備ロボット「ugo Pro」、福岡空港の国内線・国際線旅客ターミナルで次世代警備の実証実験を実施",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/34305/174/34305-174-4c65a4e788875b699d5f62d578a3d11f-2500x1313.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-08-25T10:00+09:00",
-   "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "fc668d5df179",
-   "url": "https://wired.jp/article/unitree-influencer-4-foot-robot-from-china/",
-   "title": "次にブレイクする大物インフルエンサーは、中国発の小柄なロボットかもしれない",
-   "summary": "「Unitree G1」は、人々を魅了する比較的手ごろなロボットとして、ネット上で人気を集めている。果たして本格的な仕事を任せられるのだろうか？",
-   "source": "WIRED.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.wired.jp/photos/6a83d789941e2a9f64be147e/16:9/w_1280,c_limit/Made-In-China-Made-in-China-Unitree-Robots-Americans-Love-Business.jpg",
-   "published": "2026-08-25T08:00+09:00",
-   "collected": "2026-08-25T08:29+09:00"
-  },
-  {
-   "id": "b431f95bf725",
-   "url": "https://www.therobotreport.com/the-next-big-ai-play-isnt-apps-or-humanoids-its-machines-with-brains-and-brawn/",
-   "title": "次の大きなAIの遊びは、アプリやヒューマノイドではなく、脳と筋力を備えたマシンです",
-   "summary": "労働力の減少に伴い、農業および建設機械メーカーが関連性を維持するためには、AIを追加する必要があります、とAgtは言います",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Kubota-Agtonomy-featured.jpg",
-   "published": "2026-08-25T07:53+09:00",
-   "collected": "2026-08-25T08:29+09:00",
-   "title_orig": "The next big AI play isn’t apps or humanoids; it’s machines with brains and brawn",
-   "summary_orig": "For agricultural and construction equipment makers to stay relevant as workforces dwindle, they need to add AI, says Agt"
-  },
-  {
-   "id": "fe9e2b5522de",
-   "url": "https://online.logi-biz.com/149145/",
-   "title": "日鉄興和不動産とJDSCが国内初、フィジカルAI清掃ロボットのオフィスビル稼働実証を開始",
-   "summary": "日鉄興和不動産とJDSCが国内初、フィジカルAI清掃ロボットのオフィスビル稼働実証を開始    LOGI-BIZ online",
-   "source": "LOGI-BIZ online",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://online.logi-biz.com/wp-content/uploads/2026/08/c-38.jpg",
-   "published": "2026-08-25T06:00+09:00",
-   "collected": "2026-08-25T07:58+09:00"
-  },
-  {
-   "id": "fcb6f43ecdf4",
-   "url": "https://response.jp/article/2026/08/25/415664.html",
-   "title": "旭化成、炭酸リチウムを使ったLiプレドープ技術を開発…EV向けLIBの高エネルギー密度化に貢献",
-   "summary": "旭化成、炭酸リチウムを使ったLiプレドープ技術を開発…EV向けLIBの高エネルギー密度化に貢献",
-   "source": "レスポンス（Response.jp）",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2237142.jpg",
-   "published": "2026-08-25T06:00+09:00",
-   "collected": "2026-08-25T07:58+09:00"
-  },
-  {
-   "id": "9a3f7e6bacf3",
-   "url": "https://www.therobotreport.com/xpeng-motors-humanoid-robot-unit-dogotix-raises-900m/",
-   "title": "XPeng MotorsヒューマノイドロボットユニットDogotixが9億$を調達",
-   "summary": "XPeng Motorsのヒューマノイド部門であるDogotixは、SCでロボットを生産する計画で、63億$の評価額を達成しました。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/XPeng_IRON.jpg",
-   "published": "2026-08-25T05:07+09:00",
-   "collected": "2026-08-25T06:37+09:00",
-   "title_orig": "XPeng Motors humanoid robot unit Dogotix raises $900M",
-   "summary_orig": "Dogotix, the humanoid unit of XPeng Motors, has attained a valuation of $6.3 billion as it plans to produce robots at sc"
-  },
-  {
-   "id": "b917297c633d",
-   "url": "https://www.youtube.com/shorts/RKf4_9RvJsA",
-   "title": "ロボットスクラバーのセットアップと展開はどのくらいの速さで行えますか？ぜひチェックしてみてください！ #フロアクリーニング",
-   "summary": "Tennant Company▬▬について▬▬▬▬▬Tennant Companyは、産業分野における革新的なソリューションの大手プロバイダーです。",
-   "source": "Tennant Company",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/RKf4_9RvJsA/hqdefault.jpg",
-   "published": "2026-08-25T02:26+09:00",
-   "collected": "2026-08-25T06:37+09:00",
-   "title_orig": "How quickly can a robotic scrubber be set-up and deployed? Watch to find out! #floorcleaning",
-   "summary_orig": "▬▬ About Tennant Company ▬▬▬▬▬ Tennant Company is a leading provider of innovative solutions in the field of industrial"
   }
  ]
 }
