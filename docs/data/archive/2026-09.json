@@ -1,5 +1,31 @@
 [
  {
+  "id": "7e76d62d39c4",
+  "url": "https://news.yahoo.co.jp/articles/c2df2ae202465591b141eb5e219203abd860c206",
+  "title": "中国が進める人型ロボットの軍事化計画 5〜10年後には実用化の恐れも（クーリエ・ジャポン）",
+  "summary": "8月に開催された世界ヒューマノイドロボット競技大会で高い性能を披露した中国の人型ロボット。実はこれらの技術が、戦場での活用を想定した研究へと急速にシフトしている。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000002-courrier-000-1-view.jpg?exp=10800",
+  "published": "2026-09-21T09:40+09:00",
+  "collected": "2026-09-21T10:00+09:00"
+ },
+ {
+  "id": "56dc065e070e",
+  "url": "https://www.businessinsider.jp/article/2609-figure-ai-intern-beats-robot-in-package-sorting-challenge/",
+  "title": "「人間が勝つのはこれが最後だろう」…人型ロボットと人間が荷物の仕分けを競争",
+  "summary": "Figure AIのインターンが荷物仕分け対決で同社のヒューマノイド（人型ロボット）に勝ち、自動化における課題が浮き彫りになりました。",
+  "source": "Business Insider Japan",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.loom-app.com/loom/2026/05/19/4504a958-4cc3-49d7-a4cb-85fc734b6057/original.jpg?w=1200&h=630",
+  "published": "2026-09-21T09:30+09:00",
+  "collected": "2026-09-21T10:00+09:00"
+ },
+ {
   "id": "c425f81a00f7",
   "url": "https://courrier.jp/news/archives/459738/",
   "title": "中国が進める人型ロボットの軍事化計画 5〜10年後には実用化の恐れも",
@@ -104,6 +130,19 @@
   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789872609491_images_24_.jpeg",
   "published": "2026-09-20T12:31+09:00",
   "collected": "2026-09-21T08:09+09:00"
+ },
+ {
+  "id": "3efcb960c0cd",
+  "url": "https://www.sbbit.jp/article/st/187033",
+  "title": "米Figure AIが人型ロボットのAI頭脳「Helix 2.5」を発表、初めての家30軒で家事を完遂",
+  "summary": "米ロボティクス企業のFigure AIは2026年9月、ヒューマノイドロボット向けの新たなAI制御モデル「Helix 2.5」を発表した。同社は事前のデータ収集を一切行っていない未知の住宅30軒に自社開発のロボットを持ち込み、ベッドメイキングや部屋の片付けなどの家事タスクを完全に自律実行させることに成功した。",
+  "source": "ビジネス+IT",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.sbbit.jp/article/image/187033/OGP_bit202609201517189330.jpg",
+  "published": "2026-09-20T10:00+09:00",
+  "collected": "2026-09-21T10:00+09:00"
  },
  {
   "id": "52e1b8023c4e",

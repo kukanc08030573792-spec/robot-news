@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-21T09:28+09:00",
+  "last_updated": "2026-09-21T10:00+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,32 @@
   ]
  },
  "items": [
+  {
+   "id": "7e76d62d39c4",
+   "url": "https://news.yahoo.co.jp/articles/c2df2ae202465591b141eb5e219203abd860c206",
+   "title": "中国が進める人型ロボットの軍事化計画 5〜10年後には実用化の恐れも（クーリエ・ジャポン）",
+   "summary": "8月に開催された世界ヒューマノイドロボット競技大会で高い性能を披露した中国の人型ロボット。実はこれらの技術が、戦場での活用を想定した研究へと急速にシフトしている。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260921-00000002-courrier-000-1-view.jpg?exp=10800",
+   "published": "2026-09-21T09:40+09:00",
+   "collected": "2026-09-21T10:00+09:00"
+  },
+  {
+   "id": "56dc065e070e",
+   "url": "https://www.businessinsider.jp/article/2609-figure-ai-intern-beats-robot-in-package-sorting-challenge/",
+   "title": "「人間が勝つのはこれが最後だろう」…人型ロボットと人間が荷物の仕分けを競争",
+   "summary": "Figure AIのインターンが荷物仕分け対決で同社のヒューマノイド（人型ロボット）に勝ち、自動化における課題が浮き彫りになりました。",
+   "source": "Business Insider Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/05/19/4504a958-4cc3-49d7-a4cb-85fc734b6057/original.jpg?w=1200&h=630",
+   "published": "2026-09-21T09:30+09:00",
+   "collected": "2026-09-21T10:00+09:00"
+  },
   {
    "id": "c425f81a00f7",
    "url": "https://courrier.jp/news/archives/459738/",
@@ -136,6 +162,19 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789872609491_images_24_.jpeg",
    "published": "2026-09-20T12:31+09:00",
    "collected": "2026-09-21T08:09+09:00"
+  },
+  {
+   "id": "3efcb960c0cd",
+   "url": "https://www.sbbit.jp/article/st/187033",
+   "title": "米Figure AIが人型ロボットのAI頭脳「Helix 2.5」を発表、初めての家30軒で家事を完遂",
+   "summary": "米ロボティクス企業のFigure AIは2026年9月、ヒューマノイドロボット向けの新たなAI制御モデル「Helix 2.5」を発表した。同社は事前のデータ収集を一切行っていない未知の住宅30軒に自社開発のロボットを持ち込み、ベッドメイキングや部屋の片付けなどの家事タスクを完全に自律実行させることに成功した。",
+   "source": "ビジネス+IT",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.sbbit.jp/article/image/187033/OGP_bit202609201517189330.jpg",
+   "published": "2026-09-20T10:00+09:00",
+   "collected": "2026-09-21T10:00+09:00"
   },
   {
    "id": "52e1b8023c4e",
@@ -6738,47 +6777,6 @@
    "thumbnail": "https://www.re-port.net/ogpimage.png",
    "published": "2026-08-25T18:04+09:00",
    "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "9871a6e4b574",
-   "url": "https://www.youtube.com/watch?v=rg0AllwLw2c",
-   "title": "地下駐車のためのガウジウム・マーベル|駐車ロック？ Marvelなら問題ありません",
-   "summary": "グラウンドロック、ホイールストップ、タイトエッジ— Marvelはクリーニングパスを壊すことなくそれらをナビゲートします。正確なエッジハグ、",
-   "source": "Gausium",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/rg0AllwLw2c/hqdefault.jpg",
-   "published": "2026-08-25T17:51+09:00",
-   "collected": "2026-08-26T06:36+09:00",
-   "title_orig": "Gausium Marvel for Underground Parking | Parking Locks? No Problem for Marvel",
-   "summary_orig": "Ground locks, wheel stops, tight edges — Marvel navigates them without breaking its cleaning path. Precise edge-hugging,"
-  },
-  {
-   "id": "6635a27ee715",
-   "url": "https://www.mk.co.kr/jp/it/12135958",
-   "title": "政府が国内開発ヒューマノイドロボットを対象に公募を経て、国家代表級ヒューマノイドを選抜する。 現在、国家代表AIモデルを選んでいる「独自AIファンデーションモデル(独破帽)」事業のヒューマノイド版だ。",
-   "summary": "政府が国内開発ヒューマノイドロボットを対象に公募を経て、国家代表級ヒューマノイドを選抜する。 現在、国家代表AIモデルを選んでいる「独自AIファンデーションモデル(独破帽)」事業のヒューマノイド版だ。",
-   "source": "매일경제",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202608/25/news-p.v1.20260825.26923a5b00b14e80a1fb8947df95871e_R.png",
-   "published": "2026-08-25T17:22+09:00",
-   "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "88231f73a033",
-   "url": "https://robotstart.info/article/img/2026/08/25/382319/105783.html",
-   "title": "AI警備ロボット「ugo Pro」の実証実験、福岡空港の国内線・国際線旅客ターミナルで次世代警備を実施 1枚目の写真・画像",
-   "summary": "ugo株式会社は、福岡国際空港が管理・運営する福岡空港の国内線・国際線旅客ターミナルビルにおいて、AIロボット「ugo Pro」を活用した次世代警備システムの実証実験が行われていることを発表した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105783.jpg",
-   "published": "2026-08-25T16:00+09:00",
-   "collected": "2026-08-27T09:38+09:00"
   }
  ]
 }
