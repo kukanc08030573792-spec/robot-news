@@ -31,7 +31,7 @@
   "id": "745410cf23ff",
   "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
   "title": "Boston Dynamics、AtlasヒューマノイドのトレーニングのためにMetaplant Application Centerを開設",
-  "summary": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia. The post Boston Dynamics opens Metaplant ",
+  "summary": "新しいロボット工学メタプラントアプリケーションセンターは、ジョージア州のヒュンダイのメタプラントアメリカの一環として、ヒューマノイドを訓練しています。Boston DynamicsのポストがMetaplantをオープン",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
@@ -39,20 +39,23 @@
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/RMAC_cover.jpg",
   "published": "2026-09-21T21:59+09:00",
   "collected": "2026-09-22T09:01+09:00",
-  "title_orig": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids"
+  "title_orig": "Boston Dynamics opens Metaplant Application Center to train Atlas humanoids",
+  "summary_orig": "The new Robotics Metaplant Application Center is training humanoids as part of Hyundai's Metaplant America in Georgia. The post Boston Dynamics opens Metaplant"
  },
  {
   "id": "6bf0b24a04d9",
   "url": "https://www.youtube.com/watch?v=__aAZMaOYtI",
-  "title": "GaLaBau 2026: That's a wrap!",
-  "summary": "From the launch to the field. 🌱🤖 Just weeks after the global launch of the 𝐏𝐔𝐃𝐔 𝐆𝐓 𝐒𝐞𝐫𝐢𝐞𝐬, GT3, GT5 and GT7 made their first offline appearance at GaLaBau 2026 ",
+  "title": "GaLaBau 2026 ：これでおしまいです！",
+  "summary": "立ち上げから現場まで。GT 3、GT 5、GT 7が世界で発売された🌱🤖わずか数週間後、2026年のGaLaBauで初めてオフラインで登場しました。",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/__aAZMaOYtI/hqdefault.jpg",
   "published": "2026-09-21T18:00+09:00",
-  "collected": "2026-09-22T09:01+09:00"
+  "collected": "2026-09-22T09:01+09:00",
+  "title_orig": "GaLaBau 2026: That's a wrap!",
+  "summary_orig": "From the launch to the field. 🌱🤖 Just weeks after the global launch of the 𝐏𝐔𝐃𝐔 𝐆𝐓 𝐒𝐞𝐫𝐢𝐞𝐬, GT3, GT5 and GT7 made their first offline appearance at GaLaBau 2026"
  },
  {
   "id": "ee63f2669cc7",
@@ -92,7 +95,7 @@
   "thumbnail": null,
   "published": "2026-09-21T15:33+09:00",
   "collected": "2026-09-22T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1858f620945f",
