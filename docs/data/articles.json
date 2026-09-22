@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-22T10:07+09:00",
+  "last_updated": "2026-09-22T10:33+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,45 @@
   ]
  },
  "items": [
+  {
+   "id": "832233106fb3",
+   "url": "https://topics.smt.docomo.ne.jp/article/nikkangeinou/entertainment/f-et-tp0-260922-202609220000104",
+   "title": "【韓流】G−DRAGON所属事務所、国連イベントでロボットパフォーマンス公開",
+   "summary": "G−DRAGON（38）が所属するギャラクシーコーポレーションは21日、ニューヨークでヒューマノイドロボットのパ…",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/nikkangeinou/m_f-et-tp0-260922-202609220000104.jpg",
+   "published": "2026-09-22T10:21+09:00",
+   "collected": "2026-09-22T10:33+09:00"
+  },
+  {
+   "id": "549c48b2636c",
+   "url": "https://www.digitaltoday.co.kr/jp/view/106417/7000-humanoid-robots-sold-mostly-to-labs-not-factories",
+   "title": "ヒューマノイドロボット世界販売、2025年は7000台 量産現場より研究用途が中心",
+   "summary": "国際ロボット連盟（IFR）によると、2025年のヒューマノイド世界販売は約7000台に達した。導入の中心は工場での本格運用ではなく、研究機関やAIモデル改良向けのデータ収集・生成用途が占めた。",
+   "source": "디지털투데이",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202609/702285_649981_2357.png",
+   "published": "2026-09-22T10:06+09:00",
+   "collected": "2026-09-22T10:33+09:00"
+  },
+  {
+   "id": "c0ba069b0bc6",
+   "url": "https://finance.biggo.jp/news/1098887d-ccfa-43b5-9e94-cb1f89fbd760",
+   "title": "Hyundai Motor Group、米ジョージア州にヒューマノイド「訓練場」開設…Atlas 2万5000台配備へ準備",
+   "summary": "Hyundai Motor GroupとBoston Dynamicsは、米ジョージア州のHMGMAにヒューマノイドロボット「Atlas」の製造作業の学習・検証施設「RMAC」を開設した。",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/an_hbs4N8Sz1XgkRI77lYFkq_lZ43p2a3D2IY4DDzi4/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzEwOTg4ODdkLWNjZmEtNDNiNS05ZTk0LWNiMWY4OWZiZDc2MF8xNzkwMDM5MzUwX2RlZmF1bHQud2VicA.jpg",
+   "published": "2026-09-22T10:05+09:00",
+   "collected": "2026-09-22T10:33+09:00"
+  },
   {
    "id": "7b6f871d4ece",
    "url": "https://www.therobotreport.com/iac-completes-autonomous-racing-event-at-laguna-seca/",
@@ -6737,47 +6776,6 @@
    "thumbnail": "https://www.yomiuri.co.jp/media/2026/08/20260826-GYTNI00012-1.jpg?type=ogp",
    "published": "2026-08-26T05:00+09:00",
    "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "0a00f03bbb30",
-   "url": "https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC252JN0V20C26A8000000",
-   "title": "トヨタ、人型バスケロボ「CUE7」開発秘話 強化学習に壁",
-   "summary": "バスケロボ「CUE7」と、開発責任者の野見氏トヨタ自動車のバスケットボール専門人型ロボット「CUE（キュー）」が進化した。プロバスケットボールBリーグのハーフタイムショーに登場した新型バスケロボ「CUE7」だ。",
-   "source": "日本経済新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3499160025082026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=21248af15cbded8dfb6c766571456dcb",
-   "published": "2026-08-26T05:00+09:00",
-   "collected": "2026-08-26T06:36+09:00"
-  },
-  {
-   "id": "8369f16af220",
-   "url": "https://www.therobotreport.com/early-bird-pricing-for-robobusiness-2026-ends-august-31/",
-   "title": "RoboBusiness 2026の早期割引は8月31日に終了します",
-   "summary": "RoboBusiness 2026の早期割引価格は、会議のフルパスを200 $節約し、8月31日に終了します。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/robo-earlybirdpricing-featured.jpg",
-   "published": "2026-08-26T02:41+09:00",
-   "collected": "2026-08-26T06:36+09:00",
-   "title_orig": "Early bird pricing for RoboBusiness 2026 ends August 31",
-   "summary_orig": "Early bird pricing for RoboBusiness 2026, which saves attendees $200 on full conference passes, will end Aug. 31. The po"
-  },
-  {
-   "id": "9d01363d6ec3",
-   "url": "https://news.tv-asahi.co.jp/news_international/articles/900197908.html",
-   "title": "100m走“人類超え”が次々と『世界ロボット大会』300社が集結“フィジカルAI”最前線",
-   "summary": "人型ロボットをはじめとする『フィジカルAI』は、中国社会での実用化も目覚ましいスピードで進んでいます。見るもの驚きの連続。その先に待ち受ける社会は、どのような姿なのでしょうか。",
-   "source": "テレ朝NEWS",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://news.tv-asahi.co.jp/articles_img/900197908_1200.jpg",
-   "published": "2026-08-26T02:01+09:00",
-   "collected": "2026-08-28T14:17+09:00"
   }
  ]
 }
