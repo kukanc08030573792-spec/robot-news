@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-23T09:54+09:00",
+  "last_updated": "2026-09-23T10:24+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -127,6 +127,19 @@
    "thumbnail": "https://tokyonewsmedia.com/wp-content/uploads/2026/09/1711274_m.jpg",
    "published": "2026-09-22T21:03+09:00",
    "collected": "2026-09-23T08:34+09:00"
+  },
+  {
+   "id": "34d575bb0d3f",
+   "url": "https://news.yahoo.co.jp/articles/c9aab99a7f9b8eb61ed4e9fec4ded56ada3a26ee",
+   "title": "【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定（共同通信）",
+   "summary": "【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定（共同通信）    Yahoo!ニュース 想定されるヒューマノイドの任務 - 【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定 - 写真・画像(1/1)    nishinippon.co.jp 【独自】人型ロボットの防衛活用研究へ",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260922-00000107-kyodonews-000-9-view.jpg?exp=10800",
+   "published": "2026-09-22T21:00+09:00",
+   "collected": "2026-09-23T10:24+09:00"
   },
   {
    "id": "6544d7aa07a4",
@@ -6772,20 +6785,6 @@
    "thumbnail": "https://www.dreamnews.jp/press/0000360444/images/bodyimage1",
    "published": "2026-08-26T17:00+09:00",
    "collected": "2026-08-27T09:38+09:00"
-  },
-  {
-   "id": "a461f2f8d94b",
-   "url": "https://jp.reuters.com/economy/SKSVNYWYVBOQBEN7E7WIMZUNAY-2026-08-26/",
-   "title": "人型ロボットの社会実装へ、ツムラなどの連合がデータ工場稼働",
-   "summary": "人型ロボットの社会実装へ、ツムラなどの連合がデータ工場稼働",
-   "source": "Reuters",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-08-26T15:57+09:00",
-   "collected": "2026-08-27T09:38+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
