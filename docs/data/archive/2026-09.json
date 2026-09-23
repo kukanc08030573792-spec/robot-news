@@ -1,5 +1,18 @@
 [
  {
+  "id": "de3394b61464",
+  "url": "https://newscast.jp/smart/news/6301153",
+  "title": "日本ロボット掃除機市場インサイト 2034 | 米ドル2,542.3ミリオンに達すると予測、16.87%のCAGR",
+  "summary": "日本ロボット掃除機市場インサイト 2034 | 米ドル2,542.3ミリオンに達すると予測、16.87%のCAGR",
+  "source": "Newscast.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.atpress.ne.jp/attachments/dA6bXtDBKuqCaMsBPNQa.png",
+  "published": "2026-09-24T08:30+09:00",
+  "collected": "2026-09-24T08:55+09:00"
+ },
+ {
   "id": "f3573b72ebe8",
   "url": "https://36kr.jp/501030/",
   "title": "人型ロボット、「触覚データ」争奪へ 中国新興、216センサーを編み込んだ手袋を開発",
@@ -39,7 +52,7 @@
   "thumbnail": null,
   "published": "2026-09-23T23:47+09:00",
   "collected": "2026-09-24T08:35+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d67347c6bcef",
@@ -98,7 +111,7 @@
   "thumbnail": null,
   "published": "2026-09-23T18:00+09:00",
   "collected": "2026-09-24T08:35+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c5e283c92d64",
@@ -112,7 +125,7 @@
   "thumbnail": null,
   "published": "2026-09-23T16:56+09:00",
   "collected": "2026-09-24T08:35+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "afa01ba41aac",
