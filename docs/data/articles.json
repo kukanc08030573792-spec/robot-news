@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-23T08:47+09:00",
+  "last_updated": "2026-09-23T09:54+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -88,6 +88,19 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/22/1790080500637_first-ever-human-versus-robot-mma-fightjpg-17900721699901663027512-3-0-1075-2048-crop-1790073174767356653668.jpeg",
    "published": "2026-09-22T21:59+09:00",
    "collected": "2026-09-23T08:34+09:00"
+  },
+  {
+   "id": "21ff09399557",
+   "url": "https://www.nishinippon.co.jp/image/1084823/",
+   "title": "想定されるヒューマノイドの任務 - 【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定 - 写真・画像(1/1)",
+   "summary": "想定されるヒューマノイドの任務 - 【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定 - 写真・画像(1/1)    西日本新聞me 【独自】人型ロボットの防衛活用研究へ ＡＩ搭載、基地警備や輸送を想定    nnn.co.jp 【独自】人型ロボットの防衛活用研究へ AI搭載、基地警備や輸送を想定",
+   "source": "西日本新聞me",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.nishinippon.co.jp/uploads/image/1941735/sns_PN2026092201000920.-.-.CI0003.jpg",
+   "published": "2026-09-22T21:17+09:00",
+   "collected": "2026-09-23T09:54+09:00"
   },
   {
    "id": "9a525178d60e",
@@ -238,7 +251,7 @@
    "thumbnail": null,
    "published": "2026-09-22T12:33+09:00",
    "collected": "2026-09-23T08:34+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "167f890c01e7",
@@ -6773,19 +6786,6 @@
    "published": "2026-08-26T15:57+09:00",
    "collected": "2026-08-27T09:38+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "56f295695645",
-   "url": "https://news.ntv.co.jp/category/economy/d00a77ed2f4348e1ad6a82263aac639b",
-   "title": "「AI博覧会」で最先端の人型ロボットお披露目 気温55℃の酷暑や-20℃の寒冷地でも稼働可能",
-   "summary": "「AI博覧会」で最先端の人型ロボットお披露目 気温55℃の酷暑や-20℃の寒冷地でも稼働可能    日テレNEWS NNN",
-   "source": "日テレNEWS NNN",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://news.ntv.co.jp/gimage/n24/articles/dbecaa34288c40c3bfd6731625b86783/99c59420bbcb26a146a514b8a5672b130bfdc2d6539ca5c4e848d00946f12427.jpg?w=1200",
-   "published": "2026-08-26T15:39+09:00",
-   "collected": "2026-08-27T09:38+09:00"
   }
  ]
 }
