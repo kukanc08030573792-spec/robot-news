@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-25T08:50+09:00",
+  "last_updated": "2026-09-25T08:59+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -56,7 +56,7 @@
    "thumbnail": null,
    "published": "2026-09-25T07:20+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "da5a1795912c",
@@ -113,6 +113,20 @@
    "summary_orig": "China still leads the world in industrial robot installations, but the U.S. and Germany are also significant markets, found the IFR. The post 5 million robots a"
   },
   {
+   "id": "919b78706377",
+   "url": "https://pando.life/article/4644681",
+   "title": "世界のヒューマノイドロボット用ベアリング市場における主要トレンドと収益ポテンシャル：20",
+   "summary": "世界のヒューマノイドロボット用ベアリング市場における主要トレンドと収益ポテンシャル：20",
+   "source": "pando.life",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-25T05:05+09:00",
+   "collected": "2026-09-25T08:59+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "1b86165ebc4f",
    "url": "https://www.logi-today.com/1003196",
    "title": "GA Robotics、音声で自律搬送する人型ロボット",
@@ -124,7 +138,7 @@
    "thumbnail": null,
    "published": "2026-09-25T04:52+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "5a46da660c23",
@@ -278,7 +292,7 @@
    "thumbnail": null,
    "published": "2026-09-24T14:02+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "72c2ba55909b",
@@ -6779,19 +6793,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/105875.jpg",
    "published": "2026-08-28T13:30+09:00",
    "collected": "2026-08-31T08:24+09:00"
-  },
-  {
-   "id": "2fb4d062fb3b",
-   "url": "https://robotstart.info/article/img/2026/08/28/382338/105985.html",
-   "title": "MUSEのストアロボット「Armo」を米国Foodcellar Marketに導入開始 2枚目の写真・画像",
-   "summary": "株式会社MUSEが開発するストアロボット「Armo One」が、米ニューヨーク市クイーンズ区のフードマーケット「Foodcellar Market」に導入された。米国の実店舗での導入は今回が初めてで、店舗内の商品搬送業務を支援する。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105985.webp",
-   "published": "2026-08-28T13:30+09:00",
-   "collected": "2026-08-29T12:07+09:00"
   }
  ]
 }
