@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-25T08:59+09:00",
+  "last_updated": "2026-09-25T09:46+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -32,6 +32,32 @@
  },
  "items": [
   {
+   "id": "2f680e94029d",
+   "url": "https://robotstart.info/article/2026/09/25/382446.html",
+   "title": "MW「来年は家事ロボットの自律動作を披露へ」VLAと年間5万時間の実世界データでフィジカルAI開発を加速",
+   "summary": "MWは来年、家事ロボット「MW bot」の自律動作を披露することを目指す。どうすれば家庭でロボットは自律的に家事をこなせるのか。ロボスタはMW Head of AI/Roboticsの浅谷氏に単独インタビュー。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107153.jpg",
+   "published": "2026-09-25T09:45+09:00",
+   "collected": "2026-09-25T09:46+09:00"
+  },
+  {
+   "id": "9dc60f97a14f",
+   "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2142690.html",
+   "title": "ロボット掃除機から美容家電、ヒューマノイドまで Dreameが描く未来の暮らし【IFA 2026】",
+   "summary": "日本でDreame(ドリーミー)といえば、高機能なロボット掃除機を思い浮かべる方が多いと思います。ドイツ・ベルリンで開催されたエレクトロニクスショー「IFA 2026」のブースに足を踏み入れると、その印象は大きく変わりました。",
+   "source": "家電 Watch",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2142/690/P6.jpg",
+   "published": "2026-09-25T09:00+09:00",
+   "collected": "2026-09-25T09:46+09:00"
+  },
+  {
    "id": "44ee14915e45",
    "url": "https://news.yahoo.co.jp/articles/f1cea33cc9dbceb220b0f02a4caeb9c5b3ac4638",
    "title": "人型ロボットの「触覚」を握る中国PaXini、IPO準備入り 株主にBYDやサムスン",
@@ -56,7 +82,7 @@
    "thumbnail": null,
    "published": "2026-09-25T07:20+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "da5a1795912c",
@@ -124,7 +150,7 @@
    "thumbnail": null,
    "published": "2026-09-25T05:05+09:00",
    "collected": "2026-09-25T08:59+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1b86165ebc4f",
@@ -138,7 +164,7 @@
    "thumbnail": null,
    "published": "2026-09-25T04:52+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5a46da660c23",
@@ -268,6 +294,20 @@
    "collected": "2026-09-25T08:50+09:00"
   },
   {
+   "id": "d8c0e3f59f2e",
+   "url": "https://www.nikkan.co.jp/releases/view/225302",
+   "title": "Roborock、新開発の「リバーシブルサイドブラシ」で部屋の隅まできれいにする新型ロボット掃除機「Roborock Qrevo 2 Pro」を発売",
+   "summary": "Roborock、新開発の「リバーシブルサイドブラシ」で部屋の隅まできれいにする新型ロボット掃除機「Roborock Qrevo 2 Pro」を発売",
+   "source": "日刊工業新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-24T16:08+09:00",
+   "collected": "2026-09-25T09:46+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "0fc23b463d10",
    "url": "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2130/id=159056/",
    "title": "Roborock、新開発の「リバーシブルサイドブラシ」を搭載したロボット掃除機「Roborock Qrevo 2 Pro」",
@@ -292,7 +332,7 @@
    "thumbnail": null,
    "published": "2026-09-24T14:02+09:00",
    "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "72c2ba55909b",
@@ -6754,45 +6794,6 @@
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/japanesejoins/m_japanesejoins-354236.jpg",
    "published": "2026-08-28T15:08+09:00",
    "collected": "2026-08-28T15:18+09:00"
-  },
-  {
-   "id": "0a2569e17b7e",
-   "url": "https://ugo.plus/information/2026/08/28/robotstart-7/",
-   "title": "【ロボスタ】AI警備ロボット「ugo Pro」の実証実験、福岡空港の国内線・国際線旅客ターミナルで次世代警備を実施について掲載",
-   "summary": "【ロボスタ】AI警備ロボット「ugo Pro」の実証実験、福岡空港の国内線・国際線旅客ターミナルで次世代警備を実施について掲載",
-   "source": "ugo.plus",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://ugo.plus/wp-content/uploads/2025/04/OGP-1.jpg",
-   "published": "2026-08-28T14:45+09:00",
-   "collected": "2026-08-28T15:18+09:00"
-  },
-  {
-   "id": "5373d169378b",
-   "url": "https://article.auone.jp/5facedcd-4864-494f-af0a-eda9f8aab153",
-   "title": "歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表",
-   "summary": "AI開発プラットフォーム・Hugging Face傘下のロボットスタートアップであるPollen Roboticsが、二足歩行したりくちばしでものを拾い上げたりできるアヒル型ロボット「Microduc",
-   "source": "au Webポータル",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/08/28/https___gigazine_net_news_20260828-pollen-robotics-microduck_.jpg",
-   "published": "2026-08-28T13:47+09:00",
-   "collected": "2026-08-28T14:17+09:00"
-  },
-  {
-   "id": "5603fdc6380f",
-   "url": "https://robotstart.info/article/img/2026/08/28/382338/105875.html",
-   "title": "MUSEのストアロボット「Armo」を米国Foodcellar Marketに導入開始 1枚目の写真・画像",
-   "summary": "株式会社MUSEが開発するストアロボット「Armo One」が、米ニューヨーク市クイーンズ区のフードマーケット「Foodcellar Market」に導入された。米国の実店舗での導入は今回が初めてで、店舗内の商品搬送業務を支援する。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/105875.jpg",
-   "published": "2026-08-28T13:30+09:00",
-   "collected": "2026-08-31T08:24+09:00"
   }
  ]
 }
