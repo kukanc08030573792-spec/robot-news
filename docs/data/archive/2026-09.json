@@ -1,5 +1,83 @@
 [
  {
+  "id": "42dfe2892f5a",
+  "url": "https://news.yahoo.co.jp/articles/4e86689ce71059372a30965a0fa782675de1fcf4",
+  "title": "Roborockロボット掃除機 四隅の清掃強化した新ブラシ（家電 Watch）",
+  "summary": "Beijing Roborock Technology(ロボロック)は、新開発の「リバーシブルサイドブラシ」を搭載したロボット掃除機「Roborock Qrevo 2 Pro(ロボロック キューレボ",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000002-impkdw-000-1-view.jpg?exp=10800",
+  "published": "2026-09-28T08:15+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
+  "id": "8379ab3e4faf",
+  "url": "https://newswitch.jp/p/50368",
+  "title": "ヒト型ロボット量産化に挑む…米中対抗、日本勢の現況は？",
+  "summary": "ロボット関連のスタートアップが国産ヒューマノイド（ヒト型）ロボットの開発を加速している。ドーナッツロボティクス（東京都港区）は２足歩行ヒューマノイドで現場導入の安全性を追求。",
+  "source": "ニュースイッチ by 日刊工業新聞社",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.newswitch.jp/images/031de8ea-548f-4e7d-93f0-92d6e31f3a5c.jpg",
+  "published": "2026-09-28T06:06+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
+  "id": "fa82093cd448",
+  "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+  "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+  "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov’s laws are not enou",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Asimov-Article-Image.jpg",
+  "published": "2026-09-27T21:26+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
+  "id": "faebb6efa6e0",
+  "url": "https://s.response.jp/article/2026/09/27/417037.html",
+  "title": "ヒューマノイドCruzr S2が音声指示で荷物搬送…北陸技術交流テクノフェア2026で実演予定",
+  "summary": "GA Roboticsは、10月22・23日に福井県産業会館で開催される「北陸技術交流テクノフェア2026」の特別企画展に出展し、UBTECH製ヒューマノイドロボット「Cruzr S2」による荷物搬送のデモンストレーションを実演する。",
+  "source": "レスポンス（Response.jp）",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://response.jp/imgs/ogp_f/2245978.jpg",
+  "published": "2026-09-27T17:00+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
+  "id": "52534e8982dc",
+  "url": "https://www.youtube.com/watch?v=-a6J3ryndUs",
+  "title": "Inside the GT Series: A CLOSER LOOK AT THE LINEUP",
+  "summary": "Looking to modernize your commercial turf care? In this video, our Product Manager gives a quick walkthrough of the #PUDUGT Series — GT3, GT5, and GT7 — highlig",
+  "source": "Pudu Robotics",
+  "type": "video",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/-a6J3ryndUs/hqdefault.jpg",
+  "published": "2026-09-27T16:00+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
+  "id": "3b1828a8149b",
+  "url": "https://news.livedoor.com/article/detail/32422136/",
+  "title": "部屋の隅まで届く！リバーシブルサイドブラシ搭載のロボット掃除機！Roborock Qrevo 2 Pro",
+  "summary": "Roborock新型掃除機「Qrevo 2 Pro」が10月2日に発売される。部屋の隅を検知するとサイドブラシが逆回転し清掃カバー率を最大30％拡大。希望小売価格は164,780円で9月24日よりヤマダデンキ等で予約受付開始",
+  "source": "ライブドアニュース",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://image.news.livedoor.com/newsimage/stf/d/2/d2994_1604_55af12ba_68ba8626.jpg",
+  "published": "2026-09-27T11:12+09:00",
+  "collected": "2026-09-28T08:45+09:00"
+ },
+ {
   "id": "515a3abdbe59",
   "url": "https://realsound.jp/tech/2026/09/post-2535517.html",
   "title": "部屋の隅まで届く「リバーシブルサイドブラシ」搭載、最大25,000Paの吸引力とデュアル回転モップ Roborockのロボット掃除機「Qrevo 2 Pro」登場",
@@ -11,6 +89,19 @@
   "thumbnail": "https://realsound.jp/wp-content/uploads/2026/09/20260927-roborock-99.jpg",
   "published": "2026-09-27T07:09+09:00",
   "collected": "2026-09-27T08:30+09:00"
+ },
+ {
+  "id": "c58a35eddd2e",
+  "url": "https://simplywall.st/ja/stocks/jp/automobiles/tse-7203/toyota-motor-shares/news/44384eff9763027e",
+  "title": "ヒューマノイドロボットの導入は、トヨタ（東証：7203）の投資ストーリーを一変させたのか？",
+  "summary": "トヨタ自動車は、世界中の工場に約40万台の自社開発ヒューマノイドロボットを導入する計画の概要を明らかにしたほか、広汽集団（GAC）が第一汽車（FAW）の株式の一部取得を検討していることを受け、長年続けてきた中国での合弁事業について再編の可能性を示唆した。",
+  "source": "simplywall.st",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice2-card/1788934335648?w=1600&h=900&fit=cover",
+  "published": "2026-09-27T04:07+09:00",
+  "collected": "2026-09-28T08:45+09:00"
  },
  {
   "id": "06dfd25ebaf2",

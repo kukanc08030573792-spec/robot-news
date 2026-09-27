@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-27T10:18+09:00",
+  "last_updated": "2026-09-28T08:45+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -32,6 +32,84 @@
  },
  "items": [
   {
+   "id": "42dfe2892f5a",
+   "url": "https://news.yahoo.co.jp/articles/4e86689ce71059372a30965a0fa782675de1fcf4",
+   "title": "Roborockロボット掃除機 四隅の清掃強化した新ブラシ（家電 Watch）",
+   "summary": "Beijing Roborock Technology(ロボロック)は、新開発の「リバーシブルサイドブラシ」を搭載したロボット掃除機「Roborock Qrevo 2 Pro(ロボロック キューレボ",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000002-impkdw-000-1-view.jpg?exp=10800",
+   "published": "2026-09-28T08:15+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "8379ab3e4faf",
+   "url": "https://newswitch.jp/p/50368",
+   "title": "ヒト型ロボット量産化に挑む…米中対抗、日本勢の現況は？",
+   "summary": "ロボット関連のスタートアップが国産ヒューマノイド（ヒト型）ロボットの開発を加速している。ドーナッツロボティクス（東京都港区）は２足歩行ヒューマノイドで現場導入の安全性を追求。",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.newswitch.jp/images/031de8ea-548f-4e7d-93f0-92d6e31f3a5c.jpg",
+   "published": "2026-09-28T06:06+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "fa82093cd448",
+   "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
+   "title": "Asimov’s laws are not enough to keep robotics and AI safe",
+   "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov’s laws are not enou",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Asimov-Article-Image.jpg",
+   "published": "2026-09-27T21:26+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "faebb6efa6e0",
+   "url": "https://s.response.jp/article/2026/09/27/417037.html",
+   "title": "ヒューマノイドCruzr S2が音声指示で荷物搬送…北陸技術交流テクノフェア2026で実演予定",
+   "summary": "GA Roboticsは、10月22・23日に福井県産業会館で開催される「北陸技術交流テクノフェア2026」の特別企画展に出展し、UBTECH製ヒューマノイドロボット「Cruzr S2」による荷物搬送のデモンストレーションを実演する。",
+   "source": "レスポンス（Response.jp）",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://response.jp/imgs/ogp_f/2245978.jpg",
+   "published": "2026-09-27T17:00+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "52534e8982dc",
+   "url": "https://www.youtube.com/watch?v=-a6J3ryndUs",
+   "title": "Inside the GT Series: A CLOSER LOOK AT THE LINEUP",
+   "summary": "Looking to modernize your commercial turf care? In this video, our Product Manager gives a quick walkthrough of the #PUDUGT Series — GT3, GT5, and GT7 — highlig",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/-a6J3ryndUs/hqdefault.jpg",
+   "published": "2026-09-27T16:00+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "3b1828a8149b",
+   "url": "https://news.livedoor.com/article/detail/32422136/",
+   "title": "部屋の隅まで届く！リバーシブルサイドブラシ搭載のロボット掃除機！Roborock Qrevo 2 Pro",
+   "summary": "Roborock新型掃除機「Qrevo 2 Pro」が10月2日に発売される。部屋の隅を検知するとサイドブラシが逆回転し清掃カバー率を最大30％拡大。希望小売価格は164,780円で9月24日よりヤマダデンキ等で予約受付開始",
+   "source": "ライブドアニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/d/2/d2994_1604_55af12ba_68ba8626.jpg",
+   "published": "2026-09-27T11:12+09:00",
+   "collected": "2026-09-28T08:45+09:00"
+  },
+  {
    "id": "515a3abdbe59",
    "url": "https://realsound.jp/tech/2026/09/post-2535517.html",
    "title": "部屋の隅まで届く「リバーシブルサイドブラシ」搭載、最大25,000Paの吸引力とデュアル回転モップ Roborockのロボット掃除機「Qrevo 2 Pro」登場",
@@ -43,6 +121,19 @@
    "thumbnail": "https://realsound.jp/wp-content/uploads/2026/09/20260927-roborock-99.jpg",
    "published": "2026-09-27T07:09+09:00",
    "collected": "2026-09-27T08:30+09:00"
+  },
+  {
+   "id": "c58a35eddd2e",
+   "url": "https://simplywall.st/ja/stocks/jp/automobiles/tse-7203/toyota-motor-shares/news/44384eff9763027e",
+   "title": "ヒューマノイドロボットの導入は、トヨタ（東証：7203）の投資ストーリーを一変させたのか？",
+   "summary": "トヨタ自動車は、世界中の工場に約40万台の自社開発ヒューマノイドロボットを導入する計画の概要を明らかにしたほか、広汽集団（GAC）が第一汽車（FAW）の株式の一部取得を検討していることを受け、長年続けてきた中国での合弁事業について再編の可能性を示唆した。",
+   "source": "simplywall.st",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice2-card/1788934335648?w=1600&h=900&fit=cover",
+   "published": "2026-09-27T04:07+09:00",
+   "collected": "2026-09-28T08:45+09:00"
   },
   {
    "id": "06dfd25ebaf2",
@@ -6705,97 +6796,6 @@
    "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/abcnews/abcnews_62286_0-enlarge.jpg",
    "published": "2026-08-31T12:22+09:00",
    "collected": "2026-09-01T10:46+09:00"
-  },
-  {
-   "id": "2c01e1128dae",
-   "url": "https://forbesjapan.com/articles/detail/103746",
-   "title": "先進ロボットを製造・運用できる国のランキング、世界上位25カ国",
-   "summary": "今なら約4万6000ドル（約731万円）で作れるヒューマノイドロボットも、もし部品表（BOM。製品に使う部品と原価の一覧）から中国のサプライヤーを外すと約13万1000ドル（約2083万円）になる。",
-   "source": "Forbes JAPAN",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://images.forbesjapan.com/media/article/103746/images/main_image_73d5ec0221643f796cfc16b2f5ae5bfec12a73cc.jpeg",
-   "published": "2026-08-31T12:00+09:00",
-   "collected": "2026-09-01T09:32+09:00"
-  },
-  {
-   "id": "29f8ef8f8330",
-   "url": "https://news.yahoo.co.jp/articles/6bc75a126a5b7a47aba18679fc3bf3795d46cf5f",
-   "title": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応（読売テレビ）",
-   "summary": "AIを搭載した人型ロボット・ヒューマノイドが、乗客の道案内などを行う実証実験がきょう（31日）から、大阪メトロ・梅田駅で始まりました。\n\n　葛原寛己記者\n　「なんば駅までの行き方を教えてください」",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-02858355-ytv-000-3-thumb.jpg?exp=10800",
-   "published": "2026-08-31T11:59+09:00",
-   "collected": "2026-09-02T09:30+09:00"
-  },
-  {
-   "id": "5404b7d02724",
-   "url": "https://news.infoseek.co.jp/article/ytv_2026083102858355/",
-   "title": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応",
-   "summary": "人手不足を補う「ヒューマノイド駅員」大阪メトロ梅田駅で実証実験 生成AI搭載、約60の言語に対応",
-   "source": "news.infoseek.co.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/ytv/ytv_2026083102858355_0-enlarge.jpg",
-   "published": "2026-08-31T11:59+09:00",
-   "collected": "2026-09-01T09:46+09:00"
-  },
-  {
-   "id": "e2758d1bf048",
-   "url": "https://cloud.watch.impress.co.jp/docs/column/techwatch/2136856-2.html",
-   "title": "急騰629％からの急落 中国Unitree上場が映すロボット大国の光と影",
-   "summary": "急騰629％からの急落 中国Unitree上場が映すロボット大国の光と影    クラウド Watch",
-   "source": "クラウド Watch",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://cloud.watch.impress.co.jp/img/clw/corners/column/techwatch/techwatch_logo.png",
-   "published": "2026-08-31T11:39+09:00",
-   "collected": "2026-09-03T08:15+09:00"
-  },
-  {
-   "id": "e28765e2e206",
-   "url": "https://robotstart.info/article/img/2026/08/31/382343/106023.html",
-   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装 17枚目の写真・画像",
-   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106023.jpg",
-   "published": "2026-08-31T09:15+09:00",
-   "collected": "2026-08-31T10:20+09:00"
-  },
-  {
-   "id": "27cd4a1efc1b",
-   "url": "https://robotstart.info/article/img/2026/08/31/382343/106011.html",
-   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装 5枚目の写真・画像",
-   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106011.jpg",
-   "published": "2026-08-31T09:15+09:00",
-   "collected": "2026-08-31T10:20+09:00"
-  },
-  {
-   "id": "8e978cf0f45e",
-   "url": "https://robotstart.info/article/2026/08/31/382343.html",
-   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装",
-   "summary": "「J-HRTI関東データファクトリー」では、ロボットが作業するデータを使ってヒューマノイドを学習させる大規模データファクトリーだ。そして、J-HRTIには医薬品メーカーのツムラ、物流・DM事業を手がけるディーエムエス（DMS）、ものづくり商",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106066.jpg",
-   "published": "2026-08-31T09:15+09:00",
-   "collected": "2026-08-31T09:48+09:00"
   }
  ]
 }
