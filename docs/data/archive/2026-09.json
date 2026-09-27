@@ -13,6 +13,19 @@
   "collected": "2026-09-28T08:45+09:00"
  },
  {
+  "id": "0537517e0302",
+  "url": "https://finance.biggo.jp/news/9387c612-a5af-4a80-9760-6c4b16376b51",
+  "title": "全固体電池の初の試金石はEVではなくヒューマノイドロボット",
+  "summary": "全固体電池の初の商用化の舞台が電気自動車（EV）ではなくヒューマノイドロボットになる可能性が高まっている。ロボットは胴体ほどの空間に電池を収め、電源コー…",
+  "source": "finance.biggo.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/MwFKo48WZN6r8QQX7PlxQaDfRMZJaMYN8lwv2wr8ELs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzkzODdjNjEyLWE1YWYtNGE4MC05NzYwLTZjNGIxNjM3NmI1MV8xNzkwNTQ4NDg0X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-09-28T07:25+09:00",
+  "collected": "2026-09-28T08:56+09:00"
+ },
+ {
   "id": "8379ab3e4faf",
   "url": "https://newswitch.jp/p/50368",
   "title": "ヒト型ロボット量産化に挑む…米中対抗、日本勢の現況は？",
@@ -28,15 +41,17 @@
  {
   "id": "fa82093cd448",
   "url": "https://www.therobotreport.com/asimovs-laws-are-not-enough-keep-robotics-ai-safe/",
-  "title": "Asimov’s laws are not enough to keep robotics and AI safe",
-  "summary": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov’s laws are not enou",
+  "title": "アシモフの法則は、ロボット工学とAIを安全に保つのに十分ではない",
+  "summary": "アシモフの架空の3つのロボティクスの法則は、有名なセーフガードを設定しており、今日のテクノロジーオブザーバーはAIについて同様の懸念を提起しています。ポストアシモフの法則はenouではありません",
   "source": "The Robot Report",
   "type": "article",
   "category": "general",
   "expert": false,
   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Asimov-Article-Image.jpg",
   "published": "2026-09-27T21:26+09:00",
-  "collected": "2026-09-28T08:45+09:00"
+  "collected": "2026-09-28T08:45+09:00",
+  "title_orig": "Asimov’s laws are not enough to keep robotics and AI safe",
+  "summary_orig": "Asimov's fictional Three Laws of Robotics famously set safeguards, and tech observers today raise similar concerns about AI. The post Asimov’s laws are not enou"
  },
  {
   "id": "faebb6efa6e0",
@@ -54,15 +69,17 @@
  {
   "id": "52534e8982dc",
   "url": "https://www.youtube.com/watch?v=-a6J3ryndUs",
-  "title": "Inside the GT Series: A CLOSER LOOK AT THE LINEUP",
-  "summary": "Looking to modernize your commercial turf care? In this video, our Product Manager gives a quick walkthrough of the #PUDUGT Series — GT3, GT5, and GT7 — highlig",
+  "title": "GTシリーズの内側：ラインナップを詳しく見る",
+  "summary": "商業芝生ケアを近代化したいですか？このビデオでは、当社のプロダクトマネージャーが# PUDUGTシリーズ— GT 3、GT 5、およびGT 7 — highligの簡単なウォークスルーを提供します",
   "source": "Pudu Robotics",
   "type": "video",
   "category": "general",
   "expert": false,
   "thumbnail": "https://i.ytimg.com/vi/-a6J3ryndUs/hqdefault.jpg",
   "published": "2026-09-27T16:00+09:00",
-  "collected": "2026-09-28T08:45+09:00"
+  "collected": "2026-09-28T08:45+09:00",
+  "title_orig": "Inside the GT Series: A CLOSER LOOK AT THE LINEUP",
+  "summary_orig": "Looking to modernize your commercial turf care? In this video, our Product Manager gives a quick walkthrough of the #PUDUGT Series — GT3, GT5, and GT7 — highlig"
  },
  {
   "id": "3b1828a8149b",
