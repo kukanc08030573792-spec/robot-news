@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-27T09:50+09:00",
+  "last_updated": "2026-09-27T10:18+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -659,6 +659,19 @@
    "thumbnail": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026092/20260924144540_856_.jpg",
    "published": "2026-09-24T14:53+09:00",
    "collected": "2026-09-25T08:50+09:00"
+  },
+  {
+   "id": "e0042ef83c7f",
+   "url": "https://news.yahoo.co.jp/articles/646eab494161cafca77593c034be1a4a9e6966cc",
+   "title": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査（ロイター）",
+   "summary": "[２１日 ロイター] - 事情に詳しい関係者によると、中国の規制当局は人型（ヒューマノイド）ロボット企業の新規株式公開（ＩＰＯ）の急増にブレーキをかけている。国の支援を追い風にした人型ロボット企業の",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260924-00000148-reut-000-1-view.jpg?exp=10800",
+   "published": "2026-09-24T14:02+09:00",
+   "collected": "2026-09-27T10:18+09:00"
   },
   {
    "id": "d0bdf6e3df85",
@@ -6783,19 +6796,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/106066.jpg",
    "published": "2026-08-31T09:15+09:00",
    "collected": "2026-08-31T09:48+09:00"
-  },
-  {
-   "id": "e43260613269",
-   "url": "https://news.yahoo.co.jp/articles/ad36efc1a18893d8dc56f846170df0ec0f89816a",
-   "title": "ヒューマノイドは「大規模導入の段階ではない」 上場直後、Unitree創業者が語った現実",
-   "summary": "中国のロボット大手、宇樹科技（Unitree Robotics）の創業者で最高経営責任者（CEO）の王興興氏は、2026世界ロボット大会（WRC 2026）で講演し、人型ロボット（ヒューマノイド）の",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260831-00010001-krjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-08-31T08:30+09:00",
-   "collected": "2026-08-31T08:49+09:00"
   }
  ]
 }
