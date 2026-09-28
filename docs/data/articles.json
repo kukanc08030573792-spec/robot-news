@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-28T10:09+09:00",
+  "last_updated": "2026-09-28T10:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -43,6 +43,19 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000002-impkdw-000-1-view.jpg?exp=10800",
    "published": "2026-09-28T08:15+09:00",
    "collected": "2026-09-28T08:45+09:00"
+  },
+  {
+   "id": "42c3235763a9",
+   "url": "https://www.chiba-tv.com/plus/detail/2026092050008",
+   "title": "Roborockロボット掃除機 四隅の清掃強化した新ブラシ",
+   "summary": "",
+   "source": "千葉テレビ放送株式会社",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1477081425877878757/origin_1.jpg",
+   "published": "2026-09-28T08:14+09:00",
+   "collected": "2026-09-28T10:32+09:00"
   },
   {
    "id": "0537517e0302",
