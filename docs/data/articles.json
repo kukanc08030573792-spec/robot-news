@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-29T09:56+09:00",
+  "last_updated": "2026-09-29T10:14+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,59 @@
   ]
  },
  "items": [
+  {
+   "id": "176ff7620b5d",
+   "url": "https://www.nikkan.co.jp/releases/view/225526",
+   "title": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
+   "summary": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
+   "source": "日刊工業新聞",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-29T10:10+09:00",
+   "collected": "2026-09-29T10:14+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "318074fc18e7",
+   "url": "https://innovatopia.jp/robot/robot-news/118331/",
+   "title": "ソフトバンクロボティクス、配膳ロボット「Servi Q」販売開始｜通過幅45cmでバック走行も",
+   "summary": "ソフトバンクロボティクスは、Bear Roboticsと共同開発した配膳ロボット「Servi Q」を9月28日に日本で販売開始しました。本体横幅35cm、最小通過幅45cmでバック走行に対応。ロボットが店舗環境に適応するという設計思想と、初代Serviとの比較、米国での先行披露を整理し、読み解きます。",
+   "source": "innovaTopia",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://innovatopia.jp/inv-content/uploads/2026/09/softbank-robotics-servi-q.jpg",
+   "published": "2026-09-29T10:05+09:00",
+   "collected": "2026-09-29T10:14+09:00"
+  },
+  {
+   "id": "77425f0524ec",
+   "url": "https://www.san-x.co.jp/ja/blog/2026-09-post-0551420/",
+   "title": "RC配膳ロボットとリラックマのコラボレーショングッズが新発売",
+   "summary": "RC配膳ロボットとリラックマのコラボレーショングッズが新発売",
+   "source": "san-x.co.jp",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.san-x.co.jp/uploads/1790229102213-5xoj9glj9ic/gazou1.webp",
+   "published": "2026-09-29T10:03+09:00",
+   "collected": "2026-09-29T10:14+09:00"
+  },
+  {
+   "id": "6f1d6c7a47cd",
+   "url": "https://prtimes.jp/main/html/rd/p/000000003.000187244.html",
+   "title": "【実証レポート】ヒューマノイドロボットが農場に立った : 屋外の畑でオクラを検出し把持、開発期間70日",
+   "summary": "【実証レポート】ヒューマノイドロボットが農場に立った : 屋外の畑でオクラを検出し把持、開発期間70日",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/187244/3/187244-3-09448a2ebf57af60839083647c13075a-1050x1400.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-29T10:00+09:00",
+   "collected": "2026-09-29T10:14+09:00"
+  },
   {
    "id": "0a790c2f2e72",
    "url": "https://news.yahoo.co.jp/articles/7fc7d51211b1934f619c634234e622c2dbd662f8",
@@ -179,7 +232,7 @@
    "thumbnail": null,
    "published": "2026-09-28T20:04+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1604db74904d",
@@ -193,7 +246,7 @@
    "thumbnail": null,
    "published": "2026-09-28T19:04+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "507a8e762249",
@@ -222,7 +275,7 @@
    "thumbnail": null,
    "published": "2026-09-28T17:15+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "4b936b63d3b3",
@@ -6744,58 +6797,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/106120.jpg",
    "published": "2026-09-01T14:15+09:00",
    "collected": "2026-09-02T08:14+09:00"
-  },
-  {
-   "id": "314987740bc4",
-   "url": "https://prtimes.jp/main/html/rd/p/000000205.000057002.html",
-   "title": "【SwitchBot】世界最小級ロボット掃除機「K11+ Pro」に新色ブラック登場。9月1日より販売開始",
-   "summary": "【SwitchBot】世界最小級ロボット掃除機「K11+ Pro」に新色ブラック登場。9月1日より販売開始",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/57002/205/57002-205-420e1b94e24ac1e1ceec00bebf626fd6-1920x1005.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-01T14:00+09:00",
-   "collected": "2026-09-02T08:14+09:00"
-  },
-  {
-   "id": "41559c9032a4",
-   "url": "https://article.auone.jp/e50c5a29-6774-4ee2-af29-85eef05f59da",
-   "title": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別",
-   "summary": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別アイリスグループのSEQSENSE株式会社は、自律移動型警備ロボット「SQ-2（エスキューツ",
-   "source": "au Webポータル",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/09/01/https___news_jp_i_1467365725885350247.jpg",
-   "published": "2026-09-01T13:55+09:00",
-   "collected": "2026-09-02T08:14+09:00"
-  },
-  {
-   "id": "74a742614d45",
-   "url": "https://www.mk.co.kr/jp/business/12141178",
-   "title": "\"サービスロボットの競争は、どんな製品を販売するかよりも、顧客の現場でどれだけ安定的に運営するかで決まるでしょう\"",
-   "summary": "\"サービスロボットの競争は、どんな製品を販売するかよりも、顧客の現場でどれだけ安定的に運営するかで決まるでしょう\"サービスロボット専門企業のライノスが製品販売中心から抜け出し、現場診断と運営設計、システム構築、管制と維持管理まで合わせる「サ",
-   "source": "매일경제",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/01/news-p.v1.20260810.ee7b5a6356a84a06b998f6de5f9f3f29_R.png",
-   "published": "2026-09-01T13:43+09:00",
-   "collected": "2026-09-02T08:14+09:00"
-  },
-  {
-   "id": "6e86c982e3f3",
-   "url": "https://robotstart.info/article/img/2026/09/01/382351/106113.html",
-   "title": "アイリスグループSEQSENSE、警備ロボットSQ-2に変化検知機能を追加 AIが基準状態との違いを自動判別 3枚目の写真・画像",
-   "summary": "アイリスグループのSEQSENSE株式会社は、自律移動型警備ロボット「SQ-2（エスキューツー）」に新たなAI機能「変化検知機能」を正式リリースした。巡回時に指定ポイントの状態を基準状態と自動比較し、不審物や設備異常などの微細な変化を検知・",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106113.webp",
-   "published": "2026-09-01T12:45+09:00",
-   "collected": "2026-09-02T09:30+09:00"
   }
  ]
 }

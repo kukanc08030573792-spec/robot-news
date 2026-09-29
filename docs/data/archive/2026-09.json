@@ -1,5 +1,58 @@
 [
  {
+  "id": "176ff7620b5d",
+  "url": "https://www.nikkan.co.jp/releases/view/225526",
+  "title": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
+  "summary": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
+  "source": "日刊工業新聞",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-09-29T10:10+09:00",
+  "collected": "2026-09-29T10:14+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "318074fc18e7",
+  "url": "https://innovatopia.jp/robot/robot-news/118331/",
+  "title": "ソフトバンクロボティクス、配膳ロボット「Servi Q」販売開始｜通過幅45cmでバック走行も",
+  "summary": "ソフトバンクロボティクスは、Bear Roboticsと共同開発した配膳ロボット「Servi Q」を9月28日に日本で販売開始しました。本体横幅35cm、最小通過幅45cmでバック走行に対応。ロボットが店舗環境に適応するという設計思想と、初代Serviとの比較、米国での先行披露を整理し、読み解きます。",
+  "source": "innovaTopia",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://innovatopia.jp/inv-content/uploads/2026/09/softbank-robotics-servi-q.jpg",
+  "published": "2026-09-29T10:05+09:00",
+  "collected": "2026-09-29T10:14+09:00"
+ },
+ {
+  "id": "77425f0524ec",
+  "url": "https://www.san-x.co.jp/ja/blog/2026-09-post-0551420/",
+  "title": "RC配膳ロボットとリラックマのコラボレーショングッズが新発売",
+  "summary": "RC配膳ロボットとリラックマのコラボレーショングッズが新発売",
+  "source": "san-x.co.jp",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://www.san-x.co.jp/uploads/1790229102213-5xoj9glj9ic/gazou1.webp",
+  "published": "2026-09-29T10:03+09:00",
+  "collected": "2026-09-29T10:14+09:00"
+ },
+ {
+  "id": "6f1d6c7a47cd",
+  "url": "https://prtimes.jp/main/html/rd/p/000000003.000187244.html",
+  "title": "【実証レポート】ヒューマノイドロボットが農場に立った : 屋外の畑でオクラを検出し把持、開発期間70日",
+  "summary": "【実証レポート】ヒューマノイドロボットが農場に立った : 屋外の畑でオクラを検出し把持、開発期間70日",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/187244/3/187244-3-09448a2ebf57af60839083647c13075a-1050x1400.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-09-29T10:00+09:00",
+  "collected": "2026-09-29T10:14+09:00"
+ },
+ {
   "id": "0a790c2f2e72",
   "url": "https://news.yahoo.co.jp/articles/7fc7d51211b1934f619c634234e622c2dbd662f8",
   "title": "上海のDQに「ヒューマノイド店員」登場 55工程をこなし、最後はカップを逆さに",
@@ -147,7 +200,7 @@
   "thumbnail": null,
   "published": "2026-09-28T20:04+09:00",
   "collected": "2026-09-29T09:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1604db74904d",
@@ -161,7 +214,7 @@
   "thumbnail": null,
   "published": "2026-09-28T19:04+09:00",
   "collected": "2026-09-29T09:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "507a8e762249",
@@ -190,7 +243,7 @@
   "thumbnail": null,
   "published": "2026-09-28T17:15+09:00",
   "collected": "2026-09-29T09:56+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "4b936b63d3b3",
