@@ -1,5 +1,44 @@
 [
  {
+  "id": "f9f06f6c2a69",
+  "url": "https://robotstart.info/article/2026/09/29/382455.html",
+  "title": "ソフトバンクが5G SA接続時に専用ネットワークロゴを表示開始 国内初",
+  "summary": "ソフトバンク株式会社は、5G SAへの接続状況を端末上で確認できる専用のネットワークロゴの表示を、2026年9月29日から順次開始することを公表した。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/107252.jpg",
+  "published": "2026-09-29T11:30+09:00",
+  "collected": "2026-09-29T11:32+09:00"
+ },
+ {
+  "id": "d06095432ec9",
+  "url": "https://finance.biggo.jp/news/3ab01157-5b08-4c42-a26b-08c6971799e1",
+  "title": "T-Robotics、45億ウォン（約5.2億円）の韓国政府系事業でディスプレイライン投入型ヒューマノイドを開発",
+  "summary": "T-Roboticsが韓国ディスプレイ大手およびKAISTと共同で、AIベースのモバイルヒューマノイドの製造現場への適用技術を開発する。韓国産業技術企画評価院の国策課…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/7CoWgRFMS1t5te9iVszyVL5lYhco8_yBYnIxUSJroic/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzNhYjAxMTU3LTViMDgtNGM0Mi1hMjZiLTA4YzY5NzE3OTllMV8xNzkwNjQ5MDc0X2RlZmF1bHQuanBn.jpg",
+  "published": "2026-09-29T11:26+09:00",
+  "collected": "2026-09-29T11:32+09:00"
+ },
+ {
+  "id": "fa168d5b1986",
+  "url": "https://www.gizmodo.jp/article/2609-roomba-plus-675-combo-review/",
+  "title": "なぜルンバはここまで強いのか。新型「Roomba Plus 675 Combo」、キレイさの理由を解剖するッ！",
+  "summary": "新型ルンバ「Roomba Plus 675 Combo」の強さの理由を解剖。圧倒的な吸引力や水拭き性能、自動化が進んだステーションの魅力を解説します。",
+  "source": "ギズモード",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.loom-app.com/loom/2026/09/23/3835064d-facb-469c-ba84-5ceb4cc1c19f/original.jpg?w=1200&h=630",
+  "published": "2026-09-29T11:00+09:00",
+  "collected": "2026-09-29T11:32+09:00"
+ },
+ {
   "id": "07baacdde2da",
   "url": "https://robotstart.info/article/2026/09/29/382454.html",
   "title": "ugo、西武鉄道の変電所にAIロボット「ugo mini」を導入 常駐運用で遠隔点検を実証",
@@ -63,7 +102,7 @@
   "thumbnail": null,
   "published": "2026-09-29T10:10+09:00",
   "collected": "2026-09-29T10:14+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "318074fc18e7",
@@ -560,7 +599,7 @@
   "thumbnail": null,
   "published": "2026-09-27T07:00+09:00",
   "collected": "2026-09-29T11:16+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c58a35eddd2e",

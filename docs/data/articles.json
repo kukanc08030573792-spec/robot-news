@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-29T11:16+09:00",
+  "last_updated": "2026-09-29T11:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -31,6 +31,45 @@
   ]
  },
  "items": [
+  {
+   "id": "f9f06f6c2a69",
+   "url": "https://robotstart.info/article/2026/09/29/382455.html",
+   "title": "ソフトバンクが5G SA接続時に専用ネットワークロゴを表示開始 国内初",
+   "summary": "ソフトバンク株式会社は、5G SAへの接続状況を端末上で確認できる専用のネットワークロゴの表示を、2026年9月29日から順次開始することを公表した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107252.jpg",
+   "published": "2026-09-29T11:30+09:00",
+   "collected": "2026-09-29T11:32+09:00"
+  },
+  {
+   "id": "d06095432ec9",
+   "url": "https://finance.biggo.jp/news/3ab01157-5b08-4c42-a26b-08c6971799e1",
+   "title": "T-Robotics、45億ウォン（約5.2億円）の韓国政府系事業でディスプレイライン投入型ヒューマノイドを開発",
+   "summary": "T-Roboticsが韓国ディスプレイ大手およびKAISTと共同で、AIベースのモバイルヒューマノイドの製造現場への適用技術を開発する。韓国産業技術企画評価院の国策課…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/7CoWgRFMS1t5te9iVszyVL5lYhco8_yBYnIxUSJroic/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzNhYjAxMTU3LTViMDgtNGM0Mi1hMjZiLTA4YzY5NzE3OTllMV8xNzkwNjQ5MDc0X2RlZmF1bHQuanBn.jpg",
+   "published": "2026-09-29T11:26+09:00",
+   "collected": "2026-09-29T11:32+09:00"
+  },
+  {
+   "id": "fa168d5b1986",
+   "url": "https://www.gizmodo.jp/article/2609-roomba-plus-675-combo-review/",
+   "title": "なぜルンバはここまで強いのか。新型「Roomba Plus 675 Combo」、キレイさの理由を解剖するッ！",
+   "summary": "新型ルンバ「Roomba Plus 675 Combo」の強さの理由を解剖。圧倒的な吸引力や水拭き性能、自動化が進んだステーションの魅力を解説します。",
+   "source": "ギズモード",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.loom-app.com/loom/2026/09/23/3835064d-facb-469c-ba84-5ceb4cc1c19f/original.jpg?w=1200&h=630",
+   "published": "2026-09-29T11:00+09:00",
+   "collected": "2026-09-29T11:32+09:00"
+  },
   {
    "id": "07baacdde2da",
    "url": "https://robotstart.info/article/2026/09/29/382454.html",
@@ -95,7 +134,7 @@
    "thumbnail": null,
    "published": "2026-09-29T10:10+09:00",
    "collected": "2026-09-29T10:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "318074fc18e7",
@@ -592,7 +631,7 @@
    "thumbnail": null,
    "published": "2026-09-27T07:00+09:00",
    "collected": "2026-09-29T11:16+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "c58a35eddd2e",
@@ -6749,49 +6788,6 @@
    "collected": "2026-09-02T08:14+09:00",
    "title_orig": "HowToRobot and Robotics Australia Group partner on platform to encourage robot adoption",
    "summary_orig": "The initiative is intended to help businesses in Australia identify automation opportunities, test them, and connect wit"
-  },
-  {
-   "id": "861f4502cba3",
-   "url": "https://www.therobotreport.com/from-spreadsheets-ai-john-deeres-new-jd-operations-center-features/",
-   "title": "スプレッドシートからAIへ： Deereはオペレーションセンター、JDで農家に新しい機能を提供します",
-   "summary": "John Deereは、過去の農場データを実用的な洞察に変換して収益性を高めるAIツールJDを発表しました。",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/john-deere-8R-Hero.jpg",
-   "published": "2026-09-01T20:00+09:00",
-   "collected": "2026-09-02T08:14+09:00",
-   "title_orig": "From spreadsheets to AI: Deere gives farmers new features in Operations Center, JD",
-   "summary_orig": "John Deere has launched JD, an AI tool that turns historical farm data into actionable insights to boost profitability."
-  },
-  {
-   "id": "f909e0c3b787",
-   "url": "https://news.yahoo.co.jp/articles/7d37dcdc8b090419218671b171a5a154b3d4759a",
-   "title": "転んでも壊れても挑戦 中国のロボット運動会に飛び込んだ日本人エンジニア 「競技で得たノウハウを社会実装に」",
-   "summary": "人型ロボットが、人間の世界記録を上回るスピードでトラックを駆け抜ける。垂直跳びでは、3メートル近く跳び上がる。\n\n8月22日から26日まで中国・北京で開かれた「世界人型ロボット運動会」には、世界16",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260901-01205501-fnn-000-2-view.jpg?exp=10800",
-   "published": "2026-09-01T19:49+09:00",
-   "collected": "2026-09-02T08:32+09:00"
-  },
-  {
-   "id": "2a58708f4d2a",
-   "url": "https://www.youtube.com/watch?v=J4HHBd4Yz9I",
-   "title": "PUDU GT 5のご紹介：商用ロボット芝刈り機💥",
-   "summary": "芝が大きくなると、生産性が重要になります。PUDU GT 5をご紹介します。大規模な商用芝生のために🌱作られたPUDU GT 5はdesig",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/J4HHBd4Yz9I/hqdefault.jpg",
-   "published": "2026-09-01T19:15+09:00",
-   "collected": "2026-09-02T08:14+09:00",
-   "title_orig": "Introducing PUDU GT5: Commercial Robotic Mower💥",
-   "summary_orig": "When the turf gets bigger, productivity matters. Meet PUDU GT5. 🌱 Built for large commercial turf, the PUDU GT5 is desig"
   }
  ]
 }
