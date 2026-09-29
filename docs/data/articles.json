@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-09-29T10:14+09:00",
+  "last_updated": "2026-09-29T11:16+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-09",
@@ -32,6 +32,58 @@
  },
  "items": [
   {
+   "id": "07baacdde2da",
+   "url": "https://robotstart.info/article/2026/09/29/382454.html",
+   "title": "ugo、西武鉄道の変電所にAIロボット「ugo mini」を導入 常駐運用で遠隔点検を実証",
+   "summary": "フィジカルAIの社会実装を推進するugo株式会社は、西武鉄道の変電所において点検AIロボット「ugo mini」を用いた実証実験を2026年10月1日から開始する。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107254.jpg",
+   "published": "2026-09-29T10:50+09:00",
+   "collected": "2026-09-29T11:16+09:00"
+  },
+  {
+   "id": "b691c6743d99",
+   "url": "https://biz.chosun.com/jp/jp-it/2026/09/29/SAWPEKAZVNGZBNMBUOGF2JLSUA/",
+   "title": "ロボロックが2Q世界首位シェア23.7％ - CHOSUNBIZ",
+   "summary": "ロボロックが2Q世界首位シェア23.7％ - CHOSUNBIZ",
+   "source": "Chosunbiz",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://biz.chosun.com/resizer/v2/MNMYNVHZRBEYNIYRVPCVRU6EWA.jpg?auth=ec78c0e2b51f6cb7c21461775cb4ca8d73f80e17dbc9e92d91cc634d275a22d6&width=1200&height=630&smart=true",
+   "published": "2026-09-29T10:47+09:00",
+   "collected": "2026-09-29T11:16+09:00"
+  },
+  {
+   "id": "5377e0891d40",
+   "url": "https://prtimes.jp/main/html/rd/p/000000005.000117724.html",
+   "title": "Nossa、ヒューマノイドロボット「Unitree R1」と「Nossa360」を組み合わせた建設現場での実証を実施",
+   "summary": "Nossa、ヒューマノイドロボット「Unitree R1」と「Nossa360」を組み合わせた建設現場での実証を実施",
+   "source": "prtimes.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/117724/5/117724-5-a09500d23ad907af994afa41d9bfcbd1-1200x675.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-09-29T10:25+09:00",
+   "collected": "2026-09-29T11:16+09:00"
+  },
+  {
+   "id": "72b96a980a5e",
+   "url": "https://www.mk.co.kr/jp/stock/12163443",
+   "title": "T-ロボティクスが国内ディスプレイ大手企業、韓国科学技術院(KAIST)と手を握り、人工知能(AI)基盤モバイルヒューマノイドロボットの実際の製造工程投入を推進する。ティロボティクスは29日、産業通商..",
+   "summary": "T-ロボティクスが国内ディスプレイ大手企業、韓国科学技術院(KAIST)と手を握り、人工知能(AI)基盤モバイルヒューマノイドロボットの実際の製造工程投入を推進する。",
+   "source": "매일경제",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.720a394e47d94131b76e53deb62661b4_R.jpg",
+   "published": "2026-09-29T10:21+09:00",
+   "collected": "2026-09-29T11:16+09:00"
+  },
+  {
    "id": "176ff7620b5d",
    "url": "https://www.nikkan.co.jp/releases/view/225526",
    "title": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
@@ -43,7 +95,7 @@
    "thumbnail": null,
    "published": "2026-09-29T10:10+09:00",
    "collected": "2026-09-29T10:14+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "318074fc18e7",
@@ -232,7 +284,7 @@
    "thumbnail": null,
    "published": "2026-09-28T20:04+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1604db74904d",
@@ -246,7 +298,7 @@
    "thumbnail": null,
    "published": "2026-09-28T19:04+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "507a8e762249",
@@ -275,7 +327,7 @@
    "thumbnail": null,
    "published": "2026-09-28T17:15+09:00",
    "collected": "2026-09-29T09:56+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4b936b63d3b3",
@@ -380,6 +432,19 @@
    "thumbnail": "https://www.atpress.ne.jp/attachments/jkgXBDO3EBHNyJl33J5I.png",
    "published": "2026-09-28T13:30+09:00",
    "collected": "2026-09-29T09:56+09:00"
+  },
+  {
+   "id": "2f6ba993822f",
+   "url": "https://news.yahoo.co.jp/articles/12a088a4b8a0b320cd28b50e255e82607fc07e5f",
+   "title": "ヒト型ロボット量産化に挑む…米中対抗、日本勢の現況は？（ニュースイッチ）",
+   "summary": "ロボット関連のスタートアップが国産ヒューマノイド（ヒト型）ロボットの開発を加速している。ドーナッツロボティクス（東京都港区）は2足歩行ヒューマノイドで現場導入の安全性を追求。",
+   "source": "news.yahoo.co.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00010003-newswitch-000-1-view.jpg?exp=10800",
+   "published": "2026-09-28T11:20+09:00",
+   "collected": "2026-09-29T11:16+09:00"
   },
   {
    "id": "42dfe2892f5a",
@@ -514,6 +579,20 @@
    "thumbnail": "https://realsound.jp/wp-content/uploads/2026/09/20260927-roborock-99.jpg",
    "published": "2026-09-27T07:09+09:00",
    "collected": "2026-09-27T08:30+09:00"
+  },
+  {
+   "id": "9fa307bb4b60",
+   "url": "https://shikiho.toyokeizai.net/news/0/959029",
+   "title": "フィジカルAI時代の申し子､｢ヒト型ロボット｣関連16銘柄",
+   "summary": "フィジカルAI時代の申し子､｢ヒト型ロボット｣関連16銘柄",
+   "source": "四季報オンライン",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-09-27T07:00+09:00",
+   "collected": "2026-09-29T11:16+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "c58a35eddd2e",
@@ -6713,90 +6792,6 @@
    "collected": "2026-09-02T08:14+09:00",
    "title_orig": "Introducing PUDU GT5: Commercial Robotic Mower💥",
    "summary_orig": "When the turf gets bigger, productivity matters. Meet PUDU GT5. 🌱 Built for large commercial turf, the PUDU GT5 is desig"
-  },
-  {
-   "id": "cf4b84d8dd95",
-   "url": "https://www.youtube.com/watch?v=05P3N0ugBb8",
-   "title": "PUDU GT 7のご紹介：精密カットロボティックリール芝刈り機💥",
-   "summary": "プロフェッショナルな芝生では、すべてのカットが重要です。PUDU GT 7をご紹介します。⛳🤖ゴルフコースとプロスポーツフィールドは、",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/05P3N0ugBb8/hqdefault.jpg",
-   "published": "2026-09-01T19:00+09:00",
-   "collected": "2026-09-02T08:14+09:00",
-   "title_orig": "Introducing PUDU GT7: Precision-Cut Robotic Reel Mower💥",
-   "summary_orig": "For professional turf, every cut counts. Meet PUDU GT7. ⛳🤖 Golf courses and professional sports fields demand more than"
-  },
-  {
-   "id": "8bd169d2c9e1",
-   "url": "https://www.youtube.com/watch?v=qom-3RPdrEE",
-   "title": "ファーストルック：コンパクトな商用ロボット芝刈り機PUDU GT 3💥",
-   "summary": "芝刈りだけではありません。PUDU GT 3をご紹介します。プロフェッショナルなグラウンドケアの日常の現実のために🌱🤖構築されたPUDU GT 3は、36 -",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/qom-3RPdrEE/hqdefault.jpg",
-   "published": "2026-09-01T18:49+09:00",
-   "collected": "2026-09-02T08:14+09:00",
-   "title_orig": "First Look: PUDU GT3, the Compact Commercial Robotic Mower💥",
-   "summary_orig": "More than mowing. Meet PUDU GT3. 🌱🤖 Built for the everyday realities of professional grounds care, the PUDU GT3 is a 36-"
-  },
-  {
-   "id": "465b4080d7cf",
-   "url": "https://s.response.jp/article/2026/09/01/415987.html",
-   "title": "［動画］ヒューマノイド3台が息を合わせてダンス！…Toborlife AIを活用したUnitree G1",
-   "summary": "2026年8月28日、Toborlife AIを搭載したUnitree G13台が息の合ったダンスを披露している映像がYouTubeで公開された。",
-   "source": "s.response.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2239135.jpg",
-   "published": "2026-09-01T17:00+09:00",
-   "collected": "2026-09-02T08:14+09:00"
-  },
-  {
-   "id": "2c690d5c59c0",
-   "url": "https://www.smartwatchlife.jp/79381/",
-   "title": "SwitchBot「ロボット掃除機K11+ Pro」に新色ブラックが登場｜9月1日販売開始、59,800円で仕様は据え置き。直径24.8cmで最大12,000Pa",
-   "summary": "SwitchBotが小型ロボット掃除機「K11+ Pro」の新色ブラックを2026年9月1日に発売しました。直径24.8cm・高さ9.2cmの世界最小級ボディに最大12,000Paの吸引力、ゴミ捨ては最長約90日に1回。",
-   "source": "Smart Watch Life",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-01T16:02+09:00",
-   "collected": "2026-09-02T08:14+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "d1b922a950c9",
-   "url": "https://www.nikkan.co.jp/releases/view/223692",
-   "title": "自律移動型警備ロボット「SQ-2」に「変化検知機能」を追加 企業リリース",
-   "summary": "自律移動型警備ロボット「SQ-2」に「変化検知機能」を追加 企業リリース",
-   "source": "日刊工業新聞",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-01T15:13+09:00",
-   "collected": "2026-09-03T08:15+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "efa213bb8853",
-   "url": "https://robotstart.info/article/2026/09/01/382352.html",
-   "title": "GMO AIRがUnitreeの新型ヒューマノイド「H2 Plus」など3機種の取り扱いを開始",
-   "summary": "GMO AI＆ロボティクス商事は、国内正規代理店契約を結ぶUnitree Roboticsの最新モデル「H2 Plus」「H2-D」「As2-W」の3機種について、2026年8月31日より国内での取り扱いと販売受付を開始した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106120.jpg",
-   "published": "2026-09-01T14:15+09:00",
-   "collected": "2026-09-02T08:14+09:00"
   }
  ]
 }
