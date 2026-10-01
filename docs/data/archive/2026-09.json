@@ -69,7 +69,7 @@
   "thumbnail": null,
   "published": "2026-09-30T18:53+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2f199a03af92",
@@ -109,7 +109,7 @@
   "thumbnail": null,
   "published": "2026-09-30T18:03+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "070c3afdf8ec",
@@ -282,6 +282,19 @@
   "published": "2026-09-30T10:00+09:00",
   "collected": "2026-09-30T10:31+09:00",
   "summary_orig": "îèÆÆCuebusARPÍAjA[^[®§Ì{bgqÉðpµ½ÀØÀ±ðJn·éB{bgqÉÌ§xÛÇâ¬ÀÌ«\\A©¥^q[}mCh{bgÆ"
+ },
+ {
+  "id": "c397cf10d840",
+  "url": "https://www.agara.co.jp/article/692270",
+  "title": "【カスハラ防止法、10月1日施行】 ロボット活用で対応を検討する飲食店も 生活者の66%が「店員の負担軽減」に好意的",
+  "summary": "【カスハラ防止法、10月1日施行】 ロボット活用で対応を検討する飲食店も 生活者の66%が「店員の負担軽減」に好意的    AGARA 紀伊民報",
+  "source": "AGARA 紀伊民報",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://digitalpr.jp/release/media/3097/144619/202609291503376abb54b913d4c.png",
+  "published": "2026-09-30T10:00+09:00",
+  "collected": "2026-10-01T10:32+09:00"
  },
  {
   "id": "1be9fe088129",
@@ -540,7 +553,7 @@
   "thumbnail": null,
   "published": "2026-09-29T14:45+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "e1f06386a9c4",

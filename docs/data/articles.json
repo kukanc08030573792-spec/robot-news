@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-01T09:48+09:00",
+  "last_updated": "2026-10-01T10:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "54334f66048f",
+   "url": "https://robotstart.info/article/2026/10/01/382467.html",
+   "title": "フィジカルAIの社会実装プラットフォーム「PHYSICAL AI LAB」をK&coが始動、Podcast番組で最新動向を発信",
+   "summary": "K&co株式会社は2026年9月30日、フィジカルAIの社会実装プラットフォーム「PHYSICAL AI LAB」を始動した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107337.jpg",
+   "published": "2026-10-01T10:25+09:00",
+   "collected": "2026-10-01T10:32+09:00"
+  },
+  {
    "id": "3427a4c11819",
    "url": "https://www.atpress.ne.jp/news/2649165",
    "title": "ロボットハンドが蘇州刺繍を実演 AGILINK「OmniHand 3 Ultra」、出荷1万5000台突破",
@@ -57,7 +70,7 @@
    "thumbnail": null,
    "published": "2026-10-01T00:00+09:00",
    "collected": "2026-10-01T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5291ae1df56c",
@@ -129,7 +142,7 @@
    "thumbnail": null,
    "published": "2026-09-30T18:53+09:00",
    "collected": "2026-10-01T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "2f199a03af92",
@@ -169,7 +182,7 @@
    "thumbnail": null,
    "published": "2026-09-30T18:03+09:00",
    "collected": "2026-10-01T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "070c3afdf8ec",
@@ -328,6 +341,19 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00057279-hankyoreh-000-1-view.jpg?exp=10800",
    "published": "2026-09-30T10:39+09:00",
    "collected": "2026-10-01T09:29+09:00"
+  },
+  {
+   "id": "c397cf10d840",
+   "url": "https://www.agara.co.jp/article/692270",
+   "title": "【カスハラ防止法、10月1日施行】 ロボット活用で対応を検討する飲食店も 生活者の66%が「店員の負担軽減」に好意的",
+   "summary": "【カスハラ防止法、10月1日施行】 ロボット活用で対応を検討する飲食店も 生活者の66%が「店員の負担軽減」に好意的    AGARA 紀伊民報",
+   "source": "AGARA 紀伊民報",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://digitalpr.jp/release/media/3097/144619/202609291503376abb54b913d4c.png",
+   "published": "2026-09-30T10:00+09:00",
+   "collected": "2026-10-01T10:32+09:00"
   },
   {
    "id": "dcbba9e93947",
@@ -600,7 +626,7 @@
    "thumbnail": null,
    "published": "2026-09-29T14:45+09:00",
    "collected": "2026-10-01T09:29+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "e1f06386a9c4",
@@ -6756,32 +6782,6 @@
    "published": "2026-09-04T09:03+09:00",
    "collected": "2026-09-04T09:21+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "1d8adda4ff70",
-   "url": "https://news.yahoo.co.jp/articles/a982551afc01520afd5006c678ad6e7e12c52572",
-   "title": "「8時間動く」と「8時間役に立つ」は違う 中国ヒューマノイド、商用化の試験が始まった",
-   "summary": "2026年夏、中国のロボット業界は大きなイベントが相次いだ。7月に上海で開催された「世界人工知能大会（WAIC 2026）」、そして8月の北京での「世界ロボット大会（WRC）」である。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260904-00010001-krjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-09-04T08:38+09:00",
-   "collected": "2026-09-04T09:21+09:00"
-  },
-  {
-   "id": "ed15bf37ce9e",
-   "url": "https://prtimes.jp/main/html/rd/p/000001792.000080053.html",
-   "title": "9月24日（木）AndTech WEBオンライン「ヒューマノイド・ロボットの入門講座 ～基礎と機構、柔軟性、運動制御技術、ロボティクス応用、課題、フィジカルAI ～ 」Zoomセミナー講座を開講予定",
-   "summary": "9月24日（木）AndTech　WEBオンライン「ヒューマノイド・ロボットの入門講座　～基礎と機構、柔軟性、運動制御技術、ロボティクス応用、課題、フィジカルAI ～",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/80053/1792/80053-1792-d74aeef10d550b854b86c462e655bfe1-740x481.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-04T08:00+09:00",
-   "collected": "2026-09-04T08:13+09:00"
   }
  ]
 }
