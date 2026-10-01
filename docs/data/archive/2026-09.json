@@ -69,7 +69,7 @@
   "thumbnail": null,
   "published": "2026-09-30T18:53+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2f199a03af92",
@@ -109,7 +109,7 @@
   "thumbnail": null,
   "published": "2026-09-30T18:03+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "070c3afdf8ec",
@@ -540,7 +540,7 @@
   "thumbnail": null,
   "published": "2026-09-29T14:45+09:00",
   "collected": "2026-10-01T09:29+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "e1f06386a9c4",
