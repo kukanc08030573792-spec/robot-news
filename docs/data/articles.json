@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-02T09:40+09:00",
+  "last_updated": "2026-10-02T10:03+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "e6691094b709",
+   "url": "https://www.dreamnews.jp/press/0000364047",
+   "title": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR 1.71％、製造自動化・サービスロボット需要の進展が市場成長を支える",
+   "summary": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR 1.71％、製造自動化・サービスロボット需要の進展が市場成長を支える",
+   "source": "ドリームニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.dreamnews.jp/press/0000364047/images/bodyimage1",
+   "published": "2026-10-02T10:00+09:00",
+   "collected": "2026-10-02T10:03+09:00"
+  },
   {
    "id": "26057e952120",
    "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2142370.html",
@@ -197,7 +210,7 @@
    "thumbnail": null,
    "published": "2026-10-01T21:28+09:00",
    "collected": "2026-10-02T09:40+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "c7d560be8719",
@@ -6767,19 +6780,6 @@
    "expert": false,
    "thumbnail": "https://media.loom-app.com/loom/2026/09/03/8761f23a-0779-4832-8261-1d8faf7edc7a/original.jpg?w=1200&h=630",
    "published": "2026-09-05T17:30+09:00",
-   "collected": "2026-09-06T07:48+09:00"
-  },
-  {
-   "id": "09cc7c0fbbcf",
-   "url": "https://wired.jp/article/i-could-watch-the-robot-games-forever-ai-lab/",
-   "title": "中国のロボット競技大会、驚異の速さより「ピンセットを操る器用さ」に驚いた",
-   "summary": "北京で開催された「世界ヒューマノイドロボット競技大会」では、人型ロボットたちがさまざまな驚異的な技を披露した。最も印象的だったのは、身体能力を競う派手な技よりも、地味な作業のほうだ。",
-   "source": "WIRED.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.wired.jp/photos/6a9923063e58d09e8747fee4/16:9/w_1280,c_limit/AI-Lab-Robot-Games-Business.jpg",
-   "published": "2026-09-05T11:00+09:00",
    "collected": "2026-09-06T07:48+09:00"
   }
  ]
