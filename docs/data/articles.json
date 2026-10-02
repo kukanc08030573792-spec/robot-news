@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-02T10:03+09:00",
+  "last_updated": "2026-10-02T10:48+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,47 @@
   ]
  },
  "items": [
+  {
+   "id": "f0ef0a32e5e7",
+   "url": "https://news.nicovideo.jp/watch/nw19833978?news_ref=top_newComments",
+   "title": "人型ロボット手業界動向：2026年の市場規模は524百万米ドル見込み",
+   "summary": "人型ロボット手業界動向：2026年の市場規模は524百万米ドル見込み",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-02T10:03+09:00",
+   "collected": "2026-10-02T10:48+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "9fd1abe9ed94",
+   "url": "https://news.nicovideo.jp/watch/nw19833970?news_ref=top_newComments",
+   "title": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR",
+   "summary": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-02T10:03+09:00",
+   "collected": "2026-10-02T10:48+09:00",
+   "_thumb_tries": 1
+  },
+  {
+   "id": "fad22bb7f969",
+   "url": "https://prtimes.jp/main/html/rd/p/000000017.000153999.html",
+   "title": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+   "summary": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/153999/17/153999-17-e347e091007a4f3cee0c6196a18383a2-2000x1854.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-02T10:00+09:00",
+   "collected": "2026-10-02T10:48+09:00"
+  },
   {
    "id": "e6691094b709",
    "url": "https://www.dreamnews.jp/press/0000364047",
@@ -210,7 +251,7 @@
    "thumbnail": null,
    "published": "2026-10-01T21:28+09:00",
    "collected": "2026-10-02T09:40+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "c7d560be8719",
@@ -666,6 +707,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107306.jpg",
    "published": "2026-09-30T14:00+09:00",
    "collected": "2026-10-01T09:29+09:00"
+  },
+  {
+   "id": "b76829ad503c",
+   "url": "https://www.vietnam.vn/ja/phuong-dau-tien-o-hue-dua-robot-kiosk-toan-trinh-vao-phuc-vu-dich-vu-cong",
+   "title": "フエで初めて、公共サービス向けのフルサービス型ロボットキオスクを導入した区。",
+   "summary": "アンクー区人民委員会は、独自の調査研究を通じて、フエ市で初めて公共サービスを提供するフルサービスのロボットキオスクを導入した区でもある。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/30/1790740391644_robot3-17907342061471996111517-145-0-1045-1440-crop-17907342131301630314349.jpeg",
+   "published": "2026-09-30T13:52+09:00",
+   "collected": "2026-10-02T10:48+09:00"
   },
   {
    "id": "2d3fa21b9cb2",
@@ -6729,58 +6783,6 @@
    "collected": "2026-09-06T07:48+09:00",
    "title_orig": "Enovis to acquire surgical tech provider eCential Robotics for $180M",
    "summary_orig": "Enovis said it plans to bring a robotic system targeting the knee within the next two years, followed by a system focusi"
-  },
-  {
-   "id": "f90ddce293e9",
-   "url": "https://gigazine.net/news/20260905-robot-olympics/",
-   "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-   "summary": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界",
-   "source": "GIGAZINE",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.gzn.jp/img/2026/09/05/robot-olympics/00.jpg",
-   "published": "2026-09-05T21:00+09:00",
-   "collected": "2026-09-06T07:48+09:00"
-  },
-  {
-   "id": "c499364dfc4b",
-   "url": "https://kachimai.jp/article/index.php?no=2026090500442",
-   "title": "人型ロボに来場者興奮 帯広コア専門学校の学祭にぎわう",
-   "summary": "帯広コア専門学校（千葉直樹校長）の学校祭「第２９回帯コア祭～４つの色が交わる場所」が５日午前１０時から、同校で開かれた。中国の小型ヒューマノイドロボット（人型ロボット）が登場するなど、約１６０人...",
-   "source": "十勝毎日新聞",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.kachimai.jp/image/20260905/2026090500442.jpg",
-   "published": "2026-09-05T18:27+09:00",
-   "collected": "2026-09-06T07:48+09:00"
-  },
-  {
-   "id": "fc28b5a049ec",
-   "url": "https://news.livedoor.com/article/detail/32250283/",
-   "title": "ダイソー「500円ロボット掃除機」は本当に使える？驚きの検証結果と意外な活用法",
-   "summary": "YouTubeの「WASABI CHANNEL」がダイソー550円ロボット掃除機を検証した。吸引式ではなくシートで拭き掃除する仕様で、ゴミが多いと車輪が滑り立ち往生するという。",
-   "source": "ライブドアニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://image.news.livedoor.com/newsimage/stf/0/0/008a7_1845_384b6051_b5a8e1c4.jpg",
-   "published": "2026-09-05T18:00+09:00",
-   "collected": "2026-09-06T07:48+09:00"
-  },
-  {
-   "id": "42c7e52c9e97",
-   "url": "https://www.businessinsider.jp/article/2609-ai-robotics-stocks-where-to-invest-humanoid-robots-actuators-sensors/",
-   "title": "フィジカルAI到来。UBSが語る3つの「ツルハシとシャベル」セクター",
-   "summary": "UBSは、AIが物理的自律を獲得する「まさに瀬戸際にあり」、投資家はロボットのヒューマノイド機能に必要な企業に注目せよと語っています。",
-   "source": "Business Insider Japan",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://media.loom-app.com/loom/2026/09/03/8761f23a-0779-4832-8261-1d8faf7edc7a/original.jpg?w=1200&h=630",
-   "published": "2026-09-05T17:30+09:00",
-   "collected": "2026-09-06T07:48+09:00"
   }
  ]
 }

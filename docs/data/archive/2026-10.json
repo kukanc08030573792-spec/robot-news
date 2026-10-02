@@ -1,5 +1,33 @@
 [
  {
+  "id": "f0ef0a32e5e7",
+  "url": "https://news.nicovideo.jp/watch/nw19833978?news_ref=top_newComments",
+  "title": "人型ロボット手業界動向：2026年の市場規模は524百万米ドル見込み",
+  "summary": "人型ロボット手業界動向：2026年の市場規模は524百万米ドル見込み",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-02T10:03+09:00",
+  "collected": "2026-10-02T10:48+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "9fd1abe9ed94",
+  "url": "https://news.nicovideo.jp/watch/nw19833970?news_ref=top_newComments",
+  "title": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR",
+  "summary": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-02T10:03+09:00",
+  "collected": "2026-10-02T10:48+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "e6691094b709",
   "url": "https://www.dreamnews.jp/press/0000364047",
   "title": "レポートオーシャン株式会社プレスリリース : 日本ロボット市場、2035年に33億米ドルへ拡大｜CAGR 1.71％、製造自動化・サービスロボット需要の進展が市場成長を支える",
@@ -11,6 +39,19 @@
   "thumbnail": "https://www.dreamnews.jp/press/0000364047/images/bodyimage1",
   "published": "2026-10-02T10:00+09:00",
   "collected": "2026-10-02T10:03+09:00"
+ },
+ {
+  "id": "fad22bb7f969",
+  "url": "https://prtimes.jp/main/html/rd/p/000000017.000153999.html",
+  "title": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+  "summary": "アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/153999/17/153999-17-e347e091007a4f3cee0c6196a18383a2-2000x1854.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-02T10:00+09:00",
+  "collected": "2026-10-02T10:48+09:00"
  },
  {
   "id": "26057e952120",
@@ -177,7 +218,7 @@
   "thumbnail": null,
   "published": "2026-10-01T21:28+09:00",
   "collected": "2026-10-02T09:40+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c7d560be8719",
