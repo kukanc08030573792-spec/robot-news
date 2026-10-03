@@ -257,6 +257,19 @@
   "collected": "2026-10-01T09:29+09:00"
  },
  {
+  "id": "52281082b75a",
+  "url": "https://news.yahoo.co.jp/articles/c5c49224230e82aaaafd50791760de146524d0d8",
+  "title": "米国で人型ロボットが清掃サービスの人手不足を補完 「細かい作業には人間が必要」との見方（ロイター）",
+  "summary": "米国でヒューマノイド（人型）ロボットが清掃サービスに導入されつつある。サンフランシスコに拠点を置くTAUロボティクス社は、これまで自動化技術が苦戦してきた領域、すなわち清掃サービスにおいてロボットな",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00010004-reutv-000-1-thumb.jpg?exp=10800",
+  "published": "2026-09-30T12:44+09:00",
+  "collected": "2026-10-04T08:44+09:00"
+ },
+ {
   "id": "dab64038009b",
   "url": "https://robotstart.info/article/2026/09/30/382460.html",
   "title": "ヒューマノイドUnitree R1に360度カメラを持たせ建設現場で実証 Nossa・守屋建設・yasstyle",

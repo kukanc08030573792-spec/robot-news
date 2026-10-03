@@ -1,5 +1,33 @@
 [
  {
+  "id": "8d58d390d39a",
+  "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+  "title": "物理的なAIレースは特許事務所で勝ちます",
+  "summary": "特許保護はロボット工学のスタートアップにとって重要ですが、重要なIPを決定する上で戦略的でなければなりません、とLightbringer氏は言います。THE POST THE PHYSICAL",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/KAIKAKU-Food-assembly-robot.png",
+  "published": "2026-10-03T23:30+09:00",
+  "collected": "2026-10-04T08:44+09:00",
+  "title_orig": "The physical AI race will be won in the patent office",
+  "summary_orig": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical"
+ },
+ {
+  "id": "f65bec1f92d4",
+  "url": "https://news.yahoo.co.jp/expert/articles/d5cceca725307c139f5c23420d412497bccb281c",
+  "title": "『しゃぶ葉』の配膳ロボット「肉の横取り」問題 すかいらーくの出した「解決策」とは #エキスパートトピ（山路力也） - エキスパート",
+  "summary": "しゃぶしゃぶ食べ放題チェーンの『しゃぶ葉』で、配膳ロボットが運んでいる国産牛や牛タンを別の客に取られてしまった、という投稿がSNSに上がり、メディアも報じる事態になっています。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02734490/title-1791000112867.jpeg?exp=10800",
+  "published": "2026-10-03T15:01+09:00",
+  "collected": "2026-10-04T08:44+09:00"
+ },
+ {
   "id": "94473ac6851d",
   "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
   "title": "オムロンの次世代LDモバイルロボットの内部",
@@ -147,6 +175,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/107422.jpg",
   "published": "2026-10-02T15:00+09:00",
   "collected": "2026-10-03T09:23+09:00"
+ },
+ {
+  "id": "c5fb55bc1049",
+  "url": "https://www.ibm.com/jp-ja/think/podcasts/mixture-of-experts/1x-neo-humanoid-robot-enters-home",
+  "title": "Mixture of Expertsのエピソード80を聞く",
+  "summary": "Mixture of Expertsのエピソード80を聞く：1X NEOのヒューマノイド・ロボットが家にやって来るMixture of Experts – IBM Thinkのポッドキャスト。",
+  "source": "ibm.com",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/iwci/ul/g/1b/95/mixture_of_experts_podcast_thumbnail_art_20250507.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+  "published": "2026-10-02T14:30+09:00",
+  "collected": "2026-10-04T08:44+09:00"
  },
  {
   "id": "45ad387d33db",
@@ -486,6 +527,20 @@
   "published": "2026-10-01T21:28+09:00",
   "collected": "2026-10-02T09:40+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "e4a2ebec755a",
+  "url": "https://jp.investing.com/news/company-news/article-93CH-1698607",
+  "title": "YYForceがマレーシアのマリオットホテルにサービスロボットを導入 執筆",
+  "summary": "YYForceがマレーシアのマリオットホテルにサービスロボットを導入 執筆    Investing.com 日本",
+  "source": "Investing.com 日本",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-01T21:20+09:00",
+  "collected": "2026-10-04T08:44+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "c7d560be8719",

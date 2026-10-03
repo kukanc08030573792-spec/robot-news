@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-03T10:51+09:00",
+  "last_updated": "2026-10-04T08:44+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,34 @@
   ]
  },
  "items": [
+  {
+   "id": "8d58d390d39a",
+   "url": "https://www.therobotreport.com/physical-ai-race-will-be-won-in-patent-office/",
+   "title": "物理的なAIレースは特許事務所で勝ちます",
+   "summary": "特許保護はロボット工学のスタートアップにとって重要ですが、重要なIPを決定する上で戦略的でなければなりません、とLightbringer氏は言います。THE POST THE PHYSICAL",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/KAIKAKU-Food-assembly-robot.png",
+   "published": "2026-10-03T23:30+09:00",
+   "collected": "2026-10-04T08:44+09:00",
+   "title_orig": "The physical AI race will be won in the patent office",
+   "summary_orig": "Patent protection is important for robotics startups, but they should be strategic in determining what IP is important, says Lightbringer. The post The physical"
+  },
+  {
+   "id": "f65bec1f92d4",
+   "url": "https://news.yahoo.co.jp/expert/articles/d5cceca725307c139f5c23420d412497bccb281c",
+   "title": "『しゃぶ葉』の配膳ロボット「肉の横取り」問題 すかいらーくの出した「解決策」とは #エキスパートトピ（山路力也） - エキスパート",
+   "summary": "しゃぶしゃぶ食べ放題チェーンの『しゃぶ葉』で、配膳ロボットが運んでいる国産牛や牛タンを別の客に取られてしまった、という投稿がSNSに上がり、メディアも報じる事態になっています。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02734490/title-1791000112867.jpeg?exp=10800",
+   "published": "2026-10-03T15:01+09:00",
+   "collected": "2026-10-04T08:44+09:00"
+  },
   {
    "id": "94473ac6851d",
    "url": "https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/",
@@ -180,6 +208,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107422.jpg",
    "published": "2026-10-02T15:00+09:00",
    "collected": "2026-10-03T09:23+09:00"
+  },
+  {
+   "id": "c5fb55bc1049",
+   "url": "https://www.ibm.com/jp-ja/think/podcasts/mixture-of-experts/1x-neo-humanoid-robot-enters-home",
+   "title": "Mixture of Expertsのエピソード80を聞く",
+   "summary": "Mixture of Expertsのエピソード80を聞く：1X NEOのヒューマノイド・ロボットが家にやって来るMixture of Experts – IBM Thinkのポッドキャスト。",
+   "source": "ibm.com",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.ibm.com/content/dam/worldwide-content/creative-assets/iwci/ul/g/1b/95/mixture_of_experts_podcast_thumbnail_art_20250507.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+   "published": "2026-10-02T14:30+09:00",
+   "collected": "2026-10-04T08:44+09:00"
   },
   {
    "id": "45ad387d33db",
@@ -519,6 +560,20 @@
    "published": "2026-10-01T21:28+09:00",
    "collected": "2026-10-02T09:40+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "e4a2ebec755a",
+   "url": "https://jp.investing.com/news/company-news/article-93CH-1698607",
+   "title": "YYForceがマレーシアのマリオットホテルにサービスロボットを導入 執筆",
+   "summary": "YYForceがマレーシアのマリオットホテルにサービスロボットを導入 執筆    Investing.com 日本",
+   "source": "Investing.com 日本",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-01T21:20+09:00",
+   "collected": "2026-10-04T08:44+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "c7d560be8719",
@@ -1000,6 +1055,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107342.jpg",
    "published": "2026-09-30T13:10+09:00",
    "collected": "2026-10-01T09:29+09:00"
+  },
+  {
+   "id": "52281082b75a",
+   "url": "https://news.yahoo.co.jp/articles/c5c49224230e82aaaafd50791760de146524d0d8",
+   "title": "米国で人型ロボットが清掃サービスの人手不足を補完 「細かい作業には人間が必要」との見方（ロイター）",
+   "summary": "米国でヒューマノイド（人型）ロボットが清掃サービスに導入されつつある。サンフランシスコに拠点を置くTAUロボティクス社は、これまで自動化技術が苦戦してきた領域、すなわち清掃サービスにおいてロボットな",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260930-00010004-reutv-000-1-thumb.jpg?exp=10800",
+   "published": "2026-09-30T12:44+09:00",
+   "collected": "2026-10-04T08:44+09:00"
   },
   {
    "id": "dab64038009b",
@@ -6708,78 +6776,6 @@
    "collected": "2026-09-08T08:26+09:00",
    "title_orig": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
    "summary_orig": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its"
-  },
-  {
-   "id": "ac4f3722fdc5",
-   "url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
-   "title": "MassRoboticsがFCC規制に関するメンバーアンケート結果を共有",
-   "summary": "MassRoboticsは、企業が新しい外国製モバイルロボットのFCC禁止で分裂していることを発見しました。ポストMassRobo",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/FCC-Graphs-copy.jpg",
-   "published": "2026-09-07T21:30+09:00",
-   "collected": "2026-09-08T08:26+09:00",
-   "title_orig": "MassRobotics shares member survey results around FCC restrictions",
-   "summary_orig": "MassRobotics has found that companies were split on the FCC ban on new foreign-produced mobile robots. The post MassRobo"
-  },
-  {
-   "id": "02693aeb4274",
-   "url": "https://www.youtube.com/shorts/wCfenOEPqBk",
-   "title": "下、後ろ、端まで|ホテルのロビーにあるファンタ#クリーニングロボット#ロボット",
-   "summary": "家具の下を見るまで、ホテルのロビーはきれいに見えます。Phantasは、手作業で清掃する傾向がある3つの場所を扱います",
-   "source": "Gausium",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/wCfenOEPqBk/hqdefault.jpg",
-   "published": "2026-09-07T21:00+09:00",
-   "collected": "2026-09-08T08:26+09:00",
-   "title_orig": "Under, behind, right to the edge | Phantas in a hotel lobby #cleaningrobot #robot",
-   "summary_orig": "A hotel lobby looks clean until you look under the furniture. Phantas handles the three places manual cleaning tends to"
-  },
-  {
-   "id": "af94a8a5854c",
-   "url": "https://www.youtube.com/watch?v=TjT_yLTmYlE",
-   "title": "PUDU GTシリーズ：日常のグラウンドケア専用",
-   "summary": "次世代の芝生メンテナンスが現場に出ています。PUDU GTシリーズを🌱🤖ご紹介します—商用月に対応するために作られました",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/TjT_yLTmYlE/hqdefault.jpg",
-   "published": "2026-09-07T20:41+09:00",
-   "collected": "2026-09-08T08:26+09:00",
-   "title_orig": "PUDU GT Series: Purpose-Built for Daily Grounds Care",
-   "summary_orig": "The next generation of turf maintenance is out in the field. 🌱🤖 Meet the PUDU GT Series — built to take on commercial mo"
-  },
-  {
-   "id": "11117ed1e9b9",
-   "url": "https://mezha.net/jp/news/c34a5674_china_advances_humanoid/",
-   "title": "中国軍が人型ロボットの軍事転用を急ぐ、都市戦闘や偵察を想定",
-   "summary": "中国軍が人型ロボットの軍事転用を急ぐ、都市戦闘や偵察を想定    Межа. Новини України.",
-   "source": "Межа. Новини України.",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-07T19:42+09:00",
-   "collected": "2026-09-08T08:26+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "f0e745bcc1e3",
-   "url": "https://www.jutaku-s.com/news/id/105551",
-   "title": "フィジカルＡＩ清掃ロボを国内で初実証 日鉄興和不動産など",
-   "summary": "日鉄興和不動産と、ＤＳＣ（東京都文京区）は、フィジカルＡＩ（人工知能）清掃ロボット「Ｌｏｋｉ」の実証を、日鉄興和不動産が保有するオフィスビルで開始した。Ｌｏｋｉを国内のオフィスビルで実証するのは初めてという。",
-   "source": "住宅新報",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://cdn.jutaku-s.com/3742c4cc65eeebfeeaafb6a58cf06e28-640x456.jpg",
-   "published": "2026-09-07T16:00+09:00",
-   "collected": "2026-09-08T08:26+09:00"
   }
  ]
 }
