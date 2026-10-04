@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-04T10:58+09:00",
+  "last_updated": "2026-10-04T11:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -59,6 +59,19 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02734490/title-1791000112867.jpeg?exp=10800",
    "published": "2026-10-03T15:01+09:00",
    "collected": "2026-10-04T08:44+09:00"
+  },
+  {
+   "id": "6c3d96bfe159",
+   "url": "https://news.yahoo.co.jp/articles/0557a277a2f065ddc5591cd75152b078a14da3b6",
+   "title": "人型ロボットの購入意向が「実体験で3倍」に跳ね上がる理由",
+   "summary": "米国と英国で1000人を対象に行なった新しい調査結果によると、ヒューマノイド（人型ロボット）に非常に良い印象を持っている人は、わずか11％に過ぎないようだ。人々にヒューマノイドを受け入れさせ、好意を",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261003-00105642-forbes-000-1-view.jpg?exp=10800",
+   "published": "2026-10-03T13:00+09:00",
+   "collected": "2026-10-04T11:30+09:00"
   },
   {
    "id": "94473ac6851d",
@@ -6761,21 +6774,6 @@
    "collected": "2026-09-08T08:26+09:00",
    "title_orig": "Inbolt to discuss physical AI’s deployment problem at RoboBusiness",
    "summary_orig": "Rudy Cohen, the co-founder and CEO of Inbolt, will reframe where physical AI pays off at RoboBusiness this fall. The pos"
-  },
-  {
-   "id": "6411f55b5081",
-   "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
-   "title": "Agility Roboticsは、ヒューマノイドSPACを上回る180万$の収益を報告",
-   "summary": "Agility Roboticsの4つのファイリングは、2025年の収益で180万ドル、1億4000万ドルの営業損失を明らかにし、",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/08/Agility_Digit.jpg",
-   "published": "2026-09-07T22:17+09:00",
-   "collected": "2026-09-08T08:26+09:00",
-   "title_orig": "Agility Robotics reports $1.8M revenue ahead of humanoid SPAC",
-   "summary_orig": "Agility Robotics’ S-4 filing reveals $1.8 million in 2025 revenue, a $140 million operating loss and plans to scale its"
   }
  ]
 }
