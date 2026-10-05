@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-05T09:08+09:00",
+  "last_updated": "2026-10-05T10:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "81e0454b2e48",
+   "url": "https://robotstart.info/article/2026/10/05/382480.html",
+   "title": "ヒューマノイドRoboParty「RP1」がIROS 2026で公開 蹴られても姿勢を立て直すデモを実施",
+   "summary": "RoboPartyは2026年9月28日、米ピッツバーグで開かれたIROS 2026で、ヒューマノイドロボット「RP1（ROBOTO 01）」を公開した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107481.jpg",
+   "published": "2026-10-05T10:10+09:00",
+   "collected": "2026-10-05T10:15+09:00"
+  },
+  {
    "id": "415cf05fb4f9",
    "url": "https://pando.life/article/4674689",
    "title": "商業用セキュリティロボット市場分析（2026年から2033年）— 堅調なCAGR 18.",
@@ -44,7 +57,7 @@
    "thumbnail": null,
    "published": "2026-10-05T07:05+09:00",
    "collected": "2026-10-05T08:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5c29c451f70f",
@@ -99,7 +112,7 @@
    "thumbnail": null,
    "published": "2026-10-04T18:42+09:00",
    "collected": "2026-10-05T08:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "49523c1478fd",
@@ -6762,19 +6775,6 @@
    "published": "2026-09-08T13:50+09:00",
    "collected": "2026-09-10T08:29+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "c3bcf4699a0f",
-   "url": "https://newscast.jp/smart/news/4150074",
-   "title": "ヒューマノイドロボット用ケーブルの世界市場（2026年～2032年）、市場規模（フレキシブルケーブル、リジッドケーブル）・分析レポートを発表",
-   "summary": "ヒューマノイドロボット用ケーブルの世界市場（2026年～2032年）、市場規模（フレキシブルケーブル、リジッドケーブル）・分析レポートを発表",
-   "source": "Newscast.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/3SaJPVhrPfBm0RrkPcwv.png",
-   "published": "2026-09-08T11:30+09:00",
-   "collected": "2026-09-09T08:19+09:00"
   }
  ]
 }
