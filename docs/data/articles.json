@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-05T10:15+09:00",
+  "last_updated": "2026-10-05T10:48+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -86,6 +86,20 @@
    "collected": "2026-10-05T08:55+09:00"
   },
   {
+   "id": "c256b1f3abdc",
+   "url": "https://pando.life/article/4673988",
+   "title": "窓清掃ロボット市場概要2026年～2033年：セグメント別および地域別予測において、年平",
+   "summary": "窓清掃ロボット市場概要2026年～2033年：セグメント別および地域別予測において、年平",
+   "source": "pando.life",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-05T02:03+09:00",
+   "collected": "2026-10-05T10:48+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "3f7f60503537",
    "url": "https://www.therobotreport.com/how-robotics-physical-ai-can-responsibly-tackle-key-physical-security-challenges/",
    "title": "ロボット工学と物理的AIがどのようにして主要な物理的セキュリティ課題に責任を持って取り組むことができるか",
@@ -139,6 +153,19 @@
    "thumbnail": "https://response.jp/imgs/ogp_f/2248519.jpg",
    "published": "2026-10-04T14:30+09:00",
    "collected": "2026-10-05T09:08+09:00"
+  },
+  {
+   "id": "1fb08e389864",
+   "url": "https://news.yahoo.co.jp/articles/e5aba65ed286c59fd014515b28ccd493117e3bcc",
+   "title": "まるで人間…人型ロボットによる驚異の家事代行 1時間約4700円 人手不足の解消も（テレビ朝日系（ANN））",
+   "summary": "驚きのパフォーマンスに加え、人間社会を支える重要な存在として注目される、人型ロボット。特に期待されているのが、人手不足解消です。■まるで人間 驚異の家事代行 アメリカでは、まるで人間のような動きをす",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00000027-ann-000-7-thumb.jpg?exp=10800",
+   "published": "2026-10-04T12:57+09:00",
+   "collected": "2026-10-05T10:48+09:00"
   },
   {
    "id": "8d58d390d39a",
@@ -6748,33 +6775,6 @@
    "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2139/125/0500.jpg",
    "published": "2026-09-08T15:39+09:00",
    "collected": "2026-09-09T08:19+09:00"
-  },
-  {
-   "id": "6ffe3e2593d1",
-   "url": "https://www.afpbb.com/articles/-/3651146",
-   "title": "中国の主導により制定された世界初の歩行ロボットに関する国際規格が発表",
-   "summary": "【9月8日 CGTN Japanese】中国国家標準化管理委員会が9月1日に明らかにしたところによると、中国の専門家の主導によって制定された世界初の歩行ロボットに関する国際規格「ロボット～サービスロボット性能規範およびその試験方法第5部：歩",
-   "source": "AFPBB News",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://afpbb.ismcdn.jp/mwimgs/f/c/1000x/img_fc1239ad0121389072929c3383f7d646232984.jpg",
-   "published": "2026-09-08T14:02+09:00",
-   "collected": "2026-09-09T08:19+09:00"
-  },
-  {
-   "id": "bbedd9741be2",
-   "url": "https://www.sannichi.co.jp/prtimes/others/c16343_r1299",
-   "title": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-   "summary": "プレスリリース PRTIMES記事詳細 | さんにちEye 山梨日日新聞デジタル",
-   "source": "sannichi.co.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-08T13:50+09:00",
-   "collected": "2026-09-10T08:29+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
