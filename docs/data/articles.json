@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-06T10:52+09:00",
+  "last_updated": "2026-10-06T11:29+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "8500d2a77e4d",
+   "url": "https://robotstart.info/article/2026/10/06/382486.html",
+   "title": "ロボット制御とアーク溶接を組み合わせたArcBuilder 3Dを「ものづくりワールド大阪」に出展予定 ダイヘン",
+   "summary": "ダイヘンは、2026年10月7日から9日までインテックス大阪で開催される「第29回 ものづくりワールド［大阪］～次世代3Dプリンタ展～」に出展すると発表した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107518.jpg",
+   "published": "2026-10-06T11:10+09:00",
+   "collected": "2026-10-06T11:29+09:00"
+  },
+  {
    "id": "853823b4121d",
    "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
    "title": "テラダイン、Bright Machinesに投資し、AIインフラストラクチャー製造にロボット技術を導入",
@@ -59,7 +72,7 @@
    "thumbnail": null,
    "published": "2026-10-06T06:54+09:00",
    "collected": "2026-10-06T10:43+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "642b35027961",
@@ -244,7 +257,7 @@
    "thumbnail": null,
    "published": "2026-10-05T17:01+09:00",
    "collected": "2026-10-06T10:43+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "98c22e183319",
@@ -6758,19 +6771,6 @@
    "published": "2026-09-09T11:56+09:00",
    "collected": "2026-09-10T08:08+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "9dcb32e8ab00",
-   "url": "https://news.yahoo.co.jp/articles/3c30a85946e1fe15f1459000ee96558790452656",
-   "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用（ロイター）",
-   "summary": "Eduardo Baptista\n\n[北京 ７日 ロイター] - 中国で８月に開催された「世界ヒューマノイドロボット競技大会」では、人型ロボット（ヒューマノイド）がジャンプ競技やボクシング、ダンスを",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000120-reut-000-1-view.jpg?exp=10800",
-   "published": "2026-09-09T11:45+09:00",
-   "collected": "2026-09-10T09:33+09:00"
   }
  ]
 }

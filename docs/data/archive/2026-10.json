@@ -1,5 +1,18 @@
 [
  {
+  "id": "8500d2a77e4d",
+  "url": "https://robotstart.info/article/2026/10/06/382486.html",
+  "title": "ロボット制御とアーク溶接を組み合わせたArcBuilder 3Dを「ものづくりワールド大阪」に出展予定 ダイヘン",
+  "summary": "ダイヘンは、2026年10月7日から9日までインテックス大阪で開催される「第29回 ものづくりワールド［大阪］～次世代3Dプリンタ展～」に出展すると発表した。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/107518.jpg",
+  "published": "2026-10-06T11:10+09:00",
+  "collected": "2026-10-06T11:29+09:00"
+ },
+ {
   "id": "853823b4121d",
   "url": "https://www.therobotreport.com/teradyne-invests-ibright-machines-brings-robotics-ai-infrastructure-manufacturing/",
   "title": "テラダイン、Bright Machinesに投資し、AIインフラストラクチャー製造にロボット技術を導入",
@@ -26,7 +39,7 @@
   "thumbnail": null,
   "published": "2026-10-06T06:54+09:00",
   "collected": "2026-10-06T10:43+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "642b35027961",
@@ -211,7 +224,7 @@
   "thumbnail": null,
   "published": "2026-10-05T17:01+09:00",
   "collected": "2026-10-06T10:43+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "98c22e183319",
