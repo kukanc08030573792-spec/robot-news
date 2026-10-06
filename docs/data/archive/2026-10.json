@@ -26,7 +26,7 @@
   "thumbnail": null,
   "published": "2026-10-06T06:54+09:00",
   "collected": "2026-10-06T10:43+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "642b35027961",
@@ -148,6 +148,19 @@
   "collected": "2026-10-06T10:43+09:00"
  },
  {
+  "id": "48de0787844e",
+  "url": "https://www.jiji.com/jc/p?id=20261005182507-0093464374",
+  "title": "画像・写真：窓口案内ロボットが登場 佐賀市：時事ドットコム",
+  "summary": "佐賀市役所の窓口案内ロボットが５日、本庁舎１階に登場した。ロボットの愛称は、案内という言葉をもじって「あんなちゃん」。日本語を含め８言語に対応する。写真は「あんなちゃん」に導かれる坂井英隆市長。",
+  "source": "時事ドットコム",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://www.jiji.com/news/photos/photo_news/images/658/0093464374.jpg",
+  "published": "2026-10-05T18:25+09:00",
+  "collected": "2026-10-06T10:52+09:00"
+ },
+ {
   "id": "2fe11cbe3fa7",
   "url": "https://forbesjapan.com/articles/detail/105726",
   "title": "人型ロボットが普通の畑でオクラを掴む 農作業の自動化へ挑む実証実験",
@@ -198,7 +211,7 @@
   "thumbnail": null,
   "published": "2026-10-05T17:01+09:00",
   "collected": "2026-10-06T10:43+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "98c22e183319",
@@ -356,7 +369,7 @@
   "thumbnail": null,
   "published": "2026-10-05T02:03+09:00",
   "collected": "2026-10-05T10:48+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "3f7f60503537",

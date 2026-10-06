@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-06T10:43+09:00",
+  "last_updated": "2026-10-06T10:52+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -59,7 +59,7 @@
    "thumbnail": null,
    "published": "2026-10-06T06:54+09:00",
    "collected": "2026-10-06T10:43+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "642b35027961",
@@ -181,6 +181,19 @@
    "collected": "2026-10-06T10:43+09:00"
   },
   {
+   "id": "48de0787844e",
+   "url": "https://www.jiji.com/jc/p?id=20261005182507-0093464374",
+   "title": "画像・写真：窓口案内ロボットが登場 佐賀市：時事ドットコム",
+   "summary": "佐賀市役所の窓口案内ロボットが５日、本庁舎１階に登場した。ロボットの愛称は、案内という言葉をもじって「あんなちゃん」。日本語を含め８言語に対応する。写真は「あんなちゃん」に導かれる坂井英隆市長。",
+   "source": "時事ドットコム",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://www.jiji.com/news/photos/photo_news/images/658/0093464374.jpg",
+   "published": "2026-10-05T18:25+09:00",
+   "collected": "2026-10-06T10:52+09:00"
+  },
+  {
    "id": "2fe11cbe3fa7",
    "url": "https://forbesjapan.com/articles/detail/105726",
    "title": "人型ロボットが普通の畑でオクラを掴む 農作業の自動化へ挑む実証実験",
@@ -231,7 +244,7 @@
    "thumbnail": null,
    "published": "2026-10-05T17:01+09:00",
    "collected": "2026-10-06T10:43+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "98c22e183319",
@@ -389,7 +402,7 @@
    "thumbnail": null,
    "published": "2026-10-05T02:03+09:00",
    "collected": "2026-10-05T10:48+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3f7f60503537",
@@ -6758,19 +6771,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260909-00000120-reut-000-1-view.jpg?exp=10800",
    "published": "2026-09-09T11:45+09:00",
    "collected": "2026-09-10T09:33+09:00"
-  },
-  {
-   "id": "9c722806c4d7",
-   "url": "https://dime.jp/genre/2151931/",
-   "title": "エコバックスが自動パッド洗浄技術を搭載した窓拭きロボット掃除機「WINBOT W3 OMNI」ほか新製品を発表",
-   "summary": "エコバックスは、ドイツ・ベルリンにて開催された世界最大規模の見本市「IFA Berlin 2026」（以下、IFA）に出展し、窓掃除ロボット「WINBOT W3 OMNI」、ロボット芝刈り機「GOAT Tシリーズ」、ロボット掃除機「DE..",
-   "source": "@DIME アットダイム",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://dime.jp/wp-content/uploads/2026/09/01-27-770x433.jpg",
-   "published": "2026-09-09T11:44+09:00",
-   "collected": "2026-09-10T08:08+09:00"
   }
  ]
 }
