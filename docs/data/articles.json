@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-07T09:35+09:00",
+  "last_updated": "2026-10-07T10:00+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -160,7 +160,7 @@
    "thumbnail": null,
    "published": "2026-10-06T20:53+09:00",
    "collected": "2026-10-07T09:35+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d8f06f4db11b",
