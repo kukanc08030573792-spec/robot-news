@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-07T10:47+09:00",
+  "last_updated": "2026-10-07T11:14+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "4ca1b326b4c8",
+   "url": "https://robotstart.info/article/2026/10/07/382492.html",
+   "title": "【オンラインセミナー#31】Honda「P2」「ASIMO」が残した軌跡 開発者・竹中透氏が語るヒューマノイドの原点とフィジカルAI時代の未来",
+   "summary": "日本では約30年前から、人と共存するヒューマノイドの研究開発が進められてきました。その象徴的な存在が、Hondaの「P2」と「ASIMO」です。その開発者のひとり、竹中氏をゲストに迎えて、ヒューマノイドの原点から、フィジカルAI時代のヒューマノイドとその未来を語るロボスタセミナーを開催します。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107576.jpg",
+   "published": "2026-10-07T10:54+09:00",
+   "collected": "2026-10-07T11:14+09:00"
+  },
   {
    "id": "37b82c3f277f",
    "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
@@ -6754,19 +6767,6 @@
    "expert": false,
    "thumbnail": "https://www.lnews.jp/images/2026/09/0910cubas1.jpg",
    "published": "2026-09-10T14:52+09:00",
-   "collected": "2026-09-11T08:04+09:00"
-  },
-  {
-   "id": "ec5733da8703",
-   "url": "https://www.atpress.ne.jp/news/4847484",
-   "title": "具現化AIヒューマノイドロボットの世界市場（2026年～2032年）、市場規模（二足歩行ヒューマノイド、脚部車輪型ヒューマノイド、車輪ベース型ヒューマノイド、その他）・分...",
-   "summary": "株式会社マーケットリサーチセンターのプレスリリース:具現化AIヒューマノイドロボットの世界市場（2026年～2032年）、市場規模（二足歩行ヒューマノイド、脚部車輪型ヒューマノイド、車輪ベース型ヒューマノイド、その他）・分析レポートを発表",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/wvAr7EWAkDkGsmxraGvM.png",
-   "published": "2026-09-10T14:30+09:00",
    "collected": "2026-09-11T08:04+09:00"
   }
  ]
