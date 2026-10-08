@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-08T10:16+09:00",
+  "last_updated": "2026-10-08T11:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "6ddecee1a026",
+   "url": "https://www.mk.co.kr/jp/business/12171254",
+   "title": "「山火事が起きたらロボットが出動」…185カ国の若者が松島でロボット対決",
+   "summary": "世界185カ国の若者たちが自ら製作したロボットで山火事を消し、被災地域を復旧するという異色の対決を繰り広げる。山火事が発生した状況を再現した競技場で、ロボットを使って消火し、被害を復旧する任務に挑む。",
+   "source": "매일경제",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://pimg.mk.co.kr/news/cms/202610/08/news-p.v1.20261008.95a969855e3540d1828a86af2bf00e57_R.jpg",
+   "published": "2026-10-08T10:36+09:00",
+   "collected": "2026-10-08T11:15+09:00"
+  },
   {
    "id": "73aadd18dcec",
    "url": "https://robotstart.info/article/2026/10/08/382497.html",
@@ -109,7 +122,7 @@
    "thumbnail": null,
    "published": "2026-10-08T06:08+09:00",
    "collected": "2026-10-08T09:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "360dea3a8ebf",
@@ -220,7 +233,7 @@
    "thumbnail": null,
    "published": "2026-10-07T16:23+09:00",
    "collected": "2026-10-08T09:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "660f133d1e46",
@@ -299,7 +312,7 @@
    "thumbnail": null,
    "published": "2026-10-07T12:00+09:00",
    "collected": "2026-10-08T09:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4ca1b326b4c8",
@@ -442,7 +455,7 @@
    "thumbnail": null,
    "published": "2026-10-06T22:15+09:00",
    "collected": "2026-10-08T09:55+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1349fa80cb41",
@@ -6749,21 +6762,6 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/12/1789153345159_img_356940134616pm.jpeg",
    "published": "2026-09-12T04:12+09:00",
    "collected": "2026-09-12T08:11+09:00"
-  },
-  {
-   "id": "a1cbf61a7fe3",
-   "url": "https://www.therobotreport.com/how-to-select-the-right-rack-and-pinion-system-for-high-precision-linear-motion/",
-   "title": "高精度直線運動に最適なラック＆ピニオンシステムの選び方",
-   "summary": "GAMは、ロボットデザイナーが高精度APのモーションコントロールを考える際にピニオンサイズを考慮すべき理由を説明します",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/gearbox-rack-pinion_system.jpg",
-   "published": "2026-09-11T23:35+09:00",
-   "collected": "2026-09-12T08:11+09:00",
-   "title_orig": "How to select the right rack and pinion system for high-precision linear motion",
-   "summary_orig": "GAM explains why robotics designers should consider pinion size when thinking about motion control for high-precision ap"
   }
  ]
 }
