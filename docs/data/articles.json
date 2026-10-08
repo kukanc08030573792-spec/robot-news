@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-08T11:15+09:00",
+  "last_updated": "2026-10-08T11:38+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,32 @@
   ]
  },
  "items": [
+  {
+   "id": "5ed1a54f5128",
+   "url": "https://www.prnewswire.com/jp/news-releases/robopartyirosrp1-302901853.html",
+   "title": "RoboParty、IROSで高性能フルスタック・オープンソースのヒューマノイドロボット「RP1」を発表",
+   "summary": "/PRNewswire/ -- 2026年9月28日、RoboPartyはIROS 2026でRP1（ROBOTO 01）を発表し、同ロボットの世界初公開となりました。",
+   "source": "PR Newswire",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://mmx.prnewswire.com/media/MS2001908/20261003075052EDT_image_1.jpg?id=OA2985722&p=facebook",
+   "published": "2026-10-08T11:13+09:00",
+   "collected": "2026-10-08T11:38+09:00"
+  },
+  {
+   "id": "25bd7270c292",
+   "url": "https://voix.jp/business-cards/rlworld-robotics-experiment-2026/",
+   "title": "RLWRLDのフィジカルAIロボットが大手町仲通りで飲料提供と空容器回収の実証実験を実施",
+   "summary": "RLWRLDのフィジカルAIロボットが大手町で実証実験を実施 リアルワールド株式会社（RLWRLD）、三菱地所株式会社、一般社団法人TMIPは、2026年10月15日・16日の2日間、東京都千代田区の大手町仲通りでフィジ […]",
+   "source": "ニュースメディアVOIX",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://voix.jp/wp-content/uploads/2026/10/145849-31-318528a49925c17c9701cf0b26f22987-602x312-1.jpg",
+   "published": "2026-10-08T11:04+09:00",
+   "collected": "2026-10-08T11:38+09:00"
+  },
   {
    "id": "6ddecee1a026",
    "url": "https://www.mk.co.kr/jp/business/12171254",
@@ -6734,34 +6760,6 @@
    "collected": "2026-09-12T08:11+09:00",
    "title_orig": "One brick at a time: How Monumental uses robotics to build walls",
    "summary_orig": "CEO Salar al Khafaji introduces podcast listeners to how Monumental is using robotics to build walls. The post One brick"
-  },
-  {
-   "id": "8b90bc8a3a6a",
-   "url": "https://www.therobotreport.com/learn-how-avs-robotics-are-laying-groundwork-field-deployments-robobusiness/",
-   "title": "RoboBusinessでの現場展開の基礎をAVとロボット工学がどのように築いているかを学ぶ",
-   "summary": "ASIの最高経営責任者（ CEO ）であるMel Torrieは、自動運転車とロボット工学の交差点がFIELに革命をもたらす理由を探ります",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ASI_Field_robots.jpg",
-   "published": "2026-09-12T04:49+09:00",
-   "collected": "2026-09-12T08:11+09:00",
-   "title_orig": "Learn how AVs and robotics are laying the groundwork for field deployments at RoboBusiness",
-   "summary_orig": "ASI CEO Mel Torrie will explore why the intersection of autonomous vehicles and robotics will further revolutionize fiel"
-  },
-  {
-   "id": "bf5b39f22eaf",
-   "url": "https://www.vietnam.vn/ja/buoc-chay-ky-luc-cua-robot-hinh-nguoi",
-   "title": "人型ロボットによる記録破りの走行。",
-   "summary": "中国・北京の国家スピードスケート競技場で、人型ロボット「天宮ウルトラ」が100メートル走のゴールラインを8.86秒で通過した瞬間は、世界中のメディアを騒然とさせた。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/12/1789153345159_img_356940134616pm.jpeg",
-   "published": "2026-09-12T04:12+09:00",
-   "collected": "2026-09-12T08:11+09:00"
   }
  ]
 }
