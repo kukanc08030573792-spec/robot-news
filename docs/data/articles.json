@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-09T11:32+09:00",
+  "last_updated": "2026-10-09T11:53+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "6589281af508",
+   "url": "https://news.yahoo.co.jp/articles/7daca12442f73a71ab49935ce8eb08b617132e10",
+   "title": "韓国サムスン・LGもヒューマノイド競争加速…中国勢は卓球やサッカーを実演（KOREA WAVE）",
+   "summary": "【10月09日 KOREA WAVE】ヒューマノイド（人型）ロボットが卓球のラケットを振って飛んでくるボールを打ち返し、別の場所では2足歩行のロボットがサッカーボールを追いかける。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-03656837-clc_korea-000-1-view.jpg?exp=10800",
+   "published": "2026-10-09T11:33+09:00",
+   "collected": "2026-10-09T11:53+09:00"
+  },
   {
    "id": "575aafbdc722",
    "url": "https://article.auone.jp/4068ea01-5a45-412e-abe9-7901b372e800",
@@ -126,6 +139,19 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-03656787-clc_korea-000-1-view.jpg?exp=10800",
    "published": "2026-10-09T07:54+09:00",
    "collected": "2026-10-09T10:09+09:00"
+  },
+  {
+   "id": "5d6dd079a782",
+   "url": "https://news.infoseek.co.jp/article/koreawave_3656787/",
+   "title": "韓国国会に中国製ヒューマノイド登場…あいさつやダンス披露、技術格差に危機感",
+   "summary": "6日午前、韓国国会の科学技術情報放送通信委員会による科学技術情報通信省の国政監査会場に入るヒューマノイドロボット(",
+   "source": "Infoseek",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_world-1.0.png",
+   "published": "2026-10-09T07:40+09:00",
+   "collected": "2026-10-09T11:53+09:00"
   },
   {
    "id": "3e08131935be",
@@ -6739,32 +6765,6 @@
    "expert": false,
    "thumbnail": "https://i.ytimg.com/vi/yLkdkUHOehk/hqdefault.jpg",
    "published": "2026-09-14T14:27+09:00",
-   "collected": "2026-09-15T08:49+09:00"
-  },
-  {
-   "id": "382c3d736409",
-   "url": "https://robotstart.info/article/2026/09/14/382413.html",
-   "title": "パナソニック コネクト、溶接ロボットの稼働状況をクラウドで共有できる「iWNBクラウド」を発売",
-   "summary": "パナソニック コネクトは、溶接ロボットのダウンタイム極小化を支援する設備稼働改善ソリューション「iWNBクラウド」を開発し、2026年9月14日から提供を始めた。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106715.jpg",
-   "published": "2026-09-14T14:20+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "20091a24e29b",
-   "url": "https://prtimes.jp/main/html/rd/p/000001733.000108051.html",
-   "title": "10/9(金)お掃除ロボット大集合を開催します",
-   "summary": "10/9(金)お掃除ロボット大集合を開催します",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/108051/1733/108051-1733-2d108abf7d801d034a82fa5da2ca5f32-1249x1766.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-14T14:10+09:00",
    "collected": "2026-09-15T08:49+09:00"
   }
  ]
