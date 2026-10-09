@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-09T10:24+09:00",
+  "last_updated": "2026-10-09T11:32+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,47 @@
  },
  "items": [
   {
+   "id": "575aafbdc722",
+   "url": "https://article.auone.jp/4068ea01-5a45-412e-abe9-7901b372e800",
+   "title": "国産セミヒューマノイドugo Nova、AIロボット協会の試作機評価審査を通過し改良機開発フェーズに進出",
+   "summary": "国産セミヒューマノイドugo Nova、AIロボット協会の試作機評価審査を通過し改良機開発フェーズに進出ugo株式会社は、一般社団法人AIロボット協会（AIRoA）が実施する「国産汎用ロボット開発コン",
+   "source": "au Webポータル",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/09/https___news_jp_i_1481114058048013285_w640.webp",
+   "published": "2026-10-09T11:18+09:00",
+   "collected": "2026-10-09T11:32+09:00"
+  },
+  {
+   "id": "9542ad819c67",
+   "url": "https://topics.smt.docomo.ne.jp/article/echolocation/business/echolocation-8405",
+   "title": "レイメイセキドが新型清掃ロボット「PUDU ET1」の製品デモ・商談会を10月29日開催",
+   "summary": "レイメイセキドが新型清掃ロボット「PUDU ET1」の製品デモ・商談会を10月29日開催",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/echolocation/m_echolocation-8405.jpg",
+   "published": "2026-10-09T11:00+09:00",
+   "collected": "2026-10-09T11:32+09:00"
+  },
+  {
+   "id": "84b8fa57e294",
+   "url": "https://www.youtube.com/watch?v=eXVDcm4CbOw",
+   "title": "LionsBot R 5スクラブ",
+   "summary": "LionsBot R 5 | 50 L自律型床スクラバーロボット大きな床と毎日のクリーニングのために作られたR 5は、その作業をスクラブし、ナビゲートし、報告するので、あなたのチームは",
+   "source": "LionsBot International",
+   "type": "video",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/eXVDcm4CbOw/hqdefault.jpg",
+   "published": "2026-10-09T10:49+09:00",
+   "collected": "2026-10-09T11:32+09:00",
+   "title_orig": "LionsBot R5 Scrub",
+   "summary_orig": "LionsBot R5 | 50L Autonomous Floor Scrubber Robot Built for large floors and daily cleaning runs, the R5 scrubs, navigates and reports on its work, so your team"
+  },
+  {
    "id": "0ee72bafd0ed",
    "url": "https://prtimes.jp/main/html/rd/p/000000078.000097103.html",
    "title": "「第3回 ハマロボ展2026」に出展 ― StarFork1500・R2・四足歩行ロボットを展示予定",
@@ -57,7 +98,7 @@
    "thumbnail": null,
    "published": "2026-10-09T09:03+09:00",
    "collected": "2026-10-09T10:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "79686015372a",
@@ -71,7 +112,7 @@
    "thumbnail": null,
    "published": "2026-10-09T09:00+09:00",
    "collected": "2026-10-09T10:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "b60c44c3b3e1",
@@ -210,7 +251,7 @@
    "thumbnail": null,
    "published": "2026-10-08T15:03+09:00",
    "collected": "2026-10-09T10:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d4dadf9ee965",
@@ -276,7 +317,7 @@
    "thumbnail": null,
    "published": "2026-10-08T12:07+09:00",
    "collected": "2026-10-09T10:09+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "5ed1a54f5128",
@@ -6724,45 +6765,6 @@
    "expert": false,
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/108051/1733/108051-1733-2d108abf7d801d034a82fa5da2ca5f32-1249x1766.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-09-14T14:10+09:00",
-   "collected": "2026-09-15T08:49+09:00"
-  },
-  {
-   "id": "71de833b7238",
-   "url": "https://note.com/zhenren63/n/n8eb513111df2",
-   "title": "ロボットがロボットを作る工場の実態、UBTECH柳州10分に1台が示すヒューマノイドロボット量産の次段階",
-   "summary": "中国のロボット業界を追っていると、量産という単語が驚くほど軽く使われます。年産1万台の能力があるという話と、実際に1万台を作ったという話は違います。作ったという話と、顧客に納入したという話も違います。",
-   "source": "note",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://assets.st-note.com/production/uploads/images/313562011/rectangle_large_type_2_93a119db1db90bbe3e9ef74e569110a7.png?fit=bounds&quality=85&width=1280",
-   "published": "2026-09-14T13:41+09:00",
-   "collected": "2026-09-15T08:49+09:00"
-  },
-  {
-   "id": "fc6ac374f58b",
-   "url": "https://robotstart.info/article/2026/09/14/382412.html",
-   "title": "文部科学省後援RISE主催「クリエイティブロボティクスコンテスト2026」9/20に渋谷で開催、ヒューマンアカデミー協力",
-   "summary": "ヒューマンアカデミー株式会社が協力する「クリエイティブロボティクスコンテスト2026」が2026年9月20日（日）、東京・渋谷のGMOインターネットグループ グループ第2本社「シナジーカフェGMO Yours・フクラス」で開催される。主催は一般社団法人未来創生STREAM教育総合研究所（RISE）で、文部科学省が後援。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106687.jpg",
-   "published": "2026-09-14T12:00+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "00a2984cb664",
-   "url": "https://prtimes.jp/main/html/rd/p/000000125.000116327.html",
-   "title": "Dreame、IFA 2026で次世代の革新的な製品を発表、スマートライフの新たな可能性を提案",
-   "summary": "Dreame、IFA 2026で次世代の革新的な製品を発表、スマートライフの新たな可能性を提案",
-   "source": "PR TIMES",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/116327/125/116327-125-71d1dfbfaf5204ad4796254d53bd3db5-1725x1150.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-14T11:30+09:00",
    "collected": "2026-09-15T08:49+09:00"
   }
  ]
