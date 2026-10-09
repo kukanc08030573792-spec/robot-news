@@ -24,7 +24,7 @@
   "thumbnail": null,
   "published": "2026-10-09T09:03+09:00",
   "collected": "2026-10-09T10:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "79686015372a",
@@ -38,7 +38,7 @@
   "thumbnail": null,
   "published": "2026-10-09T09:00+09:00",
   "collected": "2026-10-09T10:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b60c44c3b3e1",
@@ -52,6 +52,19 @@
   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261009-03656787-clc_korea-000-1-view.jpg?exp=10800",
   "published": "2026-10-09T07:54+09:00",
   "collected": "2026-10-09T10:09+09:00"
+ },
+ {
+  "id": "3e08131935be",
+  "url": "https://finance.biggo.jp/news/c0350dd2-60b4-4617-bfb8-442ad69f1eda",
+  "title": "Xpeng、ヒューマノイドロボット自動化生産ライン稼働…「自動車サプライチェーン」が武器",
+  "summary": "中国の電気自動車（EV）メーカーXpengが広州工場でヒューマノイドロボット「IRON」の自動化生産ラインを正式に稼働させた。中核工程の80%以上を自動化し、年末か…",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.biggo.com/tZ--Wwvf1jUiVoLrEKGw9GZURAGRbHD8y4ybZ2WHtfA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2MwMzUwZGQyLTYwYjQtNDYxNy1iZmI4LTQ0MmFkNjlmMWVkYV8xNzkxNDk4NTQ0X2RlZmF1bHQud2VicA.jpg",
+  "published": "2026-10-09T07:25+09:00",
+  "collected": "2026-10-09T10:24+09:00"
  },
  {
   "id": "82d2acef3955",
@@ -114,6 +127,19 @@
   "summary_orig": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and continuous improvemen"
  },
  {
+  "id": "64231243c29f",
+  "url": "https://news.yahoo.co.jp/articles/a3e5f67c216e5026f7268feb30aaae596e591856",
+  "title": "シゴデキなのに「腰が低い」ロボ、現る。人間が近づくと察して避けるぞ（ギズモード・ジャパン）",
+  "summary": "フワモコじゃないのでぶつかると痛そうですもんね、ロボット。あ、すべてのロボットをフワモコにすればいいんじゃ…？私が住んでいる地域では、配達ロボットがたくさん走り回っています。",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00000004-giz-000-1-view.jpg?exp=10800",
+  "published": "2026-10-08T21:30+09:00",
+  "collected": "2026-10-09T10:24+09:00"
+ },
+ {
   "id": "18fff2ea1dd5",
   "url": "https://robotstart.info/article/2026/10/08/382500.html",
   "title": "三菱電機、フィジカルAIで無人化工場実現へ…CEATEC 2026",
@@ -151,7 +177,7 @@
   "thumbnail": null,
   "published": "2026-10-08T15:03+09:00",
   "collected": "2026-10-09T10:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d4dadf9ee965",
@@ -217,7 +243,7 @@
   "thumbnail": null,
   "published": "2026-10-08T12:07+09:00",
   "collected": "2026-10-09T10:09+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "5ed1a54f5128",
