@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-10T09:42+09:00",
+  "last_updated": "2026-10-10T10:13+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "9cd703485fda",
+   "url": "https://www.atpress.ne.jp/news/5460301",
+   "title": "ヒューマノイドロボット用6軸トルクセンサーの世界市場（2026年～2032年）、市場規模（ひずみセンサー、光学センサー、圧電センサー）・分析レポートを発表",
+   "summary": "株式会社マーケットリサーチセンターのプレスリリース:ヒューマノイドロボット用6軸トルクセンサーの世界市場（2026年～2032年）、市場規模（ひずみセンサー、光学センサー、圧電センサー）・分析レポートを発表",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/kSnYVeSkkct2EaeBxLhd.png",
+   "published": "2026-10-10T10:00+09:00",
+   "collected": "2026-10-10T10:13+09:00"
+  },
   {
    "id": "dc7a62b2fc43",
    "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
@@ -6750,19 +6763,6 @@
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/106734.jpg",
    "published": "2026-09-15T15:00+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "8bad311c8a6b",
-   "url": "https://robotstart.info/article/2026/09/15/382417.html",
-   "title": "フィジカルAI対応の第7世代協働ロボット「Gen 7」をIMTS 2026で発表 ユニバーサルロボット",
-   "summary": "ユニバーサルロボット（UR）は、米シカゴで開幕した「IMTS 2026」で、フィジカルAI対応を掲げる第7世代協働ロボットプラットフォーム「Gen 7」を発表した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106730.jpg",
-   "published": "2026-09-15T13:30+09:00",
    "collected": "2026-09-17T08:37+09:00"
   }
  ]
