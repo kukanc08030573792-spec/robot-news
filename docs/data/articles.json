@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-10T10:54+09:00",
+  "last_updated": "2026-10-10T11:14+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "f235118bb7bd",
+   "url": "https://newscast.jp/smart/news/5978322",
+   "title": "高速学習ロボットの世界市場（2026年～2032年）、市場規模（協働ロボット、移動ロボット、ヒューマノイドロボット、四足歩行ロボット、空中ロボット）・分析レポートを発表",
+   "summary": "高速学習ロボットの世界市場（2026年～2032年）、市場規模（協働ロボット、移動ロボット、ヒューマノイドロボット、四足歩行ロボット、空中ロボット）・分析レポートを発表",
+   "source": "Newscast.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/iGUk3jc2ZC8bz0muvd7O.png",
+   "published": "2026-10-10T10:30+09:00",
+   "collected": "2026-10-10T11:14+09:00"
+  },
   {
    "id": "9cd703485fda",
    "url": "https://www.atpress.ne.jp/news/5460301",
@@ -6751,19 +6764,6 @@
    "thumbnail": "https://www.atpress.ne.jp/attachments/n0JuL6yTtLQBYz9GlmLC.jpg",
    "published": "2026-09-15T15:12+09:00",
    "collected": "2026-09-16T08:29+09:00"
-  },
-  {
-   "id": "01e2934cade5",
-   "url": "https://robotstart.info/article/2026/09/15/382418.html",
-   "title": "リョーサン菱洋がNVIDIA最新エッジAIプラットフォーム「Jetson Orin Nano 2」を2027年から取り扱い予定",
-   "summary": "リョーサン菱洋は、NVIDIAが発表したエッジAIプラットフォームの最新シリーズ「NVIDIA Jetson Orin Nano 2」モジュールおよび開発者キットの取り扱いを決定した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106734.jpg",
-   "published": "2026-09-15T15:00+09:00",
-   "collected": "2026-09-17T08:37+09:00"
   }
  ]
 }
