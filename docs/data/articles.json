@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-10T11:14+09:00",
+  "last_updated": "2026-10-11T09:11+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,61 @@
   ]
  },
  "items": [
+  {
+   "id": "d3e9878cdbd6",
+   "url": "https://note.com/zhenren63/n/ndfa268fa8c91",
+   "title": "一汽VWはなぜUBTECHと組むのか BMW・上汽と比較する人型ロボットの工場導入戦略",
+   "summary": "2026年10月8日、深圳のヒューマノイドロボットメーカーUBTECHが、一汽VW（FAW-Volkswagen）との工場物流分野での戦略協業を発表しました。ロボットを使う物流業務を共同で開発・試験し、実証モデルを構築するという内容です。",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/322626637/rectangle_large_type_2_889a0c9881179640371a9d396a07d9cd.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-10-10T23:00+09:00",
+   "collected": "2026-10-11T09:11+09:00"
+  },
+  {
+   "id": "f8bf17c7a0f3",
+   "url": "https://www.starnewskorea.com/ja/business-life/2026/10/10/2026101022301436272",
+   "title": "「電気自動車の次はロボット」··· BYD、初の自社開発ヒューマノイド特許を電撃公開",
+   "summary": "中国BYDが9日、中国国家特許局(CNIPA)を通じて、初の独自開発ヒューマノイドロボットデザイン特許を公開した。 今回公開された「体化されたAIロボット(Embodie dAI Robot)」特許によれば、該当ロボットは歩行、均衡維持、環境相互作用機能を搭載しサービス、教育、産業現場に活用する。",
+   "source": "스타뉴스",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/10/2026101022301436272_1.jpg",
+   "published": "2026-10-10T22:37+09:00",
+   "collected": "2026-10-11T09:11+09:00"
+  },
+  {
+   "id": "0ae46ce8a856",
+   "url": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+   "title": "なぜ器用さが物理的なAIの本当のボトルネックなのか",
+   "summary": "ロボットの器用さにおける次の大きな課題は、機能を有用な仕事に変えるのに十分な信頼性をシステム全体に与えることです。The post Why dexterity is physi",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/tdk-featured.jpg",
+   "published": "2026-10-10T21:45+09:00",
+   "collected": "2026-10-11T09:11+09:00",
+   "title_orig": "Why dexterity is physical AI’s real bottleneck",
+   "summary_orig": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post Why dexterity is physi"
+  },
+  {
+   "id": "d2a6c20e4f67",
+   "url": "http://j.people.com.cn/n3/2026/1010/c94476-20506971.html",
+   "title": "広東省、2028年までに人型ロボット年産8万台超を目指す",
+   "summary": "広東省、2028年までに人型ロボット年産8万台超を目指す",
+   "source": "人民網日本語版",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-10T15:03+09:00",
+   "collected": "2026-10-11T09:11+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "f235118bb7bd",
    "url": "https://newscast.jp/smart/news/5978322",
@@ -6710,60 +6765,6 @@
    "published": "2026-09-15T18:03+09:00",
    "collected": "2026-09-16T08:29+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "f3d7b3a9f9d0",
-   "url": "https://robotstart.info/article/2026/09/15/382420.html",
-   "title": "【速報】第4回GMO大会議、熊谷正寿氏がAIの成長速度と日本のロボット産業の現状を語る",
-   "summary": "GMOインターネットグループは2026年9月15日、「第4回GMO大会議・秋・フィジカルAI2026」を開催。開会は15:30、司会はフリーアナウンサーの加藤綾子氏が務めた。オープニングメッセージには、同グループ代表取締役グループ代表・会長兼社長執行役員CEO兼グループAI変革最高責任者CAIOの熊谷正寿氏が登壇した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106766.jpg",
-   "published": "2026-09-15T18:00+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "4b14f263af20",
-   "url": "https://robotstart.info/article/2026/09/15/382419.html",
-   "title": "AIと人が連携するHuman-in-the-Loop型フィジカルAIの提供を開始 AVITA",
-   "summary": "AVITA株式会社は、AIによる自律制御と人による遠隔操作を組み合わせたフィジカルAIの提供を開始した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/106727.jpg",
-   "published": "2026-09-15T17:00+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "d3981152f51b",
-   "url": "https://www.youtube.com/watch?v=Hxqj0e0fH0s",
-   "title": "PUDU GT 3のフルビュー：商用コンパクトロボット芝刈り機",
-   "summary": "# PUDUGT 3の全体像はこちら。PUDU GT 3を実際に🌱🤖見てみましょう—芝刈り、草の収集、軽い破片の処理に取り組んでいます",
-   "source": "Pudu Robotics",
-   "type": "video",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/Hxqj0e0fH0s/hqdefault.jpg",
-   "published": "2026-09-15T16:00+09:00",
-   "collected": "2026-09-16T08:29+09:00",
-   "title_orig": "Full view of PUDU GT3: Commercial Compact Robotic Mower",
-   "summary_orig": "The full view of #PUDUGT3 is here. 🌱🤖 See the PUDU GT3 in action — taking on mowing, grass collection and light debris p"
-  },
-  {
-   "id": "dd6d9acf9f3a",
-   "url": "https://www.atpress.ne.jp/news/4607637",
-   "title": "太陽光発電掃除ロボット市場規模レポート2026：349.55百万米ドル到達予測、年平均成長率12.07%で拡大",
-   "summary": "QY Research株式会社のプレスリリース:太陽光発電掃除ロボット市場規模レポート2026：349.55百万米ドル到達予測、年平均成長率12.07%で拡大",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/n0JuL6yTtLQBYz9GlmLC.jpg",
-   "published": "2026-09-15T15:12+09:00",
-   "collected": "2026-09-16T08:29+09:00"
   }
  ]
 }
