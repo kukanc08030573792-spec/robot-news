@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-11T09:11+09:00",
+  "last_updated": "2026-10-11T09:26+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,20 @@
   ]
  },
  "items": [
+  {
+   "id": "1c083b0bcf0a",
+   "url": "https://pando.life/article/4692379",
+   "title": "日本のクラウドコンピューティングロボット市場規模と動向",
+   "summary": "日本のクラウドコンピューティングロボット市場規模と動向",
+   "source": "pando.life",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-11T09:10+09:00",
+   "collected": "2026-10-11T09:26+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "d3e9878cdbd6",
    "url": "https://note.com/zhenren63/n/ndfa268fa8c91",
@@ -85,7 +99,7 @@
    "thumbnail": null,
    "published": "2026-10-10T15:03+09:00",
    "collected": "2026-10-11T09:11+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "f235118bb7bd",
@@ -6751,20 +6765,6 @@
    "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2026/09/GMO.png",
    "published": "2026-09-15T18:20+09:00",
    "collected": "2026-09-16T08:29+09:00"
-  },
-  {
-   "id": "ba8d485d8a94",
-   "url": "https://news.nicovideo.jp/watch/nw19774889?news_ref=watch_50_nw16165514",
-   "title": "日本のロボット市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年",
-   "summary": "日本のロボット市場調査レポート - 世界市場規模、シェア、傾向の見通し、2026-2035年",
-   "source": "news.nicovideo.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-15T18:03+09:00",
-   "collected": "2026-09-16T08:29+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
