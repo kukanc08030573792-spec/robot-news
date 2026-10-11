@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-11T09:26+09:00",
+  "last_updated": "2026-10-11T10:13+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "624e45751fb7",
+   "url": "https://www.sbbit.jp/article/st/187368",
+   "title": "川崎重工が「AIロボ重工」へ覚醒？ 人型ロボットから四足モビリティまで全方位戦略",
+   "summary": "川崎重工業が「フィジカルAI」を成長の柱に据え、ロボット企業への変貌を急加速させている。2026年10月6日に示した経営計画では、2027～2030年度の4年間で約5,500億円の成長投資枠を設定。2030年度に売上収益3.3兆円超、事業利益3,300億円超を目指す。",
+   "source": "ビジネス+IT",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.sbbit.jp/article/image/187368/OGP_bit202610110850507382.jpg",
+   "published": "2026-10-11T09:30+09:00",
+   "collected": "2026-10-11T10:13+09:00"
+  },
+  {
    "id": "1c083b0bcf0a",
    "url": "https://pando.life/article/4692379",
    "title": "日本のクラウドコンピューティングロボット市場規模と動向",
@@ -44,7 +57,7 @@
    "thumbnail": null,
    "published": "2026-10-11T09:10+09:00",
    "collected": "2026-10-11T09:26+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "d3e9878cdbd6",
@@ -99,7 +112,7 @@
    "thumbnail": null,
    "published": "2026-10-10T15:03+09:00",
    "collected": "2026-10-11T09:11+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f235118bb7bd",
@@ -733,6 +746,19 @@
    "published": "2026-10-08T12:07+09:00",
    "collected": "2026-10-09T10:09+09:00",
    "_thumb_tries": 3
+  },
+  {
+   "id": "3441a2e19328",
+   "url": "https://news.yahoo.co.jp/articles/5f003115ba25823c312ca03de160d486a6245ae4",
+   "title": "踊って「今日のコーデ」紹介、ロボットインフルエンサーが台頭（朝鮮日報日本語版）",
+   "summary": "グーグル本社がある米カリフォルニア州マウンテンビューの中心街には、ほぼ毎日午後7時ごろ、身長130センチほどの小さなヒューマノイドロボットが姿を現す。麦わら帽子をかぶって通りを歩き回り、人々と踊り、",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00080092-chosun-000-8-view.jpg?exp=10800",
+   "published": "2026-10-08T11:40+09:00",
+   "collected": "2026-10-11T10:13+09:00"
   },
   {
    "id": "5ed1a54f5128",
@@ -6736,34 +6762,6 @@
    "expert": false,
    "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/09/agility-robotics-debuts-digit-5-humanoid-with-new-safety-architecture.jpg",
    "published": "2026-09-15T20:24+09:00",
-   "collected": "2026-09-16T08:29+09:00"
-  },
-  {
-   "id": "fba5ba1176c1",
-   "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
-   "title": "AgilityのDigit 5ヒューマノイドには、新しい脚、バッテリー、安全性のアップグレードがあります",
-   "summary": "Digitの最新バージョンには、新しい膝、アップグレードされたバッテリー、より包括的な安全アーキテクチャが含まれています。POST",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
-   "published": "2026-09-15T19:55+09:00",
-   "collected": "2026-09-16T08:29+09:00",
-   "title_orig": "Agility’s Digit 5 humanoid has new legs, batteries and safety upgrades",
-   "summary_orig": "The latest version of Digit includes new knees, upgraded batteries, and more comprehensive safety architecture. The post"
-  },
-  {
-   "id": "465262596f83",
-   "url": "https://aismiley.co.jp/ai_news/gmo-air-gmo-humanoid-ambulance/",
-   "title": "GMO AIR、国内初の人型ロボット専用保守車両「GMOヒューマノイド救急車」を導入",
-   "summary": "GMO AI&ロボティクス商事は、国内で初めて人型ロボット専用の保守車両「GMOヒューマノイド救急車」を2026年9月に導入します。",
-   "source": "AIsmiley",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://aismiley.co.jp/wp-content/uploads/2026/09/GMO.png",
-   "published": "2026-09-15T18:20+09:00",
    "collected": "2026-09-16T08:29+09:00"
   }
  ]

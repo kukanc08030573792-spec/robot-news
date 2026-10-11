@@ -1,5 +1,18 @@
 [
  {
+  "id": "624e45751fb7",
+  "url": "https://www.sbbit.jp/article/st/187368",
+  "title": "川崎重工が「AIロボ重工」へ覚醒？ 人型ロボットから四足モビリティまで全方位戦略",
+  "summary": "川崎重工業が「フィジカルAI」を成長の柱に据え、ロボット企業への変貌を急加速させている。2026年10月6日に示した経営計画では、2027～2030年度の4年間で約5,500億円の成長投資枠を設定。2030年度に売上収益3.3兆円超、事業利益3,300億円超を目指す。",
+  "source": "ビジネス+IT",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.sbbit.jp/article/image/187368/OGP_bit202610110850507382.jpg",
+  "published": "2026-10-11T09:30+09:00",
+  "collected": "2026-10-11T10:13+09:00"
+ },
+ {
   "id": "1c083b0bcf0a",
   "url": "https://pando.life/article/4692379",
   "title": "日本のクラウドコンピューティングロボット市場規模と動向",
@@ -11,7 +24,7 @@
   "thumbnail": null,
   "published": "2026-10-11T09:10+09:00",
   "collected": "2026-10-11T09:26+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "d3e9878cdbd6",
@@ -66,7 +79,7 @@
   "thumbnail": null,
   "published": "2026-10-10T15:03+09:00",
   "collected": "2026-10-11T09:11+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f235118bb7bd",
@@ -700,6 +713,19 @@
   "published": "2026-10-08T12:07+09:00",
   "collected": "2026-10-09T10:09+09:00",
   "_thumb_tries": 3
+ },
+ {
+  "id": "3441a2e19328",
+  "url": "https://news.yahoo.co.jp/articles/5f003115ba25823c312ca03de160d486a6245ae4",
+  "title": "踊って「今日のコーデ」紹介、ロボットインフルエンサーが台頭（朝鮮日報日本語版）",
+  "summary": "グーグル本社がある米カリフォルニア州マウンテンビューの中心街には、ほぼ毎日午後7時ごろ、身長130センチほどの小さなヒューマノイドロボットが姿を現す。麦わら帽子をかぶって通りを歩き回り、人々と踊り、",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261008-00080092-chosun-000-8-view.jpg?exp=10800",
+  "published": "2026-10-08T11:40+09:00",
+  "collected": "2026-10-11T10:13+09:00"
  },
  {
   "id": "5ed1a54f5128",
