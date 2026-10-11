@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-11T10:13+09:00",
+  "last_updated": "2026-10-11T10:47+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "429ec4091bf9",
+   "url": "https://biz.chosun.com/jp/jp-it/2026/10/11/RJBBIHJBNFELHFJ5G24AYA2Y4E/",
+   "title": "ヒューマノイド向けDRAM20倍増見通し サムスン・SKハイニックスが成長牽引",
+   "summary": "ヒューマノイド向けDRAM20倍増見通し サムスン・SKハイニックスが成長牽引",
+   "source": "Chosunbiz",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://biz.chosun.com/resizer/v2/AQB4EHDV6BGPVM32YG6PBG2PYI.png?auth=eaaf96a9abfc01398e87f32b101c5faf3509504ebd4432f2481d3c6c42b38c42&width=1200&height=630&smart=true",
+   "published": "2026-10-11T10:36+09:00",
+   "collected": "2026-10-11T10:47+09:00"
+  },
+  {
    "id": "624e45751fb7",
    "url": "https://www.sbbit.jp/article/st/187368",
    "title": "川崎重工が「AIロボ重工」へ覚醒？ 人型ロボットから四足モビリティまで全方位戦略",
@@ -57,7 +70,7 @@
    "thumbnail": null,
    "published": "2026-10-11T09:10+09:00",
    "collected": "2026-10-11T09:26+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d3e9878cdbd6",
@@ -6750,19 +6763,6 @@
    "collected": "2026-09-16T08:29+09:00",
    "title_orig": "InOrbit.AI releases OpenRobOps ISO 21423 reference implementation",
    "summary_orig": "OpenRobOps gives robotics developers a foundation to deliver a fleet manager with support for the upcoming interoperabil"
-  },
-  {
-   "id": "fe28fceae550",
-   "url": "https://www.unite.ai/ja/agility-robotics-debuts-digit-5-humanoid-with-new-safety-architecture/",
-   "title": "Agility Robotics、 新しい安全アーキテクチャを備えた Digit 5 ヒューマノイドを発表",
-   "summary": "Agility Robotics は 2026年9月15日に、汎用ヒューマノイドロボットの第5世代である Digit 5 を発表し、同社初の大規模で協調的に安全な作業向けに設計されたヒューマノイドであると説明し、2026年5月時点で3億ドル",
-   "source": "Unite.AI",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/09/agility-robotics-debuts-digit-5-humanoid-with-new-safety-architecture.jpg",
-   "published": "2026-09-15T20:24+09:00",
-   "collected": "2026-09-16T08:29+09:00"
   }
  ]
 }
