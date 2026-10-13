@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-13T11:42+09:00",
+  "last_updated": "2026-10-13T12:09+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,32 @@
   ]
  },
  "items": [
+  {
+   "id": "ba4d1c7de0da",
+   "url": "https://robotstart.info/article/2026/10/13/382509.html",
+   "title": "【動画】4体のアヒル型ロボット「Microduck」が魅せる即興合唱 Hugging Face傘下Pollen Robotics",
+   "summary": "Pollen Roboticsが開発したオープンソースロボット「Microduck（マイクロダック）」が4体集まり、息の合った合唱を披露する様子が2026年10月12日にYouTubeで公開された。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107737.jpg",
+   "published": "2026-10-13T12:00+09:00",
+   "collected": "2026-10-13T12:09+09:00"
+  },
+  {
+   "id": "fadd2f9bbe59",
+   "url": "https://prtimes.jp/main/html/rd/p/000005581.000000136.html",
+   "title": "GMO AI＆ロボティクス商事、センシング・対話機能を強化したUnitree製人型ロボット（ヒューマノイド）「G1+」の国内取り扱いを開始",
+   "summary": "GMO AI＆ロボティクス商事、センシング・対話機能を強化したUnitree製人型ロボット（ヒューマノイド）「G1+」の国内取り扱いを開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/136/5581/136-5581-9ef1aaf4f01ecaaee71ec250d3c657dc-1920x1005.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-13T12:00+09:00",
+   "collected": "2026-10-13T12:09+09:00"
+  },
   {
    "id": "4c04128f8241",
    "url": "https://article.auone.jp/0ea72e5e-3a0b-421f-88d9-127243a6d99a",
@@ -96,7 +122,7 @@
    "thumbnail": null,
    "published": "2026-10-13T09:30+09:00",
    "collected": "2026-10-13T11:31+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "ba14ca274420",
@@ -162,7 +188,7 @@
    "thumbnail": null,
    "published": "2026-10-13T01:28+09:00",
    "collected": "2026-10-13T11:31+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "9af1e958c4b2",
@@ -6734,33 +6760,6 @@
    "expert": false,
    "thumbnail": "https://36kr.jp/uploads/2026/09/20260916102531screenshot913.png",
    "published": "2026-09-17T08:05+09:00",
-   "collected": "2026-09-17T08:37+09:00"
-  },
-  {
-   "id": "550d7231c62d",
-   "url": "https://news.nicovideo.jp/watch/nw19781602?news_ref=watch_50_nw19039857",
-   "title": "国産セミヒューマノイド『ugo Nova』発表 2027年量産開始、工場や倉庫での作業を想定",
-   "summary": "国産セミヒューマノイド『ugo Nova』発表 2027年量産開始、工場や倉庫での作業を想定",
-   "source": "ニコニコニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-17T08:03+09:00",
-   "collected": "2026-09-17T08:37+09:00",
-   "_thumb_tries": 3
-  },
-  {
-   "id": "d665e70c5f4b",
-   "url": "https://news.yahoo.co.jp/articles/3bd0ff90ca4a2410dfd5ad21aeb78cc72bef0c6e",
-   "title": "なぜ、国産AIロボ企業「ugo」の開発速度はスゴイ？秘密は…7年磨き続けた“ある技術”（ビジネス＋IT）",
-   "summary": "海外勢が巨額の資金を投じ、ヒューマノイドロボットの開発競争が過熱している。その中で、日本のあるスタートアップが異様な速度で製品を出し続けていることは、あまり知られていない。",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00186532-biz_plus-000-1-view.jpg?exp=10800",
-   "published": "2026-09-17T07:00+09:00",
    "collected": "2026-09-17T08:37+09:00"
   }
  ]

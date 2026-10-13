@@ -1,5 +1,31 @@
 [
  {
+  "id": "ba4d1c7de0da",
+  "url": "https://robotstart.info/article/2026/10/13/382509.html",
+  "title": "【動画】4体のアヒル型ロボット「Microduck」が魅せる即興合唱 Hugging Face傘下Pollen Robotics",
+  "summary": "Pollen Roboticsが開発したオープンソースロボット「Microduck（マイクロダック）」が4体集まり、息の合った合唱を披露する様子が2026年10月12日にYouTubeで公開された。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/107737.jpg",
+  "published": "2026-10-13T12:00+09:00",
+  "collected": "2026-10-13T12:09+09:00"
+ },
+ {
+  "id": "fadd2f9bbe59",
+  "url": "https://prtimes.jp/main/html/rd/p/000005581.000000136.html",
+  "title": "GMO AI＆ロボティクス商事、センシング・対話機能を強化したUnitree製人型ロボット（ヒューマノイド）「G1+」の国内取り扱いを開始",
+  "summary": "GMO AI＆ロボティクス商事、センシング・対話機能を強化したUnitree製人型ロボット（ヒューマノイド）「G1+」の国内取り扱いを開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/136/5581/136-5581-9ef1aaf4f01ecaaee71ec250d3c657dc-1920x1005.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-13T12:00+09:00",
+  "collected": "2026-10-13T12:09+09:00"
+ },
+ {
   "id": "4c04128f8241",
   "url": "https://article.auone.jp/0ea72e5e-3a0b-421f-88d9-127243a6d99a",
   "title": "国産ヒューマノイド「N」の量産試作機をCEATEC 2026に展示、HighlandersがAWSブース内で動作デモを実施",
@@ -63,7 +89,7 @@
   "thumbnail": null,
   "published": "2026-10-13T09:30+09:00",
   "collected": "2026-10-13T11:31+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "ba14ca274420",
@@ -129,7 +155,7 @@
   "thumbnail": null,
   "published": "2026-10-13T01:28+09:00",
   "collected": "2026-10-13T11:31+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "9af1e958c4b2",
