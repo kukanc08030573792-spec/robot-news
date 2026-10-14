@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-14T09:35+09:00",
+  "last_updated": "2026-10-14T10:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "776d41a0f416",
+   "url": "https://robotstart.info/article/2026/10/14/382515.html",
+   "title": "ソニー、スタートアップ7社の自動運転・AI半導体など多彩な技術を披露…CEATEC 2026",
+   "summary": "ソニーは、2026年10月13日（火）から16日（金）まで千葉市美浜区の幕張メッセで開催される「CEATEC 2026」に出展する。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/107766.jpg",
+   "published": "2026-10-14T10:00+09:00",
+   "collected": "2026-10-14T10:22+09:00"
+  },
   {
    "id": "e915e2f89eec",
    "url": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
@@ -72,7 +85,7 @@
    "thumbnail": null,
    "published": "2026-10-14T06:15+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "71a3fd031df1",
@@ -86,7 +99,7 @@
    "thumbnail": null,
    "published": "2026-10-14T05:15+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6a723257489c",
@@ -208,7 +221,7 @@
    "thumbnail": null,
    "published": "2026-10-13T17:16+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d20f6a98e857",
@@ -222,7 +235,7 @@
    "thumbnail": null,
    "published": "2026-10-13T17:08+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6c9f4bc559ea",
@@ -236,7 +249,7 @@
    "thumbnail": null,
    "published": "2026-10-13T17:00+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4a4d17966241",
@@ -289,7 +302,7 @@
    "thumbnail": null,
    "published": "2026-10-13T16:15+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "123db3df81d7",
@@ -316,7 +329,7 @@
    "thumbnail": null,
    "published": "2026-10-13T15:52+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "44af9f4cfe84",
@@ -369,7 +382,7 @@
    "thumbnail": null,
    "published": "2026-10-13T13:36+09:00",
    "collected": "2026-10-14T09:14+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "72323720f340",
@@ -6750,19 +6763,6 @@
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/106916.jpg",
    "published": "2026-09-18T12:00+09:00",
-   "collected": "2026-09-19T08:12+09:00"
-  },
-  {
-   "id": "b76a5e316b8d",
-   "url": "https://newscast.jp/smart/news/6176898",
-   "title": "AIとロボティクス技術の革新を背景に、世界のヒューマノイドロボット市場は2035年までに602億8000万ドルへと急拡大する見通し",
-   "summary": "AIとロボティクス技術の革新を背景に、世界のヒューマノイドロボット市場は2035年までに602億8000万ドルへと急拡大する見通し",
-   "source": "Newscast.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/P2uzYIhhl3FGVPqYjQxs.jpg",
-   "published": "2026-09-18T11:30+09:00",
    "collected": "2026-09-19T08:12+09:00"
   }
  ]
