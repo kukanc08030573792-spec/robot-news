@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-15T09:04+09:00",
+  "last_updated": "2026-10-15T09:49+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,20 @@
   ]
  },
  "items": [
+  {
+   "id": "52f25f3b23f0",
+   "url": "https://news.nicovideo.jp/watch/nw19880025?news_ref=watch_20_nw19780918",
+   "title": "匠新作成「世界ロボット大会(WRC) 2026特集レポート」無料公開中！",
+   "summary": "匠新作成「世界ロボット大会(WRC) 2026特集レポート」無料公開中！",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-15T09:15+09:00",
+   "collected": "2026-10-15T09:49+09:00",
+   "_thumb_tries": 1
+  },
   {
    "id": "b66d73c1ec08",
    "url": "https://news.yahoo.co.jp/articles/05ff5d3a17f9476b417c292096b2466ee00a105a",
@@ -165,7 +179,7 @@
    "thumbnail": null,
    "published": "2026-10-14T18:45+09:00",
    "collected": "2026-10-15T08:52+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d6e3b26947bc",
@@ -309,7 +323,7 @@
    "thumbnail": null,
    "published": "2026-10-14T10:30+09:00",
    "collected": "2026-10-15T08:52+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "776d41a0f416",
@@ -392,7 +406,7 @@
    "thumbnail": null,
    "published": "2026-10-14T05:13+09:00",
    "collected": "2026-10-15T08:52+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "6a723257489c",
@@ -6742,19 +6756,6 @@
    "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789872609491_images_24_.jpeg",
    "published": "2026-09-20T12:31+09:00",
    "collected": "2026-09-21T08:09+09:00"
-  },
-  {
-   "id": "3efcb960c0cd",
-   "url": "https://www.sbbit.jp/article/st/187033",
-   "title": "米Figure AIが人型ロボットのAI頭脳「Helix 2.5」を発表、初めての家30軒で家事を完遂",
-   "summary": "米ロボティクス企業のFigure AIは2026年9月、ヒューマノイドロボット向けの新たなAI制御モデル「Helix 2.5」を発表した。同社は事前のデータ収集を一切行っていない未知の住宅30軒に自社開発のロボットを持ち込み、ベッドメイキングや部屋の片付けなどの家事タスクを完全に自律実行させることに成功した。",
-   "source": "ビジネス+IT",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.sbbit.jp/article/image/187033/OGP_bit202609201517189330.jpg",
-   "published": "2026-09-20T10:00+09:00",
-   "collected": "2026-09-21T10:00+09:00"
   }
  ]
 }
