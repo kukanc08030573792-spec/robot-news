@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-15T09:49+09:00",
+  "last_updated": "2026-10-15T10:22+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -44,7 +44,20 @@
    "thumbnail": null,
    "published": "2026-10-15T09:15+09:00",
    "collected": "2026-10-15T09:49+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
+  },
+  {
+   "id": "15585a2c1f69",
+   "url": "https://toyokeizai.net/articles/photo/961030",
+   "title": "画像 | ｢スケル豚の次はこれか｣と騒然…配膳ロボットから《高級肉横取り》で物議｢しゃぶ葉｣炎上後に訪れて感じた\"本質的課題\"",
+   "summary": "薄切り肉が話題となったしゃぶ葉で､今度は配膳ロボットからの\"肉の横取り\"問題がSNSで拡散。客同士のトラブルや店舗側の対応､そして実際の現場の様子はどう変わったのか。",
+   "source": "東洋経済オンライン",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://tk.ismcdn.jp/mwimgs/d/e/1200xm/img_de06a54ddfec08bf68b7f6ea75a9a05e400389.jpg",
+   "published": "2026-10-15T06:51+09:00",
+   "collected": "2026-10-15T10:22+09:00"
   },
   {
    "id": "b66d73c1ec08",
@@ -297,6 +310,19 @@
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/3442/6914/3442-6914-c17ac34593ef83d2d8a09755f6f5bf91-1600x1067.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-10-14T11:20+09:00",
    "collected": "2026-10-15T08:52+09:00"
+  },
+  {
+   "id": "0187288a27c1",
+   "url": "https://prtimes.jp/main/html/rd/p/000000164.000025142.html",
+   "title": "アイロボットジャパン、フラッグシップを超える最上級モデル「Roomba® Monster」​を発売",
+   "summary": "アイロボットジャパン、フラッグシップを超える最上級モデル「Roomba® Monster」​を発売",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/25142/164/25142-164-5437b6dd0e6dea3b813f6caf5220d966-1586x707.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-14T11:00+09:00",
+   "collected": "2026-10-15T10:22+09:00"
   },
   {
    "id": "a63765b31f17",
@@ -6729,32 +6755,6 @@
    "expert": false,
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/townnews/m_townnews-853566.jpg",
    "published": "2026-09-20T14:00+09:00",
-   "collected": "2026-09-21T08:09+09:00"
-  },
-  {
-   "id": "5f1ac562e894",
-   "url": "https://www.vietnam.vn/ja/400-000-robot-hinh-nguoi-se-lam-viec-cung-cong-nhan-nha-may-toyota",
-   "title": "40万台のヒューマノイドロボットがトヨタの工場労働者と共に働くことになる。",
-   "summary": "VTV.vn - トヨタ自動車は、自社開発のヒューマノイドロボット40万台を世界中の製造工場に導入し、設備の近代化を図る計画だ。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789877500483_package-media-90274561443844533733036-85968424899544830108046.webp",
-   "published": "2026-09-20T13:25+09:00",
-   "collected": "2026-09-21T08:09+09:00"
-  },
-  {
-   "id": "00854f821432",
-   "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-trung-quoc-sap-thong-minh-nhu-chatgpt",
-   "title": "中国製のヒューマノイドロボットは、近いうちにChatGPTのような知能を持つようになるのだろうか？",
-   "summary": "中国のあるスタートアップ企業は、人型ロボットが2027年半ばまでに自然言語による指示を理解し、複雑な一連の動作を実行できるようになると予測している。",
-   "source": "Vietnam.vn",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/09/20/1789872609491_images_24_.jpeg",
-   "published": "2026-09-20T12:31+09:00",
    "collected": "2026-09-21T08:09+09:00"
   }
  ]

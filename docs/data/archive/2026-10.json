@@ -11,7 +11,20 @@
   "thumbnail": null,
   "published": "2026-10-15T09:15+09:00",
   "collected": "2026-10-15T09:49+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
+ },
+ {
+  "id": "15585a2c1f69",
+  "url": "https://toyokeizai.net/articles/photo/961030",
+  "title": "画像 | ｢スケル豚の次はこれか｣と騒然…配膳ロボットから《高級肉横取り》で物議｢しゃぶ葉｣炎上後に訪れて感じた\"本質的課題\"",
+  "summary": "薄切り肉が話題となったしゃぶ葉で､今度は配膳ロボットからの\"肉の横取り\"問題がSNSで拡散。客同士のトラブルや店舗側の対応､そして実際の現場の様子はどう変わったのか。",
+  "source": "東洋経済オンライン",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://tk.ismcdn.jp/mwimgs/d/e/1200xm/img_de06a54ddfec08bf68b7f6ea75a9a05e400389.jpg",
+  "published": "2026-10-15T06:51+09:00",
+  "collected": "2026-10-15T10:22+09:00"
  },
  {
   "id": "b66d73c1ec08",
@@ -277,6 +290,19 @@
   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/25142/165/25142-165-70faebe4eed86d93909d0d03f08f0f92-2000x2000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
   "published": "2026-10-14T11:00+09:00",
   "collected": "2026-10-15T08:52+09:00"
+ },
+ {
+  "id": "0187288a27c1",
+  "url": "https://prtimes.jp/main/html/rd/p/000000164.000025142.html",
+  "title": "アイロボットジャパン、フラッグシップを超える最上級モデル「Roomba® Monster」​を発売",
+  "summary": "アイロボットジャパン、フラッグシップを超える最上級モデル「Roomba® Monster」​を発売",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/25142/164/25142-164-5437b6dd0e6dea3b813f6caf5220d966-1586x707.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-14T11:00+09:00",
+  "collected": "2026-10-15T10:22+09:00"
  },
  {
   "id": "69699a6428cf",
