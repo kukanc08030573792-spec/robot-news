@@ -24,7 +24,7 @@
   "thumbnail": null,
   "published": "2026-10-17T05:25+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "2d905f18d7f6",
@@ -68,7 +68,7 @@
   "thumbnail": null,
   "published": "2026-10-16T21:23+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "cebc8a997e8f",
@@ -199,7 +199,7 @@
   "thumbnail": null,
   "published": "2026-10-16T16:00+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "44fb7405f1f3",
@@ -395,6 +395,19 @@
   "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/16/cover_news017.jpg",
   "published": "2026-10-16T08:00+09:00",
   "collected": "2026-10-17T08:27+09:00"
+ },
+ {
+  "id": "7fc116ab9ef3",
+  "url": "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017_2.html",
+  "title": "日本に本当に勝ち筋はあるのか ヒューマノイド「解剖」で見る中国の強さと課題：FAイベントレポート（2/3 ページ）",
+  "summary": "",
+  "source": "MONOist",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.itmedia.co.jp/mn/articles/2610/16/cover_news017.jpg",
+  "published": "2026-10-16T08:00+09:00",
+  "collected": "2026-10-17T08:51+09:00"
  },
  {
   "id": "48ec4f1509be",
