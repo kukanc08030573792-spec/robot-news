@@ -1,5 +1,20 @@
 [
  {
+  "id": "22364fc8f8c6",
+  "url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+  "title": "ロボットフリートの規模拡大でオポチュニティチャージングが成功する理由",
+  "summary": "Ben Waters氏は、自律型ロボットフリートの移動、拡張性、運用効率を維持するために、オポチュニティ充電が不可欠になっている理由を説明しています。",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/episode-266-cover-image.jpg",
+  "published": "2026-10-17T08:39+09:00",
+  "collected": "2026-10-17T09:45+09:00",
+  "title_orig": "Why opportunity charging is winning as robot fleets scale",
+  "summary_orig": "Ben Waters explains why opportunity charging is becoming essential for keeping autonomous robot fleets moving, scalable, and operationally efficient. The post W"
+ },
+ {
   "id": "9d8c404699bc",
   "url": "https://online.logi-biz.com/151391/",
   "title": "清水建設が米AI・ロボティクス企業のノーブルマシーンズに出資完了、現場向けヒューマノイドAIロボを開発",
@@ -24,7 +39,7 @@
   "thumbnail": null,
   "published": "2026-10-17T05:25+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "2d905f18d7f6",
@@ -68,7 +83,7 @@
   "thumbnail": null,
   "published": "2026-10-16T21:23+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "cebc8a997e8f",
@@ -199,7 +214,7 @@
   "thumbnail": null,
   "published": "2026-10-16T16:00+09:00",
   "collected": "2026-10-17T08:27+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "44fb7405f1f3",
@@ -330,6 +345,19 @@
   "thumbnail": "https://news.mynavi.jp/techplus/article/20261016-5138080/ogp_images/ogp.jpg",
   "published": "2026-10-16T11:34+09:00",
   "collected": "2026-10-17T08:27+09:00"
+ },
+ {
+  "id": "b793aefc63dd",
+  "url": "https://36kr.jp/503309/",
+  "title": "中国AGIBOT、人型ロボット出荷で世界首位 上半期8600台超",
+  "summary": "中国の人型ロボット（ヒューマノイド）企業「智元機器人（AGIBOT）」は9月30日、市場調査会社IDCのデータ",
+  "source": "36Kr Japan",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://36kr.jp/uploads/2026/10/202610141551551778141378283297888.webp",
+  "published": "2026-10-16T11:31+09:00",
+  "collected": "2026-10-17T09:45+09:00"
  },
  {
   "id": "216842a93c98",
