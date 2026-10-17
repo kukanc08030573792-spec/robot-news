@@ -1,5 +1,113 @@
 [
  {
+  "id": "d49f6b7d2320",
+  "url": "https://news.yahoo.co.jp/articles/87f9dd42656470addeb6a0ec6ea5a8c2bed279ea",
+  "title": "韓国LG電子、二足歩行ロボット「クロイド」を2027年初めに発売へ（KOREA WAVE）",
+  "summary": "【10月18日 KOREA WAVE】韓国LG電子が2027年初め、二足歩行型の家庭用ヒューマノイドロボット「クロイド（CLOiD）」を発売する。同社初の二足歩行型で、2026年初めに米国の「CES",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261018-03658102-clc_korea-000-1-view.jpg?exp=10800",
+  "published": "2026-10-18T07:24+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
+  "id": "76bfbf9c46b1",
+  "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+  "title": "ADIは、AIを物理的にするための競争を説明します",
+  "summary": "新しいADIホワイトペーパーでは、物理的なAIをラボから生産機械に移行する際の課題と機会を検討しています。ポストADIは、MAへのレースを説明しています",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/ADI_download.jpg",
+  "published": "2026-10-18T06:33+09:00",
+  "collected": "2026-10-18T08:01+09:00",
+  "title_orig": "ADI explains the race to make AI physical",
+  "summary_orig": "A new ADI whitepaper examines the challenges and opportunities in moving physical AI out of labs into production machinery. The post ADI explains the race to ma"
+ },
+ {
+  "id": "661f56118416",
+  "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+  "title": "機械の台頭はキャンセルされました： AIを持つヒューマノイドが敵ではなくヘルパーである理由",
+  "summary": "コラムニストによると、人間はヒューマノイドロボットの開発やAIモデルの訓練において重要な役割を果たしているため、制御を維持することができます。ポストマシンの台頭i",
+  "source": "The Robot Report",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-full-body-2.jpg",
+  "published": "2026-10-17T21:30+09:00",
+  "collected": "2026-10-18T08:01+09:00",
+  "title_orig": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+  "summary_orig": "Humans play a key role in developing humanoid robots and training AI models, so we can maintain control, writes a columnist. The post The rise of the machines i"
+ },
+ {
+  "id": "ba84de8c33c8",
+  "url": "https://note.com/kmoriyama/n/n65aad7019608",
+  "title": "清水建設が出資した米国ヒューマノイド企業「Noble Machines」の技術的強み｜森山和道 ライター、書評屋",
+  "summary": "Noble Machines（ノーブル・マシーンズ）は、建設現場などの過酷な環境で働く汎用ヒューマノイドロボットを開発する、米シリコンバレーのスタートアップだ。 清水建設は2026年10月16日、同社への出資完了と、本格的な共同開発の開始を発表した。",
+  "source": "note",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://assets.st-note.com/production/uploads/images/325427256/rectangle_large_type_2_da16359cf2faf58b29ce509cbb87c96c.jpeg?fit=bounds&quality=85&width=1280",
+  "published": "2026-10-17T20:33+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
+  "id": "605854d47aaf",
+  "url": "https://newscast.jp/smart/news/1250442",
+  "title": "太陽光発電モジュール自動洗浄ロボットの世界市場（2026年～2032年）、市場規模（据え置き型、移動型）・分析レポートを発表",
+  "summary": "太陽光発電モジュール自動洗浄ロボットの世界市場（2026年～2032年）、市場規模（据え置き型、移動型）・分析レポートを発表",
+  "source": "Newscast.jp",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.atpress.ne.jp/attachments/jkgXBDO3EBHNyJl33J5I.png",
+  "published": "2026-10-17T14:30+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
+  "id": "504e71349fc7",
+  "url": "https://akabane-shinbun.com/archives/268665",
+  "title": "赤羽駅のトイレに清掃ロボット登場するみたい！",
+  "summary": "赤羽駅で、AIや清掃ロボットなどを活用した駅の清掃に関する実証実験が始まるみたい！王子駅・十条駅・東十条駅でも実施されるようです。 JR東日本の公式サイトに、10月16日付でプレスリリースが出ていました。",
+  "source": "赤羽マガジン",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://akabane-shinbun.com/wp-content/uploads/2024/03/IMG_9464.jpg",
+  "published": "2026-10-17T14:26+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
+  "id": "977604c5618b",
+  "url": "https://ampmedia.jp/2026/10/17/jreast-clean-2610/",
+  "title": "JR東日本ら、赤羽駅など4駅でAI・清掃ロボットの実証実験を10月27日から開始 需要連動型・予兆型清掃の実現へ",
+  "summary": "JR東日本ら、赤羽駅など4駅でAI・清掃ロボットの実証実験を10月27日から開始 需要連動型・予兆型清掃の実現へ",
+  "source": "AMP[アンプ]",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://ampmedia.jp/wp-content/uploads/2026/10/17557-1551-37eed3e737bec9f948c06e7713294c8b-2058x1217-1.png",
+  "published": "2026-10-17T13:09+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
+  "id": "e4c0b494dc13",
+  "url": "https://hoteres.com/blogs/report/2026101701",
+  "title": "アイリスオーヤマ、法人向けDX清掃ロボット「JILBY」を発売",
+  "summary": "アイリスオーヤマは、法人向けDX清掃ロボット「JILBY」を7月1日に発売する。ソフトウェア・ハードウェアを完全内製し、AIエージェントとの連携により、清掃ルートや頻度、時間帯の最適化を支援する。",
+  "source": "HOTERES Digital",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "http://hoteres.com/cdn/shop/articles/thumb_260707iris_e4974c64-91c0-4ee0-bd58-f9ae196b28a4.jpg?v=1783394328",
+  "published": "2026-10-17T09:23+09:00",
+  "collected": "2026-10-18T08:01+09:00"
+ },
+ {
   "id": "22364fc8f8c6",
   "url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
   "title": "ロボットフリートの規模拡大でオポチュニティチャージングが成功する理由",
@@ -26,6 +134,19 @@
   "thumbnail": "https://online.logi-biz.com/wp-content/uploads/2026/10/ad3143460423e80e4799b6713e054b92.jpg",
   "published": "2026-10-17T06:00+09:00",
   "collected": "2026-10-17T08:27+09:00"
+ },
+ {
+  "id": "240f43f1bd8f",
+  "url": "https://president.jp/articles/-/120315?page=1",
+  "title": "中国の\"人型ロボット\"が100mを8秒64で走って大注目されたけど…習近平政権が警戒する\"急成長の裏側\"",
+  "summary": "中国のロボット開発が急速に進んでいる。100メートルを8秒64で走る機体が登場し、物流や工場でも実用化が進む。一方で、政治学者の伊藤隆太さんは「成長を支えているのは技術力だけではない。政府は開発支援だけでなく、導入補助や自ら買い手となることで需要まで下支えしている。",
+  "source": "PRESIDENT Online（プレジデントオンライン）",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://president.ismcdn.jp/mwimgs/e/3/1200wm/img_e3f099480cc267703c6df10fc3313421887014.jpg",
+  "published": "2026-10-17T06:00+09:00",
+  "collected": "2026-10-18T08:01+09:00"
  },
  {
   "id": "8b91c602c548",
@@ -241,6 +362,19 @@
   "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/10/120ft-microfactory-white.jpg",
   "published": "2026-10-16T15:24+09:00",
   "collected": "2026-10-17T08:27+09:00"
+ },
+ {
+  "id": "9c687b3d9fda",
+  "url": "https://36kr.jp/503317/",
+  "title": "世界の人型ロボット販売、半年で前年通年超え 売上高トップ5は中国勢",
+  "summary": "米大手コンサルティング会社のフロスト＆サリバンはこのほど、「2026年世界人型ロボット市場研究報告書」を発表し",
+  "source": "36Kr Japan",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://36kr.jp/uploads/2026/09/20260925094339screenshot725.png",
+  "published": "2026-10-16T15:01+09:00",
+  "collected": "2026-10-18T08:01+09:00"
  },
  {
   "id": "7e6300272d9d",
@@ -667,6 +801,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/107945.jpg",
   "published": "2026-10-15T15:10+09:00",
   "collected": "2026-10-16T08:38+09:00"
+ },
+ {
+  "id": "60d59fbdd0df",
+  "url": "https://www.moomoo.com/ja/community/feed/the-demand-for-dram-in-humanoid-robots-could-increase-twentyfold-117447152500742",
+  "title": "ヒューマノイドロボットにおけるDRAMの需要は、2030年までに20倍に増加する可能性があります。",
+  "summary": "ヒューマノイドロボットにおけるDRAMの需要は、2030年までに20倍に増加する可能性があります。 カウンターポイント・リサーチによると、以下の予測が示されています。",
+  "source": "Moomoo",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://sgsnsimg.moomoo.com/sns_client_feed/181134911/20261016/web-1792101314009-dHOJM2O0OZ.jpeg?imageMogr2/thumbnail/1200x|imageMogr2/crop/1200x630/gravity/center/ignore-error/1",
+  "published": "2026-10-15T14:55+09:00",
+  "collected": "2026-10-18T08:01+09:00"
  },
  {
   "id": "1c3849ee727b",
