@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-18T08:22+09:00",
+  "last_updated": "2026-10-18T09:15+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,32 @@
   ]
  },
  "items": [
+  {
+   "id": "1e6d799af3e2",
+   "url": "https://netkeizai.com/articles/detail/20227",
+   "title": "ZOZO NEXT、AVITAとヒューマノイド向け衣服を共同研究へ",
+   "summary": "ZOZOは10月15日、ZOZO NEXTとAVITAが、ヒューマノイドロボットに特化したテキスタイルや衣服の共同研究に向け、基本合意書（MOU）を締結したと発表した。両社は研究テーマの詳細を協議し、2027年1月の共同研究開始を目指す。",
+   "source": "日本ネット経済新聞",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.netkeizai.com/articles/20000/20227/478x850/736c65c5beb81c381f4f7087d70ae1a8.jpg",
+   "published": "2026-10-18T09:01+09:00",
+   "collected": "2026-10-18T09:15+09:00"
+  },
+  {
+   "id": "42dfcc87df92",
+   "url": "https://www.vietnam.vn/ja/robot-trung-quoc-hoc-nghe-cong-nhan-co-lo-mat-viec",
+   "title": "中国のロボットが職業訓練を受けている。労働者は職を失うことを心配するだろうか？",
+   "summary": "中国のロボットが職業訓練を受けている。労働者は職を失うことを心配するだろうか？",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/18/1792277326843_caxnywju6porp2_qwvx18votwbv9ssq2al5yobm8r5gm52yhlu1dhkj06om_kobotswvxd9ah8dkn4_x0y5r3t3psrl_dxyz0p_njsmcfnl8ai3dgpk_dex3jl4zkiqqozpqn9fp1heqlw7bv3krzt.jpeg",
+   "published": "2026-10-18T08:22+09:00",
+   "collected": "2026-10-18T09:15+09:00"
+  },
   {
    "id": "d49f6b7d2320",
    "url": "https://news.yahoo.co.jp/articles/87f9dd42656470addeb6a0ec6ea5a8c2bed279ea",
@@ -6710,32 +6736,6 @@
    "expert": false,
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000004-binsider-000-1-view.jpg?exp=10800",
    "published": "2026-09-25T07:10+09:00",
-   "collected": "2026-09-25T08:50+09:00"
-  },
-  {
-   "id": "3be1c5775b38",
-   "url": "https://www.mk.co.kr/jp/stock/12161216",
-   "title": "ボストン·ダイナミクスのヒューマノイドロボットアトラスの試作品が手を挙げて挨拶している。 [連合ニュース]",
-   "summary": "今年の資本市場の話題は、フィジカル人工知能（AI）だった。 フィジカルAIはソフトウェア中心の従来のAIを超え、ヒューマノイドロボット、自動運転車などが自ら判断し、物理的な作用を遂行させる技術として脚光を浴びた。",
-   "source": "매일경제",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/25/news-p.v1.20260923.d722619ecc2942049ec95d4a2e85561f_R.jpg",
-   "published": "2026-09-25T06:03+09:00",
-   "collected": "2026-09-25T08:50+09:00"
-  },
-  {
-   "id": "ae9e2d938dcc",
-   "url": "https://www.arabnews.jp/business/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%81%AE%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E9%80%B2%E5%B1%95%E4%B8%96%E7%95%8C%E3%81%AE%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%8E%E3%82%A4%E3%83%89%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E8%B2%A9%E5%A3%B2%E5%8F%B0%E6%95%B07000%E5%8F%B0%E3%81%AB-3000342",
-   "title": "サウジアラビアの取り組み進展、世界のヒューマノイドロボット販売台数7,000台に",
-   "summary": "サウジアラビアの取り組み進展、世界のヒューマノイドロボット販売台数7,000台に",
-   "source": "アラブニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://assets.maestronewsroom.com/media/c4aa1a27-6688-419d-801f-352634a88afc/proxies/27626a3a-5a8d-4b35-9d88-7fe6f354b0e6.webp",
-   "published": "2026-09-25T05:19+09:00",
    "collected": "2026-09-25T08:50+09:00"
   }
  ]
