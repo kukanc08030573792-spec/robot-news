@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-19T08:00+09:00",
+  "last_updated": "2026-10-19T08:37+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "9f78750d7d3d",
+   "url": "https://www.vietnam.vn/ja/my-trung-so-ke-cuoc-dua-robot-hinh-nguoi-tri-gia-5-000-ty-usd",
+   "title": "米国と中国は、5兆ドル規模の人型ロボット開発競争を繰り広げている。",
+   "summary": "サプライチェーンの優位性、大規模な生産能力、そして政府の支援のおかげで、中国の戦略的な人型ロボット産業は米国に対して優位に立ちつつある。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/19/1792360139015_ezgif_7f37cfb6e1bf7b88-gif.jpeg",
+   "published": "2026-10-19T07:28+09:00",
+   "collected": "2026-10-19T08:37+09:00"
+  },
+  {
    "id": "99bf6d203bdd",
    "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
    "title": "ロボットアームとモバイルロボット用のBLDCモーターの選択方法",
@@ -46,6 +59,45 @@
    "collected": "2026-10-19T08:00+09:00",
    "title_orig": "How to choose a BLDC motor for robotic arms and mobile robots",
    "summary_orig": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choo"
+  },
+  {
+   "id": "2f2b51a7a8ce",
+   "url": "https://www.vietnam.vn/ja/robot-kinh-meta-khuay-dao-lang-thoi-trang",
+   "title": "ロボットとメタグラスがファッション界を席巻している。",
+   "summary": "ランウェイに登場するスマートグラスやヒューマノイドロボットから、Metaの豪華なイベントまで、ファッション業界の大物たちは、大手テクノロジー企業との関係をますます深めている。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/18/1792309098351_chatgpt_image_26_jun_2026_10_06_13_1.jpeg",
+   "published": "2026-10-18T16:57+09:00",
+   "collected": "2026-10-19T08:37+09:00"
+  },
+  {
+   "id": "54f05e6c5bbc",
+   "url": "https://www.atpress.ne.jp/news/5096300",
+   "title": "ヒューマノイドロボット用弾性要素の世界市場（2026年～2032年）、市場規模（機械式スプリング、弾性ロッド／ビーム、ゴム／ポリマー製バッファー、フレキシブルカップリング...",
+   "summary": "株式会社マーケットリサーチセンターのプレスリリース:ヒューマノイドロボット用弾性要素の世界市場（2026年～2032年）、市場規模（機械式スプリング、弾性ロッド／ビーム、ゴム／ポリマー製バッファー、フレキシブルカップリング／ジョイント、その他）・分析レポートを発表",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/IxjjrM2KYkhJQ9bObpwT.png",
+   "published": "2026-10-18T13:00+09:00",
+   "collected": "2026-10-19T08:37+09:00"
+  },
+  {
+   "id": "d695c5ad9cba",
+   "url": "https://topics.smt.docomo.ne.jp/amp/article/newscn/world/newscn-J000023_20261018_CBMFN0",
+   "title": "中国・広州交易会、サービスロボット新製品が続々登場",
+   "summary": "【新華社広州10月18日】中国広東省広州市で15日、第140回中国輸出入商品交易会（広州交易会）が開幕した。…",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/newscn/m_newscn-J000023_20261018_CBMFN0.jpg",
+   "published": "2026-10-18T11:19+09:00",
+   "collected": "2026-10-19T08:37+09:00"
   },
   {
    "id": "a75739413294",
@@ -333,6 +385,19 @@
    "collected": "2026-10-17T08:27+09:00"
   },
   {
+   "id": "9f816b5cdcdb",
+   "url": "https://news.yahoo.co.jp/articles/d65daeb11a9449949bb947b682608d2585a4831d",
+   "title": "JR東日本・ソフトバンクなど、赤羽駅など4駅でAI・ロボットによる駅舎清掃DXを実証へ（ビジネス＋IT）",
+   "summary": "JR東日本、JR東日本商事、ソフトバンクは10月16日、AI画像分析やIoTセンサー、フィジカルAI清掃ロボットを使った駅舎清掃DXの実証実験を、赤羽駅など4駅で10月27日から実施すると発表した。",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?exp=10800",
+   "published": "2026-10-16T18:45+09:00",
+   "collected": "2026-10-19T08:37+09:00"
+  },
+  {
    "id": "7ea893f30da5",
    "url": "https://www.sbbit.jp/article/cont1/187528",
    "title": "JR東日本とソフトバンクなど、赤羽駅で駅舎清掃DXの実証実験 IoTとAIで予兆型清掃へ",
@@ -344,6 +409,19 @@
    "thumbnail": "https://img.sbbit.jp/article/image/187528/OGP_bit202610161834002302.jpg",
    "published": "2026-10-16T18:35+09:00",
    "collected": "2026-10-17T08:27+09:00"
+  },
+  {
+   "id": "8b2f55584569",
+   "url": "https://ai.watch.impress.co.jp/docs/news/2148907.html",
+   "title": "JR東日本、AIとロボットで駅舎清掃DX。赤羽駅などで実証実験",
+   "summary": "東日本旅客鉄道は、赤羽駅・王子駅・十条駅・東十条駅にて、AI・IoT・清掃ロボットを活用した駅舎清掃DXの実証実験を10月27日から2027年1月中旬まで実施する。",
+   "source": "株式会社インプレス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://ai.watch.impress.co.jp/img/aiw/list/2148/907/00.jpg",
+   "published": "2026-10-16T18:12+09:00",
+   "collected": "2026-10-19T08:37+09:00"
   },
   {
    "id": "d32dc1227ef0",
@@ -6660,84 +6738,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107176.jpg",
    "published": "2026-09-25T14:45+09:00",
    "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "7631d5ec0e2a",
-   "url": "https://36kr.jp/502670/",
-   "title": "中国UBTECH、日韓から人型ロボット受注 海外契約11億円超",
-   "summary": "中国の人型ロボット（ヒューマノイド）大手「優必選科技（UBTECH Robotics）」はこのほど、日本、韓国",
-   "source": "36Kr Japan",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://36kr.jp/uploads/2026/09/20260925094339screenshot725.png",
-   "published": "2026-09-25T12:35+09:00",
-   "collected": "2026-09-26T10:26+09:00"
-  },
-  {
-   "id": "d98e44c3e2ab",
-   "url": "https://robotstart.info/article/2026/09/25/382447.html",
-   "title": "判断特化型AI「Jev」のロボットへの活用事例が相次ぐ X投稿から見る実験の広がり",
-   "summary": "TypeSafe AIが2026年9月に公開した判断特化型のAIモデル「Jev」を、ロボットアームなどに応用する個人開発者・研究者の検証がX（旧Twitter）上で相次いで投稿されている。実機のロボットアームで物体を掴んで運ぶ検証や、仕分けタスクの自動化、シミュレーター上でのロボット制御など、複数の事例を紹介する。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107170.jpg",
-   "published": "2026-09-25T12:15+09:00",
-   "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "3c4a246b9b1f",
-   "url": "https://news.kakaku.com/prdnews/cd=kaden/ctcd=2130/id=159080/",
-   "title": "エコバックス、「OZMOローラー定圧式常時洗浄モップシステム 3.0」を搭載したロボット掃除機",
-   "summary": "エコバックスジャパンは、ロボット掃除機「DEEBOT」シリーズの新製品として「DEEBOTX12SPROOMNI」「DEEBOTT90MAXPROOMNI」「DEEBOTT90MAXOMNI」の3機種を発表。",
-   "source": "kakaku.com",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img1.kakaku.k-img.com/Images/news_icv/1200x630/2026092/20260925105417_289_.jpg",
-   "published": "2026-09-25T10:58+09:00",
-   "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "2f680e94029d",
-   "url": "https://robotstart.info/article/2026/09/25/382446.html",
-   "title": "MW「来年は家事ロボットの自律動作を披露へ」VLAと年間5万時間の実世界データでフィジカルAI開発を加速",
-   "summary": "MWは来年、家事ロボット「MW bot」の自律動作を披露することを目指す。どうすれば家庭でロボットは自律的に家事をこなせるのか。ロボスタはMW Head of AI/Roboticsの浅谷氏に単独インタビュー。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107153.jpg",
-   "published": "2026-09-25T09:45+09:00",
-   "collected": "2026-09-25T09:46+09:00"
-  },
-  {
-   "id": "9dc60f97a14f",
-   "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2142690.html",
-   "title": "ロボット掃除機から美容家電、ヒューマノイドまで Dreameが描く未来の暮らし【IFA 2026】",
-   "summary": "日本でDreame(ドリーミー)といえば、高機能なロボット掃除機を思い浮かべる方が多いと思います。ドイツ・ベルリンで開催されたエレクトロニクスショー「IFA 2026」のブースに足を踏み入れると、その印象は大きく変わりました。",
-   "source": "家電 Watch",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2142/690/P6.jpg",
-   "published": "2026-09-25T09:00+09:00",
-   "collected": "2026-09-25T09:46+09:00"
-  },
-  {
-   "id": "44ee14915e45",
-   "url": "https://news.yahoo.co.jp/articles/f1cea33cc9dbceb220b0f02a4caeb9c5b3ac4638",
-   "title": "人型ロボットの「触覚」を握る中国PaXini、IPO準備入り 株主にBYDやサムスン",
-   "summary": "中国の触覚センサー・人型ロボット（ヒューマノイド）開発企業「帕西尼感知科技（PaXini Tech）」は、A株上場に向けた手続きを開始した。開示情報によると、同社は9月20日、北京証券監督管理局へ上",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010000-krjapan-000-1-view.jpg?exp=10800",
-   "published": "2026-09-25T08:41+09:00",
-   "collected": "2026-09-25T08:50+09:00"
   }
  ]
 }
