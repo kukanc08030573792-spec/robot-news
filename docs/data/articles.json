@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-18T09:51+09:00",
+  "last_updated": "2026-10-19T08:00+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,21 @@
   ]
  },
  "items": [
+  {
+   "id": "99bf6d203bdd",
+   "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+   "title": "ロボットアームとモバイルロボット用のBLDCモーターの選択方法",
+   "summary": "センサから安全およびロボットアームまたはモバイルプラットフォームまで、いくつかの要因は、ブラシレスDCまたはBLDCモーターの選択を決定するのに役立ちます。投稿How to choo",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/BLDC_motors.jpg",
+   "published": "2026-10-18T21:30+09:00",
+   "collected": "2026-10-19T08:00+09:00",
+   "title_orig": "How to choose a BLDC motor for robotic arms and mobile robots",
+   "summary_orig": "Several factors, from sensors to safety and robotic arms or mobile platforms, help determine the selection of a brushless DC or BLDC motor. The post How to choo"
+  },
   {
    "id": "a75739413294",
    "url": "https://www.vietnam.vn/ja/xiaomi-mijia-7-max-robot-hut-bui-thong-minh-voi-3-canh-tay-doc-dao",
@@ -6723,20 +6738,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00010000-krjapan-000-1-view.jpg?exp=10800",
    "published": "2026-09-25T08:41+09:00",
    "collected": "2026-09-25T08:50+09:00"
-  },
-  {
-   "id": "8d3686b85cf5",
-   "url": "https://www.robot-digest.com/contents/?id=1789120965-472178",
-   "title": "[ショールーム探訪 vol.44]稼働環境を再現し、清掃ロボットの真価を伝える／アマノ「AMANO Robot Lab」",
-   "summary": "[ショールーム探訪 vol.44]稼働環境を再現し、清掃ロボットの真価を伝える／アマノ「AMANO Robot Lab」    robot digest",
-   "source": "robot digest",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-25T07:20+09:00",
-   "collected": "2026-09-25T08:50+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
