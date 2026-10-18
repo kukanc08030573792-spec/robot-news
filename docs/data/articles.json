@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-18T09:15+09:00",
+  "last_updated": "2026-10-18T09:51+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "a75739413294",
+   "url": "https://www.vietnam.vn/ja/xiaomi-mijia-7-max-robot-hut-bui-thong-minh-voi-3-canh-tay-doc-dao",
+   "title": "Xiaomi Mijia 7 Max：3つのユニークなアームを備えたスマートロボット掃除機。",
+   "summary": "XiaomiのMijia 7 Maxは、3本のメカニカルアームと45,000Paの吸引力を備え、部屋の隅々まで効果的に掃除でき、前モデルと比較して価格競争力も高い。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/18/1792283491135_xiaomi-mijia-robot-vacuum-and-mop-7-max-5966-jpg.webp",
+   "published": "2026-10-18T09:44+09:00",
+   "collected": "2026-10-18T09:51+09:00"
+  },
   {
    "id": "1e6d799af3e2",
    "url": "https://netkeizai.com/articles/detail/20227",
@@ -6724,19 +6737,6 @@
    "published": "2026-09-25T07:20+09:00",
    "collected": "2026-09-25T08:50+09:00",
    "_thumb_tries": 3
-  },
-  {
-   "id": "da5a1795912c",
-   "url": "https://news.yahoo.co.jp/articles/b9277a92f2830ec00559747449c8f785d5869937",
-   "title": "「人に接近しすぎると自動停止」…上場を目指す米アジリティの新型ロボットの画像入手（海外）",
-   "summary": "Business Insiderは、アジリティ・ロボティクスの新型ヒューマノイドロボット「Digit 5」のレンダリング画像を入手した。Digit 5は人の近くで作業できるよう設計されており、人が近",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000004-binsider-000-1-view.jpg?exp=10800",
-   "published": "2026-09-25T07:10+09:00",
-   "collected": "2026-09-25T08:50+09:00"
   }
  ]
 }
