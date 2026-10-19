@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-19T09:27+09:00",
+  "last_updated": "2026-10-19T10:03+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "62865e25c65a",
+   "url": "https://robotstart.info/article/2026/10/19/382532.html",
+   "title": "JR東日本・JR東日本商事・ソフトバンク、赤羽駅でフィジカルAI清掃ロボットなどを使った駅舎清掃DXの実証実験を10/27から予定",
+   "summary": "東日本旅客鉄道（JR東日本）、JR東日本商事、ソフトバンクは、赤羽駅を中心に、駅舎清掃DXの実現に向けた実証実験を実施する。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108075.jpg",
+   "published": "2026-10-19T10:00+09:00",
+   "collected": "2026-10-19T10:03+09:00"
+  },
   {
    "id": "6704d1f1d7a9",
    "url": "https://www.atpress.ne.jp/news/8267264",
@@ -6723,19 +6736,6 @@
    "category": "cleaning",
    "expert": false,
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260925-00000003-impkdw-000-1-view.jpg?exp=10800",
-   "published": "2026-09-25T15:04+09:00",
-   "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "e49d61c9261c",
-   "url": "https://kaden.watch.impress.co.jp/docs/news/2143160.html",
-   "title": "常にきれいなモップで水拭きするロボット掃除機、エコバックス",
-   "summary": "エコバックスジャパンは、次世代のローラー式水拭きシステムと全自動クリーニングステーションを搭載したロボット掃除機「DEEBOT X12S PRO OMNI」「DEEBOT T90 MAX PRO OMNI」「DEEBOT T90 MAX OMNI」を、10月2日に発売する。先行予約販売は9月25日に開始。",
-   "source": "家電 Watch",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2143/160/001.jpg",
    "published": "2026-09-25T15:04+09:00",
    "collected": "2026-09-26T08:55+09:00"
   }
