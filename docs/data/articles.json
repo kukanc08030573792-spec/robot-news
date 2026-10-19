@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-19T08:37+09:00",
+  "last_updated": "2026-10-19T09:27+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,32 @@
   ]
  },
  "items": [
+  {
+   "id": "6704d1f1d7a9",
+   "url": "https://www.atpress.ne.jp/news/8267264",
+   "title": "水中船体洗浄ロボットの世界市場（2026年～2032年）、市場規模（大型ロボット（500㎡/h以上）、小型ロボット（500㎡/h以下））・分析レポートを発表",
+   "summary": "株式会社マーケットリサーチセンターのプレスリリース:水中船体洗浄ロボットの世界市場（2026年～2032年）、市場規模（大型ロボット（500㎡/h以上）、小型ロボット（500㎡/h以下））・分析レポートを発表",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/pOyQnuBuDzBipb2keVxf.png",
+   "published": "2026-10-19T09:00+09:00",
+   "collected": "2026-10-19T09:27+09:00"
+  },
+  {
+   "id": "d463bd908664",
+   "url": "https://www.digitaltoday.co.kr/jp/view/116070/openai-declares-humanoid-robot-development-what-sam-altman-meant-by-2027",
+   "title": "OpenAI、ヒューマノイド開発を本格化 アルトマンCEOは2027年のデモ示唆",
+   "summary": "OpenAIがヒューマノイドロボット開発を本格化した。サム・アルトマンCEOは2027年の「印象的なデモ」に言及。制御、学習基盤、製造、サプライチェーンまで幅広く人材を募っている。",
+   "source": "디지털투데이",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://cdn.digitaltoday.co.kr/news/photo/202610/707981_655620_310.jpg",
+   "published": "2026-10-19T08:39+09:00",
+   "collected": "2026-10-19T09:27+09:00"
+  },
   {
    "id": "9f78750d7d3d",
    "url": "https://www.vietnam.vn/ja/my-trung-so-ke-cuoc-dua-robot-hinh-nguoi-tri-gia-5-000-ty-usd",
@@ -6711,32 +6737,6 @@
    "expert": false,
    "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2143/160/001.jpg",
    "published": "2026-09-25T15:04+09:00",
-   "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "0182ca9ea93a",
-   "url": "https://prtimes.jp/main/html/rd/p/000000244.000053641.html",
-   "title": "エレベーターを自動で移動！セキュリティドアと連携！業務用AIロボット掃除機「RAPiiTT(ラピット）」の取扱いを開始",
-   "summary": "エレベーターを自動で移動！セキュリティドアと連携！業務用AIロボット掃除機「RAPiiTT(ラピット）」の取扱いを開始",
-   "source": "prtimes.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/53641/244/53641-244-9e0e8d15e0a6fbd366a08bc5991bb78d-1210x797.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-   "published": "2026-09-25T14:50+09:00",
-   "collected": "2026-09-26T08:55+09:00"
-  },
-  {
-   "id": "b31dc78d023e",
-   "url": "https://robotstart.info/article/2026/09/25/382448.html",
-   "title": "ロボットライド、搭乗＆対戦できる体験型アトラクション施設「THE ROBOT PARK ODAIBA」を10/15オープン",
-   "summary": "装着型ロボット「スケルトニクス」を手がける株式会社ロボットライドが、アクアシティお台場に体験型アトラクション施設「THE ROBOT PARK ODAIBA」を2026年10月15日にオープンする。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107176.jpg",
-   "published": "2026-09-25T14:45+09:00",
    "collected": "2026-09-26T08:55+09:00"
   }
  ]
