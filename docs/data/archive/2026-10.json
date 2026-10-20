@@ -1,5 +1,31 @@
 [
  {
+  "id": "8ebcdf12d609",
+  "url": "https://prtimes.jp/main/html/rd/p/000000011.000160855.html",
+  "title": "人型ロボットが部品を「つかんで、はめ込む」瞬間を、ロボットの目線で。Cruzr S2のカメラ映像をリアルタイム公開【NexTech Week 2026[秋]】",
+  "summary": "人型ロボットが部品を「つかんで、はめ込む」瞬間を、ロボットの目線で。Cruzr S2のカメラ映像をリアルタイム公開【NexTech Week 2026[秋]】",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/160855/11/160855-11-f8fa225ae020f58beeace27305cd24b3-1775x1002.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-20T10:13+09:00",
+  "collected": "2026-10-20T10:41+09:00"
+ },
+ {
+  "id": "5a759371d404",
+  "url": "https://robotstart.info/article/2026/10/20/382538.html",
+  "title": "XSTO『X12』がグッドデザイン金賞、階段も自在に---人の移動能力を拡張するロボット",
+  "summary": "日本デザイン振興会は10月15日、2026年度グッドデザイン賞の受賞結果を発表した。モビリティ分野では、中国のエックスエスティーオー（XSTO）が開発した移動ロボット『X12 Embodied Mobile Robot』が、グッドデザイン金賞（日本デザイン振興会会長賞）を受賞した。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108141.jpg",
+  "published": "2026-10-20T10:10+09:00",
+  "collected": "2026-10-20T10:41+09:00"
+ },
+ {
   "id": "4a6d14b88ba9",
   "url": "https://prtimes.jp/main/html/rd/p/000000185.000034305.html",
   "title": "ｕｇｏ、AIロボット「ugo mini」の次世代モデル「ugo mini G2」を発表",
@@ -308,7 +334,7 @@
   "thumbnail": null,
   "published": "2026-10-19T12:30+09:00",
   "collected": "2026-10-20T09:37+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "267b03614f1e",

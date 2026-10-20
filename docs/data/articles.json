@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T10:14+09:00",
+  "last_updated": "2026-10-20T10:41+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,32 @@
   ]
  },
  "items": [
+  {
+   "id": "8ebcdf12d609",
+   "url": "https://prtimes.jp/main/html/rd/p/000000011.000160855.html",
+   "title": "人型ロボットが部品を「つかんで、はめ込む」瞬間を、ロボットの目線で。Cruzr S2のカメラ映像をリアルタイム公開【NexTech Week 2026[秋]】",
+   "summary": "人型ロボットが部品を「つかんで、はめ込む」瞬間を、ロボットの目線で。Cruzr S2のカメラ映像をリアルタイム公開【NexTech Week 2026[秋]】",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/160855/11/160855-11-f8fa225ae020f58beeace27305cd24b3-1775x1002.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-20T10:13+09:00",
+   "collected": "2026-10-20T10:41+09:00"
+  },
+  {
+   "id": "5a759371d404",
+   "url": "https://robotstart.info/article/2026/10/20/382538.html",
+   "title": "XSTO『X12』がグッドデザイン金賞、階段も自在に---人の移動能力を拡張するロボット",
+   "summary": "日本デザイン振興会は10月15日、2026年度グッドデザイン賞の受賞結果を発表した。モビリティ分野では、中国のエックスエスティーオー（XSTO）が開発した移動ロボット『X12 Embodied Mobile Robot』が、グッドデザイン金賞（日本デザイン振興会会長賞）を受賞した。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108141.jpg",
+   "published": "2026-10-20T10:10+09:00",
+   "collected": "2026-10-20T10:41+09:00"
+  },
   {
    "id": "4a6d14b88ba9",
    "url": "https://prtimes.jp/main/html/rd/p/000000185.000034305.html",
@@ -341,7 +367,7 @@
    "thumbnail": null,
    "published": "2026-10-19T12:30+09:00",
    "collected": "2026-10-20T09:37+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "267b03614f1e",
@@ -6704,32 +6730,6 @@
    "expert": false,
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/69393/253/69393-253-78ffef2c8bfbbc80a945146c1d5e7a30-2561x1441.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-09-28T14:00+09:00",
-   "collected": "2026-09-29T09:56+09:00"
-  },
-  {
-   "id": "7e312dc497d2",
-   "url": "https://built.itmedia.co.jp/bt/articles/2609/28/news096.html",
-   "title": "大型複合ビル淀屋橋ゲートタワーで清掃ロボを広域自律運用、エレベーター／防火戸と連携：FM",
-   "summary": "åaCtlNXgÍAåã{åãsÌå^¡rÅA5äÌ´|{bgÆGx[^[AhÎËðAg³¹½©¥´|^pðJnµ½B",
-   "source": "ITmedia",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://image.itmedia.co.jp/bt/articles/2609/28/cover_news096.jpg",
-   "published": "2026-09-28T14:00+09:00",
-   "collected": "2026-09-29T09:56+09:00"
-  },
-  {
-   "id": "b7cbec1650b5",
-   "url": "https://s.response.jp/article/2026/09/28/417062.html",
-   "title": "Unitreeヒューマノイド19体が人間ダンサー120人と共演「WorldSkills Shanghai 2026」開会式",
-   "summary": "Unitreeは2026年9月24日、光る舞台の上で人間のダンサーとヒューマノイドロボットが踊っている映像を公式YouTubeやSNSで公開した。この光景は、2026年9月22日に中国・上海で開かれたWorldSkills Shanghai 2026の開会式で撮影されたものである。",
-   "source": "レスポンス（Response.jp）",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://response.jp/imgs/ogp_f/2246373.jpg",
-   "published": "2026-09-28T13:30+09:00",
    "collected": "2026-09-29T09:56+09:00"
   }
  ]
