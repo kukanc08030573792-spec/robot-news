@@ -24,7 +24,7 @@
   "thumbnail": null,
   "published": "2026-10-20T05:03+09:00",
   "collected": "2026-10-20T09:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "0f7a6fb7174d",
@@ -38,7 +38,7 @@
   "thumbnail": null,
   "published": "2026-10-20T04:52+09:00",
   "collected": "2026-10-20T09:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "bbb8a20fd45e",
@@ -52,7 +52,7 @@
   "thumbnail": null,
   "published": "2026-10-20T03:57+09:00",
   "collected": "2026-10-20T09:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3c6ff0be32fe",
@@ -245,6 +245,19 @@
   "collected": "2026-10-20T09:13+09:00"
  },
  {
+  "id": "5fe10e94ba21",
+  "url": "https://robotstart.info/article/img/2026/10/19/382535/108111.html",
+  "title": "新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから 1枚目の写真・画像",
+  "summary": "カクイチは、ヒューマノイドロボットを新卒総合職として迎えるプロジェクトの進捗として、2026年10月6日に実機「宮澤ノア」の開封とお披露目を行った。  新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから 1枚目の写真・画像",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108111.jpg",
+  "published": "2026-10-19T14:00+09:00",
+  "collected": "2026-10-20T09:37+09:00"
+ },
+ {
   "id": "adc02a9526e5",
   "url": "https://www.watch.impress.co.jp/docs/news/2149225.html",
   "title": "トイレ清掃も JR東、センサーやAI・ロボットで「駅舎清掃DX」",
@@ -258,6 +271,20 @@
   "collected": "2026-10-20T09:13+09:00"
  },
  {
+  "id": "bcf529e4cc20",
+  "url": "https://news.nicovideo.jp/watch/nw19893384?news_ref=watch_60_nw19780842",
+  "title": "カクイチ、新卒総合職として迎えるヒューマノイド「宮澤ノア」の実機が到着、社員の前で初披露",
+  "summary": "カクイチ、新卒総合職として迎えるヒューマノイド「宮澤ノア」の実機が到着、社員の前で初披露",
+  "source": "ニコニコニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-19T12:30+09:00",
+  "collected": "2026-10-20T09:37+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "267b03614f1e",
   "url": "https://www.recordchina.co.jp/newsinfo?id=995449",
   "title": "広州交易会、サービスロボット新製品が続々登場＝中国",
@@ -269,6 +296,19 @@
   "thumbnail": "https://assets.recordchina.co.jp/20261018/XxjjpbJ000023_20261018_CBMFN0A006.jpg",
   "published": "2026-10-19T12:20+09:00",
   "collected": "2026-10-20T09:13+09:00"
+ },
+ {
+  "id": "4a36357358c9",
+  "url": "https://news.infoseek.co.jp/article/prtimes_000000076_000034298/",
+  "title": "熟練者の「一度の成功」を、フィジカルAIで何度でも。イマクリエイト、ヒューマノイド向け動作再現ソフトウェアを提供開始",
+  "summary": "熟練者の「一度の成功」を、フィジカルAIで何度でも。イマクリエイト、ヒューマノイド向け動作再現ソフトウェアを提供開始",
+  "source": "Infoseek",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+  "published": "2026-10-19T12:15+09:00",
+  "collected": "2026-10-20T09:37+09:00"
  },
  {
   "id": "31d56290f554",
@@ -1038,7 +1078,7 @@
   "thumbnail": null,
   "published": "2026-10-16T11:10+09:00",
   "collected": "2026-10-20T09:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "c1025f11ebcf",

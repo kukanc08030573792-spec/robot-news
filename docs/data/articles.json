@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T09:13+09:00",
+  "last_updated": "2026-10-20T09:37+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -57,7 +57,7 @@
    "thumbnail": null,
    "published": "2026-10-20T05:03+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "0f7a6fb7174d",
@@ -71,7 +71,7 @@
    "thumbnail": null,
    "published": "2026-10-20T04:52+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "bbb8a20fd45e",
@@ -85,7 +85,7 @@
    "thumbnail": null,
    "published": "2026-10-20T03:57+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "3c6ff0be32fe",
@@ -265,6 +265,19 @@
    "collected": "2026-10-20T09:13+09:00"
   },
   {
+   "id": "5fe10e94ba21",
+   "url": "https://robotstart.info/article/img/2026/10/19/382535/108111.html",
+   "title": "新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから 1枚目の写真・画像",
+   "summary": "カクイチは、ヒューマノイドロボットを新卒総合職として迎えるプロジェクトの進捗として、2026年10月6日に実機「宮澤ノア」の開封とお披露目を行った。  新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから 1枚目の写真・画像",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108111.jpg",
+   "published": "2026-10-19T14:00+09:00",
+   "collected": "2026-10-20T09:37+09:00"
+  },
+  {
    "id": "88f742eadf15",
    "url": "https://robotstart.info/article/2026/10/19/382535.html",
    "title": "新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから",
@@ -291,6 +304,20 @@
    "collected": "2026-10-20T09:13+09:00"
   },
   {
+   "id": "bcf529e4cc20",
+   "url": "https://news.nicovideo.jp/watch/nw19893384?news_ref=watch_60_nw19780842",
+   "title": "カクイチ、新卒総合職として迎えるヒューマノイド「宮澤ノア」の実機が到着、社員の前で初披露",
+   "summary": "カクイチ、新卒総合職として迎えるヒューマノイド「宮澤ノア」の実機が到着、社員の前で初披露",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-19T12:30+09:00",
+   "collected": "2026-10-20T09:37+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "267b03614f1e",
    "url": "https://www.recordchina.co.jp/newsinfo?id=995449",
    "title": "広州交易会、サービスロボット新製品が続々登場＝中国",
@@ -302,6 +329,19 @@
    "thumbnail": "https://assets.recordchina.co.jp/20261018/XxjjpbJ000023_20261018_CBMFN0A006.jpg",
    "published": "2026-10-19T12:20+09:00",
    "collected": "2026-10-20T09:13+09:00"
+  },
+  {
+   "id": "4a36357358c9",
+   "url": "https://news.infoseek.co.jp/article/prtimes_000000076_000034298/",
+   "title": "熟練者の「一度の成功」を、フィジカルAIで何度でも。イマクリエイト、ヒューマノイド向け動作再現ソフトウェアを提供開始",
+   "summary": "熟練者の「一度の成功」を、フィジカルAIで何度でも。イマクリエイト、ヒューマノイド向け動作再現ソフトウェアを提供開始",
+   "source": "Infoseek",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
+   "published": "2026-10-19T12:15+09:00",
+   "collected": "2026-10-20T09:37+09:00"
   },
   {
    "id": "31d56290f554",
@@ -1058,7 +1098,7 @@
    "thumbnail": null,
    "published": "2026-10-16T11:10+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "216842a93c98",
@@ -6691,45 +6731,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00010003-newswitch-000-1-view.jpg?exp=10800",
    "published": "2026-09-28T11:20+09:00",
    "collected": "2026-09-29T11:16+09:00"
-  },
-  {
-   "id": "42dfe2892f5a",
-   "url": "https://news.yahoo.co.jp/articles/4e86689ce71059372a30965a0fa782675de1fcf4",
-   "title": "Roborockロボット掃除機 四隅の清掃強化した新ブラシ（家電 Watch）",
-   "summary": "Beijing Roborock Technology(ロボロック)は、新開発の「リバーシブルサイドブラシ」を搭載したロボット掃除機「Roborock Qrevo 2 Pro(ロボロック キューレボ",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00000002-impkdw-000-1-view.jpg?exp=10800",
-   "published": "2026-09-28T08:15+09:00",
-   "collected": "2026-09-28T08:45+09:00"
-  },
-  {
-   "id": "42c3235763a9",
-   "url": "https://www.chiba-tv.com/plus/detail/2026092050008",
-   "title": "Roborockロボット掃除機 四隅の清掃強化した新ブラシ",
-   "summary": "",
-   "source": "千葉テレビ放送株式会社",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://img.jp.ekkowassets.com/c_limit,w_360,f_auto,q_auto:eco/ch/images/1477081425877878757/origin_1.jpg",
-   "published": "2026-09-28T08:14+09:00",
-   "collected": "2026-09-28T10:32+09:00"
-  },
-  {
-   "id": "0537517e0302",
-   "url": "https://finance.biggo.jp/news/9387c612-a5af-4a80-9760-6c4b16376b51",
-   "title": "全固体電池の初の試金石はEVではなくヒューマノイドロボット",
-   "summary": "全固体電池の初の商用化の舞台が電気自動車（EV）ではなくヒューマノイドロボットになる可能性が高まっている。ロボットは胴体ほどの空間に電池を収め、電源コー…",
-   "source": "finance.biggo.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/MwFKo48WZN6r8QQX7PlxQaDfRMZJaMYN8lwv2wr8ELs/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzkzODdjNjEyLWE1YWYtNGE4MC05NzYwLTZjNGIxNjM3NmI1MV8xNzkwNTQ4NDg0X2RlZmF1bHQuanBn.jpg",
-   "published": "2026-09-28T07:25+09:00",
-   "collected": "2026-09-28T08:56+09:00"
   }
  ]
 }
