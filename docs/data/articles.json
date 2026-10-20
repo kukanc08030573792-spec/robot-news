@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-20T09:37+09:00",
+  "last_updated": "2026-10-20T10:14+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,32 @@
  },
  "items": [
   {
+   "id": "4a6d14b88ba9",
+   "url": "https://prtimes.jp/main/html/rd/p/000000185.000034305.html",
+   "title": "ｕｇｏ、AIロボット「ugo mini」の次世代モデル「ugo mini G2」を発表",
+   "summary": "ｕｇｏ、AIロボット「ugo mini」の次世代モデル「ugo mini G2」を発表",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/34305/185/34305-185-42e87af1c01638a587954d47d88bfb01-2500x1313.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-20T10:00+09:00",
+   "collected": "2026-10-20T10:14+09:00"
+  },
+  {
+   "id": "9e7b9fd6f789",
+   "url": "https://www.mk.co.kr/jp/business/12180292",
+   "title": "「ロボットの外装がスピーカーに」…アウモビオ、車載音響技術をヒューマノイドに適用",
+   "summary": "アウモビオは20日、19~23日に江陵オリンピックパークで開かれる「2026年江陵ITS世界会議」に参加し、ヒューマノイドロボットに活用できる車載技術を披露すると発表した。同社は、ロボットの外装パネルから音を出す音響技術や、コンピューティング、カメラ、関節センシング技術を展示する。",
+   "source": "매일경제",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://pimg.mk.co.kr/news/cms/202610/20/news-p.v1.20261020.9fe78760b7e14342b403f6b75ff26f4e_R.jpg",
+   "published": "2026-10-20T09:31+09:00",
+   "collected": "2026-10-20T10:14+09:00"
+  },
+  {
    "id": "128f4a6339bd",
    "url": "https://www.youtube.com/watch?v=hrCCBoUgNQE",
    "title": "AI業務用ロボット掃除機「RAPiiTT」紹介動画",
@@ -57,7 +83,7 @@
    "thumbnail": null,
    "published": "2026-10-20T05:03+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "0f7a6fb7174d",
@@ -71,7 +97,7 @@
    "thumbnail": null,
    "published": "2026-10-20T04:52+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "bbb8a20fd45e",
@@ -85,7 +111,7 @@
    "thumbnail": null,
    "published": "2026-10-20T03:57+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3c6ff0be32fe",
@@ -315,7 +341,7 @@
    "thumbnail": null,
    "published": "2026-10-19T12:30+09:00",
    "collected": "2026-10-20T09:37+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "267b03614f1e",
@@ -1098,7 +1124,7 @@
    "thumbnail": null,
    "published": "2026-10-16T11:10+09:00",
    "collected": "2026-10-20T09:13+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "216842a93c98",
@@ -6705,32 +6731,6 @@
    "thumbnail": "https://response.jp/imgs/ogp_f/2246373.jpg",
    "published": "2026-09-28T13:30+09:00",
    "collected": "2026-09-29T09:56+09:00"
-  },
-  {
-   "id": "5c759560b740",
-   "url": "https://www.atpress.ne.jp/news/1905218",
-   "title": "二足歩行ロボットの世界市場（2026年～2032年）、市場規模（事前プログラム型ロボット、ビジョン誘導型ロボット、自律計画型ロボット、強化学習型ロボット）・分析レポートを発表",
-   "summary": "株式会社マーケットリサーチセンターのプレスリリース:二足歩行ロボットの世界市場（2026年～2032年）、市場規模（事前プログラム型ロボット、ビジョン誘導型ロボット、自律計画型ロボット、強化学習型ロボット）・分析レポートを発表",
-   "source": "アットプレス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/jkgXBDO3EBHNyJl33J5I.png",
-   "published": "2026-09-28T13:30+09:00",
-   "collected": "2026-09-29T09:56+09:00"
-  },
-  {
-   "id": "2f6ba993822f",
-   "url": "https://news.yahoo.co.jp/articles/12a088a4b8a0b320cd28b50e255e82607fc07e5f",
-   "title": "ヒト型ロボット量産化に挑む…米中対抗、日本勢の現況は？（ニュースイッチ）",
-   "summary": "ロボット関連のスタートアップが国産ヒューマノイド（ヒト型）ロボットの開発を加速している。ドーナッツロボティクス（東京都港区）は2足歩行ヒューマノイドで現場導入の安全性を追求。",
-   "source": "news.yahoo.co.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260928-00010003-newswitch-000-1-view.jpg?exp=10800",
-   "published": "2026-09-28T11:20+09:00",
-   "collected": "2026-09-29T11:16+09:00"
   }
  ]
 }
