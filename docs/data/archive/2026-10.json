@@ -1,5 +1,32 @@
 [
  {
+  "id": "b98bd74c8a60",
+  "url": "https://www.logi-today.com/1012901",
+  "title": "GA Robotics、倉庫搬送担うヒューマノイド実演",
+  "summary": "GA Robotics、倉庫搬送担うヒューマノイド実演    LOGISTICS TODAY",
+  "source": "LOGISTICS TODAY",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-21T09:52+09:00",
+  "collected": "2026-10-21T09:53+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "168190bd0e8f",
+  "url": "https://www.agara.co.jp/article/701710",
+  "title": "アスカ株式会社、本社1 階にロボットショールーム「UNI-LAB（ユニラボ）」で「UNI-ROBO TECH EXPO 2026」を開催",
+  "summary": "アスカ株式会社、本社1 階にロボットショールーム「UNI-LAB（ユニラボ）」で「UNI-ROBO TECH EXPO 2026」を開催    AGARA 紀伊民報",
+  "source": "AGARA 紀伊民報",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://kyodonewsprwire.jp/prwfile/release/M108839/202610208324/_prw_PI5im_UmO3tl01.jpg",
+  "published": "2026-10-21T09:00+09:00",
+  "collected": "2026-10-21T09:53+09:00"
+ },
+ {
   "id": "34f93e778563",
   "url": "https://finance.biggo.jp/news/24ac7bb1-9fb0-4b47-bcf4-46e653e2edb4",
   "title": "中国製ヒューマノイドの「手」、200時間で故障…「工場は3万時間を要求、成功率99.999%必要」",
@@ -120,10 +147,9 @@
   "type": "article",
   "category": "general",
   "expert": false,
-  "thumbnail": null,
+  "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/10/agility-robotics-signs-agco-deal-to-pilot-digit-humanoid-robots.jpg",
   "published": "2026-10-20T21:45+09:00",
-  "collected": "2026-10-21T08:46+09:00",
-  "_thumb_tries": 2
+  "collected": "2026-10-21T08:46+09:00"
  },
  {
   "id": "355fd81f590b",
@@ -210,6 +236,20 @@
   "collected": "2026-10-21T08:46+09:00"
  },
  {
+  "id": "f2c1ed7a3eb9",
+  "url": "https://finance.biggo.jp/news/8874448b-b3dd-455d-adc5-c06c7aa82e7c",
+  "title": "KAISTのヒューマノイドロボット、国会国政監査で「押されてもバランス回復」を実演…ムーンウォーク退場に笑い",
+  "summary": "KAISTのヒューマノイドロボット、国会国政監査で「押されてもバランス回復」を実演…ムーンウォーク退場に笑い    BigGo ファイナンス",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-20T17:55+09:00",
+  "collected": "2026-10-21T09:53+09:00",
+  "_thumb_tries": 1
+ },
+ {
   "id": "5ad40c8dd1f4",
   "url": "https://robotstart.info/article/2026/10/20/382541.html",
   "title": "音声AIとヒューマノイドの「AI大道芸人」をカラクリとHighlandersが共同開発 観客のお題から即興ラップ",
@@ -221,6 +261,20 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/108169.jpg",
   "published": "2026-10-20T17:10+09:00",
   "collected": "2026-10-21T08:46+09:00"
+ },
+ {
+  "id": "f75bd29e952f",
+  "url": "https://finance.biggo.jp/news/10127d79-8a19-4a31-a82b-80fd13c826b8",
+  "title": "テスラ「Optimus V3」量産準備完了、中国A株のロボット関連銘柄がストップ高の嵐",
+  "summary": "テスラ「Optimus V3」量産準備完了、中国A株のロボット関連銘柄がストップ高の嵐    BigGo ファイナンス",
+  "source": "BigGo ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-20T16:25+09:00",
+  "collected": "2026-10-21T09:53+09:00",
+  "_thumb_tries": 1
  },
  {
   "id": "7fb2ea304d96",
