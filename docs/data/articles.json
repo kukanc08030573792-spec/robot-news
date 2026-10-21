@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-21T09:53+09:00",
+  "last_updated": "2026-10-21T10:26+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "b9b01bbaa485",
+   "url": "https://drone.jp/news/20261021102208130068.html",
+   "title": "ユナイテッドアローズとGMO AIR、人型ロボット向けウェアの受注開始。ギア干渉防止や排熱に配慮",
+   "summary": "ユナイテッドアローズとGMO AIR、人型ロボット向けウェアの受注開始。ギア干渉防止や排熱に配慮",
+   "source": "DRONE.jp",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://drone.jp/wp-content/uploads/261021_GMO_UNITED-ARROWS_topXyJ0BF3W.jpg",
+   "published": "2026-10-21T10:22+09:00",
+   "collected": "2026-10-21T10:26+09:00"
+  },
+  {
    "id": "b98bd74c8a60",
    "url": "https://www.logi-today.com/1012901",
    "title": "GA Robotics、倉庫搬送担うヒューマノイド実演",
@@ -44,7 +57,7 @@
    "thumbnail": null,
    "published": "2026-10-21T09:52+09:00",
    "collected": "2026-10-21T09:53+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "168190bd0e8f",
@@ -172,6 +185,20 @@
    "summary_orig": "Surgery Mode in Unfold AI brings patient-specific 3D maps to give an enhanced view of cancer anatomy during robotic prostate procedures. The post Avenda Health"
   },
   {
+   "id": "2c2bd1a2db9a",
+   "url": "https://jp.investing.com/news/company-news/article-93CH-1717733",
+   "title": "プライメック、韓国の見本市で清掃ロボットを展示へ 執筆 - Investing.com",
+   "summary": "プライメック、韓国の見本市で清掃ロボットを展示へ 執筆    Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+   "source": "FX | 株式市場 | ファイナンス | 金融ニュース",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-20T21:53+09:00",
+   "collected": "2026-10-21T10:26+09:00",
+   "_thumb_tries": 1
+  },
+  {
    "id": "d71a279fe79e",
    "url": "https://www.unite.ai/ja/agility-robotics-signs-agco-deal-to-pilot-digit-humanoid-robots/",
    "title": "Agility Robotics、AGCOと契約を締結し、Digitヒューマノイドロボットの試験導入へ",
@@ -277,10 +304,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://img.biggo.com/wEe8iVvptEl1X8k9chVxBo5HAPuYPMaBHoKX9Dbn7BA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzg4NzQ0NDhiLWIzZGQtNDU1ZC1hZGM1LWMwNmM3YWE4MmU3Y18xNzkyNDg2ODg1X2RlZmF1bHQuanBn.jpg",
    "published": "2026-10-20T17:55+09:00",
-   "collected": "2026-10-21T09:53+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-10-21T09:53+09:00"
   },
   {
    "id": "5ad40c8dd1f4",
@@ -304,10 +330,9 @@
    "type": "article",
    "category": "general",
    "expert": false,
-   "thumbnail": null,
+   "thumbnail": "https://img.biggo.com/sNpjpWdKvCARUM-OIvTAhVpcN-xFNrA9bmsQM13qWqw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzEwMTI3ZDc5LThhMTktNGEzMS1hODJiLTgwZmQxM2M4MjZiOF8xNzkyNDgxNTYwX2RlZmF1bHQuanBn.jpg",
    "published": "2026-10-20T16:25+09:00",
-   "collected": "2026-10-21T09:53+09:00",
-   "_thumb_tries": 1
+   "collected": "2026-10-21T09:53+09:00"
   },
   {
    "id": "7fb2ea304d96",
@@ -6710,33 +6735,6 @@
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/117724/5/117724-5-a09500d23ad907af994afa41d9bfcbd1-1200x675.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-09-29T10:25+09:00",
    "collected": "2026-09-29T11:16+09:00"
-  },
-  {
-   "id": "72b96a980a5e",
-   "url": "https://www.mk.co.kr/jp/stock/12163443",
-   "title": "T-ロボティクスが国内ディスプレイ大手企業、韓国科学技術院(KAIST)と手を握り、人工知能(AI)基盤モバイルヒューマノイドロボットの実際の製造工程投入を推進する。ティロボティクスは29日、産業通商..",
-   "summary": "T-ロボティクスが国内ディスプレイ大手企業、韓国科学技術院(KAIST)と手を握り、人工知能(AI)基盤モバイルヒューマノイドロボットの実際の製造工程投入を推進する。",
-   "source": "매일경제",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.720a394e47d94131b76e53deb62661b4_R.jpg",
-   "published": "2026-09-29T10:21+09:00",
-   "collected": "2026-09-29T11:16+09:00"
-  },
-  {
-   "id": "176ff7620b5d",
-   "url": "https://www.nikkan.co.jp/releases/view/225526",
-   "title": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
-   "summary": "ローラー式モップで高い水拭き性能を実現！業務用小型清掃ロボット『RACLEBO mini』発売開始 企業リリース",
-   "source": "日刊工業新聞",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-09-29T10:10+09:00",
-   "collected": "2026-09-29T10:14+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
