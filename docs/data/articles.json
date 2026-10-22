@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-22T08:58+09:00",
+  "last_updated": "2026-10-22T09:10+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -44,7 +44,7 @@
    "thumbnail": null,
    "published": "2026-10-21T23:44+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b0b42b41c937",
@@ -140,7 +140,7 @@
    "thumbnail": null,
    "published": "2026-10-21T19:33+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "8897a0225d22",
@@ -154,7 +154,7 @@
    "thumbnail": null,
    "published": "2026-10-21T18:59+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b74e8b36f1d5",
@@ -194,7 +194,7 @@
    "thumbnail": null,
    "published": "2026-10-21T13:45+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "901faaab96d8",
@@ -234,7 +234,7 @@
    "thumbnail": null,
    "published": "2026-10-21T12:15+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "579b78145cf9",
@@ -398,7 +398,7 @@
    "thumbnail": null,
    "published": "2026-10-20T22:45+09:00",
    "collected": "2026-10-22T08:58+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "5038998c56e9",
@@ -427,7 +427,7 @@
    "thumbnail": null,
    "published": "2026-10-20T21:53+09:00",
    "collected": "2026-10-21T10:26+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "d71a279fe79e",
