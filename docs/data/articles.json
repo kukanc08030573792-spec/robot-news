@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-24T10:28+09:00",
+  "last_updated": "2026-10-25T08:05+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,73 @@
   ]
  },
  "items": [
+  {
+   "id": "801e3555e119",
+   "url": "https://note.com/zhenren63/n/nf055e1be1d07",
+   "title": "Cheryの家庭向けヒューマノイド「Mobo」が問う、家事代行より先の価値｜吉川真人＠中国テックトレンドニュース",
+   "summary": "何かと話題になる家庭向けロボット「墨宝 Mobo」。私がWRC（世界ロボット大会）に行ったときも、アイモガは大きめのブースを構え、来場者を集めていたのが記憶に新しいです。",
+   "source": "note",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://assets.st-note.com/production/uploads/images/327096021/rectangle_large_type_2_30ea784b452470416a28bdac36bec8aa.png?fit=bounds&quality=85&width=1280",
+   "published": "2026-10-24T23:44+09:00",
+   "collected": "2026-10-25T08:05+09:00"
+  },
+  {
+   "id": "2b682c49858d",
+   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+   "title": "Eka Roboticsは、ロボットのビジョンフォースアクションモデルを拡大するために1億5000万$を調達",
+   "summary": "Eka Roboticsは、大規模な強化学習を通じて物理学の直感を開発するためのビジョンフォースアクション（ VFA ）モデルを構築しています。POST Eka Robotics",
+   "source": "The Robot Report",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/ekarobotics-featured.jpg",
+   "published": "2026-10-24T21:34+09:00",
+   "collected": "2026-10-25T08:05+09:00",
+   "title_orig": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+   "summary_orig": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale. The post Eka Robotics"
+  },
+  {
+   "id": "1aa83853ee49",
+   "url": "https://36kr.jp/503571/",
+   "title": "「ワイヤ駆動」で精密作業 中国発人型ロボット「Astribot」、新たに240億円調達",
+   "summary": "「ワイヤ駆動」で精密作業 中国発人型ロボット「Astribot」、新たに240億円調達    36Kr Japan",
+   "source": "36Kr Japan",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://36kr.jp/uploads/2026/10/20261021015759v2_ffc92ec9ce7a42d0b001e57d44c6a0c9@000000_oswg44978oswg889oswg500_img_000199.jpeg",
+   "published": "2026-10-24T12:03+09:00",
+   "collected": "2026-10-25T08:05+09:00"
+  },
+  {
+   "id": "e71998e95888",
+   "url": "https://news.infoseek.co.jp/article/otakulab_211170/",
+   "title": "【特集】韓国発の次世代技術9選、自動運転から人型ロボット、AIデータセンター冷却までFIX 2026に見るイノベーション",
+   "summary": "【特集】韓国発の次世代技術9選、自動運転から人型ロボット、AIデータセンター冷却までFIX 2026に見るイノベーション",
+   "source": "Infoseek",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://media.image.infoseek.co.jp/isnews/photos/otakulab/otakulab_211170_0-enlarge.jpg",
+   "published": "2026-10-24T11:21+09:00",
+   "collected": "2026-10-25T08:05+09:00"
+  },
+  {
+   "id": "b4b88de1b110",
+   "url": "https://www.atpress.ne.jp/news/2798921",
+   "title": "ワイヤレスプール清掃ロボットの世界市場（2026年～2032年）、市場規模（トラック駆動、ホイール駆動、その他）・分析レポートを発表",
+   "summary": "株式会社マーケットリサーチセンターのプレスリリース:ワイヤレスプール清掃ロボットの世界市場（2026年～2032年）、市場規模（トラック駆動、ホイール駆動、その他）・分析レポートを発表",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/3SaJPVhrPfBm0RrkPcwv.png",
+   "published": "2026-10-24T11:00+09:00",
+   "collected": "2026-10-25T08:05+09:00"
+  },
   {
    "id": "2720e0f580a4",
    "url": "https://forbesjapan.com/articles/detail/107157",
@@ -684,6 +751,32 @@
    "thumbnail": "https://dxmagazine.jp/cp/wp-content/uploads/2026/10/image-1.png",
    "published": "2026-10-21T19:36+09:00",
    "collected": "2026-10-22T08:58+09:00"
+  },
+  {
+   "id": "fc3dcf25d72c",
+   "url": "https://robotstart.info/article/img/2026/10/21/382549/108261.html",
+   "title": "ヒューマノイドが人間を助ける守護者に？ 不審者撃退・事故救助を実演 Unitree「H2-X」デモ映像 1枚目の写真・画像",
+   "summary": "Unitreeは2026年10月21日、同社の新型ヒューマノイドロボット「H2-X」を紹介する約1分のデモ映像を公式YouTubeやSNSで公開した。  ヒューマノイドが人間を助ける守護者に？ 不審者撃退・事故救助を実演 Unitree「H2-X」デモ映像 1枚目の写真・画像",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108261.jpg",
+   "published": "2026-10-21T19:35+09:00",
+   "collected": "2026-10-25T08:05+09:00"
+  },
+  {
+   "id": "a25a7825a11c",
+   "url": "https://robotstart.info/article/img/2026/10/21/382549/108254.html",
+   "title": "ヒューマノイドが人間を助ける守護者に？ 不審者撃退・事故救助を実演 Unitree「H2-X」デモ映像 6枚目の写真・画像",
+   "summary": "Unitreeは2026年10月21日、同社の新型ヒューマノイドロボット「H2-X」を紹介する約1分のデモ映像を公式YouTubeやSNSで公開した。  ヒューマノイドが人間を助ける守護者に？ 不審者撃退・事故救助を実演 Unitree「H2-X」デモ映像 6枚目の写真・画像",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108254.jpg",
+   "published": "2026-10-21T19:35+09:00",
+   "collected": "2026-10-25T08:05+09:00"
   },
   {
    "id": "5230e830ed34",
@@ -6650,99 +6743,6 @@
    "expert": false,
    "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
    "published": "2026-10-01T17:07+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "53cdf6e47450",
-   "url": "https://robotstart.info/article/2026/10/01/382472.html",
-   "title": "ヒューマノイド「Booster T2」が家事をこなす様子の映像 Booster Robotics",
-   "summary": "Booster Robotics は2026年9月30日、ヒューマノイドロボット「Booster T2」が家庭で家事をこなす様子を収めた動画を公式YouTubeで公開した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107406.jpg",
-   "published": "2026-10-01T17:00+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "46bd51fed287",
-   "url": "https://www.therobotreport.com/anybotics-launches-shift-streamline-robot-fleet-operations-scale-autonomous-inspections/",
-   "title": "ANYbotics、ロボットフリートの運用、スケール検査を合理化するためのShiftを開始",
-   "summary": "ANYboticsは、メンテナンスチームが産業検査を実行し、故障した機器を検出し、データを作業指示に変換するのに役立つようにShiftを設計しました。ANYboticsのローンチ後",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/ANYmal-Gas-Leak-Detection.jpg",
-   "published": "2026-10-01T16:59+09:00",
-   "collected": "2026-10-02T09:40+09:00",
-   "title_orig": "ANYbotics launches Shift to streamline robot fleet operations, scale inspections",
-   "summary_orig": "ANYbotics designed Shift to help maintenance teams run industrial inspections, detect failing equipment, and turn data into work orders. The post ANYbotics laun"
-  },
-  {
-   "id": "dca7b607b35b",
-   "url": "https://robotstart.info/article/2026/10/01/382471.html",
-   "title": "LOVOT新作ガシャポン「ふわふわフロッキーチャーム」10月第5週から順次発売 全6種類で「RUBY」「AMBER」が加わる",
-   "summary": "GROOVE Xは、家族型ロボット『LOVOT』のガシャポン新作「LOVOT ふわふわフロッキーチャーム」が、2026年10月第5週より全国のガシャポンバンダイオフィシャルショップなどで順次登場すると発表した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107376.jpg",
-   "published": "2026-10-01T16:00+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "4b203cf599fe",
-   "url": "https://www.jiji.com/jc/article?k=000000025.000079687&g=prt",
-   "title": "中国ヒューマノイドロボットを「解剖」した45ページのレポートを無料公開 ― 15の中核部品を日本・中国・米国で比較",
-   "summary": "［株式会社SUGENA］2026年上半期、出荷台数は中国メーカーだけで18,500台。そして、日本はどの部分で戦えるのか株式会社SUGENA（本社：東京都渋谷区、代表取締役：須毛原勲）は、2026年9月29日に開催したオンラインセミナー『フィジカルAI 解体新書 ― 中国ヒューマノイドロボットを解剖する。",
-   "source": "時事ドットコム",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/79687/25/79687-25-cf74006ea0dcd005adc8d4f75e130b62-1921x1080.jpg",
-   "published": "2026-10-01T15:46+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "9898d783a578",
-   "url": "https://news.yahoo.co.jp/articles/79c3d10cceb3ff917b400a0ed856a5d01540b814",
-   "title": "Infineonが狙う70の関節、ヒューマノイド1台「500ドル」の商機（EE Times Japan）",
-   "summary": "ヒューマノイドロボットには最大70程度のモーター制御系が搭載され、半導体の部品表（BOM）の40～50％をモーター制御関連が占める――。Infineon Technologies（以下、Infine",
-   "source": "Yahoo!ニュース",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261001-00000041-it_eetimes-000-1-view.jpg?exp=10800",
-   "published": "2026-10-01T15:45+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "7a59bd927b31",
-   "url": "https://article.auone.jp/df106606-2a52-48ec-aff0-95076ab4822f",
-   "title": "【動画】ヒューマノイドFigure 02『ターミネーター2』のように溶かされて退役 アーノルド・シュワルツェネッガー氏も登場",
-   "summary": "【動画】ヒューマノイドFigure 02『ターミネーター2』のように溶かされて退役 アーノルド・シュワルツェネッガー氏も登場Figure AIは2026年9月30日、ヒューマノイドロボット「Figur",
-   "source": "au Webポータル",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://newportal.portal.auone.jp/media/thumbnails/2026/10/01/https___news_jp_i_1478275339723097042_w640.webp",
-   "published": "2026-10-01T15:18+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "3aaa72a8cad5",
-   "url": "https://finance.biggo.jp/news/9ab4078c-379b-4198-9219-3594f3f25b51",
-   "title": "ヒューマノイドロボット、フィンランドの溶鉱炉で最期…ターミネーター方式で廃棄",
-   "summary": "米ヒューマノイドロボット企業Figure AIが、退役モデルF.02をフィンランド・イマトラの鋳造工場の溶鉱炉に投入して廃棄する映像を公開した。独自ハードウェア技…",
-   "source": "BigGo ファイナンス",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://img.biggo.com/qRARmoFVPjI71s9xlvucHprBXXLZ1CJNJSlRU04PmRU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzlhYjQwNzhjLTM3OWItNDE5OC05MjE5LTM1OTRmM2YyNWI1MV8xNzkwODMyNzkzX2RlZmF1bHQuanBn.jpg",
-   "published": "2026-10-01T14:26+09:00",
    "collected": "2026-10-02T09:40+09:00"
   }
  ]
