@@ -1,5 +1,18 @@
 [
  {
+  "id": "2720e0f580a4",
+  "url": "https://forbesjapan.com/articles/detail/107157",
+  "title": "企業がヒューマノイドロボットを開発する理由と、あなたの仕事への影響",
+  "summary": "国際ロボット連盟（IFR）によると、ロボットメーカーは2025年、事業用途向けに身長4フィート7インチを超える等身大のヒューマノイドを約7000台販売した。工場では、通常の産業用ロボットがおよそ4日に1回、それと同じ台数導入されている。",
+  "source": "Forbes JAPAN",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.forbesjapan.com/media/article/107157/images/main_image_73326c9bef4f41b66acef35b81db8b244cdd8ec2.jpg",
+  "published": "2026-10-24T08:59+09:00",
+  "collected": "2026-10-24T10:02+09:00"
+ },
+ {
   "id": "cf3f5972901f",
   "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
   "title": "FCCロボティクスの裁定がオートメーション購入者にどのように影響するかを議論するウェビナー",
@@ -39,7 +52,7 @@
   "thumbnail": null,
   "published": "2026-10-24T04:03+09:00",
   "collected": "2026-10-24T08:49+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "c23ee6b48ff5",
