@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-25T08:40+09:00",
+  "last_updated": "2026-10-25T09:30+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "aa5531228fee",
+   "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-cua-trung-quoc-tim-duong-vao-han-quoc",
+   "title": "中国製のヒューマノイドロボットが韓国に進出しつつある。",
+   "summary": "中国のヒューマノイドロボットメーカーは、韓国市場への参入を加速させている。ショールームで展示され、ダンスもできるこれらのロボットは、ソウルが物理人工知能（AI）への投資を増やすにつれて、工場やその他の商業用途での試験運用が開始されている。",
+   "source": "Vietnam.vn",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/25/1792885314121_1792883817.webp",
+   "published": "2026-10-25T09:00+09:00",
+   "collected": "2026-10-25T09:30+09:00"
+  },
   {
    "id": "801e3555e119",
    "url": "https://note.com/zhenren63/n/nf055e1be1d07",
@@ -6730,19 +6743,6 @@
    "expert": false,
    "thumbnail": "https://img.topics.smt.news.goo.ne.jp/picture/trendnewscaster/m_trendnewscaster-109513.jpg",
    "published": "2026-10-01T17:11+09:00",
-   "collected": "2026-10-02T09:40+09:00"
-  },
-  {
-   "id": "2877baca63af",
-   "url": "https://newscast.jp/smart/news/1067636",
-   "title": "セキュリティロボット市場―2026年～2032年の世界市場予測",
-   "summary": "ニュースをメディアだけではなくSNSで拡散。ニュース、ニュースリリース、プレスリリース発信サービス",
-   "source": "Newscast.jp",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.atpress.ne.jp/attachments/9r1zeZaAEjNdjI1dpr8d.jpg",
-   "published": "2026-10-01T17:07+09:00",
    "collected": "2026-10-02T09:40+09:00"
   }
  ]
