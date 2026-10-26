@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-26T08:31+09:00",
+  "last_updated": "2026-10-26T09:42+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "74ef0a988427",
+   "url": "https://kaden.watch.impress.co.jp/docs/topic/special/2148371.html",
+   "title": "部屋の四隅まできれい! 本当に任せきれるRoborockは毎日使い続けやすい",
+   "summary": "ロボット掃除機は高性能化し、今や吸引掃除だけでなく、水拭きやモップの洗浄・乾燥まで自動でこなす時代です。とはいえ、どんなに高性能といわれても、本当に部屋の隅までしっかり掃除ができるのか不安になる人も多いはず。また、せっかく導入しても日常的に使い続けられるのか気になる人もいるのではないでしょうか。",
+   "source": "家電 Watch",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://kaden.watch.impress.co.jp/img/kdw/list/2148/371/top.jpg",
+   "published": "2026-10-26T09:00+09:00",
+   "collected": "2026-10-26T09:42+09:00"
+  },
   {
    "id": "802031a8871d",
    "url": "https://finance.biggo.jp/news/262adfb4-d8fc-4adf-a42a-6db7cf015c3f",
@@ -6723,21 +6736,6 @@
    "collected": "2026-10-02T09:40+09:00",
    "title_orig": "Top 10 robotics stories of September 2026",
    "summary_orig": "In September 2026, live events such as IMTS, ROSCon, and iROS brought a flood of robotics developments. The post Top 10 robotics stories of September 2026 appea"
-  },
-  {
-   "id": "5bcc11a4aae3",
-   "url": "https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/",
-   "title": "ボストン・ダイナミクスが新しいヒューマノイドの手にピンキーを落とす",
-   "summary": "ボストン・ダイナミクスのエンジニアは、ピンキーと薬指を1日かけて、何ができなかったのかを調べました。The post Boston Dynamics drops pinkie o",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg",
-   "published": "2026-10-02T02:52+09:00",
-   "collected": "2026-10-02T09:40+09:00",
-   "title_orig": "Boston Dynamics drops pinkie on new humanoid hand",
-   "summary_orig": "Boston Dynamics engineers taped their pinkies and ring fingers together for a day to learn what they weren’t able to do. The post Boston Dynamics drops pinkie o"
   }
  ]
 }
