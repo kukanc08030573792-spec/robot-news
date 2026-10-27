@@ -1,5 +1,18 @@
 [
  {
+  "id": "593a7a09bd72",
+  "url": "https://robotstart.info/article/2026/10/27/382563.html",
+  "title": "【オンラインセミナー#32】国産セミヒューマノイド「ugo Nova」の全貌 松井CEOが語るフィジカルAI開発戦略と社会実装の最新動向",
+  "summary": "本講演では、セミヒューマノイドや警備・巡回ロボットの社会実装でたくさんの実績があるugoの松井健CEOが、ロボット導入の現場から得たリアルな課題と成功の鍵、導入事例、そしてヒューマノイドやフィジカルAIネイティブ開発の最前線を語ります。「AIロボット向け基盤モデル」についても触れます。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108448.jpg",
+  "published": "2026-10-27T09:15+09:00",
+  "collected": "2026-10-27T09:47+09:00"
+ },
+ {
   "id": "363e2fd1f820",
   "url": "https://japan.hani.co.kr/arti/economy/57501.html",
   "title": "人間同様「１０本の指」持つサムスンのロボット…「ロボットハンド技術」競争 : 経済",
@@ -147,7 +160,7 @@
   "thumbnail": null,
   "published": "2026-10-26T17:03+09:00",
   "collected": "2026-10-27T09:21+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "4d8b406cef48",
@@ -200,7 +213,7 @@
   "thumbnail": null,
   "published": "2026-10-26T13:21+09:00",
   "collected": "2026-10-27T09:21+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "f18f6bf639ca",
