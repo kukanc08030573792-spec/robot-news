@@ -1,5 +1,44 @@
 [
  {
+  "id": "cced576e5559",
+  "url": "https://forbesjapan.com/articles/detail/106821",
+  "title": "安全柵から出つつある二足歩行ロボット、「生活スペース」で働くための必須条件",
+  "summary": "現在、ビジネスの現場や実証実験で使われているヒューマノイドロボット（二足歩行ロボット）の大半は、安全柵の向こう側で働いている。しかし、今後1年半のあいだに、この状況にも変化が訪れそうだ。",
+  "source": "Forbes JAPAN",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.forbesjapan.com/media/article/106821/images/main_image_e9e31b0d25a2bf3a8f081623286dd1d178b6a107.jpg",
+  "published": "2026-10-27T10:30+09:00",
+  "collected": "2026-10-27T10:36+09:00"
+ },
+ {
+  "id": "9242f783b1de",
+  "url": "https://prtimes.jp/main/html/rd/p/000000053.000013422.html",
+  "title": "【住吉工業 創業70周年】ポケット・クエリーズ、住吉工業と四足歩行ロボットを活用した現場DX・自動巡回・施設管理の共創プロジェクトを開始",
+  "summary": "【住吉工業 創業70周年】ポケット・クエリーズ、住吉工業と四足歩行ロボットを活用した現場DX・自動巡回・施設管理の共創プロジェクトを開始",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/13422/53/13422-53-314032fb3a053cdafa34886c054fdbcc-1499x999.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-27T10:10+09:00",
+  "collected": "2026-10-27T10:36+09:00"
+ },
+ {
+  "id": "801c3ec5df58",
+  "url": "https://www.atpress.ne.jp/news/9241185",
+  "title": "ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
+  "summary": "株式会社レポートオーシャンのプレスリリース:ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
+  "source": "アットプレス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://www.atpress.ne.jp/attachments/GlDrkn7Z4jcwaTsuQGhX.png",
+  "published": "2026-10-27T09:35+09:00",
+  "collected": "2026-10-27T10:36+09:00"
+ },
+ {
   "id": "593a7a09bd72",
   "url": "https://robotstart.info/article/2026/10/27/382563.html",
   "title": "【オンラインセミナー#32】国産セミヒューマノイド「ugo Nova」の全貌 松井CEOが語るフィジカルAI開発戦略と社会実装の最新動向",
@@ -82,6 +121,19 @@
   "collected": "2026-10-27T09:21+09:00"
  },
  {
+  "id": "bdcfad9b826e",
+  "url": "https://ja.martincid.com/technology-ja/gxo%E3%80%81%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88digit%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AB2/",
+  "title": "GXO、人型ロボットDigitを新たに2倉庫へ 投資回収はまだ",
+  "summary": "人型ロボットの労働に初めて対価を払った物流大手GXOが、Agility RoboticsのDigitをノースカロライナ州とテネシー州のEC倉庫に導入する。同社CEOは数カ月前、人型ロボットの試験導入45件でまだ投資を回収できていないと認めたばかりだ。",
+  "source": "Martin Cid Magazine",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://images.martincid.com/2026/10/gxo-agility-digit-humanoid-robot-1.jpg?f=orig",
+  "published": "2026-10-27T00:11+09:00",
+  "collected": "2026-10-27T10:36+09:00"
+ },
+ {
   "id": "bbb8c9478f0e",
   "url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
   "title": "アジリティとGXOロジスティクスは、Digitヒューマノイドの展開を拡大する計画",
@@ -160,7 +212,7 @@
   "thumbnail": null,
   "published": "2026-10-26T17:03+09:00",
   "collected": "2026-10-27T09:21+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "4d8b406cef48",
@@ -213,7 +265,7 @@
   "thumbnail": null,
   "published": "2026-10-26T13:21+09:00",
   "collected": "2026-10-27T09:21+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f18f6bf639ca",

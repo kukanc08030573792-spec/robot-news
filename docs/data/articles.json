@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-27T09:47+09:00",
+  "last_updated": "2026-10-27T10:36+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,45 @@
   ]
  },
  "items": [
+  {
+   "id": "cced576e5559",
+   "url": "https://forbesjapan.com/articles/detail/106821",
+   "title": "安全柵から出つつある二足歩行ロボット、「生活スペース」で働くための必須条件",
+   "summary": "現在、ビジネスの現場や実証実験で使われているヒューマノイドロボット（二足歩行ロボット）の大半は、安全柵の向こう側で働いている。しかし、今後1年半のあいだに、この状況にも変化が訪れそうだ。",
+   "source": "Forbes JAPAN",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.forbesjapan.com/media/article/106821/images/main_image_e9e31b0d25a2bf3a8f081623286dd1d178b6a107.jpg",
+   "published": "2026-10-27T10:30+09:00",
+   "collected": "2026-10-27T10:36+09:00"
+  },
+  {
+   "id": "9242f783b1de",
+   "url": "https://prtimes.jp/main/html/rd/p/000000053.000013422.html",
+   "title": "【住吉工業 創業70周年】ポケット・クエリーズ、住吉工業と四足歩行ロボットを活用した現場DX・自動巡回・施設管理の共創プロジェクトを開始",
+   "summary": "【住吉工業 創業70周年】ポケット・クエリーズ、住吉工業と四足歩行ロボットを活用した現場DX・自動巡回・施設管理の共創プロジェクトを開始",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/13422/53/13422-53-314032fb3a053cdafa34886c054fdbcc-1499x999.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-27T10:10+09:00",
+   "collected": "2026-10-27T10:36+09:00"
+  },
+  {
+   "id": "801c3ec5df58",
+   "url": "https://www.atpress.ne.jp/news/9241185",
+   "title": "ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
+   "summary": "株式会社レポートオーシャンのプレスリリース:ヒューマノイドロボット用コンポーネント市場、2035年に452億米ドルへ拡大｜CAGR 40.6％、精密アクチュエーター・センサー・AI制御技術が次世代ロボットの進化を加速",
+   "source": "アットプレス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://www.atpress.ne.jp/attachments/GlDrkn7Z4jcwaTsuQGhX.png",
+   "published": "2026-10-27T09:35+09:00",
+   "collected": "2026-10-27T10:36+09:00"
+  },
   {
    "id": "593a7a09bd72",
    "url": "https://robotstart.info/article/2026/10/27/382563.html",
@@ -115,6 +154,19 @@
    "collected": "2026-10-27T09:21+09:00"
   },
   {
+   "id": "bdcfad9b826e",
+   "url": "https://ja.martincid.com/technology-ja/gxo%E3%80%81%E4%BA%BA%E5%9E%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88digit%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AB2/",
+   "title": "GXO、人型ロボットDigitを新たに2倉庫へ 投資回収はまだ",
+   "summary": "人型ロボットの労働に初めて対価を払った物流大手GXOが、Agility RoboticsのDigitをノースカロライナ州とテネシー州のEC倉庫に導入する。同社CEOは数カ月前、人型ロボットの試験導入45件でまだ投資を回収できていないと認めたばかりだ。",
+   "source": "Martin Cid Magazine",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://images.martincid.com/2026/10/gxo-agility-digit-humanoid-robot-1.jpg?f=orig",
+   "published": "2026-10-27T00:11+09:00",
+   "collected": "2026-10-27T10:36+09:00"
+  },
+  {
    "id": "bbb8c9478f0e",
    "url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
    "title": "アジリティとGXOロジスティクスは、Digitヒューマノイドの展開を拡大する計画",
@@ -193,7 +245,7 @@
    "thumbnail": null,
    "published": "2026-10-26T17:03+09:00",
    "collected": "2026-10-27T09:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "4d8b406cef48",
@@ -246,7 +298,7 @@
    "thumbnail": null,
    "published": "2026-10-26T13:21+09:00",
    "collected": "2026-10-27T09:21+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "f18f6bf639ca",
@@ -6687,58 +6739,6 @@
    "collected": "2026-10-03T09:23+09:00",
    "title_orig": "Runway introduces Praxis-1 world action model for robotics",
    "summary_orig": "When Runway does release Praxis-1 publicly, it plans to ship it with open weights rather than as a closed model. The post Runway introduces Praxis-1 world actio"
-  },
-  {
-   "id": "da5aba2ed3fa",
-   "url": "https://www.globenewswire.com/news-release/2026/10/02/3373850/0/ja/yy%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9-%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%95%E3%83%88-by-%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88-%E3%83%A9%E3%83%B3%E3%82%AB%E3%82%A6%E3%82%A4-%E3%83%91%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%86%E3%83%B3%E3%82%AC%E3%83%BC%E3%81%AB-%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%92%E5%B0%8E%E5%85%A5.html",
-   "title": "YYフォース、マレーシアのアロフト by マリオット・ランカウイ・パンタイテンガーに、ホスピタリティサービスロボットを導入",
-   "summary": "YYフォース、マレーシアのアロフト by マリオット・ランカウイ・パンタイテンガーに、ホスピタリティサービスロボットを導入",
-   "source": "GlobeNewswire",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://ml.globenewswire.com/Resource/Download/17dbb05f-c50c-4b84-b51c-3f3c0988ce2c",
-   "published": "2026-10-02T22:39+09:00",
-   "collected": "2026-10-03T09:23+09:00"
-  },
-  {
-   "id": "0989b0cdf0d9",
-   "url": "https://www.automation-news.jp/2026/10/109221/",
-   "title": "Molex、ヒューマノイドロボット向け超小型ハイブリッドコネクター「MiniMix」発売",
-   "summary": "Molexは、ヒューマノイドロボットや自律走行搬送ロボット（AMR）向けに、電力と信号を1つに統合したハイブリッドコネクター「MiniMix」を発売した。同製品は、15.0Aの電力供給と1Gbpsの1000BASE-T1高速イーサネット通信",
-   "source": "オートメーション新聞WEB",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://www.automation-news.jp/wp-content/uploads/2026/09/0cce2d9c53613ecdf9acd93f6a6ede4d.png",
-   "published": "2026-10-02T19:50+09:00",
-   "collected": "2026-10-03T09:23+09:00"
-  },
-  {
-   "id": "65e3acb18aa9",
-   "url": "https://robotstart.info/article/2026/10/02/382479.html",
-   "title": "ロボットメーカーとしての知見を生かした「製造業向けAXソリューション」をNew Innovationsが発表、「図面バンク」はエージェント機能を追加",
-   "summary": "株式会社New Innovationsは2026年10月2日、自社のものづくり現場でAX（AIによる業務変革）を実践してきた知見をもとに、製造業各社の変革を支援する「製造業向けAXソリューション」を発表した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107433.jpg",
-   "published": "2026-10-02T18:20+09:00",
-   "collected": "2026-10-03T09:23+09:00"
-  },
-  {
-   "id": "7d2451e54a35",
-   "url": "https://robotstart.info/article/2026/10/02/382478.html",
-   "title": "デモ映像の枠を超え日常へ ショールームの案内からホテルの受付まで行うヒューマノイドAGIBOT A3 Ultra",
-   "summary": "AGIBOTは2026年10月1日、ヒューマノイドロボットAGIBOT A3 Ultraがショールームやホテルの来訪者を出迎え、館内を歩きながら説明する様子の映像をYouTubeで公開した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107469.jpg",
-   "published": "2026-10-02T17:35+09:00",
-   "collected": "2026-10-03T09:23+09:00"
   }
  ]
 }
