@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-28T10:40+09:00",
+  "last_updated": "2026-10-28T11:06+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -234,6 +234,20 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/108562.jpg",
    "published": "2026-10-27T17:00+09:00",
    "collected": "2026-10-28T09:25+09:00"
+  },
+  {
+   "id": "bc419a05c3d5",
+   "url": "https://news.nicovideo.jp/watch/nw19923712?news_ref=media274_media274",
+   "title": "丸文、エレベーター連携不要のAIロボット「Aeolus」で警備DXを支援",
+   "summary": "丸文、エレベーター連携不要のAIロボット「Aeolus」で警備DXを支援",
+   "source": "ニコニコニュース",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": null,
+   "published": "2026-10-27T16:51+09:00",
+   "collected": "2026-10-28T11:06+09:00",
+   "_thumb_tries": 1
   },
   {
    "id": "b6ca5968a2d4",
@@ -6722,19 +6736,6 @@
    "expert": false,
    "thumbnail": "https://prcdn.freetls.fastly.net/release_image/16343/1321/16343-1321-545a9a243a5566e6789cd9b1c180666d-1000x663.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
    "published": "2026-10-05T16:30+09:00",
-   "collected": "2026-10-06T10:43+09:00"
-  },
-  {
-   "id": "863c64209438",
-   "url": "https://robotstart.info/article/2026/10/05/382483.html",
-   "title": "三菱地所とデロイト トーマツ、量子共創拠点「Tokyo Quantum Gateway」を丸の内に2027年1月開設へ",
-   "summary": "三菱地所株式会社は、デロイト トーマツ グループとともに、量子技術分野における産学官連携、事業共創、人材交流を通じて量子技術の社会実装を促進する量子共創拠点「Tokyo Quantum Gateway（仮称、略称：TQG）」を、2027年1月に開設すると発表した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107515.jpg",
-   "published": "2026-10-05T16:00+09:00",
    "collected": "2026-10-06T10:43+09:00"
   }
  ]
