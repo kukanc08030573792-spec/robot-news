@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-28T09:42+09:00",
+  "last_updated": "2026-10-28T10:40+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -32,6 +32,19 @@
   ]
  },
  "items": [
+  {
+   "id": "ac64cad171f2",
+   "url": "https://robotstart.info/article/2026/10/28/382570.html",
+   "title": "ファナックがフィジカルAIシステム「AIマスタレスビジョン」を開発、ロボットが初見の仕事もゼロ設定・ゼロ教示で認識して行動",
+   "summary": "ファナック株式会社は、AIロボットが対象物を見て理解するフィジカルAIシステム「AIマスタレスビジョン」を開発した。同社は2026年10月26日に公式YouTubeチャンネルで動画を公開している。",
+   "source": "ロボスタ",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://robotstart.info/imgs/ogp_f/108580.jpg",
+   "published": "2026-10-28T10:00+09:00",
+   "collected": "2026-10-28T10:40+09:00"
+  },
   {
    "id": "211afcf3038f",
    "url": "https://www.technologyreview.jp/s/393896/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
@@ -70,7 +83,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:50+09:00",
    "collected": "2026-10-28T09:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "0c0c27b01cf4",
@@ -97,7 +110,7 @@
    "thumbnail": null,
    "published": "2026-10-28T07:04+09:00",
    "collected": "2026-10-28T09:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "7c38db3ad54e",
@@ -364,7 +377,7 @@
    "thumbnail": null,
    "published": "2026-10-27T11:00+09:00",
    "collected": "2026-10-28T09:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "cced576e5559",
@@ -871,7 +884,7 @@
    "thumbnail": null,
    "published": "2026-10-24T19:00+09:00",
    "collected": "2026-10-28T09:25+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "1aa83853ee49",
@@ -6722,19 +6735,6 @@
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107515.jpg",
    "published": "2026-10-05T16:00+09:00",
-   "collected": "2026-10-06T10:43+09:00"
-  },
-  {
-   "id": "4e7a0a01b0e3",
-   "url": "https://robotstart.info/article/2026/10/05/382482.html",
-   "title": "ヒューマノイド「Astribot T1」の物流・接客・実験室など広がる活用例とは IROS 2026出展のまとめ動画",
-   "summary": "Astribotは2026年10月3日、同社のヒューマノイド「Astribot T1」を米国ピッツバーグで開かれたIROS 2026で展示した様子を約1分半の動画をYouTubeで公開した。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107514.jpg",
-   "published": "2026-10-05T14:30+09:00",
    "collected": "2026-10-06T10:43+09:00"
   }
  ]
