@@ -11,7 +11,7 @@
   "thumbnail": null,
   "published": "2026-10-29T10:05+09:00",
   "collected": "2026-10-29T10:12+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "3aa66c9fa655",
@@ -137,7 +137,7 @@
   "thumbnail": null,
   "published": "2026-10-28T17:12+09:00",
   "collected": "2026-10-29T09:46+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "291e72befa3c",
@@ -337,6 +337,21 @@
   "_thumb_tries": 3
  },
  {
+  "id": "7819cfe061ce",
+  "url": "https://www.youtube.com/shorts/hva73EFJVRs",
+  "title": "セットアップして、きれいにしましょう。🤖# floorcleaningrobot",
+  "summary": "座ってX 6 ROVRの仕組みを見てみましょう。自律的に☑️掃除変化する環境を☑️ナビゲートして適応します簡単なスポットを☑️カバーします",
+  "source": "Tennant Company",
+  "type": "video",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/hva73EFJVRs/hqdefault.jpg",
+  "published": "2026-10-28T05:30+09:00",
+  "collected": "2026-10-29T10:56+09:00",
+  "title_orig": "Set it up. Let it clean. 🤖 #floorcleaningrobot",
+  "summary_orig": "Sit back and watch the X6 ROVR show you how it's done. ☑️ Cleans autonomously ☑️ Navigates and adapts to changing environments ☑️ Covers the spots that are easy"
+ },
+ {
   "id": "7c38db3ad54e",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03727/101500007/",
   "title": "AIロボットの第三極狙うドイツ、部品量産化に着手 安全規格策定も主導",
@@ -402,6 +417,21 @@
   "thumbnail": "https://media.image.infoseek.co.jp/isnews/pc/img/noimage_203x120_busi-econ-1.0.png",
   "published": "2026-10-27T23:10+09:00",
   "collected": "2026-10-28T09:25+09:00"
+ },
+ {
+  "id": "0b1f168ad1f8",
+  "url": "https://www.youtube.com/watch?v=Pyua5vzXWzM",
+  "title": "i - mop ® Pro Lite & XLウォークビハインドスクラバー|製品概要| Tennant Company",
+  "summary": "I - mop ® Pro Liteとi - mop ® Pro XLは、モップの柔軟性とスクラバーの洗浄力を組み合わせて設計されており、i - mop ® Proモデルは清掃に役立ちます",
+  "source": "Tennant Company",
+  "type": "video",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/Pyua5vzXWzM/hqdefault.jpg",
+  "published": "2026-10-27T22:35+09:00",
+  "collected": "2026-10-29T10:56+09:00",
+  "title_orig": "i-mop® Pro Lite & XL Walk-Behind Scrubber | Product Overview | Tennant Company",
+  "summary_orig": "Meet the i-mop® Pro Lite and i-mop® Pro XL Designed to combine the flexibility of a mop with the cleaning power of a scrubber, the i-mop® Pro models help cleani"
  },
  {
   "id": "eeabfb7e2954",
