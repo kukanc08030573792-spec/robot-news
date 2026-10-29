@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-29T10:56+09:00",
+  "last_updated": "2026-10-29T11:18+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "5a09a30278c5",
+   "url": "https://prtimes.jp/main/html/rd/p/000000113.000028572.html",
+   "title": "【小売業の清掃ロボット運用実態調査】95.5%が「導入してよかった」と回答。導入後の変化、「店内・施設の清潔さが向上した」が52.3%で最多。",
+   "summary": "【小売業の清掃ロボット運用実態調査】95.5%が「導入してよかった」と回答。導入後の変化、「店内・施設の清潔さが向上した」が52.3%で最多。",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/28572/113/28572-113-d742de266bb0eb91ea144a0a9d4a81f2-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-29T11:00+09:00",
+   "collected": "2026-10-29T11:18+09:00"
+  },
+  {
    "id": "41051fd55517",
    "url": "https://www.kankokeizai.com/2610291000kks/",
    "title": "ＪＲ東日本など ＡＩ・ＩｏＴ・清掃ロボットを活用した駅舎清掃ＤＸの実証を実施",
@@ -44,7 +57,7 @@
    "thumbnail": null,
    "published": "2026-10-29T10:05+09:00",
    "collected": "2026-10-29T10:12+09:00",
-   "_thumb_tries": 2
+   "_thumb_tries": 3
   },
   {
    "id": "3aa66c9fa655",
@@ -6731,19 +6744,6 @@
    "expert": false,
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107548.jpg",
    "published": "2026-10-06T14:10+09:00",
-   "collected": "2026-10-07T09:35+09:00"
-  },
-  {
-   "id": "77cb12c4f70a",
-   "url": "https://robotstart.info/article/2026/10/06/382487.html",
-   "title": "ヒューマノイド専用の研究開発拠点「GMOヒューマノイド・ラボ 渋谷ショールーム」全面オープン",
-   "summary": "GMOインターネットグループは2026年10月6日、東京・渋谷のセルリアンタワー11階にある「GMOヒューマノイド・ラボ 渋谷ショールーム」を全面オープンした。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107537.jpg",
-   "published": "2026-10-06T13:20+09:00",
    "collected": "2026-10-07T09:35+09:00"
   }
  ]
