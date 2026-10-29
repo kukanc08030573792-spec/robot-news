@@ -1,5 +1,32 @@
 [
  {
+  "id": "41051fd55517",
+  "url": "https://www.kankokeizai.com/2610291000kks/",
+  "title": "ＪＲ東日本など ＡＩ・ＩｏＴ・清掃ロボットを活用した駅舎清掃ＤＸの実証を実施",
+  "summary": "赤羽駅中心に実証 ＪＲ東日本、ＪＲ東日本商事、ＪＲ東日本環境アクセス、ソフトバンク（東京都港区）は、赤羽駅を中心に２７日から、駅舎清掃ＤＸの実現を目指した実証実験を行う。ＩｏＴ、ＡＩ、ロボットなどの先端技術を活用することで、トイレやごみ箱の利用状況や汚れの発生具合に応じたより効果的な清掃を実現。",
+  "source": "観光経済新聞",
+  "type": "article",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-10-29T10:05+09:00",
+  "collected": "2026-10-29T10:12+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "3aa66c9fa655",
+  "url": "https://robotstart.info/article/2026/10/29/382577.html",
+  "title": "Google DeepMind、世界モデル「Genie 4」を発表 音声も同時に生成しリアルタイムで操作できるシミュレーション",
+  "summary": "Google DeepMindは2026年10月27日、新しい世界モデル「Genie 4」を発表した。リアルタイムで操作できるインタラクティブなシミュレーションにより、音楽や環境音、会話の音声も世界と同時に生成できるマルチモーダルなモデルである。ロボットやエージェントの訓練環境構築などへの活用が見込まれている。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108652.jpg",
+  "published": "2026-10-29T10:00+09:00",
+  "collected": "2026-10-29T10:12+09:00"
+ },
+ {
   "id": "a1d8ea2d39da",
   "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
   "title": "A 3によると、北米のロボット受注は2026年第3四半期に24.8 ％増加",
@@ -38,10 +65,9 @@
   "type": "article",
   "category": "general",
   "expert": false,
-  "thumbnail": null,
+  "thumbnail": "https://img.biggo.com/hdOqlQSDWknKRlXZjunjImcjSl8OYUW6KRHzx3hBIsw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzE2OTUwZTM3LTU0OTctNDczMi05OGFkLWNhYzY3NTEzYzFmOV8xNzkzMjE1ODQ4X2RlZmF1bHQuanBn.jpg",
   "published": "2026-10-29T03:31+09:00",
-  "collected": "2026-10-29T09:46+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-10-29T09:46+09:00"
  },
  {
   "id": "6008c8fc96d3",
@@ -82,10 +108,9 @@
   "type": "article",
   "category": "general",
   "expert": false,
-  "thumbnail": null,
+  "thumbnail": "https://img.biggo.com/IkF1nI1GIEIJXNOAYl5Kien_hiSFsTctT-J3DXwniNQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzNhZTIyNTFkLWFlZGYtNDU0MC05MzkyLWY3MGQwYjBmNmI4Nl8xNzkzMTg5NTk1X2RlZmF1bHQuanBn.jpg",
   "published": "2026-10-28T21:05+09:00",
-  "collected": "2026-10-29T09:46+09:00",
-  "_thumb_tries": 1
+  "collected": "2026-10-29T09:46+09:00"
  },
  {
   "id": "640fc505a8cc",
@@ -112,7 +137,7 @@
   "thumbnail": null,
   "published": "2026-10-28T17:12+09:00",
   "collected": "2026-10-29T09:46+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "291e72befa3c",
@@ -446,7 +471,7 @@
   "thumbnail": null,
   "published": "2026-10-27T16:51+09:00",
   "collected": "2026-10-28T11:06+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "b6ca5968a2d4",
@@ -551,6 +576,19 @@
   "thumbnail": "https://www.sankei.com/resizer/v2/https%3A%2F%2Fdpgdieoe6npux.cloudfront.net%2Fprtimes%2FG77M6MGBPBIQ7BVR2RPG7MNRAQ?auth=e9f2545f09aeb570c61c737262f2a0e18a32f6eadb0cc4e22e5b3a3e406fabaf&quality=50&smart=true&width=1200&height=675",
   "published": "2026-10-27T14:00+09:00",
   "collected": "2026-10-28T09:25+09:00"
+ },
+ {
+  "id": "d99c4e002e5c",
+  "url": "https://www.vietnam.vn/ja/robot-hinh-nguoi-my-lam-viec-20-gio-sac-pin-chi-9-phut",
+  "title": "アメリカ製のヒューマノイドロボットは20時間稼働でき、充電時間はわずか9分だ。",
+  "summary": "Agility Robotics社のDigit 5ロボットは、急速充電バッテリー技術により1日20時間以上の稼働を目指しており、工場におけるダウンタイムの削減に貢献する。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/27/1793059750984_bt-5841-png.webp",
+  "published": "2026-10-27T12:49+09:00",
+  "collected": "2026-10-29T10:12+09:00"
  },
  {
   "id": "59653eff2f02",
