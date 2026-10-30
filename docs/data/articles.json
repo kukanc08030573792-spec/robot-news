@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-30T09:47+09:00",
+  "last_updated": "2026-10-30T10:20+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -33,6 +33,19 @@
  },
  "items": [
   {
+   "id": "989f0b49e999",
+   "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261030016?fm=latestnews",
+   "title": "アトラグループ---RBBと合弁会社を設立しヒューマノイドロボット事業に参入",
+   "summary": "アトラグループは、29日、RBB（山梨県西八代郡市川三郷町）との共同出資により、ロボットシステムの販売・導…",
+   "source": "ｄメニューニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png",
+   "published": "2026-10-30T09:20+09:00",
+   "collected": "2026-10-30T10:20+09:00"
+  },
+  {
    "id": "defe72749808",
    "url": "https://finance.yahoo.co.jp/news/detail/688b1e98200059dea180c12d2d1927c92f9ad6c9",
    "title": "アトラグループ---RBBと合弁会社を設立しヒューマノイドロボット事業に参入(フィスコ)",
@@ -44,6 +57,32 @@
    "thumbnail": "https://s.yimg.jp/images/finance/common/image/ogp.png",
    "published": "2026-10-30T09:20+09:00",
    "collected": "2026-10-30T09:47+09:00"
+  },
+  {
+   "id": "2111bac643ce",
+   "url": "https://finance.yahoo.co.jp/news/detail/61a728867700be7d9bdd4cc4b85a1b878a7b7913",
+   "title": "アトラグループ－買い気配 人型ロボットの新規事業に参入 ＲＢＢと合弁会社設立(トレーダーズ・ウェブ)",
+   "summary": "アトラグループ－買い気配 人型ロボットの新規事業に参入 ＲＢＢと合弁会社設立(トレーダーズ・ウェブ)",
+   "source": "Yahoo!ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+   "published": "2026-10-30T09:09+09:00",
+   "collected": "2026-10-30T10:20+09:00"
+  },
+  {
+   "id": "acd3e1a11de6",
+   "url": "https://news.yahoo.co.jp/articles/581d2a84a6f00436256dd3ba95a5364aaabe4a49",
+   "title": "中国Agibot、傘下ブランドから家庭向けロボット2モデル 低価格で普及を加速",
+   "summary": "複合材料大手「上緯新材（Swancor Advanced Materials）」傘下のロボットブランド「啓元機器人（PrimeBOT）」が、人型ロボット（ヒューマノイド）の一般家庭への普及を推し進め",
+   "source": "Yahoo!ニュース",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00010001-krjapan-000-1-view.jpg?exp=10800",
+   "published": "2026-10-30T09:01+09:00",
+   "collected": "2026-10-30T10:20+09:00"
   },
   {
    "id": "fff0ccbbb285",
@@ -87,7 +126,7 @@
    "thumbnail": null,
    "published": "2026-10-30T04:18+09:00",
    "collected": "2026-10-30T09:47+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "b36f76f64c5a",
@@ -116,6 +155,21 @@
    "collected": "2026-10-30T09:47+09:00"
   },
   {
+   "id": "b3f38a31dce7",
+   "url": "https://www.youtube.com/watch?v=3_Tf6rsIL7I",
+   "title": "PUDU MP 2000 ：ミスアライメントパレットのスマートピックアップ",
+   "summary": "傾いたパレットですか？問題ありません。パレットがずれている、または角度を合わせて配置されている場合👀でも、PUDU MP 2000は自律的にそれらの位置と向きを検出することができます。",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/3_Tf6rsIL7I/hqdefault.jpg",
+   "published": "2026-10-29T19:55+09:00",
+   "collected": "2026-10-30T10:20+09:00",
+   "title_orig": "PUDU MP2000: Smart Pickup for Misaligned Pallets",
+   "summary_orig": "A tilted pallet? No problem. 👀 Even when pallets are misaligned or placed at an angle, the PUDU MP2000 can autonomously detect their position and orientation, a"
+  },
+  {
    "id": "02688a6eca11",
    "url": "https://news.nicovideo.jp/watch/nw19934319?news_ref=60_60",
    "title": "【小売業の清掃ロボット運用実態調査】95.5%が「導入してよかった」と回答。導入後の変化、「店内・施設の清潔さが向上し",
@@ -127,7 +181,7 @@
    "thumbnail": null,
    "published": "2026-10-29T19:15+09:00",
    "collected": "2026-10-30T09:47+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "ae92db3ed6c6",
@@ -360,6 +414,21 @@
    "thumbnail": "https://img.biggo.com/IkF1nI1GIEIJXNOAYl5Kien_hiSFsTctT-J3DXwniNQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzNhZTIyNTFkLWFlZGYtNDU0MC05MzkyLWY3MGQwYjBmNmI4Nl8xNzkzMTg5NTk1X2RlZmF1bHQuanBn.jpg",
    "published": "2026-10-28T21:05+09:00",
    "collected": "2026-10-29T09:46+09:00"
+  },
+  {
+   "id": "cc383040d323",
+   "url": "https://www.youtube.com/watch?v=WFBUWkan-A4",
+   "title": "PUDUのロボットクルーEP 01 | PUDU D 5",
+   "summary": "地下駐車場、ビジネスパーク、スタジアム— # PUDUD 5のための仕事のちょうど別の日。高温や漏電の検出🐾から",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/WFBUWkan-A4/hqdefault.jpg",
+   "published": "2026-10-28T20:23+09:00",
+   "collected": "2026-10-30T10:20+09:00",
+   "title_orig": "Meet PUDU's Robot Crew EP01 | PUDU D5",
+   "summary_orig": "Underground parking garages, business parks, stadiums — just another day on the job for #PUDUD5. 🐾 From detecting high temperatures and electrical leakage to sp"
   },
   {
    "id": "640fc505a8cc",
@@ -711,6 +780,36 @@
    "collected": "2026-10-28T09:25+09:00",
    "title_orig": "Xpanner launches autonomous pile driver for solar farm contruction",
    "summary_orig": "Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor. The post Xpanner l"
+  },
+  {
+   "id": "b7384e2e6853",
+   "url": "https://www.youtube.com/watch?v=Uy6Rq_fOrzc",
+   "title": "PUDU D 5 ：簡単なセットアップ、自律パトロール",
+   "summary": "大規模なマルチレベル施設のパトロールを管理することは、時間と労力を要する作業ではありません。3つの簡単なセットアップ手順で、# PUDUD 5の準備が整いました",
+   "source": "Pudu Robotics",
+   "type": "video",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/Uy6Rq_fOrzc/hqdefault.jpg",
+   "published": "2026-10-27T17:39+09:00",
+   "collected": "2026-10-30T10:20+09:00",
+   "title_orig": "PUDU D5: Easy Setup, Autonomous Patrol",
+   "summary_orig": "Managing patrols across large, multi-level facilities shouldn’t be a time-consuming, labor-intensive task. With just three simple setup steps, #PUDUD5 is ready"
+  },
+  {
+   "id": "bc4100b72c53",
+   "url": "https://www.youtube.com/watch?v=rjD5NzRCURs",
+   "title": "3つのGausiumロボット、6つのレベル：淮南エーゲ海ショッピングモールの成功事例",
+   "summary": "小売フロアから地下ガレージまで、淮南エーゲ海ショッピングモールの6つの階層にわたる床掃除で3つのガウシウムロボットがどのように掃除するか🤖をご覧ください。",
+   "source": "Gausium",
+   "type": "video",
+   "category": "cleaning",
+   "expert": false,
+   "thumbnail": "https://i.ytimg.com/vi/rjD5NzRCURs/hqdefault.jpg",
+   "published": "2026-10-27T17:10+09:00",
+   "collected": "2026-10-30T10:20+09:00",
+   "title_orig": "3 Gausium Robots, 6 Levels: Huainan Aegean Shopping Mall Success Case",
+   "summary_orig": "See how 3 Gausium robots take on floor cleaning across 6 levels of Huainan Aegean Shopping Mall, from the retail floors to the underground garage. 🤖 What’s depl"
   },
   {
    "id": "38b380eebd84",
@@ -6645,109 +6744,6 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261007-00010000-nishinpc-000-1-view.jpg?exp=10800",
    "published": "2026-10-07T06:01+09:00",
    "collected": "2026-10-08T09:55+09:00"
-  },
-  {
-   "id": "37b82c3f277f",
-   "url": "https://www.therobotreport.com/boston-dynamics-appoints-former-amazon-executive-rohit-prasad-new-ceo/",
-   "title": "Boston Dynamics、元Amazon幹部のRohit Prasadを新CEOに任命",
-   "summary": "Boston Dynamicsに入社する前は、AmazonでAlexaと人工知能のシニアバイスプレジデント兼ヘッドサイエンティストを務めていました。ポスト・ボストン・ダイナム",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/rohit-prasad-profile-pic-featured.jpg",
-   "published": "2026-10-07T06:00+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "Boston Dynamics appoints former Amazon exec Rohit Prasad as new CEO",
-   "summary_orig": "Before Boston Dynamics, Prasad served as senior vice president and head scientist for Alexa and artificial general intelligence at Amazon. The post Boston Dynam"
-  },
-  {
-   "id": "70c0ab3bc917",
-   "url": "https://www.jutaku-s.com/news/id/106051",
-   "title": "5台の清掃ロボットが自律移動 大和ライフネクスト",
-   "summary": "建物管理を手掛ける大和ライフネクストは、統括管理を担う大型複合ビル「淀屋橋ゲートタワー」（大阪市中央区）で、5台の清掃ロボットを導入し、エレベーターや防火戸と連携する次世代型の建物管理モデルを構築した。",
-   "source": "住宅新報",
-   "type": "article",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://cdn.jutaku-s.com/131e7658d254b7a78b083b802039e1d7-640x480.jpg",
-   "published": "2026-10-07T06:00+09:00",
-   "collected": "2026-10-07T09:35+09:00"
-  },
-  {
-   "id": "adbf563735d3",
-   "url": "https://www.therobotreport.com/pegasus-1-6-brings-video-understanding-physical-ai-says-twelvelabs/",
-   "title": "TwelveLabsによると、Pegasus 1.6は物理的なAIにビデオ理解をもたらします",
-   "summary": "TwelveLabsによると、同社のPegasus 1.6モデルは一人称視点のビデオを理解し、ロボット開発者向けのラベリングを含むワークフローをサポートしているという。The post Pegasus 1.6 bri",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/TwelveLabs_Pegasus.jpg",
-   "published": "2026-10-07T05:07+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "Pegasus 1.6 brings video understanding to physical AI, says TwelveLabs",
-   "summary_orig": "TwelveLabs says its Pegasus 1.6 model understands first-person video and supports workflows including labeling for robotics developers. The post Pegasus 1.6 bri"
-  },
-  {
-   "id": "bfec47a8be73",
-   "url": "https://www.therobotreport.com/sovereign-ai-same-landlord-thoughts-physical-ai-race/",
-   "title": "Sovereign AI、同じ家主—物理的なAIレースについての考え",
-   "summary": "物理的なAIアーキテクチャの代替品の数は増えていますが、NVIDIAはその役割を確保するために主権的な戦略を取っています。ポストソブリンAI、同じ地主",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/HuggingFace_repos.jpg",
-   "published": "2026-10-07T02:47+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "Sovereign AI, same landlord — thoughts on the physical AI race",
-   "summary_orig": "While physical AI architecture alternatives are growing in number, NVIDIA has taken a sovereign strategy to ensuring its role. The post Sovereign AI, same landl"
-  },
-  {
-   "id": "c82a6b044e1c",
-   "url": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
-   "title": "FireDomeが野火防衛のために自律的な「大砲」を構築",
-   "summary": "FireDomeは、自律的な山火事防御システムを構築し、消防士が到着する前にコミュニティとインフラストラクチャを保護します。POST FireDomeは自律的な‘aを構築します",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/firedome-featured.jpg",
-   "published": "2026-10-07T01:00+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "FireDome builds autonomous ‘artillery’ for wildfire defense",
-   "summary_orig": "FireDome builds autonomous wildfire defense systems to protect communities and infrastructure before firefighters arrive. The post FireDome builds autonomous ‘a"
-  },
-  {
-   "id": "81960f10e779",
-   "url": "https://www.youtube.com/shorts/IlogIf64qGY",
-   "title": "You 🤝 T 360 ：理にかなったパートナーシップ。 🧼✨",
-   "summary": "Tennant Company▬▬について▬▬▬▬▬Tennant Companyは、産業および商業用洗浄の分野で革新的なソリューションを提供する大手プロバイダーです。1870年に設立されました",
-   "source": "Tennant Company",
-   "type": "video",
-   "category": "cleaning",
-   "expert": false,
-   "thumbnail": "https://i.ytimg.com/vi/IlogIf64qGY/hqdefault.jpg",
-   "published": "2026-10-07T00:00+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "You 🤝 T360: a partnership that just makes sense. 🧼✨",
-   "summary_orig": "▬▬ About Tennant Company ▬▬▬▬▬ Tennant Company is a leading provider of innovative solutions in the field of industrial and commercial cleaning. Founded in 1870"
-  },
-  {
-   "id": "1a20ea929e09",
-   "url": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
-   "title": "概要AIがAI検査カメラのOV Sparkラインを発売",
-   "summary": "OV SparkとOV Spark Pro AI検査カメラは、Overview AIとその流通パートナーを通じて利用可能になりました。POST概要AIがOV Sparkを開始",
-   "source": "The Robot Report",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/10/OV-Spark-in-production-at-MEC-featured.jpg",
-   "published": "2026-10-06T23:51+09:00",
-   "collected": "2026-10-07T09:35+09:00",
-   "title_orig": "Overview AI launches OV Spark line of AI inspection cameras",
-   "summary_orig": "The OV Spark and OV Spark Pro AI inspection cameras are available now through Overview AI and its distribution partners. The post Overview AI launches OV Spark"
   }
  ]
 }

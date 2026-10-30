@@ -13,6 +13,45 @@
   "collected": "2026-10-30T09:47+09:00"
  },
  {
+  "id": "989f0b49e999",
+  "url": "https://topics.smt.docomo.ne.jp/article/fisco/business/fisco-0009350020261030016?fm=latestnews",
+  "title": "アトラグループ---RBBと合弁会社を設立しヒューマノイドロボット事業に参入",
+  "summary": "アトラグループは、29日、RBB（山梨県西八代郡市川三郷町）との共同出資により、ロボットシステムの販売・導…",
+  "source": "ｄメニューニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://img.topics.smt.news.goo.ne.jp/-/20261028100531/img/dmenu_service-brand-logo_200x200.png",
+  "published": "2026-10-30T09:20+09:00",
+  "collected": "2026-10-30T10:20+09:00"
+ },
+ {
+  "id": "2111bac643ce",
+  "url": "https://finance.yahoo.co.jp/news/detail/61a728867700be7d9bdd4cc4b85a1b878a7b7913",
+  "title": "アトラグループ－買い気配 人型ロボットの新規事業に参入 ＲＢＢと合弁会社設立(トレーダーズ・ウェブ)",
+  "summary": "アトラグループ－買い気配 人型ロボットの新規事業に参入 ＲＢＢと合弁会社設立(トレーダーズ・ウェブ)",
+  "source": "Yahoo!ファイナンス",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://s.yimg.jp/images/finance/common/image/ogp.png",
+  "published": "2026-10-30T09:09+09:00",
+  "collected": "2026-10-30T10:20+09:00"
+ },
+ {
+  "id": "acd3e1a11de6",
+  "url": "https://news.yahoo.co.jp/articles/581d2a84a6f00436256dd3ba95a5364aaabe4a49",
+  "title": "中国Agibot、傘下ブランドから家庭向けロボット2モデル 低価格で普及を加速",
+  "summary": "複合材料大手「上緯新材（Swancor Advanced Materials）」傘下のロボットブランド「啓元機器人（PrimeBOT）」が、人型ロボット（ヒューマノイド）の一般家庭への普及を推し進め",
+  "source": "Yahoo!ニュース",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00010001-krjapan-000-1-view.jpg?exp=10800",
+  "published": "2026-10-30T09:01+09:00",
+  "collected": "2026-10-30T10:20+09:00"
+ },
+ {
   "id": "fff0ccbbb285",
   "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
   "title": "ホワイトハウスは、外国製ロボットに関するセクション232の決定を行います",
@@ -54,7 +93,7 @@
   "thumbnail": null,
   "published": "2026-10-30T04:18+09:00",
   "collected": "2026-10-30T09:47+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "b36f76f64c5a",
@@ -83,6 +122,21 @@
   "collected": "2026-10-30T09:47+09:00"
  },
  {
+  "id": "b3f38a31dce7",
+  "url": "https://www.youtube.com/watch?v=3_Tf6rsIL7I",
+  "title": "PUDU MP 2000 ：ミスアライメントパレットのスマートピックアップ",
+  "summary": "傾いたパレットですか？問題ありません。パレットがずれている、または角度を合わせて配置されている場合👀でも、PUDU MP 2000は自律的にそれらの位置と向きを検出することができます。",
+  "source": "Pudu Robotics",
+  "type": "video",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/3_Tf6rsIL7I/hqdefault.jpg",
+  "published": "2026-10-29T19:55+09:00",
+  "collected": "2026-10-30T10:20+09:00",
+  "title_orig": "PUDU MP2000: Smart Pickup for Misaligned Pallets",
+  "summary_orig": "A tilted pallet? No problem. 👀 Even when pallets are misaligned or placed at an angle, the PUDU MP2000 can autonomously detect their position and orientation, a"
+ },
+ {
   "id": "02688a6eca11",
   "url": "https://news.nicovideo.jp/watch/nw19934319?news_ref=60_60",
   "title": "【小売業の清掃ロボット運用実態調査】95.5%が「導入してよかった」と回答。導入後の変化、「店内・施設の清潔さが向上し",
@@ -94,7 +148,7 @@
   "thumbnail": null,
   "published": "2026-10-29T19:15+09:00",
   "collected": "2026-10-30T09:47+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "ae92db3ed6c6",
@@ -327,6 +381,21 @@
   "thumbnail": "https://img.biggo.com/IkF1nI1GIEIJXNOAYl5Kien_hiSFsTctT-J3DXwniNQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzNhZTIyNTFkLWFlZGYtNDU0MC05MzkyLWY3MGQwYjBmNmI4Nl8xNzkzMTg5NTk1X2RlZmF1bHQuanBn.jpg",
   "published": "2026-10-28T21:05+09:00",
   "collected": "2026-10-29T09:46+09:00"
+ },
+ {
+  "id": "cc383040d323",
+  "url": "https://www.youtube.com/watch?v=WFBUWkan-A4",
+  "title": "PUDUのロボットクルーEP 01 | PUDU D 5",
+  "summary": "地下駐車場、ビジネスパーク、スタジアム— # PUDUD 5のための仕事のちょうど別の日。高温や漏電の検出🐾から",
+  "source": "Pudu Robotics",
+  "type": "video",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/WFBUWkan-A4/hqdefault.jpg",
+  "published": "2026-10-28T20:23+09:00",
+  "collected": "2026-10-30T10:20+09:00",
+  "title_orig": "Meet PUDU's Robot Crew EP01 | PUDU D5",
+  "summary_orig": "Underground parking garages, business parks, stadiums — just another day on the job for #PUDUD5. 🐾 From detecting high temperatures and electrical leakage to sp"
  },
  {
   "id": "640fc505a8cc",
@@ -678,6 +747,36 @@
   "collected": "2026-10-28T09:25+09:00",
   "title_orig": "Xpanner launches autonomous pile driver for solar farm contruction",
   "summary_orig": "Xpanner's new X1 Piling R6 robot autonomously drives solar posts with one operator, improving placement accuracy while cutting on-site labor. The post Xpanner l"
+ },
+ {
+  "id": "b7384e2e6853",
+  "url": "https://www.youtube.com/watch?v=Uy6Rq_fOrzc",
+  "title": "PUDU D 5 ：簡単なセットアップ、自律パトロール",
+  "summary": "大規模なマルチレベル施設のパトロールを管理することは、時間と労力を要する作業ではありません。3つの簡単なセットアップ手順で、# PUDUD 5の準備が整いました",
+  "source": "Pudu Robotics",
+  "type": "video",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/Uy6Rq_fOrzc/hqdefault.jpg",
+  "published": "2026-10-27T17:39+09:00",
+  "collected": "2026-10-30T10:20+09:00",
+  "title_orig": "PUDU D5: Easy Setup, Autonomous Patrol",
+  "summary_orig": "Managing patrols across large, multi-level facilities shouldn’t be a time-consuming, labor-intensive task. With just three simple setup steps, #PUDUD5 is ready"
+ },
+ {
+  "id": "bc4100b72c53",
+  "url": "https://www.youtube.com/watch?v=rjD5NzRCURs",
+  "title": "3つのGausiumロボット、6つのレベル：淮南エーゲ海ショッピングモールの成功事例",
+  "summary": "小売フロアから地下ガレージまで、淮南エーゲ海ショッピングモールの6つの階層にわたる床掃除で3つのガウシウムロボットがどのように掃除するか🤖をご覧ください。",
+  "source": "Gausium",
+  "type": "video",
+  "category": "cleaning",
+  "expert": false,
+  "thumbnail": "https://i.ytimg.com/vi/rjD5NzRCURs/hqdefault.jpg",
+  "published": "2026-10-27T17:10+09:00",
+  "collected": "2026-10-30T10:20+09:00",
+  "title_orig": "3 Gausium Robots, 6 Levels: Huainan Aegean Shopping Mall Success Case",
+  "summary_orig": "See how 3 Gausium robots take on floor cleaning across 6 levels of Huainan Aegean Shopping Mall, from the retail floors to the underground garage. 🤖 What’s depl"
  },
  {
   "id": "38b380eebd84",
