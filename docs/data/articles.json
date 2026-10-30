@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-10-30T11:07+09:00",
+  "last_updated": "2026-10-30T11:31+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-10",
@@ -109,6 +109,19 @@
    "thumbnail": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261030-00010001-krjapan-000-1-view.jpg?exp=10800",
    "published": "2026-10-30T09:01+09:00",
    "collected": "2026-10-30T10:20+09:00"
+  },
+  {
+   "id": "23a77084beaa",
+   "url": "https://www.chosunonline.com/site/data/html_dir/2026/10/27/2026102780168.html",
+   "title": "【動画】フィギュアAIの技術を搭載したヒューマノイドロボット",
+   "summary": "【動画】フィギュアAIの技術を搭載したヒューマノイドロボット",
+   "source": "朝鮮日報",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://file.chosunonline.com/site/re/img/contents_ad_jns.gif",
+   "published": "2026-10-30T08:31+09:00",
+   "collected": "2026-10-30T11:31+09:00"
   },
   {
    "id": "fff0ccbbb285",
@@ -6730,20 +6743,6 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/107600.jpg",
    "published": "2026-10-07T13:00+09:00",
    "collected": "2026-10-08T09:55+09:00"
-  },
-  {
-   "id": "ae933507aa9d",
-   "url": "https://www.nikkan.co.jp/articles/view/793876",
-   "title": "三井不動産、飲食配送サービスロボ 仮想地図で館内を自律移動",
-   "summary": "三井不動産、飲食配送サービスロボ 仮想地図で館内を自律移動",
-   "source": "日刊工業新聞",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": null,
-   "published": "2026-10-07T12:00+09:00",
-   "collected": "2026-10-08T09:55+09:00",
-   "_thumb_tries": 3
   }
  ]
 }
