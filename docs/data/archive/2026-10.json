@@ -39,7 +39,7 @@
   "thumbnail": null,
   "published": "2026-10-31T21:03+09:00",
   "collected": "2026-11-01T09:01+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "1e727fe9d312",
@@ -928,6 +928,19 @@
   "thumbnail": "https://robotstart.info/imgs/ogp_f/108580.jpg",
   "published": "2026-10-28T10:00+09:00",
   "collected": "2026-10-28T10:40+09:00"
+ },
+ {
+  "id": "c8f028b3edc6",
+  "url": "https://prtimes.jp/main/html/rd/p/000000082.000097103.html",
+  "title": "【展示会出展のお知らせ】ビルメンヒューマンフェア＆クリーンEXPO 2026に出展します",
+  "summary": "【展示会出展のお知らせ】ビルメンヒューマンフェア＆クリーンEXPO 2026に出展します",
+  "source": "PR TIMES",
+  "type": "article",
+  "category": "adjacent",
+  "expert": false,
+  "thumbnail": "https://prcdn.freetls.fastly.net/release_image/97103/82/97103-82-bc5d6edfb03d6e6ea78e98de57aefed1-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "published": "2026-10-28T09:30+09:00",
+  "collected": "2026-11-01T09:24+09:00"
  },
  {
   "id": "211afcf3038f",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "last_updated": "2026-11-01T09:01+09:00",
+  "last_updated": "2026-11-01T09:24+09:00",
   "repo": "kukanc08030573792-spec/robot-news",
   "archive_months": [
    "2026-11",
@@ -33,6 +33,19 @@
   ]
  },
  "items": [
+  {
+   "id": "f52e78ee52a9",
+   "url": "https://finance.biggo.jp/news/75618d1f-6b94-452d-9027-113bfece9d0d",
+   "title": "メタ、中国のフーリエと3カ月で「Max」ヒューマノイドロボットを開発 Museの「身体」として",
+   "summary": "メタ・プラットフォームズは中国の新興企業フーリエと共同で「Max」と呼ばれるヒューマノイドロボットの試作機を約3カ月で完成させ、すでに第2版の開発に着手し…",
+   "source": "BigGo ファイナンス",
+   "type": "article",
+   "category": "general",
+   "expert": false,
+   "thumbnail": "https://img.biggo.com/hae-xM-0BL3DlaUvZkekxsOnYR7cSq2TjXdMeoWos8Y/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc1NjE4ZDFmLTZiOTQtNDUyZC05MDI3LTExM2JmZWNlOWQwZF8xNzkzNDkxMDkxX2RlZmF1bHQuanBn.jpg",
+   "published": "2026-11-01T08:55+09:00",
+   "collected": "2026-11-01T09:24+09:00"
+  },
   {
    "id": "851e7b0aa796",
    "url": "https://www.daily.co.jp/society/life/2026/11/01/0020989504.shtml",
@@ -86,7 +99,7 @@
    "thumbnail": null,
    "published": "2026-10-31T21:03+09:00",
    "collected": "2026-11-01T09:01+09:00",
-   "_thumb_tries": 1
+   "_thumb_tries": 2
   },
   {
    "id": "1e727fe9d312",
@@ -975,6 +988,19 @@
    "thumbnail": "https://robotstart.info/imgs/ogp_f/108580.jpg",
    "published": "2026-10-28T10:00+09:00",
    "collected": "2026-10-28T10:40+09:00"
+  },
+  {
+   "id": "c8f028b3edc6",
+   "url": "https://prtimes.jp/main/html/rd/p/000000082.000097103.html",
+   "title": "【展示会出展のお知らせ】ビルメンヒューマンフェア＆クリーンEXPO 2026に出展します",
+   "summary": "【展示会出展のお知らせ】ビルメンヒューマンフェア＆クリーンEXPO 2026に出展します",
+   "source": "PR TIMES",
+   "type": "article",
+   "category": "adjacent",
+   "expert": false,
+   "thumbnail": "https://prcdn.freetls.fastly.net/release_image/97103/82/97103-82-bc5d6edfb03d6e6ea78e98de57aefed1-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+   "published": "2026-10-28T09:30+09:00",
+   "collected": "2026-11-01T09:24+09:00"
   },
   {
    "id": "211afcf3038f",
@@ -6719,32 +6745,6 @@
    "expert": false,
    "thumbnail": "https://cdn.image.st-hatena.com/image/scale/98cb1c9a2a5b6bad668451cb7d9938ef48c5de6e/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fsbn_35%2F20261005%2F20261005113205.jpg",
    "published": "2026-10-08T15:02+09:00",
-   "collected": "2026-10-09T10:09+09:00"
-  },
-  {
-   "id": "47f3e53b2767",
-   "url": "https://robotstart.info/article/2026/10/08/382498.html",
-   "title": "フィジカルAI搭載ロボットが丸の内エリアで飲料を手渡し空容器も回収 RLWRLD・三菱地所・TMIPが実証予定",
-   "summary": "フィジカルAIロボット基盤モデル（RFM）の開発に取り組むリアルワールド株式会社（RLWRLD）、三菱地所株式会社、一般社団法人TMIP（Tokyo Marunouchi Innovation Platform）は、フィジカルAIロボットによる飲料提供と空容器回収の実証実験を実施する。",
-   "source": "ロボスタ",
-   "type": "article",
-   "category": "general",
-   "expert": false,
-   "thumbnail": "https://robotstart.info/imgs/ogp_f/107650.jpg",
-   "published": "2026-10-08T14:35+09:00",
-   "collected": "2026-10-09T10:09+09:00"
-  },
-  {
-   "id": "0fff11512d92",
-   "url": "https://news.web.nhk/newsweb/na/nd-20261008de56448",
-   "title": "佐賀市役所 窓口案内ロボット「あんなちゃん」実証実験開始",
-   "summary": "【NHK】佐賀市役所で、市民を目的の窓口まで連れていく案内ロボット「あんなちゃん」の実証実験が今月から始まっています。\n\n\nこの実証実験は市民からの相談が多様化する中、案内業務をロボットにも任せることで、人員が",
-   "source": "NHKニュース",
-   "type": "article",
-   "category": "adjacent",
-   "expert": false,
-   "thumbnail": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56448/20261008de56448_E0000055514_1_l.jpg",
-   "published": "2026-10-08T13:21+09:00",
    "collected": "2026-10-09T10:09+09:00"
   }
  ]
