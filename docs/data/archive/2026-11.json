@@ -13,6 +13,19 @@
   "collected": "2026-11-03T11:52+09:00"
  },
  {
+  "id": "fd8920bcab4d",
+  "url": "https://www.vietnam.vn/ja/15-robot-hinh-nguoi-trung-quoc-cham-hon-cong-nhan-2-7-lan",
+  "title": "中国製のヒューマノイドロボット15体は、人間の作業員に比べて2.7倍遅い。",
+  "summary": "中国の自動車工場で15体のヒューマノイドロボットをテストしたところ、速度には限界があることが明らかになったものの、AIを活用した製造自動化の可能性が開かれた。",
+  "source": "Vietnam.vn",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/03/1793662219643_chu-8139-png.webp",
+  "published": "2026-11-03T09:17+09:00",
+  "collected": "2026-11-03T12:41+09:00"
+ },
+ {
   "id": "ce93c4434ceb",
   "url": "https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/",
   "title": "Churchill Capital XIの株主が25億$のAgility RoboticsヒューマノイドSPACを承認",
@@ -54,7 +67,7 @@
   "thumbnail": null,
   "published": "2026-11-03T04:00+09:00",
   "collected": "2026-11-03T11:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "82dcec81c760",
@@ -113,7 +126,7 @@
   "thumbnail": null,
   "published": "2026-11-03T00:06+09:00",
   "collected": "2026-11-03T11:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "668caa4b9cee",
@@ -270,7 +283,7 @@
   "thumbnail": null,
   "published": "2026-11-02T11:02+09:00",
   "collected": "2026-11-03T11:52+09:00",
-  "_thumb_tries": 2
+  "_thumb_tries": 3
  },
  {
   "id": "f89b739398d9",
