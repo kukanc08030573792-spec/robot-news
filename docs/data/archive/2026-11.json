@@ -1,5 +1,45 @@
 [
  {
+  "id": "7716af880dc1",
+  "url": "https://robotstart.info/article/2026/11/04/382591.html",
+  "title": "【オンラインセミナー#33】NVIDIA ヒューマノイド・フィジカルAI開発基盤の全貌 GR00T、Cosmos、Isaac、Jetson Thor 最新情報",
+  "summary": "本セミナーでは、NVIDIAが提供するプラットフォームやシステムを活用してヒューマノイドやフィジカルAIを開発するプロセスの進め方、その流れと全体像を約45分間で解説。基盤モデルの活用、ロボットの学習、シミュレーション、実機への展開などを紹介します。更に、約10分間の質疑応答も予定しています。",
+  "source": "ロボスタ",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://robotstart.info/imgs/ogp_f/108864.jpg",
+  "published": "2026-11-04T10:37+09:00",
+  "collected": "2026-11-04T10:37+09:00"
+ },
+ {
+  "id": "2a3ce3ac1139",
+  "url": "https://www.smartwatchlife.jp/87075/",
+  "title": "Xiaomiロボット掃除機 S60が11月4日発売｜28,000Paの吸引と毎分15,000回振動の水拭き 早割は26,800円",
+  "summary": "シャオミ・ジャパンが11月4日に「Xiaomiロボット掃除機 S60」を発売。28,000Paの吸引と毎分最大15,000回の音波振動の水拭き、LDSレーザーのマップ作成、静音モードで最長285分の稼働に対応。市場想定価格は30,800円で、11月12日までは早割価格26,800円。",
+  "source": "Smart Watch Life",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": null,
+  "published": "2026-11-04T10:25+09:00",
+  "collected": "2026-11-04T10:37+09:00",
+  "_thumb_tries": 1
+ },
+ {
+  "id": "1f76b3dba4e6",
+  "url": "https://japan.ajunews.com/view/20261104100610372",
+  "title": "「Kポップ踊るヒューマノイド・ロボット犬」が総結集…過去最大規模の「2026ロボワールド」開幕",
+  "summary": "国内外のロボット企業402社が参加する韓国最大のロボット産業展示会「2026ロボワールド（2026 Robotworld）」が、過去最大規模で幕を開ける。今年はヒューマノイドや四足歩行ロボットなど、人工知能（AI）基盤のロボットの性能を披露すると同時に、国防・公共分野での活用可能性を模索する。",
+  "source": "亜州日報",
+  "type": "article",
+  "category": "general",
+  "expert": false,
+  "thumbnail": "https://image.ajunews.com/content/image/2026/11/04/20261104101424367030.jpg",
+  "published": "2026-11-04T10:16+09:00",
+  "collected": "2026-11-04T10:37+09:00"
+ },
+ {
   "id": "e46a872fd987",
   "url": "https://gori.me/xiaomi/172056",
   "title": "Xiaomiロボット掃除機S60が新登場。吸引力28,000Paで前モデル比2倍以上",
@@ -119,7 +159,7 @@
   "thumbnail": null,
   "published": "2026-11-03T17:05+09:00",
   "collected": "2026-11-04T10:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "6af2348c98f0",
@@ -133,7 +173,7 @@
   "thumbnail": null,
   "published": "2026-11-03T13:35+09:00",
   "collected": "2026-11-04T10:13+09:00",
-  "_thumb_tries": 1
+  "_thumb_tries": 2
  },
  {
   "id": "fc71fde461cc",
